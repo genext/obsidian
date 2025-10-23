@@ -1,0 +1,21 @@
+{
+  "name": "imgs/app/genext/w_8RmawuZ9.zip",
+  "bucket": "firescript-577a2.appspot.com",
+  "generation": "1729202008474785",
+  "metageneration": "3",
+  "contentType": "application/x-zip-compressed",
+  "timeCreated": "2024-10-17T21:53:28.518Z",
+  "updated": "2025-02-12T00:17:28.619Z",
+  "storageClass": "COLDLINE",
+  "size": "6755682",
+  "md5Hash": "JLRl64NO0dn8nvDYCKDZMw==",
+  "contentEncoding": "identity",
+  "contentDisposition": "inline; filename*=utf-8''w_8RmawuZ9.zip",
+  "crc32c": "0DDzyg==",
+  "etag": "CKGJ17uzlokDEAM=",
+  "downloadTokens": "5808ee96-39df-428b-9099-c8207c947a5c",
+  "metadata": {
+    "file-type": "application/x-zip-compressed",
+    "file-name": "cbdc-backend-feature-vcdevelop-sooho.zip"
+  }
+}

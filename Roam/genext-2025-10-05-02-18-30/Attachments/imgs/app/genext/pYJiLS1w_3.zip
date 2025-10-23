@@ -1,0 +1,21 @@
+{
+  "name": "imgs/app/genext/pYJiLS1w_3.zip",
+  "bucket": "firescript-577a2.appspot.com",
+  "generation": "1721380344722685",
+  "metageneration": "6",
+  "contentType": "application/x-zip-compressed",
+  "timeCreated": "2024-07-19T09:12:24.787Z",
+  "updated": "2025-03-17T20:04:05.596Z",
+  "storageClass": "COLDLINE",
+  "size": "4295474",
+  "md5Hash": "3BZSrZAH5XSH0rSeNF0UTw==",
+  "contentEncoding": "identity",
+  "contentDisposition": "inline; filename*=utf-8''pYJiLS1w_3.zip",
+  "crc32c": "bIB71g==",
+  "etag": "CP3p4b/hsocDEAY=",
+  "downloadTokens": "7ff8baf1-73f7-41ac-92b0-2687282a6e07",
+  "metadata": {
+    "file-type": "application/x-zip-compressed",
+    "file-name": "cbdc-backend-develop.zip"
+  }
+}

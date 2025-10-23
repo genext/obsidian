@@ -1,0 +1,13 @@
+{
+  "vimMode": true,
+  "newFileLocation": "root",
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "showLineNumber": true,
+  "readableLineLength": true,
+  "propertiesInDocument": "visible",
+  "foldHeading": true,
+  "showIndentGuide": true,
+  "useMarkdownLinks": false,
+  "attachmentFolderPath": "100. media"
+}

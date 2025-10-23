@@ -1,0 +1,35 @@
+{
+  "workspace:new-tab": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "T"
+    }
+  ],
+  "app:delete-file": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "D"
+    }
+  ],
+  "editor:insert-footnote": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "A"
+    }
+  ],
+  "editor:delete-paragraph": [],
+  "insert-template": [
+    {
+      "modifiers": [
+        "Meta"
+      ],
+      "key": "T"
+    }
+  ]
+}

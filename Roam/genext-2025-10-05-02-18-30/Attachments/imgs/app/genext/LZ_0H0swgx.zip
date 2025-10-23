@@ -1,0 +1,21 @@
+{
+  "name": "imgs/app/genext/LZ_0H0swgx.zip",
+  "bucket": "firescript-577a2.appspot.com",
+  "generation": "1710230124170477",
+  "metageneration": "5",
+  "contentType": "application/x-zip-compressed",
+  "timeCreated": "2024-03-12T07:55:24.218Z",
+  "updated": "2025-07-07T16:17:25.721Z",
+  "storageClass": "ARCHIVE",
+  "size": "26793262",
+  "md5Hash": "INcqi3maeNvgKc9/aJvdcw==",
+  "contentEncoding": "identity",
+  "contentDisposition": "inline; filename*=utf-8''LZ_0H0swgx.zip",
+  "crc32c": "jWcpjw==",
+  "etag": "CO2ZpNif7oQDEAU=",
+  "downloadTokens": "166c3da3-7c48-4126-ba9d-978a774af00d",
+  "metadata": {
+    "file-type": "application/x-zip-compressed",
+    "file-name": "rust-book.zip"
+  }
+}

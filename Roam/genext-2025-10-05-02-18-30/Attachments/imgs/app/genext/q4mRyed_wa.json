@@ -1,0 +1,21 @@
+{
+  "name": "imgs/app/genext/q4mRyed_wa.json",
+  "bucket": "firescript-577a2.appspot.com",
+  "generation": "1729552657079417",
+  "metageneration": "3",
+  "contentType": "application/json",
+  "timeCreated": "2024-10-21T23:17:37.121Z",
+  "updated": "2025-01-20T18:26:13.768Z",
+  "storageClass": "COLDLINE",
+  "size": "223815",
+  "md5Hash": "3DDPT4Xj+gRfu4t139FExg==",
+  "contentEncoding": "identity",
+  "contentDisposition": "inline; filename*=utf-8''q4mRyed_wa.json",
+  "crc32c": "G2XkQQ==",
+  "etag": "CPm4+93NoIkDEAM=",
+  "downloadTokens": "845f7253-f033-4d15-88cc-f19e7f9cc44a",
+  "metadata": {
+    "file-type": "application/json",
+    "file-name": "wallet-sdk-demo test scenario (suho).postman_collection.json"
+  }
+}

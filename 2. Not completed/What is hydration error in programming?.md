@@ -1,0 +1,1 @@
+**Hydration in programming** refers to the process of taking "dry" static HTML (like dried flowers) and adding interactivity to it (like adding water to bring them back to life). This happens when a JavaScript framework takes over a server-rendered HTML page and makes it interactive.
