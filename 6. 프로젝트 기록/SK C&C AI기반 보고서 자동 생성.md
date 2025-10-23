@@ -1051,7 +1051,7 @@ export async function processStreamPublic(
 PINECONE_ENVIRONMENT=asia-southeast1-gcp-free
 PINECONE_API_KEY=...
 PINECONE_INDEX=prototype
-MONGODB_URI=mongodb+srv://gai:gai1234@zoona.zcdwncl.mongodb.net/test
+MONGODB_URI=mongodb+srv://xxx:xxxx@zoona.zcdwncl.mongodb.net/test
 # COMMON_BACKEND_URL=http://127.0.0.1:8000
 COMMON_BACKEND_URL=http://20.127.36.48:8001
 # COMMON_BACKEND_URL=http://10.250.124.188:8000
@@ -7862,7 +7862,7 @@ function decrypt(text) {
 }
 const readExcelAndSaveToDB = async (filePath) => {
   mongoose
-    .connect('mongodb+srv://gai:gai1234@zoona.zcdwncl.mongodb.net/test', {
+    .connect('mongodb+srv://xxx:xxxx@zoona.zcdwncl.mongodb.net/test', {
       useNewUrlParser: true,
       useUnifiedTopology: true,
     })
