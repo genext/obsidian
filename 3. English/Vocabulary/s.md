@@ -13,7 +13,7 @@ snitch ![[4F713FD10224C90213.mp3]]  ![[4F7119760270690192.mp3]]
 Somebody snitched on me.
 ![[speech_20251021030253245.mp3]]
 ![[speech_20251021030320468.mp3]]
-<!--SR:!2025-10-24,3,260-->
+<!--SR:!2025-11-02,9,260-->
 -
 
 sentinel ![[100. media/audio/h6WF3vnQ.mp3]] ![[100. media/audio/rmW7Yduq.mp3]]
@@ -23,7 +23,7 @@ sentry![[100. media/audio/IXK7vvez.mp3]]
 ![[100. media/image/1gv0Gj3s.png|200]]
 
 The palace sentry stood at attention, rifle in hand, guarding the main entrance.![[100. media/audio/gBIw2Y5p.mp3]]
-<!--SR:!2025-10-24,7,250-->
+<!--SR:!2025-11-12,19,250-->
 -
 
 
@@ -77,9 +77,9 @@ scutwork ![[100. media/audio/387.mp3]] ![[100. media/audio/1571.mp3]]
 tedious, menial work, , especially in the context of routine, non-technical tasks often delegated to junior staff or interns. This term is frequently used in the medical field, particularly in reference to mundane tasks assigned to residents or interns.
 
 **Synonyms:** Drudgery, menial labor, grunt work, busywork.
-~, though often seen as unimportant, can be essential for the smooth running of a hospital.
-Many professionals in their early career stages find themselves bogged down with ~, which they hope to delegate as they gain seniority.
-Although he was an experienced engineer, he occasionally had to deal with ~ like data entry and document formatting.
+![[100. media/audio/4911.mp3]]~, though often seen as unimportant, can be essential for the smooth running of a hospital.
+![[100. media/audio/2062.mp3]]Many professionals in their early career stages find themselves bogged down with ~, which they hope to delegate as they gain seniority.
+![[100. media/audio/4080.mp3]]Although he was an experienced engineer, he occasionally had to deal with ~ like data entry and document formatting.
 <!--SR:!2025-10-27,4,281-->
 -
 
@@ -87,15 +87,15 @@ singular ![[100. media/audio/7501.mp3]] ![[100. media/audio/9817.mp3]] ![[100. m
 ?
 a ~ noun, verb, form etc is used when writing or speaking about one person or thing → plural
 
-the ~ form of the noun
-If the subject is ~, use a singular verb.
+![[100. media/audio/9161.mp3]]the ~ form of the noun
+![[100. media/audio/8612.mp3]]If the subject is ~, use a singular verb.
 
 very great or very noticeable
-He showed a ~ lack of tact in the way he handled the situation.
-a ~ achievement
+![[100. media/audio/6760.mp3]]He showed a ~ lack of tact in the way he handled the situation.
+![[100. media/audio/11494.mp3]]a ~ achievement
 
 very unusual or strange
-I wondered why she was behaving in so ~ a fashion.
+![[100. media/audio/11548.mp3]]I wondered why she was behaving in so ~ a fashion.
 <!--SR:!2025-10-26,3,259-->
 -
 
@@ -109,7 +109,7 @@ subversive ![[100. media/audio/11252.mp3]] ![[100. media/audio/9457.mp3]] ![[100
 <!--SR:!2025-10-27,4,280-->
 -
 
-sulk
+sulk ![[100. media/audio/11432.mp3]] ![[100. media/audio/3391.mp3]] ![[100. media/audio/6543.mp3]] ![[100. media/audio/995.mp3]]
 ?
 to be silently angry and refuse to be friendly or discuss what is annoying or upsetting you – used to show disapproval
 ![[100. media/image/7750.jpg|200]]
@@ -125,9 +125,9 @@ sulky ![[100. media/audio/7569.mp3]] ![[100. media/audio/10389.mp3]] ![[100. med
 tending to sulk
 ![[100. media/image/2050.jpg|200]]
 
-a sulky child
-He put on a sulky expression.
-Katherine sat in a sulky silence.
+![[100. media/audio/8930.mp3]]a sulky child
+![[100. media/audio/12775.mp3]]He put on a sulky expression.
+![[100. media/audio/6428.mp3]]Katherine sat in a sulky silence.
 <!--SR:!2025-10-27,4,279-->
 -
 

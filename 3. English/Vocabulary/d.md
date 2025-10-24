@@ -5,7 +5,7 @@ completely dry
 desiccated food has been dried in order to preserve it
 
 Being completely ~, this particular shit didn't have bacteria in it anymore.![[100. media/audio/ejdhC9cT.mp3]]
-<!--SR:!2025-10-24,7,250-->
+<!--SR:!2025-11-17,24,270-->
 -
 
 dunk
@@ -19,7 +19,7 @@ deeper, more complete, forceful than dip
   to criticize or embarrass someone
   React is a great framework, and I’m not here to dunk on it. ![[100. media/audio/s8ho-sxaTi.mp3]] ![[100. media/audio/drHs3TssQA.mp3]]
   to push someone under water for a short time as a joke **SYN** duck
-<!--SR:!2025-10-24,7,250-->
+<!--SR:!2025-11-11,18,250-->
 -
 
 di**a**meter
@@ -42,12 +42,13 @@ the worry, disappointment, or unhappiness you feel when something unpleasant h
 dehydrate ![[100. media/audio/9804.mp3]] ![[100. media/audio/2469.mp3]] ![[100. media/audio/10835.mp3]] ![[100. media/audio/7366.mp3]]
 ?
 to remove the liquid from a substance such as food or a chemical → rehydrate, hydrate
+![[100. media/image/10166.jpg|200]]
 
 SYN parch, wither, drain
 
-The substance is ~ed and stored as powder.
-Alcohol ~s the body.
-Athletes need to be careful not to ~ during the game.
+![[100. media/audio/5405.mp3]]The substance is ~ed and stored as powder.
+![[100. media/audio/12758.mp3]]Alcohol ~s the body.
+![[100. media/audio/6544.mp3]]Athletes need to be careful not to ~ during the game.
 <!--SR:!2025-10-27,4,277-->
 -
 
@@ -62,7 +63,7 @@ In ancient Greek religion and mythology, _D~_ is the Olympian goddess of the har
 <!--SR:!2025-10-27,4,280-->
 -
 
-designate
+designate ![[100. media/audio/2931.mp3]] ![[100. media/audio/3573.mp3]] ![[100. media/audio/5705.mp3]] ![[100. media/audio/1013.mp3]]
 ?
 ![[100. media/image/60.jpg|200]]
 to choose someone or something for a particular job or purpose
@@ -75,7 +76,7 @@ to represent or refer to something using a particular sign, name etc  ![[100. m
 <!--SR:!2025-10-27,4,277-->
 -
 
-devolve
+devolve ![[100. media/audio/5499.mp3]] ![[100. media/audio/6159.mp3]] ![[100. media/audio/12946.mp3]] ![[100. media/audio/1939.mp3]]
 ?
 if you ~ responsibility, power etc to a person or group at a lower level, or if it ~s on them, it is given to them
 
@@ -102,7 +103,7 @@ a secret that someone tells people, or the act of telling this secret
 <!--SR:!2025-10-27,4,274-->
 -
 
-dislodge
+dislodge ![[100. media/audio/10677.mp3]] ![[100. media/audio/8248.mp3]] ![[100. media/audio/1648.mp3]] ![[100. media/audio/10615.mp3]]
 ?
 to force or knock something out of its position
 ![[100. media/image/10138.jpg|200]]
@@ -118,20 +119,20 @@ to force or knock something out of its position
 dyslexia ![[100. media/audio/3356.mp3]] ![[100. media/audio/3331.mp3]] ![[100. media/audio/1560.mp3]] ![[100. media/audio/6018.mp3]]
 ?
 난독증, 독서 장애
-Two of the children in the class are dyslexic.
+![[100. media/audio/10293.mp3]]Two of the children in the class are dyslexic.
 <!--SR:!2025-10-27,4,280-->
 -
 
-doth![[100. media/audio/2076.mp3]]![[100. media/audio/12220.mp3]]
+doth ![[100. media/audio/2076.mp3]] ![[100. media/audio/12220.mp3]]
 ?
 old use a form of "does"
 
-The lady doth protest too much ![[100. media/audio/2076.mp3]] ![[100. media/audio/12220.mp3]]
+The lady doth protest too much ![[100. media/audio/3973.mp3]] ![[100. media/audio/8482.mp3]]
 ![[100. media/image/2242.jpg|200]]
 "**The lady ~ too much, methinks**"
 
 The phrase is used in everyday speech to indicate doubt of someone's sincerity, especially regarding the truth of a strong denial.
-<!--SR:!2025-10-24,1,240-->
+<!--SR:!2025-10-26,2,240-->
   
 -
 #Vocabulary

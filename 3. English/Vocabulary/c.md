@@ -32,7 +32,7 @@ London’s roads are heavily congested
 
 -
 
-commensurate
+commensurate ![[100. media/audio/8561.mp3]] ![[100. media/audio/8985.mp3]] ![[100. media/audio/2780.mp3]] ![[100. media/audio/8811.mp3]]
 ?
 ![[100. media/image/8935.jpg|200]]
 matching something in size, quality, or length of time
@@ -54,7 +54,7 @@ We went north in order to circumvent the mountains.
 <!--SR:!2025-10-25,3,251-->
 -
 
-chromosome
+chromosome ![[100. media/audio/2019.mp3]] ![[100. media/audio/1862.mp3]] ![[100. media/audio/1163.mp3]] ![[100. media/audio/12664.mp3]]
 ?
 ![[100. media/image/11460.jpg|200]]
 
@@ -82,7 +82,7 @@ literary to drink a lot, be noisy, and have fun
 <!--SR:!2025-10-27,4,271-->
 -
 
-carousel
+carousel ![[100. media/audio/6531.mp3]] ![[100. media/audio/6219.mp3]] ![[100. media/audio/12481.mp3]] ![[100. media/audio/11800.mp3]]
 ?
 ![[100. media/image/1896.jpg|200]]
 especially American English a machine with wooden horses on it that turns around and around, which people can ride on for fun
@@ -112,10 +112,10 @@ something that is the direct result of something else
 
 Is social inequality the inevitable corollary of economic freedom?
 ![[100. media/audio/speech_20251015092304731.mp3]] ![[100. media/audio/speech_20251015092339643.mp3]]
-<!--SR:!2025-10-24,3,250-->
+<!--SR:!2025-10-26,2,230-->
 -
 
-cohort
+cohort ![[100. media/audio/6463.mp3]] ![[100. media/audio/11706.mp3]] ![[100. media/audio/7398.mp3]] ![[100. media/audio/170.mp3]]
 ?
 ![[100. media/image/10959.jpg|200]]
 
@@ -128,19 +128,20 @@ cohort
 conf**o**und ![[100. media/audio/9066.mp3]] ![[100. media/audio/4470.mp3]] ![[100. media/audio/7868.mp3]] ![[100. media/audio/6023.mp3]]
 ?
 to prove someone or something wrong
+![[100. media/image/4533.jpg|200]]
 
-United’s new striker confounded the critics with his third goal in as many games.
+![[100. media/audio/4194.mp3]]United’s new striker confounded the critics with his third goal in as many games.
 
 if a problem etc confounds you, you cannot understand it or solve it
 Cf. baffle
-Her question completely confounded me.
+![[100. media/audio/9729.mp3]]Her question completely confounded me.
 
 to confuse and surprise people by being unexpected
-His amazing recovery confounded the medical specialists.
+![[100. media/audio/12913.mp3]]His amazing recovery confounded the medical specialists.
 <!--SR:!2025-10-27,4,273-->
 -
 
-confluence
+confluence ![[100. media/audio/5521.mp3]] ![[100. media/audio/12425.mp3]] ![[100. media/audio/3657.mp3]] ![[100. media/audio/12447.mp3]]
 ?
 the junction where two or more rivers merge. It can also be used metaphorically to describe a situation where two or more things, such as ideas, trends, or cultures, come together.![[100. media/image/4586.jpg|200]]
 **Synonyms:** Junction, convergence, union, meeting, intersection.
@@ -155,7 +156,8 @@ the junction where two or more rivers merge. It can also be used metaphorically 
 courtly ![[100. media/audio/7890.mp3]] ![[100. media/audio/10876.mp3]] ![[100. media/audio/9309.mp3]] ![[100. media/audio/2635.mp3]]
 ?
 graceful and polite, _polite and formal in behaviour_
-a tall man with ~ manners
+![[100. media/image/4997.jpg|200]]
+![[100. media/audio/10291.mp3]]a tall man with ~ manners
 <!--SR:!2025-10-27,4,273-->
 -
 

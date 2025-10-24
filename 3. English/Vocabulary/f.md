@@ -26,20 +26,22 @@ if people ~to a place, they go there in large numbers because something interest
 
 felicitous ![[100. media/audio/985.mp3]] ![[100. media/audio/10990.mp3]] ![[100. media/audio/8797.mp3]] ![[100. media/audio/1866.mp3]]
 ?
-1\. well-chosen and suitable OPP in~
+1. well-chosen and suitable OPP in~
 **Synonyms: apt, appropriate, suitable**
+![[100. media/image/9222.jpg|200]]
+![[100. media/audio/502.mp3]]a ~ choice of candidate
 
-2. Marked by good fortune; fortunate.
+2. Marked by good fortune; fortunate.
 **Synonyms:** fortunate, lucky, happy.
 
-The couple's ~ union was celebrated by all their friends and family.
-It was a ~ coincidence that brought them together at the right place and time.
+![[100. media/audio/8974.mp3]]The couple's ~ union was celebrated by all their friends and family.
+![[100. media/audio/2590.mp3]]It was a ~ coincidence that brought them together at the right place and time.
 
 **Etymology:**Derived from the Latin word "felicitas," meaning "happiness," "luck," or "fruitfulness," which in turn is derived from "felix," meaning "happy" or "lucky." The suffix "-ous" in English is used to form adjectives meaning "full of" or "having the quality of."
 <!--SR:!2025-10-26,3,261-->
 -
 
-fiat
+fiat ![[100. media/audio/10935.mp3]] ![[100. media/audio/8791.mp3]] ![[100. media/audio/6035.mp3]] ![[100. media/audio/9295.mp3]]
 ?
 ![[100. media/image/9470.jpg|200]]
 an official order given by someone in a position of authority, without considering what other people want
@@ -71,7 +73,7 @@ Cf. herd는 주로 군집생활을 하는 동물의 떼.
 <!--SR:!2025-10-27,4,279-->
 -
 
-flutter
+flutter ![[100. media/audio/10635.mp3]] ![[100. media/audio/4123.mp3]] ![[100. media/audio/8432.mp3]] ![[100. media/audio/3934.mp3]]
 ?
 ![[100. media/image/2734.jpg|200]]
 ![[100. media/audio/6355.mp3]]If your heart or your stomach ~s, you feel very excited or nervous

@@ -6,7 +6,7 @@ expressing an opinion, idea etc in a clear, strong way to show its importance
 an emphatic denial![[100. media/audio/zSEPb4Cv.mp3]]
 
 win an emphatic victory![[100. media/audio/Rgs35ZpS.mp3]]
-<!--SR:!2025-10-24,7,250-->
+<!--SR:!2025-11-12,19,250-->
 -
 
 efficacy ![[100. media/audio/2gPHQ8cexL.mp3]] ![[100. media/audio/aiQpS85ME8.mp3]]
@@ -16,7 +16,7 @@ efficacy ![[100. media/audio/2gPHQ8cexL.mp3]] ![[100. media/audio/aiQpS85ME8.mp3
   The vaccine has 95% efficacy against the virus ![[100. media/audio/HOvHn9Ejee.mp3]] ![[100. media/audio/z2Ig_nZddd.mp3]]
 
   They're studying the efficacy of solar panels in cold climates ![[100. media/audio/SGtKb9v9ly.mp3]] ![[100. media/audio/lG4H1KOAfp.mp3]]
-<!--SR:!2025-10-24,7,250-->
+<!--SR:!2025-11-10,17,250-->
 -
 
 eligible ![[100. media/audio/3004.mp3]] ![[100. media/audio/4983.mp3]] ![[100. media/audio/9270.mp3]] ![[100. media/audio/1612.mp3]]
@@ -69,13 +69,14 @@ ethno-, ethnic ![[100. media/audio/KBbhpyCp2-.mp3]] ![[100. media/audio/m9yssioB
 endeavour ![[100. media/audio/5358.mp3]] ![[100. media/audio/3862.mp3]] ![[100. media/audio/6808.mp3]] ![[100. media/audio/3501.mp3]]
 ?
 formal to try very hard
+![[100. media/image/4257.jpg|200]]
 
-We always ~ to please our customers.
+![[100. media/audio/8062.mp3]]We always ~ to please our customers.
 
 formal an [attempt](https://www.ldoceonline.com/dictionary/attempt) to do something new or difficult
-an outstanding example of human ~
-They made every ~ to find the two boys.
-Despite our best ~, we couldn’t start the car.
+![[100. media/audio/11516.mp3]]an outstanding example of human ~
+![[100. media/audio/11542.mp3]]They made every ~ to find the two boys.
+![[100. media/audio/11400.mp3]]Despite our best ~, we couldn’t start the car.
 <!--SR:!2025-10-26,3,255-->
 -
 

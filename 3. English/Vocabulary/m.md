@@ -30,7 +30,7 @@ mangle ![[100. media/audio/2665.mp3]] ![[100. media/audio/7179.mp3]] ![[100. med
 mondo ![[100. media/audio/10930.mp3]] ![[100. media/audio/11502.mp3]]
 ?
 An informal term, often used in slang, meaning extreme or large in size, scope, or impact.
- In certain contexts, "~" refers to a genre of films that depict sensationalized and often shocking content, characterized by documentary-style footage
+ In certain contexts, "~" refers to a genre of films that.![[100. media/image/9282.jpg|200]] depict sensationalized and often shocking content, characterized by documentary-style footage
 
 **Synonyms:
 **Adjective: Huge, enormous, extreme, outlandish, bizarre
@@ -46,18 +46,18 @@ Noun: Shockumentary, exploitation film, sensational film
 
 moot ![[100. media/audio/8963.mp3]] ![[100. media/audio/10114.mp3]]
 ?
-a ~ point/question
-something that has not yet been decided or agreed, and about which people have different opinions
+![[100. media/audio/6275.mp3]]a ~ point/question
+![[100. media/audio/3459.mp3]]something that has not yet been decided or agreed, and about which people have different opinions
 
-Whether these controls will really reduce violent crime is a ~ point.
+![[100. media/audio/8308.mp3]]Whether these controls will really reduce violent crime is a ~ point.
 
-American English, a situation or possible action that is ~ is no longer likely to happen or exist
-The fear that airstrikes could endanger troops is moot now that the army is withdrawing.
+![[100. media/audio/1606.mp3]]American English, a situation or possible action that is ~ is no longer likely to happen or exist
+![[100. media/audio/3426.mp3]]The fear that airstrikes could endanger troops is moot now that the army is withdrawing.
 
-be ~ed
-to be suggested for people to consider. SYN put forward
-The question of changing the membership rules was mooted at the last meeting.
-<!--SR:!2025-10-24,1,239-->
+![[100. media/audio/10337.mp3]]be ~ed
+![[100. media/audio/9590.mp3]]to be suggested for people to consider. SYN put forward
+![[100. media/audio/7889.mp3]]The question of changing the membership rules was mooted at the last meeting.
+<!--SR:!2025-10-26,2,239-->
 -
 
 move heaven and earth

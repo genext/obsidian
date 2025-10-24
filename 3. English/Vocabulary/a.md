@@ -5,7 +5,7 @@ nucleus accumbens(측좌핵) 보상, 동기 부여, 쾌락 및 중독과 관련�
 
 An orgasm is produced when a build-up of dopamine is released suddenly to activate the nucleus accumbens and produce intense feelings of pleasure.
 ![[100. media/audio/pXlWY4IoHY.mp3]] ![[100. media/audio/9xFJtr3Z-5.mp3]]
-<!--SR:!2025-10-24,7,250-->
+<!--SR:!2025-10-28,4,230-->
 -
 
 apprise ![[100. media/audio/lCnIMS8V.mp3]] ![[100. media/audio/4ONup1lF.mp3]]
@@ -56,7 +56,7 @@ deliberately not becoming involved in something
 <!--SR:!2025-11-06,16,290-->
 -
 
-amiable
+amiable ![[100. media/audio/7259.mp3]] ![[100. media/audio/5829.mp3]] ![[100. media/audio/2875.mp3]] ![[100. media/audio/7609.mp3]]
 ?
 friendly and easy to like
 ![[100. media/image/8430.jpg|200]]
@@ -65,7 +65,7 @@ friendly and easy to like
 <!--SR:!2025-10-27,4,283-->
 -
 
-afflict
+afflict ![[100. media/audio/7302.mp3]] ![[100. media/audio/5248.mp3]] ![[100. media/audio/4629.mp3]] ![[100. media/audio/7955.mp3]]
 ?
 ![[100. media/image/6210.jpg|200]]
 
@@ -79,10 +79,11 @@ afflict
 antics ![[100. media/audio/10843.mp3]] ![[100. media/audio/5218.mp3]] ![[100. media/audio/2743.mp3]] ![[100. media/audio/4167.mp3]]
 ?
 are playful, funny, or unusual actions or behaviors. They are often attention-grabbing and can be eccentric or theatrically exaggerated.
-
-We’re all growing tired of his childish ~.
-Her ~ during the team-building exercise lightened the mood.
-The ~ of the characters in the sitcom are a major part of its appeal.
+![[100. media/image/7710.jpg|200]]![[100. media/image/5278.jpg|200]]
+**Synonyms:** Pranks, capers, tricks, shenanigans, tomfoolery.
+![[100. media/audio/1526.mp3]]We're all growing tired of his childish ~.
+![[100. media/audio/11125.mp3]]Her ~ during the team-building exercise lightened the mood.
+![[100. media/audio/566.mp3]]The ~ of the characters in the sitcom are a major part of its appeal.
 
 **Etymology:** comes from the Italian "antico," which means 'old' or 'antique.' This evolved from the idea of an antique style of art to represent playful or grotesque figures, leading to the current meaning of playful or bizarre behavior.
 <!--SR:!2025-10-26,3,261-->
@@ -91,32 +92,35 @@ The ~ of the characters in the sitcom are a major part of its appeal.
 adv**e**rse ![[100. media/audio/5768.mp3]] ![[100. media/audio/11459.mp3]] ![[100. media/audio/2320.mp3]]
 ?
 not good or favorable = hostile
- ![[Pasted image 20251022194417.png]]
-They fear it could have an ~ effect on global financial markets.
+![[100. media/image/8735.jpg|200]]
+
+![[100. media/audio/1134.mp3]]They fear it could have an ~ effect on global financial markets.![[100. media/audio/8675.mp3]]Miller's campaign has received a good deal of ~ publicity.
 
 ~ conditions
 conditions that make it difficult for something to happen or exist
-The expedition was abandoned because of adverse weather conditions.
+![[100. media/audio/4659.mp3]]The expedition was abandoned because of adverse weather conditions.
 
-developments which had adversely affected their business
+![[100. media/audio/2835.mp3]]developments which had adversely affected their business
 <!--SR:!2025-10-27,4,281-->
 -
 
 arbitrage ![[100. media/audio/4927.mp3]] ![[100. media/audio/2265.mp3]] ![[100. media/audio/2144.mp3]] ![[100. media/audio/8364.mp3]]
 ?
 the process of buying something such as raw materials or **currency** in one place and selling them immediately in another place in order to make a profit from the difference in prices
+![[100. media/image/5305.jpg|200]]
 
 SYN trading
 
-He made a significant profit through ~ by exploiting the price differences in gold between two different markets.
-~ opportunities are often quickly eliminated by the market forces as traders seek to take advantage of the price discrepancies.
-With the advent of high-speed trading, ~ has become an increasingly sophisticated and high-tech endeavor.
+![[100. media/audio/7524.mp3]]He made a significant profit through ~ by exploiting the price differences in gold between two different markets.
+![[100. media/audio/4548.mp3]]~ opportunities are often quickly eliminated by the market forces as traders seek to take advantage of the price discrepancies.
+![[100. media/audio/10281.mp3]]With the advent of high-speed trading, ~ has become an increasingly sophisticated and high-tech endeavor.
 <!--SR:!2025-10-27,4,281-->
 -
 
-artifact
+artifact ![[100. media/audio/9424.mp3]] ![[100. media/audio/3435.mp3]] ![[100. media/audio/11022.mp3]] ![[100. media/audio/1865.mp3]]
 ?
-an object such as a tool, weapon etc that was made in the past and is historically important  ![[100. media/image/7358.jpg|200]]
+an object such as a tool, weapon etc that was made in the past and is historically important
+![[100. media/image/7358.jpg|200]]
 
 ![[100. media/audio/4434.mp3]]ancient Egyptian ~s
 <!--SR:!2025-10-26,3,261-->

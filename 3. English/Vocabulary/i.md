@@ -42,18 +42,20 @@ Unable to be affected by; not allowing fluid to pass through.
 impending ![[100. media/audio/4792.mp3]] ![[100. media/audio/5537.mp3]] ![[100. media/audio/6801.mp3]] ![[100. media/audio/3999.mp3]]
 ?
 an ~ event or situation, especially an unpleasant one, is going to happen very soon. Cf. foreboding
-She had a sense of ~ disaster.
-changes in government legislation
+![[100. media/image/10786.jpg|200]]
+![[100. media/audio/11949.mp3]]She had a sense of ~ disaster.
+![[100. media/audio/69.mp3]]~ changes in government legislation
 <!--SR:!2025-10-27,4,278-->
 -
 
 interlocutor ![[100. media/audio/2100.mp3]] ![[100. media/audio/8769.mp3]] ![[100. media/audio/4065.mp3]] ![[100. media/audio/1586.mp3]]
 ?
 your ~ is the person you are speaking to
+![[100. media/image/12766.jpg|200]]
 <!--SR:!2025-10-27,4,276-->  
 -
 
-intrinsic
+intrinsic ![[100. media/audio/8276.mp3]] ![[100. media/audio/5236.mp3]] ![[100. media/audio/166.mp3]]
 ?
 being part of the nature or character of someone or something
 ![[100. media/image/2261.jpg|200]]

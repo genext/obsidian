@@ -2,7 +2,7 @@ rationale ![[100. media/audio/4F713C570355640171.mp3]] ![[100. media/audio/4F711
 ?
 Can you explain the rationale behind your decision?
 ![[100. media/audio/speech_20251014081925676.mp3]] ![[100. media/audio/speech_20251014081959271.mp3]]
-<!--SR:!2025-10-24,7,250-->
+<!--SR:!2025-10-28,4,230-->
 -
 
 ravage ![[4F713C5B057C1A0150.mp3]]  ![[4F71160F011B080104.mp3]]
@@ -36,7 +36,7 @@ within the ~s of possibility
 <!--SR:!2025-11-05,15,290-->
 -
 
-rampant
+rampant ![[100. media/audio/1425.mp3]] ![[100. media/audio/314.mp3]] ![[100. media/audio/8498.mp3]] ![[100. media/audio/5107.mp3]]
 ?
 if something bad, such as crime or disease, is ~, there is a lot of it and it is very difficult to control → rife, widespread
 ![[100. media/image/2811.jpg|200]]
@@ -49,7 +49,7 @@ if something bad, such as crime or disease, is ~, there is a lot of it and it 
 <!--SR:!2025-10-26,3,254-->
 -
 
-res**i**lient
+res**i**lient ![[100. media/audio/8745.mp3]] ![[100. media/audio/1917.mp3]]
 ![[100. media/audio/1361.mp3]] ![[100. media/audio/11113.mp3]]
 ?
 ![[100. media/image/4335.jpg|200]]
@@ -63,8 +63,8 @@ reservation ![[100. media/audio/571.mp3]] ![[100. media/audio/238.mp3]] ![[100. 
 ?
 with ~:
 a feeling of doubt because you do not agree completely with a plan, idea, or suggestion
-I had serious ~s about his appointment as captain.
-We condemn their actions without ~ (=completely).
+![[100. media/audio/12333.mp3]]I had serious ~s about his appointment as captain.
+![[100. media/audio/672.mp3]]We condemn their actions without ~ (=completely).
 <!--SR:!2025-10-26,3,254-->
 -
 

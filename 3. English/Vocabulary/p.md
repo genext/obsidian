@@ -71,27 +71,29 @@ one of the most important supporters of a social or political idea
 permeate ![[100. media/audio/10242.mp3]] ![[100. media/audio/2859.mp3]] ![[100. media/audio/12711.mp3]] ![[100. media/audio/1839.mp3]]
 ?
 if liquid, gas etc ~s something, it enters it and spreads through every part of it
-The smell of diesel oil ~ed the air.
-Rain ~s through the ground to add to ground water levels.
+![[100. media/image/3193.png|200]]
+![[100. media/audio/1632.mp3]]The smell of diesel oil ~ed the air.
+![[100. media/audio/7025.mp3]]Rain ~s through the ground to add to ground water levels.
 
  if ideas, beliefs, emotions etc ~ something, they are present in every part of it
-Racism continues to ~ our society.
-An emotional intensity ~s every one of O'Connor’s songs.
+![[100. media/audio/8523.mp3]]Racism continues to ~ our society.
+![[100. media/audio/1682.mp3]]An emotional intensity ~s every one of O'Connor’s songs.
 <!--SR:!2025-10-26,3,266-->
 -
 
 pr**e**decessor ![[100. media/audio/8965.mp3]] ![[100. media/audio/4623.mp3]] ![[100. media/audio/1671.mp3]] ![[100. media/audio/11842.mp3]]
 ?
+![[100. media/image/6793.jpg|200]]
 someone who had your job before you started doing it OPP successor
 
-Kennedy’s ~ as president was the war hero Dwight Eisenhower.
+![[100. media/audio/5568.mp3]]Kennedy’s ~ as president was the war hero Dwight Eisenhower.
 
 a machine, system etc that existed before another one in a process of development
-The new BMW has a more powerful engine than its ~.
+![[100. media/audio/11403.mp3]]The new BMW has a more powerful engine than its ~.
 <!--SR:!2025-10-27,4,286-->
 -
 
-puberty
+puberty ![[100. media/audio/4045.mp3]] ![[100. media/audio/11878.mp3]] ![[100. media/audio/10499.mp3]] ![[100. media/audio/12159.mp3]]
 ?
 the stage of physical development during which you change from a child to an adult and are able to have children  ![[100. media/image/1931.jpg|200]]
 

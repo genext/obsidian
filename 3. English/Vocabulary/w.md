@@ -1,4 +1,4 @@
-wary
+wary ![[100. media/audio/10008.mp3]] ![[100. media/audio/4606.mp3]] ![[100. media/audio/6070.mp3]] ![[100. media/audio/12842.mp3]]
 ?
 someone who is ~ is careful because they think something might be dangerous or harmful
 ![[100. media/image/5229.jpg|200]]
@@ -15,12 +15,15 @@ whop,whup ![[100. media/audio/10630.mp3]] ![[100. media/audio/3564.mp3]] ![[100.
 to hit someone and hurt them very badly, especially using something such as a belt
 either literally or metaphorically.
 
+![[100. media/image/256.jpg|200]]
+
 informal especially American English
 to defeat someone easily in a sport or fight SYN: trounce
 
+
 I’m gonna ~ your ass (=defeat you very easily).
 
-Our team got ~ped 10-0 in last night's game.
+![[100. media/audio/1573.mp3]]Our team got ~ped 10-0 in last night's game.
 <!--SR:!2025-10-26,3,250-->
 -
 

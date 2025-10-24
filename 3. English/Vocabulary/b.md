@@ -1,4 +1,4 @@
-bustle 
+bustle ![[100. media/audio/4421.mp3]] ![[100. media/audio/10697.mp3]] ![[100. media/audio/12557.mp3]] ![[100. media/audio/5961.mp3]]
 ?
 to move around quickly, looking very busy  
 ![[100. media/image/7691.jpg|200]]  
@@ -55,7 +55,7 @@ something that is very useful and makes your life a lot easier or better
 <!--SR:!2025-10-26,3,264-->
 -
 
-brunet ![[100. media/audio/9423.mp3]] ![[100. media/audio/1371.mp3]]
+brunet ![[100. media/audio/8020.mp3]] ![[100. media/audio/12504.mp3]]
 ?
 ![[100. media/image/11821.jpg|200]]
 a man with dark brown hair

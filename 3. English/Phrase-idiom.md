@@ -14,7 +14,7 @@ That's more of a trade-off than clear superiority.
 ?
 ![[100. media/audio/NrK84qx8.mp3]]
 ![[100. media/audio/XWwoZfYy.mp3]]
-<!--SR:!2025-10-24,7,250-->
+<!--SR:!2025-11-10,17,250-->
 -
 
 in action
@@ -36,7 +36,7 @@ Theory in action 이론의 실제 적용/실제로 적용된 이론
 ![[100. media/audio/pqiJYL4b.mp3]]
 Learning in action 체험학습
 ![[100. media/audio/g0ldSjmj.mp3]]
-<!--SR:!2025-10-24,7,250-->
+<!--SR:!2025-10-28,4,230-->
 -
 
 사람들은 처음부터 계획대로 되는 일이 없다고 말한다
@@ -78,7 +78,7 @@ What's your viewpoint on this?
 Both are correct, so use whichever feels more natural in your context.
 
 Standpoint?
-<!--SR:!2025-10-24,7,250-->
+<!--SR:!2025-11-10,17,250-->
 -
 
 more than anything, nothing more
@@ -104,7 +104,7 @@ This content is an epsilon away from watching the Bachelorette"
 ![[100. media/audio/5pyMawPv.mp3]]
 This is infinitesimally close to watching Bachelorette.
 This might as well be the Bachelorette.
-<!--SR:!2025-10-24,7,250-->
+<!--SR:!2025-11-12,19,250-->
 -
 
 Each major feature is detailed in its own dedicated section.
@@ -138,7 +138,7 @@ My English is rusty, so I'm **brushing up on** grammar and vocabulary.
 ![[100. media/audio/mg12Se-JVw.mp3]] ![[100. media/audio/y-qdpnU6ee.mp3]]
 She's **brushing up on** her math skills for the exam.
 ![[100. media/audio/0jTVZ9SHNs.mp3]] ![[100. media/audio/EbroOL3XJS.mp3]]
-<!--SR:!2025-10-24,7,250-->
+<!--SR:!2025-10-28,4,230-->
 -
 
 sniff out ~
@@ -155,7 +155,7 @@ stand[turn] ... on its head
 뒤엎다, 뒤집다, 정반대 결과를 보이다
 The researchers also discovered that the contraceptive Pill, which hormonally emulates a perpetual state of pregnancy and thereby renders the woman temporarily infertile, turned **these results on their head.**
 ![[100. media/audio/5PaquGcZxC.mp3]] ![[100. media/audio/_t3EUQaMb9.mp3]]
-<!--SR:!2025-10-24,7,250-->
+<!--SR:!2025-10-28,4,230-->
 -
 
 come off
@@ -202,7 +202,7 @@ idiomatic expression "make [something] of [something]."
 "Take what you will from this experience" (= take whatever you choose from it)
 make something of oneself 입신출세[성공]하다.
 make an ass of oneself 어리석은 짓을 하다.
-<!--SR:!2025-10-24,7,250-->
+<!--SR:!2025-10-28,4,230-->
 -
 
 not(never) so much ~ as + verb
@@ -218,7 +218,7 @@ I waited all day for a call, but he didn't so much as send a text. ![[100. media
 She finished the entire marathon without so much as breaking a sweat. ![[100. media/audio/gtEVZDI8m2.mp3]]
 He left the meeting without so much as a goodbye, clearly upset by the decision. ![[100. media/audio/jXnNEQpM_A.mp3]]
 The student finished the test not so much as making a single error. ![[100. media/audio/bQNimL-393.mp3]]
-<!--SR:!2025-10-24,7,250-->
+<!--SR:!2025-11-11,18,250-->
 -
 not so much ~ as + adjective, noun
 ?
@@ -298,7 +298,7 @@ My coworker found out I left early yesterday, and she ratted me out to the boss.
 formal
 The witness informed on the suspect to the police, providing crucial evidence for the investigation.
 ![[speech_20251021030514534.mp3]]
-<!--SR:!2025-10-24,3,250-->
+<!--SR:!2025-10-31,7,250-->
 -
 
 edge on

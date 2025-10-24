@@ -31,7 +31,7 @@ olfactory ![[100. media/audio/9aP7d6OQNQ.mp3]] ![[100. media/audio/wGDwgVWmZb.mp
 <!--SR:!2025-10-26,9,250-->
 -
 
-offset
+offset ![[100. media/audio/135.mp3]] ![[100. media/audio/5896.mp3]] ![[100. media/audio/11332.mp3]] ![[100. media/audio/4385.mp3]]
 ?
 ![[100. media/image/9580.jpg|200]]
  if the cost or amount of something ~s another cost or amount, the two things have an opposite effect so that the situation remains the same
@@ -46,23 +46,23 @@ offset
 outright ![[100. media/audio/3551.mp3]] ![[100. media/audio/7959.mp3]] ![[100. media/audio/351.mp3]] ![[100. media/audio/12101.mp3]]
 ?
 1 clear and direct
-an ~ refusal
-an ~ attack on his actions
+![[100. media/audio/11237.mp3]]an ~ refusal
+![[100. media/audio/6948.mp3]]an ~ attack on his actions
 
 2 complete and total
-an ~ victory
-an ~ ban on the sale of tobacco
+![[100. media/audio/5909.mp3]]an ~ victory
+![[100. media/audio/3301.mp3]]an ~ ban on the sale of tobacco
 
 adverb
 1 clearly and directly, without trying to hide your feelings or intentions
-If she asked me ~, I’d tell her.
+![[100. media/audio/12764.mp3]]If she asked me ~, I’d tell her.
 
 2 clearly and completely
-She won ~.
-They rejected the deal ~.
+![[100. media/audio/6229.mp3]]She won ~.
+![[100. media/audio/5643.mp3]]They rejected the deal ~.
 4 immediately and without any delay
-The passenger was killed ~.
-They fired her ~.
+![[100. media/audio/9762.mp3]]The passenger was killed ~.
+![[100. media/audio/2893.mp3]]They fired her ~.
 <!--SR:!2025-10-27,4,278-->
 -
 

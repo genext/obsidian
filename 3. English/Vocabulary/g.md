@@ -16,7 +16,7 @@ genital ![[100. media/audio/30Yb5jdCcy.mp3]] ![[100. media/audio/gO8lys9oNK.mp3]
 
   In a crucial sense, an orgasm takes place not in the genitals but in the brain.
   ![[100. media/audio/333MRVTSgH.mp3]] ![[100. media/audio/FXIRZP4xUy.mp3]]
-<!--SR:!2025-10-24,7,250-->
+<!--SR:!2025-11-18,25,270-->
 -
 
 germ
@@ -28,7 +28,7 @@ germ
 
 -
 
-graze
+graze ![[100. media/audio/4204.mp3]] ![[100. media/audio/1953.mp3]] ![[100. media/audio/3022.mp3]] ![[100. media/audio/1524.mp3]]
 ?
 if an animal ~s, or if you ~ it, it eats grass that is growing
 ![[100. media/image/4951.jpg|200]]
@@ -42,7 +42,7 @@ a wound caused by rubbing that slightly breaks the surface of your skin  ![[100.
 <!--SR:!2025-10-27,4,270-->
 -
 
-grudge
+grudge ![[100. media/audio/1210.mp3]] ![[100. media/audio/11570.mp3]] ![[100. media/audio/12678.mp3]] ![[100. media/audio/548.mp3]]
 ?
 ![[100. media/image/8984.jpg|200]]
 to do or give something very unwillingly

@@ -46,16 +46,17 @@ to have an opinion, perspective, or interpretation about something. The word "ta
 
 hectic ![[100. media/audio/6712.mp3]] ![[100. media/audio/8502.mp3]] ![[100. media/audio/7318.mp3]] ![[100. media/audio/2848.mp3]]
 ?
-_written_ if your face is a ~ colour, it is very pink
-the ~ flush on her cheeks
+![[100. media/image/2944.jpg|200]] _written_ if your face is a ~ colour, it is very pink
+![[100. media/audio/3208.mp3]]the ~ flush on her cheeks
 
 very busy or full of activity
+![[100. media/image/5501.jpg|200]]
 I’ve had a pretty ~ day.
-a ~ social life
+![[100. media/audio/10614.mp3]]a ~ social life
 <!--SR:!2025-10-27,4,274-->
 -
 
-hot-headed
+hot-headed ![[100. media/audio/5576.mp3]] ![[100. media/audio/10678.mp3]]
 ?
 ![[100. media/image/3984.jpg|200]]
 having an impetuous or quick-tempered nature.

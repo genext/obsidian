@@ -50,7 +50,7 @@ very beautiful, comfortable, and expensive SYN luxurious  ![[100. media/audi
 ~ music has a lot of pleasant-sounding instruments or voices together  ![[100. media/audio/11483.mp3]]~ vocal harmonies
 
 very attractive or nice – used especially by young people  ![[100. media/audio/457.mp3]]He looks so ~ in this pic!
-<!--SR:!2025-10-24,1,241-->
+<!--SR:!2025-10-26,2,241-->
 -
 
 #Vocabulary 
