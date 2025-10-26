@@ -1544,9 +1544,27 @@ function Form() {
       * Component responsibility
 
 ### 이름 없는 html 태그
-* <></>
-    * [[React]] 사용할 때 컴포넌트마다 return으로 페이지 생성한다.
-    * [ ] return 문 안에는 한 태그, 즉 한 덩어리만 들어간다.
-    * 따라서 <div className="...">으로 시작하고 그 안에 중첩되어서 다른 태그들이 들어가게 된다.
-    * 하지만 팝업처럼 div의 class에 상관없이 독립적으로 쓰고 싶은 것은 <div> 밖에 두면 syntax error발생
-    * 이 때 return안에 <> </>으로 시작해서 기존 <div>...</div>을 넣고 popup component를 별도로 div 태그 밖에 둘 수 있다.
+* <>\</> Fragment
+	* [[React]] 사용할 때 컴포넌트마다 return으로 페이지 생성한다.
+    * return 문 안에는 한 태그, 즉 한 덩어리만 들어간다.
+    * 따라서 \<div className="...">으로 시작하고 그 안에 중첩되어서 다른 태그들이 들어가게 된다.
+	- 팝업처럼 div의 class에 상관없이 독립적으로 쓰고 싶은 것은 \<div> 밖에 두면 syntax error발생
+	```python
+return (
+	<div className="page">
+		{/* 페이지 내용 */}
+	</div>
+	<Popup /> // ❌ Syntax Error - 형제 요소는 불가능
+)
+	```
+- 대신 아래처럼 return안에 <>\</>으로 시작해서 기존 \<div>...\</div>을 넣고 popup component를 별도로 div 태그 밖에 둘 수 있다.
+```python
+return (
+	<>
+		<div className="page">
+		 {/* 페이지 내용 */}
+		</div>
+		<Popup /> // ✅ 가능 - Fragment 안에서 여러 요소 허용
+	</>
+)
+```

@@ -135,4 +135,56 @@ The phrase is used in everyday speech to indicate doubt of someone's sincerity, 
 <!--SR:!2025-10-26,2,240-->
   
 -
+demur ![[100. media/audio/4ntHiB6n.mp3]] ![[100. media/audio/SqzXNsOS.mp3]]
+?
+To politely object, hesitate, or express reservations about something
+more formal than "object" or "hesitate"
+
+He demurred when asked to work overtime on the weekend![[100. media/audio/TqLNVKEZ.mp3]]![[100. media/audio/qUDgieze.mp3]]
+
+The guest demurred politely when offered a second helping of dessert.
+![[100. media/audio/Qw9A3SKC.mp3]]![[100. media/audio/0U60vPto.mp3]]
+<!--SR:!2025-11-06,1,230-->
+-
+
+discombobulate ![[100. media/audio/MCqKAgfB.mp3]] ![[100. media/audio/UlVohUjs.mp3]]
+?
+to confuse, disorient, or throw into a state of confusion.
+(미, 비격식) 혼란시키다, 뒤틀리게 하다, 실패하게 하다
+
+The fire alarm during the exam discombobulated the students, and many couldn't refocus afterward.![[100. media/audio/RVWaFRPM.mp3]]![[100. media/audio/vsxzoFub.mp3]]
+
+The airport's confusing signs discombobulated the tourists, who ended up at the wrong terminal![[100. media/audio/SLvhI2wB.mp3]]![[100. media/audio/nnT0lmdJ.mp3]]
+<!--SR:!2025-11-06,1,230-->
+-
+
+dismissive ![[100. media/audio/Nt1VM98E.mp3]] ![[100. media/audio/aO8TlMab.mp3]]
+?
+![[100. media/image/ewlmdydm.png|200]]
+refusing to consider someone or something seriously
+멸시하는, 거부하는
+
+![[100. media/audio/qTIBcmSI.mp3]]![[100. media/audio/s0rZgKam.mp3]]
+She gave a dismissive wave when I tried to explain my concerns.
+
+![[100. media/audio/7bSV3NGN.mp3]]![[100. media/audio/wr0MihD6.mp3]]
+The manager was dismissive of employee suggestions during the meeting.
+<!--SR:!2025-11-06,1,230-->
+-
+
+dredge ![[100. media/audio/bMijkeGs.mp3]] ![[100. media/audio/zLSQEwmC.mp3]]
+?
+![[100. media/image/I2lb8HR4.png|200]]![[100. media/image/htYiwh7I.png|200]]
+to remove mud or sand from the bottom of a river, harbour etc, or to search for something by doing this. 준설하다, 저인망으로 훑다
+
+![[100. media/audio/GexPShwt.mp3]]![[100. media/audio/wKlXBLWF.mp3]]
+The last thing we want is to dredge everything back up.
+
+![[100. media/audio/PVlP2X2d.mp3]]![[100. media/audio/0RcjdmDV.mp3]]
+They dredged for oysters
+
+to cover food lightly with flour, sugar etc
+<!--SR:!2025-11-06,1,230-->
+-
+
 #Vocabulary

@@ -68,4 +68,57 @@ being part of the nature or character of someone or something
  OPP extrinsic
 <!--SR:!2025-10-27,4,274-->
 -
+inaugural ![[100. media/audio/OCBLJOsu.mp3]] ![[100. media/audio/huC53uo6.mp3]]
+?
+refers to marking the beginning of an institution, activity, or period of office. It is often associated with formal ceremonies or speeches that mark the commencement of something, especially the start of a new position of authority.
+**Synonyms:** Commencement, Inception, Introduction, Debut, Initiation.
+
+- **Noun:** Inaugural, Inauguration (an inaugural event or address)
+- **Verb:** Inaugurate (to begin or introduce something formally)
+- **Adjective:** Inaugural (pertaining to an inauguration)
+
+_The president delivered an inspiring ~ address at the start of her term._
+
+_The ~ ceremony of the new museum attracted art enthusiasts from all over the country._
+
+_His ~ work in the field of renewable energy set a new standard for innovation._
+
+**Etymology:** comes from the Latin 'inaugurare', meaning "to consecrate by augury" (augury being the practice of interpreting omens). In ancient Rome, important actions or events, like the assumption of office, were often initiated with certain rituals to predict success. evolved in English usage to mean "serving to set in motion" or "initiating." It has since been used to denote the first in a series, or the beginning of a significant period, especially in a formal or ceremonial context.
+<!--SR:!2025-10-29,1,230-->
+-
+
+indigent ![[100. media/audio/U2vNGIhd.mp3]] ![[100. media/audio/b8xEN5iR.mp3]]
+?
+formal. very poor.
+Usually describes someone who qualifies for free government or charitable assistance
+![[100. media/image/0kwsSWFk.png|200]]
+
+The court appointed a public defender because the defendant was indigent and couldn't afford a lawyer.![[100. media/audio/BlCGR12U.mp3]]![[100. media/audio/kaMK0Lo8.mp3]]
+
+The hospital provides free medical care to indigent patients who have no insurance.
+![[100. media/audio/GBkicZXH.mp3]]![[100. media/audio/6TAXrcoN.mp3]]
+<!--SR:!2025-10-29,1,230-->
+-
+
+infinitesimal ![[100. media/audio/cYBpvgRh.mp3]] ![[100. media/audio/2Do982JV.mp3]]
+?
+extremely small SYN minuscule
+
+infinitesimal changes in temperature![[100. media/audio/1fQRgkGy.mp3]]
+<!--SR:!2025-10-29,1,230-->
+-
+
+irrigate ![[100. media/audio/75H2RxU0.mp3]] ![[100. media/audio/5di8I3lH.mp3]]
+?
+![[100. media/image/HW8oUQW5.png|200]]
+
+A quick shot of local anesthetic, ~ the wound. nine stitches, and I was done.![[100. media/audio/CBBdeyMZ.mp3]]
+
+to supply land or crops with water
+관개하다,
+to wash a wound with a flow of liquid
+상처를 세척하다, 씻다.
+<!--SR:!2025-10-29,1,230-->
+-
+
 #Vocabulary

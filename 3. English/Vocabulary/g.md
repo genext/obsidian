@@ -24,7 +24,7 @@ germ
 1. a very small living thing that can make you ill. → **bacteria**
   2. technical the part of a plant or animal that can develop into a new plant or animal. 발아, 초기배
   3. (old) seed
-<!--SR:!2025-10-25,8,250-->
+<!--SR:!2025-10-30,4,230-->
 
 -
 
@@ -51,7 +51,18 @@ to do or give something very unwillingly
 ![[100. media/audio/4634.mp3]]I don’t ~ him his success.
 ![[100. media/audio/6113.mp3]]a ~ing apology
 ![[100. media/audio/7489.mp3]]He ~ingly admitted he’d been wrong.
-<!--SR:!2025-10-26,3,250-->
+<!--SR:!2025-11-03,8,250-->
+-
+
+germinate ![[100. media/audio/9m87t39D.mp3]] ![[100. media/audio/0MquvsJc.mp3]]
+?
+![[100. media/image/wuji51dv.png|200]]
+
+if a seed ~s, or if it is \~ed, it begins to grow
+SYN sprout
+
+Within a week, the Martian soil will be ready for plants to germinate in.![[100. media/audio/ypFBwWiw.mp3]]
+<!--SR:!2025-10-29,1,230-->
 -
 
 #Vocabulary

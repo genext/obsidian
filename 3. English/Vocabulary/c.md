@@ -6,7 +6,7 @@ relating to the heart `SYN` cardiac
 Don't give me a coronary - just tell me what happened!
 (getting extremely upset or stressed about something.)
 ![[100. media/audio/speech_20251006043610095.mp3]]![[100. media/audio/speech_20251006043643153.mp3]]
-<!--SR:!2025-10-25,3,228-->
+<!--SR:!2025-11-02,7,228-->
 -
 
 credential
@@ -16,7 +16,7 @@ Her academic credentials include an MA and a PhD.
 ![[speech_20251022072822384.mp3]] ![[speech_20251022072906653.mp3]]
 you specify your AWS _security credentials_ to verify who you are and whether you have permission to access the resources that you are requesting.
 ![[speech_20251022072653904.mp3]] ![[speech_20251022072756435.mp3]]
-<!--SR:!2025-10-25,3,251-->
+<!--SR:!2025-11-03,8,251-->
 -
 
 congested
@@ -59,7 +59,7 @@ chromosome ![[100. media/audio/2019.mp3]] ![[100. media/audio/1862.mp3]] ![[100.
 ![[100. media/image/11460.jpg|200]]
 
 a part of every living cell that is shaped like a thread and contains the genes that control the size, shape etc that a plant or animal has
-<!--SR:!2025-10-26,3,253-->
+<!--SR:!2025-11-02,7,253-->
 
 -
 
@@ -101,7 +101,7 @@ convolution ![[4F7149FF0663710169.mp3]]
 ?
 the complicated details of a story, explanation etc, which make it difficult to understand
 복잡하게 뒤엉킨 것, 둘둘 감긴 상태, 나선 상태. 수학의 합성곱
-<!--SR:!2025-10-25,2,249-->
+<!--SR:!2025-10-31,5,249-->
 -
 
 corollary ![[100. media/audio/4F714A2302422E0127.mp3]] ![[100. media/audio/4F7123E4055C670208.mp3]]
@@ -150,7 +150,7 @@ the junction where two or more rivers merge. It can also be used metaphorically 
 ![[100. media/audio/4820.mp3]]The policy change was not due to any single factor but a ~ of social, political, and economic pressures.
 
 **Etymology:** Derived from the Latin word "confluentia," which means "flowing together." "Con-" means together and "-fluentia" comes from "fluere," which means to flow.
-<!--SR:!2025-10-26,3,250-->
+<!--SR:!2025-11-07,12,270-->
 -
 
 courtly ![[100. media/audio/7890.mp3]] ![[100. media/audio/10876.mp3]] ![[100. media/audio/9309.mp3]] ![[100. media/audio/2635.mp3]]
@@ -159,6 +159,42 @@ graceful and polite, _polite and formal in behaviour_
 ![[100. media/image/4997.jpg|200]]
 ![[100. media/audio/10291.mp3]]a tall man with ~ manners
 <!--SR:!2025-10-27,4,273-->
+-
+
+canonical ![[100. media/audio/DHED2Mzg.mp3]] ![[100. media/audio/CCtbzCKn.mp3]]
+?
+according to canon law 교회법으로 정해진
+"the official" or "widely accepted"  규범[표준]적인
+in the simplest mathematical form 기준의, 정규의
+
+That's the canonical example everyone gives when explaining supply and demand!![[100. media/audio/5VCy1xAG.mp3]]
+
+Express this equation in canonical form!![[100. media/audio/7j0XfiGq.mp3]]
+
+We need to canonicalize the customer names to remove duplicates!![[100. media/audio/wYb6X3Di.mp3]]
+<!--SR:!2025-11-05,1,230-->
+-
+
+cater ![[100. media/audio/OhKzZl0Y.mp3]] ![[100. media/audio/Ov26EoKq.mp3]]
+?
+![[100. media/image/JBJ5bFew.png|200]]
+to provide and serve food and drinks at a party, meeting etc, usually as a business
+
+Joan has catered functions for up to 200 people.
+![[100. media/audio/2bE3zYkU.mp3]]![[100. media/audio/QyFuoySp.mp3]]
+
+This is the biggest event we've ever catered for.
+![[100. media/audio/30qrb9Lb.mp3]]![[100. media/audio/AKO5GjMS.mp3]]
+<!--SR:!2025-11-05,1,230-->
+-
+
+circumference ![[100. media/audio/0zWQEOBA.mp3]] ![[100. media/audio/G5wTiSpU.mp3]]
+?
+![[100. media/image/JNhuD0iE.png|200]]
+원주
+
+I used the resin and straps to make two 10-meter circumference loops.![[100. media/audio/zgEtjzK9.mp3]]![[100. media/audio/P9TKoRO4.mp3]]
+<!--SR:!2025-11-05,1,230-->
 -
 
 #Vocabulary

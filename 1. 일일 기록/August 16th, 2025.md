@@ -16,4 +16,4 @@ updated: 2025-09-16 09:41:26
       * 20세기 이후에는 논리학 일부로 자리잡음.
         * 베이지적 추론은 인공지능에도 있다. #AI
       * 내일 날씨 확률은 내가 비가 올 거라고 예상하는(믿는) 정도.
-    * [ ] 수학 귀신 구매 by Hans Magnus Enzensberger
+    * 수학 귀신 구매 by Hans Magnus Enzensberger

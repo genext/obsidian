@@ -69,6 +69,42 @@ to do everything possible, make a supreme effort, or take extraordinary measures
 ![[100. media/audio/1684.mp3]]To fulfill his child's birthday wish, he moved ~ and ~ to find the rare toy she wanted.
 ![[100. media/audio/6645.mp3]]The rescue team moved ~ and ~ to find the missing hikers in the mountain.
 move heaven and earth
-<!--SR:!2025-10-26,3,260-->
+<!--SR:!2025-11-03,8,260-->
 -
+
+mandate ![[100. media/audio/EzBHg369.mp3]]![[100. media/audio/MbxDRrl8.mp3]]
+?
+if a government or official has a mandate to make important decisions, they have the authority to make the decisions because they have been elected by the people to do so 위임, 권한
+an official instruction given to a person or organization, allowing them to do something 명령, 칙령
+the power given to one country to govern another country
+
+The government issued a mask mandate during the pandemic.![[100. media/audio/YwQDMGiG.mp3]]![[100. media/audio/ZRRNWC2Z.mp3]]
+
+The election results gave her a clear mandate to reform healthcare.![[100. media/audio/5EDaMDFL.mp3]]![[100. media/audio/VaIEEVv8.mp3]]
+<!--SR:!2025-10-29,1,230-->
+-
+
+masquerade ![[100. media/audio/Y1MvtIxF.mp3]]![[100. media/audio/gD1Hrehj.mp3]]
+?
+a formal dance or party where people wear masks and unusual clothes
+a way of behaving or speaking that hides your true thoughts or feelings SYN pretence
+to pretend to be something or someone different
+
+A number of police officers masqueraded as demonstrators.
+He was masquerading under a false name
+She kept up the masquerade for years as if she loved him.
+
+<!--SR:!2025-10-29,1,230-->
+-
+
+mayhem ![[100. media/audio/XsZiE3m3.mp3]]![[100. media/audio/1ZZBHKtz.mp3]]
+?
+an extremely confused situation in which people are very frightened or excited SYN chaos
+대혼란
+
+When the fire alarm went off during the school assembly, there was complete mayhem as hundreds of students rushed toward the exits at the same time.![[100. media/audio/aEeMJy0e.mp3]]![[100. media/audio/pdlqtVqd.mp3]]
+
+<!--SR:!2025-10-29,1,230-->
+-
+
 #Vocabulary

@@ -131,4 +131,35 @@ tending to sulk
 <!--SR:!2025-10-27,4,279-->
 -
 
+sow ![[100. media/audio/bm7Pf3ZL.mp3]]![[100. media/audio/B6dSOZkf.mp3]]
+?
+![[100. media/image/J0x822WL.png|200]]
+![[100. media/image/j5qjz4o8.png|200]]
+to plant or scatter seeds on a piece of ground
+씨뿌리다
+
+These fields used to be sown with oats.
+![[100. media/audio/SdARjoBF.mp3]]![[100. media/audio/EAlMLc9J.mp3]]
+
+repressive laws that are sowing the seeds of future conflicts
+![[100. media/audio/0d6v5kKi.mp3]]![[100. media/audio/sMA8GCWs.mp3]]
+
+
+an attempt to sow doubt among the jury members
+![[100. media/audio/VwtNcBhv.mp3]]![[100. media/audio/csSPyVNt.mp3]]
+
+<!--SR:!2025-10-29,1,230-->
+-
+
+spree ![[100. media/audio/vhjgP6dc.mp3]]![[100. media/audio/UipZ8vk9.mp3]]
+?
+a period of unrestrained activity, often involving doing something excessively or with great enthusiasm. 흥청망청 놀가, 법석댐.
+
+Startups are on a hiring spree for a software engineering role.![[100. media/audio/TJowSLiS.mp3]]![[100. media/audio/M0BZiMHp.mp3]]
+
+The lottery winner went on a spending spree, buying a new car, jewelry, and expensive gadgets.![[100. media/audio/FINibXDE.mp3]]![[100. media/audio/H3GMc4ob.mp3]]
+
+<!--SR:!2025-10-29,1,230-->
+-
+
 #Vocabulary

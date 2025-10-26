@@ -81,6 +81,35 @@ to make someone start doing something, especially when they have been too tired 
 to make someone feel a particular emotion, such as anger or fear →a~
 ![[100. media/audio/11256.mp3]]We don’t want to ~ any suspicions.
 ![[100. media/audio/6725.mp3]]Paul strode forward, ~ed to anger.
-<!--SR:!2025-10-26,3,254-->
+<!--SR:!2025-11-02,7,254-->
 -
+
+reap ![[100. media/audio/FJgGheaP.mp3]]![[100. media/audio/Q4LCMl2H.mp3]]
+?
+![[100. media/image/tdJKPEKo.png|200]]
+- to get something, especially something good, as a result of what you have done
+- harvest
+
+You reap what you sow![[100. media/audio/E0VmDUqP.mp3]]![[100. media/audio/DfJDfO7o.mp3]]
+
+It was time to reap and resow.
+![[100. media/audio/bLB8U3Wf.mp3]]![[100. media/audio/6yozqeL5.mp3]]
+
+<!--SR:!2025-10-29,1,230-->
+-
+
+redact ![[100. media/audio/BTNcUsh0.mp3]]![[100. media/audio/PCZ0Iy1b.mp3]]
+?
+the action of changing, removing, or putting black marks over parts of an official document before it is published in order to keep information secret
+[원고 등을] 수정 편집하다, [성명서 등을]작성(기초)하다.
+
+![[100. media/audio/KOeW625N.mp3]]![[100. media/audio/F21Fcwys.mp3]]
+MCP Clients may provide options to redact sensitive information.
+
+![[100. media/audio/QaY4Z7j0.mp3]]![[100. media/audio/RAFFLFHk.mp3]]
+There were complaints about the redaction of details of MPs’ expenses claims.
+
+<!--SR:!2025-10-29,1,230-->
+-
+
 #Vocabulary

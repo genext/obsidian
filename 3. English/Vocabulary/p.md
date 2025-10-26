@@ -102,6 +102,70 @@ the stage of physical development during which you change from a child to an 
 ![[100. media/audio/9598.mp3]]During ~, many teenagers experience significant physical and emotional changes.
 
 **Etymology:** originates from the Latin word "pubertas," which means "adult" or "manhood." This Latin term is derived from "pubes," meaning "grown up, sexually mature."
-<!--SR:!2025-10-26,3,266-->
+<!--SR:!2025-11-07,12,286-->
 -
+
+palpable ![[100. media/audio/lGfGcghQ.mp3]]![[100. media/audio/9yuFPBrU.mp3]]
+?
+a feeling that is ~ is so strong that other people notice it and can feel it around them OPP impalpable
+
+![[100. media/audio/9WnH454Z.mp3]]
+There was a ~ sense of relief among the crowd.
+
+![[100. media/audio/07GVf9xe.mp3]]![[100. media/audio/rl0KVSLo.mp3]]
+When he claimed that Paris was the capital of Italy, he betrayed his own ~ ignorance of European geography.
+
+<!--SR:!2025-10-29,1,230-->
+-
+
+pilfer ![[100. media/audio/scpsObij.mp3]]![[100. media/audio/SUO5MmWq.mp3]]
+?
+![[100. media/image/yNyefSrP.png|200]]
+to steal things that are not worth much, especially from the place where you work.
+좀도둑질하다.
+
+Someone's been pilfering snacks from the break room
+![[100. media/audio/CRNDItjC.mp3]]![[100. media/audio/gErTzzuE.mp3]]
+
+
+My brother keeps pilfering my favorite pens from my desk when I'm not looking.
+![[100. media/audio/tsgCdiKF.mp3]]![[100. media/audio/D9GgdaJH.mp3]]
+
+<!--SR:!2025-10-29,1,230-->
+-
+
+predicate ![[100. media/audio/rkZdmMWT.mp3]]![[100. media/audio/g6AQuHJf.mp3]]
+?
+ the part of a sentence that makes a statement about the subject, such as ‘swim’ in ‘Fish swim’ and ‘is an artist’ in ‘She is an artist’ → subject
+서술하다, 단정하다(주로 논리·철학 용어로 쓰임)
+
+Most religions predicate life after death.![[100. media/audio/3fLO6D9V.mp3]]![[100. media/audio/wIPGSKUn.mp3]]
+
+In each sentence, the subject is who or what the sentence is about, and the predicate is everything that tells us something about the subject![[100. media/audio/R4wtMaw8.mp3]]![[100. media/audio/rXEuSUeh.mp3]]
+
+<!--SR:!2025-10-29,1,230-->
+-
+
+puke ![[100. media/audio/kfDEtTgw.mp3]]![[100. media/audio/M4Cc4pJU.mp3]]
+?
+![[100. media/image/O7kRvqoF.png|200]]
+
+to bring food back up from your stomach through your mouth
+
+I dumped my big container o' shit onto the soil and nearly ~ed from the smell. ![[100. media/audio/cMBA9BH9.mp3]]
+
+<!--SR:!2025-10-29,1,230-->
+-
+proverbial ![[100. media/audio/9630.mp3]] ![[100. media/audio/9497.mp3]]
+?
+Referring to a well-known saying, proverb, or familiar expression; often used to describe something that is widely known or commonly referred to.  
+![Proverbs 10:13 | Calvary Heights Baptist Church](https://unknown_file.png.com/images?q=tbn:ANd9GcSA8sGu4WylAQLLnuWg_GSAm1wL2yYmLqJugw&usqp=CAU)  
+**Noun:** Proverb  
+**Synonyms:** Well-known, famed, legendary, notorious, traditional  
+![[100. media/audio/7712.mp3]]He has the ~ Midas touch when it comes to investing.  
+![[100. media/audio/8465.mp3]]She avoided the ~ elephant in the room during the conversation.  
+![[100. media/audio/12830.mp3]]The team faced the ~ David and Goliath scenario in the championship game.
+<!--SR:!2025-10-31,1,230-->
+-
+
 #Vocabulary

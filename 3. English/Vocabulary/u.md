@@ -14,4 +14,12 @@ SYN underline
 to draw a line under a word or phrase to show that it is important
 <!--SR:!2025-10-26,3,250-->
 -
+unbeknownst
+?
+![[100. media/image/11559.png|200]]  
+without that person knowing about it  
+![[100. media/audio/6653.mp3]]Unbeknown to him, his wife had been trying to phone him all morning.
+<!--SR:!2025-10-31,1,230-->
+-
+
 #Vocabulary

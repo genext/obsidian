@@ -24,7 +24,7 @@ lesion ![[100. media/audio/ryrTc6Acv1.mp3]] ![[100. media/audio/vfgpmKLCd8.mp3]]
   The MRI showed brain lesions ![[100. media/audio/9EoeysZnES.mp3]] ![[100. media/audio/urdoCb6DLP.mp3]]
 
   Skin lesions can be caused by infections or injuries ![[100. media/audio/W-qbzyWlEZ.mp3]] ![[100. media/audio/4FpShwB8HF.mp3]]
-<!--SR:!2025-10-25,8,250-->
+<!--SR:!2025-11-16,21,250-->
 -
 
 
@@ -52,5 +52,14 @@ very beautiful, comfortable, and expensive SYN luxurious  ![[100. media/audi
 very attractive or nice – used especially by young people  ![[100. media/audio/457.mp3]]He looks so ~ in this pic!
 <!--SR:!2025-10-26,2,241-->
 -
+lusty ![[100. media/audio/8335.mp3]] ![[100. media/audio/4444.mp3]] ![[100. media/audio/11278.mp3]] ![[100. media/audio/10952.mp3]]
+?
+![[100. media/image/6736.jpg|200]]  
+strong and healthy SYN powerful (vigorous, peppy)  
+  
+![[100. media/audio/6783.mp3]]the ~ cry of a new-born baby  ![[100. media/audio/4456.mp3]]her strong, ~ young husband  
+![[100. media/audio/6327.mp3]]Her mother was singing ~ily.
+<!--SR:!2025-10-31,1,230-->
+-
 
-#Vocabulary 
+#Vocabulary

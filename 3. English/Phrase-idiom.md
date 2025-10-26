@@ -7,7 +7,7 @@ She's tough on the outside but soft on the inside!
 The box looks damaged on the outside but it's fine on the inside!
 ![[100. media/audio/qsPsWkH4.mp3]]
 ![[100. media/audio/4Mj3rAdo.mp3]]
-<!--SR:!2025-10-25,8,250-->
+<!--SR:!2025-11-15,20,250-->
 -
 
 That's more of a trade-off than clear superiority.
@@ -43,7 +43,7 @@ Learning in action 체험학습
 ?
 They say no plan survives first contact with implementation.
 ![[100. media/audio/bMk2GNWK.mp3]]
-<!--SR:!2025-10-25,8,250-->
+<!--SR:!2025-10-30,4,230-->
 -
 
 The morbidity rate is a measure of how often a disease or illness occurs within a specific population over a defined period
@@ -52,7 +52,7 @@ The morbidity rate is a measure of how often a disease or illness occurs within 
 ![[100. media/audio/vVBm9EHx.mp3]]
 
 ![[100. media/image/p5sgLxfr.png]]
-<!--SR:!2025-10-26,9,250-->
+<!--SR:!2025-11-18,23,250-->
 -
 
 save for ~
@@ -60,7 +60,7 @@ save for ~
 The break room was empty save for a computer technician sipping a cup of coffee.
 ![[100. media/audio/KV1MGiXN.mp3]]
 ![[100. media/audio/1dmOb0e5.mp3]]
-<!--SR:!2025-10-26,9,250-->
+<!--SR:!2025-10-31,5,230-->
 -
 
 someone's point of view
@@ -95,7 +95,7 @@ I want more than anything that you know I care.
 
 I want nothing more than a fresh start.
 ![[100. media/audio/m7lEiusG.mp3]]
-<!--SR:!2025-10-25,8,250-->
+<!--SR:!2025-11-15,20,250-->
 -
 epsilon away
 ?
@@ -111,7 +111,7 @@ Each major feature is detailed in its own dedicated section.
 ?
 ![[100. media/audio/guoTPxTM.mp3]]
 ![[100. media/audio/DJiNNOpP.mp3]]
-<!--SR:!2025-10-26,9,250-->
+<!--SR:!2025-11-19,24,250-->
 -
 
 핸드폰 들여다 보면서 빈둥거리다
@@ -121,7 +121,7 @@ I'm just mindlessly scrolling ![[100. media/audio/gk56BAzYVC.mp3]]
 idling while looking at my phone ![[100. media/audio/TdAdl0REsz.mp3]]
 sit around and stare at their phone all day ![[100. media/audio/FuFtF9Fn2l.mp3]]
 coin: doom scrolling
-<!--SR:!2025-10-26,9,250-->
+<!--SR:!2025-10-31,5,230-->
 -
 
 take a bashing
@@ -129,7 +129,7 @@ take a bashing
 크게 당하다, 혹평 받다.
  The fairy tale of the quest to find our One True Love has taken a bashing of late, and not before time.
 ![[100. media/audio/HpkHZ3sVr_.mp3]] ![[100. media/audio/1tLeEJlC-Z.mp3]]
-<!--SR:!2025-10-26,9,250-->
+<!--SR:!2025-10-31,5,230-->
 -
 brush up
 ?
@@ -146,7 +146,7 @@ sniff out ~
 냄새로 ~을 알아내다
  women subconsciously sniff out their preferred partner as part of their mating-evaluation repertoire.
 ![[100. media/audio/GToJtil73m.mp3]] ![[100. media/audio/aXjYnSMGYq.mp3]]
-<!--SR:!2025-10-26,9,250-->
+<!--SR:!2025-11-17,22,250-->
 -
 
 
@@ -176,7 +176,7 @@ The structure **"in what it's safe to say"** is grammatically awkward and not st
 The phrase mixes two different structures:
 - "in what was..." (defining a moment) = "in something that was"
 - "it's safe to say..." (expressing cautious opinion)
-<!--SR:!2025-10-26,9,250-->
+<!--SR:!2025-11-18,23,250-->
 -
 
 [in, of, on,...] what was
@@ -191,7 +191,7 @@ The house sits on what was the old town square. ![[100. media/audio/SevKMdOZTY.m
 We're standing at what was the Berlin Wall. ![[100. media/audio/242Wy-AfbD.mp3]]
 He was born during what was the worst winter in decades. ![[100. media/audio/AYYRM8uL0C.mp3]]
 We hiked through what was once a dense forest. ![[100. media/audio/wktc0mbIGx.mp3]]
-<!--SR:!2025-10-25,8,250-->
+<!--SR:!2025-11-14,19,250-->
 -
 
 In addition to our inborn temperaments, beyond the luck of the draw of our childhood experience, we want to believe that we—as adults—can shape our selves and make what we **will of our lives**.
@@ -226,7 +226,7 @@ used to say that one description of someone or something is less suitable or c
 I haven't seen so much of the world as he has. ![[100. media/audio/ZTVIhT9jUQ.mp3]] ![[100. media/audio/Z_AzxoXWGG.mp3]]
 She was not so much nervous as impatient for the journey to be over. ![[100. media/audio/qN2Wo4sX2O.mp3]]
 Over-arousal doesn’t produce anxiety so much as the sense that you can’t think straight—that you’ve had enough and would like to go home now. ![[100. media/audio/F_Xncbhf8u.mp3]] ![[100. media/audio/gaPe7sySIh.mp3]]
-<!--SR:!2025-10-25,8,250-->
+<!--SR:!2025-11-14,19,250-->
 -
 
 Remember that the amygdala, and the limbic system of which it’s a key part, is an ancient part of the brain—so old that primitive mammals have their own versions of this system.
@@ -235,7 +235,7 @@ The "of which" phrasing inverts the normal word order (we'd usually say "which i
 - natural word order would be much clearer
 	- "the amygdala, and the limbic system that it's a key part of
 	- the amygdala, which is a key part of the limbic system
-<!--SR:!2025-10-25,8,250-->
+<!--SR:!2025-11-16,21,250-->
 -
 
 strike up a conversation
@@ -246,7 +246,7 @@ She always strikes up a conversation with people in line at the coffee shop.
 
 He struck up a conversation with the woman sitting next to him on the plane.
 ![[100. media/audio/xZhFY0NG2x.mp3]] ![[100. media/audio/DmCchn6DZv.mp3]]
-<!--SR:!2025-10-25,8,250-->
+<!--SR:!2025-11-16,21,250-->
 -
 
 그는 타자기로 자살 유서나 다름 없는 글을 작성했다.
@@ -310,14 +310,14 @@ Her experience gives her an edge on other candidates.
 
 If you fully delegate everything that you’re doing to a machine, then the person who doesn’t do that has an edge on you.
 ![[speech_20251022063105879.mp3]] ![[speech_20251022063138417.mp3]]
-<!--SR:!2025-10-25,3,250-->
+<!--SR:!2025-11-03,8,250-->
 -
 
 belt out a song
 ?
 When someone "belts out a song," they're singing it in a powerful, forceful way—often at the top of their lungs, used to describe singing that's bold and uninhibited.
 ![[speech_20251022075550546.mp3]] ![[speech_20251022075648569.mp3]]
-<!--SR:!2025-10-25,3,250-->
+<!--SR:!2025-11-03,8,250-->
 -
 
 - “Life happens wherever you are, whether you make it or not.” We need more cartoon charactes like Iroh. If only for his character, “Avatar: The Last Airbender” is worth watching and rewatching.

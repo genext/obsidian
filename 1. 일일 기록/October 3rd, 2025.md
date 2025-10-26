@@ -17,6 +17,6 @@ updated: 2025-10-03 23:45:52
   * 16:04 cig 9
   * 17:11cig 10
   * 20:26 cig 12
-  * [ ] 노정석 유투브 https://www.youtube.com/watch?v=Og0mtAbDrDY 다시 보고 정리
+- 노정석 유투브 https://www.youtube.com/watch?v=Og0mtAbDrDY 다시 보고 [[AI#100x 엔지니어의 claude code 활용법 by 노정석|정리]]
   * 21:15 cig 13
   * 23:45 cig 14

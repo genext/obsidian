@@ -77,8 +77,72 @@ formal an [attempt](https://www.ldoceonline.com/dictionary/attempt) to do som
 ![[100. media/audio/11516.mp3]]an outstanding example of human ~
 ![[100. media/audio/11542.mp3]]They made every ~ to find the two boys.
 ![[100. media/audio/11400.mp3]]Despite our best ~, we couldn’t start the car.
-<!--SR:!2025-10-26,3,255-->
+<!--SR:!2025-11-07,12,275-->
 -
 
+
+edgewise ![[100. media/audio/aJmXLfv9.mp3]] ![[100. media/audio/8FgQKQ4Q.mp3]]
+edgeways ![[100. media/audio/pQuXa4Vo.mp3]] ![[100. media/audio/7GSCEmBk.mp3]]
+?
+날을 앞으로 향하고, 가장자리를 따라
+[두 물체가] 끝과 끝을 맞대고
+
+get a word in edgewise
+The gabby salesman wouldn't let us get a word in edgewise.![[100. media/audio/PkvC2pMb.mp3]]
+
+get a word in edgeways
+The gabby salesman wouldn't let us get a word in edgeways![[100. media/audio/7mCFPdsw.mp3]].
+<!--SR:!2025-10-29,1,230-->
+-
+
+elate ![[100. media/audio/kmQQUhQ3.mp3]] ![[100. media/audio/tvjZxNkV.mp3]]
+?
+![[100. media/image/nL8QEAJI.png|200]]
+
+I was elated!![[100. media/audio/01N2shTW.mp3]]
+<!--SR:!2025-10-29,1,230-->
+-
+
+elicit ![[100. media/audio/p7OnA7cQ.mp3]] ![[100. media/audio/074q5Wob.mp3]]
+?
+to succeed in getting information or a reaction from someone, especially when this is difficult
+유도하다, 끌어내다
+
+![[100. media/audio/ML6vjFB6.mp3]]![[100. media/audio/cp0Yq0Up.mp3]]
+When her knock elicited no response, she opened the door and peeped in.
+
+![[100. media/audio/tIGytpaQ.mp3]]![[100. media/audio/9E1z14li.mp3]]
+The test uses pictures to elicit words from the child.
+<!--SR:!2025-10-29,1,230-->
+-
+
+eulogy ![[100. media/audio/Fwr9a9Wi.mp3]] ![[100. media/audio/TNcGgZOz.mp3]]
+?
+![[100. media/image/sa8N7K8j.png|200]]
+a speech or piece of writing in which you praise someone or something very much, especially at a funeral
+
+The minister delivered a long eulogy.![[100. media/audio/5NGjF7A4.mp3]]
+Commander Lewis and the surviving crew, via long-range communication from Hermes, gave eulogies for their departed comrade from deep space.![[100. media/audio/ftHBTu76.mp3]]![[100. media/audio/RjrP0c35.mp3]]
+<!--SR:!2025-10-29,1,230-->
+-
+enamo\[u\]red ![[100. media/audio/11068.mp3]] ![[100. media/audio/12612.mp3]]
+?
+\[not before noun\] liking something very much  
+
+**Meaning**:  
+The word "~" is a verb that means to be filled with a feeling of love or deep affection for someone or something. It implies a sense of captivation or strong attraction.
+
+SYN captivated, 
+
+![[100. media/image/12073.png|200]]  
+![[100. media/audio/10965.mp3]]You don’t seem very ~ed with your job.  
+The new video game has enamored kids all over the world.  
+formal in love with someone  
+![[100. media/audio/1893.mp3]]He was greatly ~ed of Elizabeth.  
+  
+**Etymology**:  
+The word "~" comes from the Middle English word "enamouren," which itself is derived from the Old French "enamourer," meaning 'to fall in love.' The root words are "en-" (in) + "amour" (love).
+<!--SR:!2025-10-31,1,230-->
+-
 
 #Vocabulary

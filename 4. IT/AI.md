@@ -264,6 +264,37 @@ updated: 2025-10-02 08:38:05
         * fastmcp(Python)
       * "tools": functions or methods that the server offers to clients
 	  
+## 유투브 정리
+### 100x 엔지니어의 claude code 활용법 by 노정석
+- AI manifesto 이야기
+	- claude는 python code convention을 잘 지킨다
+	- 고차원, 비판적 사고는 GPT-5 High가 잘 한다.
+	- Readme나 문서 작성은 gemini가 잘 한다.
+	- 모델 교차 검증도 필요. A 모델 코드를 B 모델이 검증.
+	- AI가 하는 일을 markdown으로 계속 문서화.
+- Muvera
+	- 구글 DeepMind에서 발표한 논문. 검색을 더 저렴하게 하는 방법을 연구한 것으로 pinecone이 안 좋아할 것이고, 이 방법 때문에 vector DB 회사가 사라질 것 같다는 예상이 나옴.
+- AI 도입이 Bus factor 관리에 끼치는 영향
+	- AI가 코드를 생성하더라도 모든 문맥이 함께 잘 관리되면 Bus factor가 무한대가 될 것이다.
+	- 결국 AI와 대화한 내용을 context로 남기면서 작업해야 한다. spec이든 단순 대화 내용 정리든.
+- 구현에서 모델 상호 회람, 동의 과정을 반복하는 것이 중요.
+	- Claude, gpt, gemini 세 개를 돌아가면서 상호 비판, 승인, 등이 된 후 구현에 들어간다.
+	- 결국 개발자 10 ~ 100명을 데리고 일하는 CTO로서 조직을 경영.
+	- [ ] agent.md, todo.md 등을 잘 만들어야 한다. kent beck이 만든 agent.md 받기.
+		- 한 번에 한 가지 일만 하도록 하고 특정 파일을 수정했으면 반드시 테스트한다는 원칙 등을 담아야 AI가 제대로 할 것.
+	- 언어나 프레임워크별로 좋은 코드 예도 같이 포함해서 경험자의 통찰도 md에 녹이면 좋다.
+- 정보 올림피아드 금상 수상 AI agent 방법론 논문
+	-  https://arxiv.org/pdf/2507.15855 
+		- 읽어 보니 각각 다른 역할을 맡은 prompt를 여러 개 만들어서 비판적으로 검토하니 그냥 LLM 하나에게 풀어보라고 하는 것보다 훨씬 더 좋은 결과를 만들었다는 결론. 
+- AI 시대의 성과
+	- (AI x 능력) + 태도
+- AI 시대 준비
+	- 회사 대표 입장
+		- 회사 운영의 모든 것이 DX 되어야 한다. 그래야 AX가 좋은 효과를 낼 수 있다.
+		- 엔지니어 천 명이 협업할 수 있는 구조? 시스템?
+	- 개발자
+		- 경력의 한계, 영역을 의식할 필요 없다.
+		- 직군 제한 없이 그냥 일반 사람도 불편한 것을 직접 개발할 수 있다.
 ##  Reference
 - [[Langchain]]
 - [[ollama]] AI를 offline에서 돌릴 수 있게 하는 도구

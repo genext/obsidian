@@ -3,7 +3,7 @@ flush
 기존에 알던 물을 내리다, 붉어지다가 아닌 형용사로 쓰일 때는 풍부한
 I'm pretty ~ on EVA suits.![[100. media/audio/Pgqbh8on.mp3]]
 The company is ~ with resources.![[100. media/audio/2gOUHfrs.mp3]]
-<!--SR:!2025-10-26,3,259-->
+<!--SR:!2025-11-07,12,279-->
 -
 
 fragrant ![[100. media/audio/5163.mp3]] ![[100. media/audio/5737.mp3]] ![[100. media/audio/8497.mp3]] ![[100. media/audio/7814.mp3]]
@@ -38,7 +38,7 @@ felicitous ![[100. media/audio/985.mp3]] ![[100. media/audio/10990.mp3]] ![[100.
 ![[100. media/audio/2590.mp3]]It was a ~ coincidence that brought them together at the right place and time.
 
 **Etymology:**Derived from the Latin word "felicitas," meaning "happiness," "luck," or "fruitfulness," which in turn is derived from "felix," meaning "happy" or "lucky." The suffix "-ous" in English is used to form adjectives meaning "full of" or "having the quality of."
-<!--SR:!2025-10-26,3,261-->
+<!--SR:!2025-11-02,7,261-->
 -
 
 fiat ![[100. media/audio/10935.mp3]] ![[100. media/audio/8791.mp3]] ![[100. media/audio/6035.mp3]] ![[100. media/audio/9295.mp3]]
@@ -47,7 +47,7 @@ fiat ![[100. media/audio/10935.mp3]] ![[100. media/audio/8791.mp3]] ![[100. medi
 an official order given by someone in a position of authority, without considering what other people want
 
 ![[100. media/audio/10927.mp3]]The matter was settled by presidential fiat.
-<!--SR:!2025-10-26,3,259-->
+<!--SR:!2025-11-03,8,259-->
 -
 
 fibroid ![[100. media/audio/7146.mp3]] ![[100. media/audio/11496.mp3]]

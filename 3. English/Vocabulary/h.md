@@ -17,7 +17,7 @@ belonging to an enemy
 hell bent ![[100. media/audio/9869.mp3]] ![[100. media/audio/5280.mp3]] ![[100. media/audio/12191.mp3]] ![[100. media/audio/7417.mp3]]
 ?
 So, someone who is "~" on doing something is so determined that they would go to hell to achieve it.
-<!--SR:!2025-10-26,3,254-->
+<!--SR:!2025-11-02,7,254-->
 -
 
 hunger ![[100. media/audio/Cncp_ptkFE.mp3]] ![[100. media/audio/JuGLlTPK_l.mp3]]
@@ -29,7 +29,7 @@ hunger ![[100. media/audio/Cncp_ptkFE.mp3]] ![[100. media/audio/JuGLlTPK_l.mp3]]
   ![[100. media/audio/MGPmiNUwud.mp3]] ![[100. media/audio/880og3MQSX.mp3]]
 
   genetic hunger ![[100. media/audio/-EIDnVFJGI.mp3]] ![[100. media/audio/bp02EUbFaD.mp3]]
-<!--SR:!2025-10-25,8,250-->
+<!--SR:!2025-11-15,20,250-->
 -
 
 have a take on
@@ -67,7 +67,7 @@ SYN fiery, impulsive, irritable
 
 ![[100. media/audio/9822.mp3]]His ~-~ decision to quit his job without another one lined up was a big mistake.
 ![[100. media/audio/6841.mp3]]Be careful when talking politics with him; he can be quite ~-~.
-<!--SR:!2025-10-26,3,254-->
+<!--SR:!2025-11-07,12,274-->
 -
 
 #Vocabulary
