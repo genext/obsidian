@@ -39,19 +39,6 @@ someone who is very famous or highly respected for their skill at doing som
 <!--SR:!2025-11-06,16,290-->
 -
 
-lush ![[100. media/audio/2401.mp3]] ![[100. media/audio/2816.mp3]]
-?
-![[100. media/image/6141.jpg|200]]
-plants that are ~ grow many leaves and look healthy and strong
-![[100. media/audio/1544.mp3]]a ~ green mountainous island  ![[100. media/audio/2809.mp3]]The fields were ~ with grass and flowers.
-
-very beautiful, comfortable, and expensive SYN luxurious  ![[100. media/audio/4705.mp3]]~ carpets
-
-~ music has a lot of pleasant-sounding instruments or voices together  ![[100. media/audio/11483.mp3]]~ vocal harmonies
-
-very attractive or nice – used especially by young people  ![[100. media/audio/457.mp3]]He looks so ~ in this pic!
-<!--SR:!2025-10-26,2,241-->
--
 lusty ![[100. media/audio/8335.mp3]] ![[100. media/audio/4444.mp3]] ![[100. media/audio/11278.mp3]] ![[100. media/audio/10952.mp3]]
 ?
 ![[100. media/image/6736.jpg|200]]  
@@ -61,5 +48,26 @@ strong and healthy SYN powerful (vigorous, peppy)
 ![[100. media/audio/6327.mp3]]Her mother was singing ~ily.
 <!--SR:!2025-10-31,1,230-->
 -
+
+latent ![[4F7154E4066CD30251.mp3]] ![[4F712EE90432C602E3.mp3]]
+?
+something that is latent is present but hidden may develop or become more noticeable in the future → dormant
+
+latent snobbery
+![[speech_20251028015852503.mp3]] ![[speech_20251028015911360.mp3]]
+a verification-and-refinement pipeline is essential for converting their latent capabilities into rigorous mathematical proofs.
+![[speech_20251028015945962.mp3]] ![[speech_20251028020014045.mp3]]
+<!--SR:!2025-10-31,3,258-->
+-
+
+legwork ![[4F715518067B150072.mp3]] ![[4F712F1B0341450299.mp3]]
+?
+the hard boring job that has to be done in order to achieve something. 탐방, 탐문 조사
+
+The legwork needed to build this bespoke tooling to be able to pull this project off was too much.
+![[speech_20251029070143056.mp3]] ![[speech_20251029070234310.mp3]]
+<!--SR:!2025-10-30,1,238-->
+-
+
 
 #Vocabulary

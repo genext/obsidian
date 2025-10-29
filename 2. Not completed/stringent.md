@@ -1,1 +1,0 @@
-Most other countries have similarly stringent selection processes

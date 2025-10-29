@@ -1,0 +1,1 @@
+Imagine I were to take a piece of cloth, put some colored pigments on it.

@@ -5,7 +5,7 @@ nucleus accumbens(측좌핵) 보상, 동기 부여, 쾌락 및 중독과 관련�
 
 An orgasm is produced when a build-up of dopamine is released suddenly to activate the nucleus accumbens and produce intense feelings of pleasure.
 ![[100. media/audio/pXlWY4IoHY.mp3]] ![[100. media/audio/9xFJtr3Z-5.mp3]]
-<!--SR:!2025-10-28,4,230-->
+<!--SR:!2025-11-05,8,230-->
 -
 
 apprise ![[100. media/audio/lCnIMS8V.mp3]] ![[100. media/audio/4ONup1lF.mp3]]
@@ -16,7 +16,7 @@ formal to tell or give someone information about something SYN inform
 
 He wasn't on shift, but he was kept apprised at all times.![[100. media/audio/FoNrWMWw.mp3]]
 The district chairman was fully apprised of all the details.![[100. media/audio/vm5xRmk9.mp3]]
-<!--SR:!2025-11-03,8,261-->
+<!--SR:!2025-11-03,7,261-->
 -
 
 abbreviation ![[100. media/audio/2852.mp3]] ![[100. media/audio/2394.mp3]] ![[100. media/audio/12895.mp3]] ![[100. media/audio/9250.mp3]]
@@ -62,10 +62,10 @@ friendly and easy to like
 ![[100. media/image/8430.jpg|200]]
 
 ![[100. media/audio/7395.mp3]]The driver was an ~ young man.  ![[100. media/audio/9485.mp3]]She was in an ~ mood.
-<!--SR:!2025-10-27,4,283-->
+<!--SR:!2025-11-08,12,283-->
 -
 
-afflict ![[100. media/audio/7302.mp3]] ![[100. media/audio/5248.mp3]] ![[100. media/audio/4629.mp3]] ![[100. media/audio/7955.mp3]]
+afflict  ![[100. media/audio/5248.mp3]] ![[100. media/audio/4629.mp3]] ![[100. media/audio/7955.mp3]]
 ?
 ![[100. media/image/6210.jpg|200]]
 
@@ -73,115 +73,13 @@ afflict ![[100. media/audio/7302.mp3]] ![[100. media/audio/5248.mp3]] ![[100. me
 - to cause suffering or unhappiness, something a disease does, but _inflict_ means to force pain or suffering, like if you smack someone upside the head.
 
 ![[100. media/audio/6341.mp3]]a country ~ed by famine
-<!--SR:!2025-10-27,4,284-->
+<!--SR:!2025-11-08,12,284-->
 -
-  
-antics ![[100. media/audio/10843.mp3]] ![[100. media/audio/5218.mp3]] ![[100. media/audio/2743.mp3]] ![[100. media/audio/4167.mp3]]
-?
-are playful, funny, or unusual actions or behaviors. They are often attention-grabbing and can be eccentric or theatrically exaggerated.
-![[100. media/image/7710.jpg|200]]![[100. media/image/5278.jpg|200]]
-**Synonyms:** Pranks, capers, tricks, shenanigans, tomfoolery.
-![[100. media/audio/1526.mp3]]We're all growing tired of his childish ~.
-![[100. media/audio/11125.mp3]]Her ~ during the team-building exercise lightened the mood.
-![[100. media/audio/566.mp3]]The ~ of the characters in the sitcom are a major part of its appeal.
-
-**Etymology:** comes from the Italian "antico," which means 'old' or 'antique.' This evolved from the idea of an antique style of art to represent playful or grotesque figures, leading to the current meaning of playful or bizarre behavior.
-<!--SR:!2025-11-03,8,261-->
--
-
-adv**e**rse ![[100. media/audio/5768.mp3]] ![[100. media/audio/11459.mp3]] ![[100. media/audio/2320.mp3]]
-?
-not good or favorable = hostile
-![[100. media/image/8735.jpg|200]]
-
-![[100. media/audio/1134.mp3]]They fear it could have an ~ effect on global financial markets.![[100. media/audio/8675.mp3]]Miller's campaign has received a good deal of ~ publicity.
-
-~ conditions
-conditions that make it difficult for something to happen or exist
-![[100. media/audio/4659.mp3]]The expedition was abandoned because of adverse weather conditions.
-
-![[100. media/audio/2835.mp3]]developments which had adversely affected their business
-<!--SR:!2025-10-27,4,281-->
--
-
-arbitrage ![[100. media/audio/4927.mp3]] ![[100. media/audio/2265.mp3]] ![[100. media/audio/2144.mp3]] ![[100. media/audio/8364.mp3]]
-?
-the process of buying something such as raw materials or **currency** in one place and selling them immediately in another place in order to make a profit from the difference in prices
-![[100. media/image/5305.jpg|200]]
-
-SYN trading
-
-![[100. media/audio/7524.mp3]]He made a significant profit through ~ by exploiting the price differences in gold between two different markets.
-![[100. media/audio/4548.mp3]]~ opportunities are often quickly eliminated by the market forces as traders seek to take advantage of the price discrepancies.
-![[100. media/audio/10281.mp3]]With the advent of high-speed trading, ~ has become an increasingly sophisticated and high-tech endeavor.
-<!--SR:!2025-10-27,4,281-->
--
-
-artifact ![[100. media/audio/9424.mp3]] ![[100. media/audio/3435.mp3]] ![[100. media/audio/11022.mp3]] ![[100. media/audio/1865.mp3]]
-?
-an object such as a tool, weapon etc that was made in the past and is historically important
-![[100. media/image/7358.jpg|200]]
-
-![[100. media/audio/4434.mp3]]ancient Egyptian ~s
-<!--SR:!2025-10-26,3,261-->
--
-
-amphitheater ![[100. media/audio/375.mp3]] ![[100. media/audio/9372.mp3]]
-?
-an open-air venue, typically oval or circular in shape, with tiers of seats or steps rising around a central open space used for public spectacles, sports, or performances.
-![[100. media/image/3112.jpg|200]]
-**Synonyms:** Coliseum, Arena, Stadium, Auditorium, Bowl.
-![[100. media/audio/8.mp3]]The ancient Roman ~ was a marvel of engineering for its time.
-![[100. media/audio/3805.mp3]]The ~ical design of the building allowed everyone a clear view of the stage.
-
-**Etymology:** is derived from the Greek "amphitheatron," with "amphi" meaning "on both sides" or "around" and "theatron," meaning "theater" or "place for viewing."
-<!--SR:!2025-11-05,1,230-->
--
-
-abstain
-?
-![[100. media/image/902.png|200]]
-to choose not to vote for or against something
-
-![[100. media/audio/5022.mp3]]Six countries voted for the change, five voted against, and two ~ed.
-
-![[100. media/image/9029.jpg|200]]
-to not do or have something you enjoy, especially alcohol or sex, usually for reasons of religion or health --> abstinent, abstinence
-![[100. media/audio/8706.mp3]]Pilots must ~ from alcohol for 24 hours before flying.
-<!--SR:!2025-10-31,1,230-->
--
-
-account for something
-?
-to form a particular amount or part of something  to constitute or compose something in number or proportion
-![[100. media/audio/2645.mp3]]Afro-Americans ~ for 12% of the US population.
-![[100. media/audio/12273.mp3]]Students ~ for the majority of the population in this university town.
-
-to be the reason why something happens SYN explain   to explain or justify something,![[100. media/audio/379.mp3]]The scientist had to ~ for the anomalies in the experiment's results.
-![[100. media/audio/12675.mp3]]Recent pressure at work may ~ for his behavior.
-
-to give a satisfactory explanation of why something has happened or why you did something SYN explain  ![[100. media/audio/1398.mp3]]Can you ~ for your movements on that night?
-
-to consider or treat something in a particular way.
-![[100. media/audio/8044.mp3]]The new law ~ for differences in income levels among various social groups.
-
-to say where all the members of a group of people or things are, especially because you are worried that some of them may be lost  ![[100. media/audio/12049.mp3]]Three days after the earthquake, more than 150 people had still to be ~ed for.
-<!--SR:!2025-10-31,1,230-->
--
-
-arachnoid ![[100. media/audio/7721.mp3]] ![[100. media/audio/2035.mp3]]
-?
-![[100. media/image/9736.jpg|200]]
-like a spider or arachnid.
-
-a fine, delicate membrane, the middle one of the three membranes or meninges that surround the brain and spinal cord, situated between the dura mater and the pia mater.
-<!--SR:!2025-10-31,1,230-->
--
-abbrviate ![[100. media/audio/7537.mp3]] ![[100. media/audio/3368.mp3]] ![[100. media/audio/2897.mp3]] ![[100. media/audio/4682.mp3]]
+abbr**e**viate ![[100. media/audio/7537.mp3]] ![[100. media/audio/3368.mp3]] ![[100. media/audio/2897.mp3]] ![[100. media/audio/4682.mp3]]
 ?
 to make a word or expression shorter by not including letters or using only the first letter of each word SYN shorten
 ![[100. media/audio/9992.mp3]]‘Information technology’ is usually abbreviated to ‘IT’
-<!--SR:!2025-11-15,1,230-->
+<!--SR:!2025-11-19,1,230-->
 -
 
 
@@ -193,7 +91,7 @@ used to say that someone dislikes someone or something very much
 ![[100. media/audio/12670.mp3]]I can’t abide that man – he’s so self-satisfied.
 
 abide by something phrasal verbto accept and obey a decision, rule, agreement etc, even though you may not agree with it  ![[100. media/audio/1803.mp3]]You have to abide by the referee’s decision.
-<!--SR:!2025-11-15,1,230-->
+<!--SR:!2025-11-19,1,230-->
 -
 
 
@@ -201,7 +99,7 @@ abiding ![[100. media/audio/8699.mp3]] ![[100. media/audio/7875.mp3]]
 ?
 an ~ feeling or belief continues for a long time and is not likey to change SYN lasting  ![[100. media/image/12789.jpg|200]]
 ![[100. media/audio/11057.mp3]]Phil has a deep and ~ love for his family.
-<!--SR:!2025-11-15,1,230-->
+<!--SR:!2025-11-19,1,230-->
 -
 
 
@@ -219,7 +117,7 @@ an ~ action or expression shows that you feel very ashamed
 ![[100. media/audio/10577.mp3]]The novel portrays the ~ despair of a family caught in the **throes** of war.
 
 Etymology: Derived from the Latin "abiectus," meaning "cast down," which itself comes from "ab-" (away) and "iacere" (to throw).
-<!--SR:!2025-11-15,1,230-->
+<!--SR:!2025-11-19,1,230-->
 -
 
 
@@ -233,7 +131,7 @@ formal someone’s home – sometimes used humorously
 right of ~
 law the right to live in a country
 ![[100. media/audio/9865.mp3]]He has the right of ~ in the UK (=he has the right to live there).
-<!--SR:!2025-11-15,1,230-->
+<!--SR:!2025-11-19,1,230-->
 -
 
 
@@ -250,7 +148,7 @@ SYN despise, hate, disdain
 ![[100. media/audio/10001.mp3]]Slavery was an ~.
 
 **Etymology:** originates from the Latin "abominatus," which is the past participle of "abominari," meaning "to deprecate as an ill omen" or "to detest, abhor." The Latin "abominari" is formed from "ab-" (away) and "ominari" (to forebode, predict), from "omen" (omen).
-<!--SR:!2025-11-15,1,230-->
+<!--SR:!2025-11-19,1,230-->
 -
 
 
@@ -266,7 +164,7 @@ an ~ book, play etc has been made shorter but keeps its basic structure and me
 
 **Etymology:** comes from the Old French "abregier," which itself is derived from the Latin "abbreviare," meaning "to shorten." This Latin term is a combination of "ad-" (to) and "brevis" (short).
 While '~' and 'abbreviate' share this common root and both involve shortening, they are typically used in slightly different contexts. "~" often refers to **reducing the length of a text or work** while maintaining its essence or main points, and "abbreviate" usually refers to **shortening words or phrases**, often in writing.
-<!--SR:!2025-11-15,1,230-->
+<!--SR:!2025-11-19,1,230-->
 -
 
 
@@ -275,15 +173,14 @@ absent ![[100. media/audio/1812.mp3]] ![[100. media/audio/7524.mp3]] ![[100. med
 if someone or something is ~, they are missing or not in the place where they are expected to be
 ![[100. media/audio/8664.mp3]]plans to force ~ fathers to pay child maintenance
 ![[100. media/audio/5763.mp3]]Local women were conspicuously ~ (=obviously not there) from the meeting.
-<!--SR:!2025-11-15,1,230-->
+<!--SR:!2025-11-19,1,230-->
 -
 
 
-absenteeism ![[100. media/audio/5146.mp3]] ![[100. media/audio/5104.mp3]] ![[100. media/audio/8854.mp3]] ![[100. media/audio/2234.mp3]]
-?
 regular absence from work or school without a good reason
-![[100. media/image/11160.jpg|200]]
-<!--SR:!2025-11-15,1,230-->
+?
+absenteeism![[100. media/audio/5146.mp3]]![[100. media/audio/5104.mp3]]![[100. media/audio/8854.mp3]]![[100. media/audio/2234.mp3]]
+<!--SR:!2025-11-19,1,230-->
 -
 
 
@@ -297,7 +194,7 @@ to choose not to vote for or against something
 ![[100. media/image/9101.jpg|200]]
 to not do or have something you enjoy, especially alcohol or sex, usually for reasons of religion or health --> abstinent, abstinence
 ![[100. media/audio/2431.mp3]]Pilots must ~ from alcohol for 24 hours before flying.
-<!--SR:!2025-11-15,1,230-->
+<!--SR:!2025-11-19,1,230-->
 -
 
 
@@ -313,7 +210,7 @@ SYN support, buttress, base, foundation
 ![[100. media/audio/12576.mp3]]The ~ of the old railway bridge was made of stone, showcasing impressive masonry skills of the past.
 
 **Etymology:** The word originates from the combination of "a-" (to, on) and "butt" (to join), with the suffix "-ment" denoting the result of an action.
-<!--SR:!2025-11-15,1,230-->
+<!--SR:!2025-11-19,1,230-->
 -
 
 
@@ -329,7 +226,7 @@ SYN cohort, **confederate**
 ![[100. media/audio/3884.mp3]]The police arrested not just the thief, but also his ~ who kept watch during the robbery.
 
 very similar sound with accomplish but totally different meaning
-<!--SR:!2025-11-15,1,230-->
+<!--SR:!2025-11-19,1,230-->
 -
 
 
@@ -344,14 +241,26 @@ responsible for the effects of your actions and willing to explain or be cri
 hold somebody responsible/~/liable (for something)
 to say or decide that someone should accept the responsibility for something bad that happens
 ![[100. media/audio/463.mp3]]If anything happens to her, I’ll hold you personally responsible.  ![[100. media/audio/3039.mp3]]He may have had a terrible childhood, but he should still be held ~ for his own actions.
-<!--SR:!2025-11-15,1,230-->
+<!--SR:!2025-11-19,1,230-->
 -
 
 
-account for something ![[100. media/audio/3041.mp3]]
-?
 account for something
-<!--SR:!2025-11-15,1,230-->
+?
+to form a particular amount or part of something  to constitute or compose something in number or proportion
+![[100. media/audio/6117.mp3]]Afro-Americans ~ for 12% of the US population.
+![[100. media/audio/8984.mp3]]Students ~ for the majority of the population in this university town.
+
+to be the reason why something happens SYN explain   to explain or justify something,![[100. media/audio/9057.mp3]]The scientist had to ~ for the anomalies in the experiment's results.
+![[100. media/audio/2145.mp3]]Recent pressure at work may ~ for his behavior.
+
+to give a satisfactory explanation of why something has happened or why you did something SYN explain  ![[100. media/audio/9058.mp3]]Can you ~ for your movements on that night?
+
+to consider or treat something in a particular way.
+![[100. media/audio/3124.mp3]]The new law ~ for differences in income levels among various social groups.
+
+to say where all the members of a group of people or things are, especially because you are worried that some of them may be lost  ![[100. media/audio/3041.mp3]]Three days after the earthquake, more than 150 people had still to be ~ed for.
+<!--SR:!2025-11-19,1,230-->
 -
 
 
@@ -368,7 +277,7 @@ to gradually increase or grow by the addition of new layers or parts, or to 
 accretion![[100. media/audio/12758.mp3]]![[100. media/audio/6764.mp3]]a gradual process by which new things are added and something gradually changes or gets bigger
 
 **Etymology:** comes from the Latin "accretus," which is the past participle of "accrescere," meaning "to increase." "Accrescere" itself is formed from "ad-" (to, toward) and "crescere" (to grow).
-<!--SR:!2025-11-15,1,230-->
+<!--SR:!2025-11-19,1,230-->
 -
 
 
@@ -378,7 +287,7 @@ characterized by gradual growth or increase.
 
 _making the amount, level, or value of something gradually increase_
 ![[100. media/image/849.jpg|200]]
-<!--SR:!2025-11-15,1,230-->
+<!--SR:!2025-11-19,1,230-->
 -
 
 
@@ -394,11 +303,11 @@ if advanteges ~ to you, you get those advanteges over a period of time
 ![[100. media/audio/2037.mp3]]As he gained more experience in his field, his professional accolades began to ~.
 
 **Etymology:** This word stems from the Latin "accrescere," which combines "ad-" (to) and "crescere" (grow).
-<!--SR:!2025-11-15,1,230-->
+<!--SR:!2025-11-19,1,230-->
 -
 
 
-acquisce ![[100. media/audio/7048.mp3]] ![[100. media/audio/999.mp3]] ![[100. media/audio/5749.mp3]] ![[100. media/audio/3962.mp3]]
+acqui**e**sce ![[100. media/audio/7048.mp3]] ![[100. media/audio/999.mp3]] ![[100. media/audio/5749.mp3]] ![[100. media/audio/3962.mp3]]
 ?
 to do what someone else wants, or allow something to happen, even though you do not really agree with it
 ![[100. media/image/1429.jpg|200]]
@@ -409,7 +318,7 @@ SYN concede, yield, comply, consent(passively)
 ![[100. media/audio/6344.mp3]]Even though Sarah did not fully agree with the decision, she decided to ~ to her team's plan to maintain harmony.
 
 **Etymology:** derived from "ad-," a Latin prefix meaning "to," and "quiēscere," meaning "to rest."
-<!--SR:!2025-11-15,1,230-->
+<!--SR:!2025-11-19,1,230-->
 -
 
 
@@ -422,7 +331,7 @@ if children ~, they behave badly
 if a machine or part of your body ~s up, it does not work properly
 ![[100. media/audio/1667.mp3]]The computer is ~ing up again.
 Cf. Temperamental
-<!--SR:!2025-11-15,1,230-->
+<!--SR:!2025-11-19,1,230-->
 -
 
 
@@ -436,7 +345,7 @@ SYN sharpness, keenness, discernment
 ![[100. media/audio/6472.mp3]]A motorist needs good visual ~.
 ![[100. media/audio/4725.mp3]]The audio technician tested the ~ of the sound system before the concert.
 ![[100. media/audio/7344.mp3]]Her business ~ was evident in how she turned a failing company into a profitable one.
-<!--SR:!2025-11-15,1,230-->
+<!--SR:!2025-11-19,1,230-->
 -
 
 
@@ -450,7 +359,7 @@ SYN insight, savvy, sharpness, shrewdness
 ![[100. media/audio/12761.mp3]]The firm’s success is largely due to Brannon’s commercial ~.
 ![[100. media/audio/11584.mp3]]Warren Buffett's financial ~ is almost unparalleled, making him one of the richest men in the world.
 ![[100. media/audio/6658.mp3]]Her emotional ~ made her an excellent therapist, as she could understand and empathize with her clients' feelings.
-<!--SR:!2025-11-15,1,230-->
+<!--SR:!2025-11-19,1,230-->
 -
 
 
@@ -470,7 +379,7 @@ an ~ feeling is very strong
 ~ senses such as hearing, taste, touch etc are very good and sensitive
 ![[100. media/audio/10596.mp3]]Young children have a particularly ~ sense of smell.
 quick to notice and understand things SYN sharp![[100. media/audio/4324.mp3]]Simon’s vague manner concealed an ~ mind.  ![[100. media/audio/4699.mp3]]an ~ analysis of Middle Eastern politics
-<!--SR:!2025-11-15,1,230-->
+<!--SR:!2025-11-19,1,230-->
 -
 
 
@@ -485,7 +394,7 @@ good at something that needs care and skill SYN skillfull, proficient
 Cf. eptitude, aptitude
 
 **Etymology:** This word comes from Latin "adeptus," meaning someone who has achieved something, particularly in the context of esoteric practices.
-<!--SR:!2025-11-15,1,230-->
+<!--SR:!2025-11-19,1,230-->
 -
 
 
@@ -499,7 +408,7 @@ often used to describe solutions that are developed on the fly
 ![[100. media/audio/7175.mp3]]decisions made on an ~ basis
 ![[100. media/audio/10060.mp3]]An ~ committee was set up to investigate the allegations against the mayor.
  ![[100. media/audio/6509.mp3]]I didn't have time to make a cake, so I just threw together some ~ dessert using what I had in the pantry.
-<!--SR:!2025-11-15,1,230-->
+<!--SR:!2025-11-19,1,230-->
 -
 
 
@@ -512,15 +421,20 @@ a room, building, or piece of land that ~s something is next to it and connect
 ![[100. media/audio/6197.mp3]]A vacant plot of land ~s his house.
 ![[100. media/audio/1259.mp3]]~ing rooms
 ad‧ja‧cent
-<!--SR:!2025-11-15,1,230-->
+<!--SR:!2025-11-19,1,230-->
 -
 
 
-admittedly ![[100. media/audio/5613.mp3]]
+admittedly ![[100. media/audio/10723.mp3]] ![[100. media/audio/11898.mp3]] ![[100. media/audio/3899.mp3]] ![[100. media/audio/1716.mp3]]
 ?
-admittedly
-![[100. media/audio/10723.mp3]]![[100. media/audio/11898.mp3]]![[100. media/audio/3899.mp3]]![[100. media/audio/1716.mp3]]
-<!--SR:!2025-11-15,1,230-->
+used when you are admitting that something is true
+
+SYN granted, certainly
+
+![[100. media/audio/5462.mp3]]This has led to financial losses, though ~ on a fairly small scale.
+![[100. media/audio/7936.mp3]]**~**, the data is not complete, but it still points to an interesting trend.
+![[100. media/audio/5613.mp3]]The team is talented but **~** inexperienced.
+<!--SR:!2025-11-19,1,230-->
 -
 
 
@@ -540,7 +454,7 @@ ado ![[100. media/audio/4216.mp3]] ![[100. media/audio/2242.mp3]]
 ![[100. media/audio/1549.mp3]]_Despite all the ~ surrounding the celebrity wedding, it turned out to be a rather private and simple affair._
 
 ![[100. media/audio/648.mp3]]_The graduation ceremony went off without much ~, much to the relief of the students who preferred a straightforward event._
-<!--SR:!2025-11-15,1,230-->
+<!--SR:!2025-11-19,1,230-->
 -
 
 
@@ -558,15 +472,14 @@ without unnecessary or special features or decorations
 
 Etymology:
 The prefix "ad-" means "to," and "ornare" means "equip" or "decorate."
-<!--SR:!2025-11-15,1,230-->
+<!--SR:!2025-11-19,1,230-->
 -
 
 
-adulation ![[100. media/audio/9039.mp3]] ![[100. media/audio/11613.mp3]] ![[100. media/audio/7096.mp3]] ![[100. media/audio/12312.mp3]]
-?
 아첨, 지나친 찬사, 추종
-praise and admiration for someone that is more than they really deserve.
-<!--SR:!2025-11-15,1,230-->
+?
+adulation![[100. media/audio/9039.mp3]]![[100. media/audio/11613.mp3]]![[100. media/audio/7096.mp3]]![[100. media/audio/12312.mp3]]
+<!--SR:!2025-11-19,1,230-->
 -
 
 
@@ -581,7 +494,7 @@ a situation in which you have a lot of problems that seem to be caused by bad lu
 ![[100. media/audio/8599.mp3]]Despite facing considerable ~ in his early life, he persevered and achieved remarkable success.
 ![[100. media/audio/3818.mp3]]The community showed great unity and strength in the face of ~ during the natural disaster.
 ![[100. media/audio/1914.mp3]]Learning to overcome ~ is an important part of personal growth and development.
-<!--SR:!2025-11-15,1,230-->
+<!--SR:!2025-11-19,1,230-->
 -
 
 
@@ -594,11 +507,11 @@ to publicly support a particular way of doing something
 
 someone who publicly supports someone or something SYN proponent![[100. media/audio/4091.mp3]]She’s a passionate ~ of natural childbirth.
 ![[100. media/audio/11953.mp3]]an ~ for the disabled
-<!--SR:!2025-11-15,1,230-->
+<!--SR:!2025-11-19,1,230-->
 -
 
 
-advrse ![[100. media/audio/7831.mp3]] ![[100. media/audio/4009.mp3]] ![[100. media/audio/7329.mp3]]
+adv**e**rse ![[100. media/audio/7831.mp3]] ![[100. media/audio/4009.mp3]] ![[100. media/audio/7329.mp3]]
 ?
 not good or favorable = hostile
 ![[100. media/image/6440.jpg|200]]
@@ -610,7 +523,7 @@ conditions that make it difficult for something to happen or exist
 ![[100. media/audio/3876.mp3]]The expedition was abandoned because of adverse weather conditions.
 
 ![[100. media/audio/1435.mp3]]developments which had adversely affected their business
-<!--SR:!2025-11-15,1,230-->
+<!--SR:!2025-11-19,1,230-->
 -
 
 
@@ -624,7 +537,7 @@ connected with beauty and the study of beauty
 
 a set of principles about beauty or art
 ![[100. media/audio/7908.mp3]]a new ~
-<!--SR:!2025-11-15,1,230-->
+<!--SR:!2025-11-19,1,230-->
 -
 
 
@@ -636,7 +549,7 @@ friendly and easy to talk to SYN pleasant, amiable
 ![[100. media/audio/4592.mp3]]an ~ guy
 
 The word "~" comes from the Latin word "affabilis," which is derived from "affari" (to speak to). The root "**af**\-" means "to," and "-**fari**" means "to speak." In its original Latin context, "affabilis" means "approachable" or "easy to speak to."
-<!--SR:!2025-11-15,1,230-->
+<!--SR:!2025-11-19,1,230-->
 -
 
 
@@ -653,7 +566,7 @@ if a group or organization ~s to or with another larger one, it forms a close c
 a company, organization etc that is connected with or controlled by a larger one
 
 ![[100. media/audio/11394.mp3]]Volvo’s Japanese ~, Mitsubishi
-<!--SR:!2025-11-15,1,230-->
+<!--SR:!2025-11-19,1,230-->
 -
 
 
@@ -666,11 +579,24 @@ a close relationship between two things because of qualities or features that th
 ![[100. media/audio/435.mp3]]his remarkable ~ with animals
 
 ![[100. media/audio/11476.mp3]]the ~ between Christian and Chinese concepts of the spirit
-<!--SR:!2025-11-15,1,230-->
+<!--SR:!2025-11-19,1,230-->
 -
 
 
-affx ![[100. media/audio/2677.mp3]] ![[100. media/audio/10396.mp3]] ![[100. media/audio/1944.mp3]] ![[100. media/audio/7906.mp3]]
+afflict ![[100. media/audio/11073.mp3]] ![[100. media/audio/5214.mp3]] ![[100. media/audio/5579.mp3]] ![[100. media/audio/10460.mp3]]
+?
+![[100. media/image/3763.jpg|200]]
+
+to affect someone or something in an unpleasant way, and make them suffer
+
+![[100. media/audio/10417.mp3]]a country ~ed by famine
+
+to cause suffering or unhappiness, something a disease does, but _inflict_ means to force pain or suffering, like if you smack someone upside the head.
+<!--SR:!2025-11-19,1,230-->
+-
+
+
+aff**i**x ![[100. media/audio/2677.mp3]] ![[100. media/audio/10396.mp3]] ![[100. media/audio/1944.mp3]] ![[100. media/audio/7906.mp3]]
 ?
 ![[100. media/image/3742.jpg|200]]
 to fasten or stick something to something else
@@ -678,7 +604,7 @@ to fasten or stick something to something else
 ![[100. media/audio/5032.mp3]]A label must be ~ed to all parcels.
 
 attach와 차이점
-<!--SR:!2025-11-15,1,230-->
+<!--SR:!2025-11-19,1,230-->
 -
 
 
@@ -690,7 +616,7 @@ someone who is very interested in a particular activity or subject and knows 
 ![[100. media/audio/6235.mp3]]an ~ of fine food
 
 ![[100. media/audio/12218.mp3]]As a coffee ~, Sarah grinds her own beans and brews her coffee using a French press.
-<!--SR:!2025-11-15,1,230-->
+<!--SR:!2025-11-19,1,230-->
 -
 
 
@@ -698,7 +624,7 @@ aforementioned ![[100. media/audio/9123.mp3]] ![[100. media/audio/2179.mp3]] ![[
 ?
 the ~ lawmentioned before in an earlier part of a document, article, book etc
 ![[100. media/audio/2110.mp3]]The property belongs to the ~ed Mr Jones.
-<!--SR:!2025-11-15,1,230-->
+<!--SR:!2025-11-19,1,230-->
 -
 
 
@@ -715,7 +641,7 @@ to make a bad situation, an illness, or an injury worse <-> improve. **syn: exa
 ![[100. media/audio/6094.mp3]]What really ~s me is the way she won’t listen.
 
 **Etymology:** This is from "ad-" (to) + "gravis" (heavy).
-<!--SR:!2025-11-15,1,230-->
+<!--SR:!2025-11-19,1,230-->
 -
 
 
@@ -730,7 +656,7 @@ on ~ British English (=when the points from two football games are added togethe
 
 ![[100. media/image/11516.jpg|200]]
 technical sand or small stones that are used in making **concrete**
-<!--SR:!2025-11-15,1,230-->
+<!--SR:!2025-11-19,1,230-->
 -
 
 
@@ -743,7 +669,7 @@ to argue strongly in public for something you want, especially  a political or
 
 to make someone feel anxious, upset, and nervous
 ![[100. media/audio/12577.mp3]]I must warn you that any mention of Clare ~s your grandmother.
-<!--SR:!2025-11-15,1,230-->
+<!--SR:!2025-11-19,1,230-->
 -
 
 
@@ -756,11 +682,11 @@ someone who believes that people cannot know whether god exists or not
 ![[100. media/audio/7477.mp3]]The software is platform-~, meaning it can operate on any operating system.
 
 **Etymology:** derived from the Greek word "agnostos," which means "unknown, unknowable," from "**a-**" meaning "**not**" and "**gnostos**" meaning "**known**."
-<!--SR:!2025-11-15,1,230-->
+<!--SR:!2025-11-19,1,230-->
 -
 
 
-a good run for ones money
+a (good) run for (one's) money
 ?
 have a (good) ~ for your money
 informal to succeed in doing something successfully for a long time
@@ -773,14 +699,29 @@ to make your opponent in a competition use all their skill and effort to defeat 
 ![[100. media/audio/8661.mp3]]Their songs are becoming so popular that they are giving K-pop musicians a ~ for their money.
 
 ![[100. media/audio/8417.mp3]]Fierce competition from online shopping malls is giving department stores a ~ for their money.
-<!--SR:!2025-11-15,1,230-->
+<!--SR:!2025-11-19,1,230-->
 -
 
 
 a host of
 ?
-a host of
-<!--SR:!2025-11-15,1,230-->
+a large number of people or things
+
+Etymology:
+
+The word "~" originally comes from the Old French "~e," which means "guest" or "host." Over time, the meaning of the word has evolved, and it has come to be associated with large assemblies or groups, such as a "~ of angels" or a "~ of soldiers." The phrase "a ~ of" leverages this notion to imply a large number or multitude.
+
+
+
+SYN a large number of, a plethora of, a slew of, a multitude of, myriad
+
+![[100. media/audio/4738.mp3]]A ~ of show business celebrities have pledged their support.
+![[100. media/audio/12162.mp3]]The museum features a ~ of exhibits ranging from modern art to ancient history.
+
+a ~ of friends
+a whole ~ of words
+a ~ of celebrities
+<!--SR:!2025-11-19,1,230-->
 -
 
 
@@ -791,14 +732,23 @@ Cf. although, even though
 
 ![[100. media/audio/4047.mp3]]He accepted the job, ~ with some hesitation.
 ![[100. media/audio/3991.mp3]]Chris went with her, ~ reluctantly.
-<!--SR:!2025-11-15,1,230-->
+<!--SR:!2025-11-19,1,230-->
 -
 
 
-alienate
+alienate ![[100. media/audio/9083.mp3]] ![[100. media/audio/9399.mp3]] ![[100. media/audio/5079.mp3]] ![[100. media/audio/8870.mp3]]
 ?
-alienate![[100. media/audio/9083.mp3]]![[100. media/audio/9399.mp3]]![[100. media/audio/5079.mp3]]![[100. media/audio/8870.mp3]]
-<!--SR:!2025-11-15,1,230-->
+to do something that makes someone unfriendly or unwilling to support you  ![[100. media/image/9982.jpg|200]]
+![[100. media/audio/12680.mp3]]The latest tax proposals will alienate many voters.
+
+to make it difficult for someone to belong to a particular group or to feel comfortable with a particular person
+![[100. media/audio/10479.mp3]]He felt that his experiences had alienated him from society.
+![[100. media/audio/11301.mp3]]Gina had become alienated from her family.
+
+alienation![[100. media/audio/3081.mp3]]![[100. media/audio/3023.mp3]]
+![[100. media/audio/3297.mp3]]Unemployment may provoke a sense of alienation from society.
+![[100. media/audio/8587.mp3]]the alienation of voters
+<!--SR:!2025-11-19,1,230-->
 -
 
 
@@ -813,7 +763,7 @@ align ![[100. media/audio/8240.mp3]] ![[100. media/audio/6014.mp3]] ![[100. medi
 
 3. \[transitive\] to organize or change something so that it has the right relationship to something else
 ![[100. media/audio/11685.mp3]]This policy is closely ~ed with the goals of the organization.
-<!--SR:!2025-11-15,1,230-->
+<!--SR:!2025-11-19,1,230-->
 -
 
 
@@ -821,14 +771,19 @@ allele ![[100. media/audio/7373.mp3]] ![[100. media/audio/4881.mp3]]
 ?
 ![[100. media/image/10515.png|200]]
 An ~ is a variation of the same sequence of nucleotides at the same place on a long DNA molecule,
-<!--SR:!2025-11-15,1,230-->
+<!--SR:!2025-11-19,1,230-->
 -
 
 
-all hands on deck ![[100. media/audio/12821.mp3]]
-?
 all hands on deck
-<!--SR:!2025-11-15,1,230-->
+?
+used to say that everyone is needed to help in a particular situation
+![[100. media/image/6012.jpg|200]]
+
+![[100. media/audio/3965.mp3]]With only half an hour to get everything ready, it was all ~s on ~.
+![[100. media/audio/10788.mp3]]There's a fire in the warehouse! All ~s on ~!
+![[100. media/audio/12821.mp3]]The server crashed and users are reporting bugs; we need all ~s on ~ to fix this.
+<!--SR:!2025-11-19,1,230-->
 -
 
 
@@ -837,7 +792,7 @@ allot ![[100. media/audio/8308.mp3]] ![[100. media/audio/2464.mp3]] ![[100. medi
 to use a particular amount of time for something, or give a particular share of money, space etc to someone or something SYN allocate![[100. media/audio/3480.mp3]]Try and ~ two or three hours a day to revision.  ![[100. media/audio/8210.mp3]]Each school will be ~ted twenty seats.
 ![[100. media/audio/2272.mp3]]Everyone who works for the company has been ~ted ten shares.
 ![[100. media/audio/3653.mp3]]The department has already spent more than its ~ted budget.
-<!--SR:!2025-11-15,1,230-->
+<!--SR:!2025-11-19,1,230-->
 -
 
 
@@ -845,19 +800,13 @@ all the same
 ?
 in spite of something that you have just mentioned
 
-
-
-
-
 SYN: regardless, nonetheless
-
-
 ![[100. media/audio/2542.mp3]]I’m not likely to run out of money but, ~, I’m careful.
 
 ![[100. media/audio/8341.mp3]]It was raining, but they played the match ~.(=It was raining, but they played the match nonetheless.)
 
 ![[100. media/audio/9394.mp3]]She knew it was a risky investment; she went ahead with it ~.(=She knew it was a risky investment; she went ahead with it in spite of that.)
-<!--SR:!2025-11-15,1,230-->
+<!--SR:!2025-11-19,1,230-->
 -
 
 
@@ -874,18 +823,18 @@ allude ![[100. media/audio/8965.mp3]] ![[100. media/audio/7404.mp3]] ![[100. med
 
 
 The origin of the word "~" can be traced back to Latin, from the verb "alludere," which is formed by "ad-" meaning "to" and "ludere" meaning "to play." This reflects the playful or indirect aspect of the meaning, where one is essentially 'playing around' the subject without directly mentioning it.
-<!--SR:!2025-11-15,1,230-->
+<!--SR:!2025-11-19,1,230-->
 -
 
 
-allviate ![[100. media/audio/2581.mp3]] ![[100. media/audio/10944.mp3]] ![[100. media/audio/10424.mp3]] ![[100. media/audio/4557.mp3]]
+all**e**viate ![[100. media/audio/2581.mp3]] ![[100. media/audio/10944.mp3]] ![[100. media/audio/10424.mp3]] ![[100. media/audio/4557.mp3]]
 ?
 고통을 경감하다, 완화하다, 덜다
 to make something less painful or difficult to deal with
 
 ![[100. media/audio/11538.mp3]]a new medicine to ~ the symptoms of flu
 ![[100. media/audio/10761.mp3]]measures to ~ poverty
-<!--SR:!2025-11-15,1,230-->
+<!--SR:!2025-11-19,1,230-->
 -
 
 
@@ -895,7 +844,7 @@ altar ![[100. media/audio/3677.mp3]] ![[100. media/audio/8300.mp3]] ![[100. medi
 a holy table or surface used in religious ceremonies
 
 ![[100. media/audio/35.mp3]]a crucifix above the high ~ (=the main altar in a church)  ![[100. media/audio/9195.mp3]]The victim was tied to a sacrificial ~.
-<!--SR:!2025-11-15,1,230-->
+<!--SR:!2025-11-19,1,230-->
 -
 
 
@@ -910,7 +859,7 @@ to make a piece of clothing longer, wider etc so that it fits
 ![[100. media/audio/12529.mp3]]She had the dress ~ed for the wedding.
 ~ a dress: to reform a dress
 change clothes: to switch clothes
-<!--SR:!2025-11-15,1,230-->
+<!--SR:!2025-11-19,1,230-->
 -
 
 
@@ -923,11 +872,11 @@ it's the ~ mentorship that makes Stack Overflow such a powerful community
 OPP egoistic, selfish
 
 ![[100. media/audio/4472.mp3]]Were his motives entirely ~?
-<!--SR:!2025-11-15,1,230-->
+<!--SR:!2025-11-19,1,230-->
 -
 
 
-ambianceambience ![[100. media/audio/5068.mp3]] ![[100. media/audio/12185.mp3]] ![[100. media/audio/4638.mp3]] ![[100. media/audio/4991.mp3]]
+ambiance,ambience ![[100. media/audio/5068.mp3]] ![[100. media/audio/12185.mp3]] ![[100. media/audio/4638.mp3]] ![[100. media/audio/4991.mp3]]
 ?
 ![[100. media/image/10652.jpg|200]]
 the qualities and character of a particular place and the way these make you feel SYN atmosphere, vibes
@@ -936,20 +885,20 @@ the qualities and character of a particular place and the way these make you fee
 ![[100. media/audio/7305.mp3]]The ~ of the old library, with its antique books and wooden shelves, transported visitors to a different era.
 
 **Etymology:** comes from the French "ambiance," which in turn derives from the Latin "ambientem," meaning "going around" or "surrounding."
-<!--SR:!2025-11-15,1,230-->
+<!--SR:!2025-11-19,1,230-->
 -
 
 
-ambigity ![[100. media/audio/4034.mp3]] ![[100. media/audio/4228.mp3]] ![[100. media/audio/8204.mp3]] ![[100. media/audio/12660.mp3]]
+ambig**u**ity ![[100. media/audio/4034.mp3]] ![[100. media/audio/4228.mp3]] ![[100. media/audio/8204.mp3]] ![[100. media/audio/12660.mp3]]
 ?
 ![[100. media/image/9251.jpg|200]]
 모호함, 불명확함
 ![[100. media/audio/1244.mp3]]There was an element of ~ in the president’s reply. ![[100. media/audio/6366.mp3]]legal ~ies
-<!--SR:!2025-11-15,1,230-->
+<!--SR:!2025-11-19,1,230-->
 -
 
 
-ambvalent ![[100. media/audio/10870.mp3]] ![[100. media/audio/1369.mp3]] ![[100. media/audio/8650.mp3]] ![[100. media/audio/3792.mp3]]
+amb**i**valent ![[100. media/audio/10870.mp3]] ![[100. media/audio/1369.mp3]] ![[100. media/audio/8650.mp3]] ![[100. media/audio/3792.mp3]]
 ?
 ![[100. media/image/7340.jpg|200]]
 상반된 감정이 공존하는
@@ -957,23 +906,14 @@ ambvalent ![[100. media/audio/10870.mp3]] ![[100. media/audio/1369.mp3]] ![[100.
 ![[100. media/audio/2562.mp3]]We are both somewhat ambivalent about having a child.
 
 ![[100. media/audio/3587.mp3]]O'Neill had a genuine ambivalence toward US involvement in the war.
-<!--SR:!2025-11-15,1,230-->
+<!--SR:!2025-11-19,1,230-->
 -
 
 
-a medical condition affecting your brain that can make you suddenly become unconscious or unable to control your movements for a short time
+amnesia
 ?
-++e++pilepsy
-![[100. media/audio/9198.mp3]]![[100. media/audio/4429.mp3]]![[100. media/audio/879.mp3]]![[100. media/audio/5663.mp3]]
-<!--SR:!2025-11-15,1,230-->
--
-
-
-amnesia ![[100. media/audio/12050.mp3]] ![[100. media/audio/5120.mp3]] ![[100. media/audio/6543.mp3]] ![[100. media/audio/9897.mp3]]
-?
-![[100. media/image/2881.jpg|200]]
-the medical condition of not being able to remember anything
-<!--SR:!2025-11-15,1,230-->
+amnesia![[100. media/audio/12050.mp3]]![[100. media/audio/5120.mp3]]![[100. media/audio/6543.mp3]]![[100. media/audio/9897.mp3]]
+<!--SR:!2025-11-19,1,230-->
 -
 
 
@@ -983,7 +923,7 @@ describes showing, feeling, or relating to sexual desire or romantic love.
 ![[100. media/image/2194.jpg|200]]
 **Synonyms:** Romantic, Passionate, Loving, Affectionate, Erotic, Ardent.
 ![[100. media/audio/6171.mp3]]She resisted his ~ advances.  ![[100. media/audio/2882.mp3]]He was always boasting about his ~ adventures.
-<!--SR:!2025-11-15,1,230-->
+<!--SR:!2025-11-19,1,230-->
 -
 
 
@@ -993,7 +933,7 @@ to cut off someone’s arm, leg, finger etc during a medical operation
 ![[100. media/image/10026.jpg|200]]
 
 ![[100. media/audio/3218.mp3]]Two of her toes were amputated because of frostbite.
-<!--SR:!2025-11-15,1,230-->
+<!--SR:!2025-11-19,1,230-->
 -
 
 
@@ -1012,7 +952,17 @@ The ~ is a set of small, almond-shaped clusters of nuclei located deep within th
 ![[100. media/audio/9714.mp3]]Therapists are exploring ways to calm the ~ in patients with anxiety disorders.
 
 Etymology: The word "~" comes from the Greek word "amygdale," meaning "almond," due to its almond-like shape.
-<!--SR:!2025-11-15,1,230-->
+<!--SR:!2025-11-19,1,230-->
+-
+
+
+anat**o**mic, anat**o**mical ![[100. media/audio/9536.mp3]] ![[100. media/audio/5330.mp3]] ![[100. media/audio/6444.mp3]] ![[100. media/audio/8913.mp3]]
+?
+![[100. media/image/7137.jpg|200]]
+해부학의, 해부 조직상의
+relating to the structure of human or animal bodies
+![[100. media/audio/8831.mp3]]an anatomical examination
+<!--SR:!2025-11-19,1,230-->
 -
 
 
@@ -1027,7 +977,7 @@ Providing necessary support to the primary activities or operation of an organiz
 ![[100. media/audio/6822.mp3]]They offered ~ services to their main line of business to attract a broader customer base.
 
 **Etymology**: comes from the Latin "ancilla," meaning "maid," and originally referred to something that serves in a subsidiary or supporting role, much like a maid or a servant.
-<!--SR:!2025-11-15,1,230-->
+<!--SR:!2025-11-19,1,230-->
 -
 
 
@@ -1038,7 +988,7 @@ strong dislike or hatred SYN hostility
 
 ![[100. media/audio/4842.mp3]]There is no personal ~ between the party leaders.
 ![[100. media/audio/10805.mp3]]She felt a certain amount of ~ towards him.
-<!--SR:!2025-11-15,1,230-->
+<!--SR:!2025-11-19,1,230-->
 -
 
 
@@ -1056,7 +1006,7 @@ to defeat someone easily and completely in a game or competition
 
 
 **Etymology**: This is formed from Latin "ad-" (to, towards) and "nihil" (nothing).
-<!--SR:!2025-11-15,1,230-->
+<!--SR:!2025-11-19,1,230-->
 -
 
 
@@ -1070,7 +1020,7 @@ to add short notes to a book or piece of writing to explain parts of it
 ![[100. media/audio/10989.mp3]]In legal documents, lawyers frequently ~ clauses for clarity and precision.
 ![[100. media/audio/11202.mp3]]~ing digital photos can help in organizing and remembering details about the pictures.
 ![[100. media/audio/459.mp3]]Professors often ~ student papers with suggestions and corrections.
-<!--SR:!2025-11-15,1,230-->
+<!--SR:!2025-11-19,1,230-->
 -
 
 
@@ -1080,15 +1030,14 @@ formal something that is noticeable because it is different from what is usual
 ![[100. media/image/5885.png|200]]
 
 ![[100. media/audio/3786.mp3]]In those days, a woman professor was still an ~. ****![[100. media/audio/9615.mp3]]various ~ies in the tax system
-<!--SR:!2025-11-15,1,230-->
+<!--SR:!2025-11-19,1,230-->
 -
 
 
-antagonist ![[100. media/audio/2729.mp3]] ![[100. media/audio/4329.mp3]] ![[100. media/audio/12642.mp3]] ![[100. media/audio/6312.mp3]]
+antagonist
 ?
-![[100. media/image/4490.jpg|200]]
-your opponent in a competition, battle, quarrel etc
-<!--SR:!2025-11-15,1,230-->
+antagonist![[100. media/audio/2729.mp3]]![[100. media/audio/4329.mp3]]![[100. media/audio/12642.mp3]]![[100. media/audio/6312.mp3]]
+<!--SR:!2025-11-19,1,230-->
 -
 
 
@@ -1104,18 +1053,38 @@ instigate hostility in someone.
 SYN provoke, agitate
 ![[100. media/audio/8689.mp3]]Don't ~ the dog; it's already scared and might bite.
 ![[100. media/audio/100.mp3]]Her comments ~ed the already tense relationship between the two countries.
-<!--SR:!2025-11-15,1,230-->
+<!--SR:!2025-11-19,1,230-->
 -
 
 
-antiquated ![[100. media/audio/809.mp3]]
+antics ![[100. media/audio/1878.mp3]] ![[100. media/audio/11514.mp3]] ![[100. media/audio/11437.mp3]] ![[100. media/audio/1845.mp3]]
 ?
-**antiquated** ![[100. media/audio/8151.mp3]]![[100. media/audio/4437.mp3]]
-<!--SR:!2025-11-15,1,230-->
+are playful, funny, or unusual actions or behaviors. They are often attention-grabbing and can be eccentric or theatrically exaggerated.
+![[100. media/image/9483.jpg|200]]![[100. media/image/10383.jpg|200]]
+**Synonyms:** Pranks, capers, tricks, shenanigans, tomfoolery.
+![[100. media/audio/11234.mp3]]We’re all growing tired of his childish ~.
+![[100. media/audio/2248.mp3]]Her ~ during the team-building exercise lightened the mood.
+![[100. media/audio/9712.mp3]]The ~ of the characters in the sitcom are a major part of its appeal.
+
+**Etymology:** comes from the Italian "antico," which means 'old' or 'antique.' This evolved from the idea of an antique style of art to represent playful or grotesque figures, leading to the current meaning of playful or bizarre behavior.
+<!--SR:!2025-11-19,1,230-->
 -
 
 
-apcalypse ![[100. media/audio/2446.mp3]] ![[100. media/audio/4448.mp3]] ![[100. media/audio/2678.mp3]] ![[100. media/audio/1357.mp3]]
+**antiquated** ![[100. media/audio/8151.mp3]] ![[100. media/audio/4437.mp3]]
+?
+![[100. media/audio/7405.mp3]]old-fashioned and not suitable for modern needs or conditions – used to show disapproval SYN outdated
+![[100. media/image/3085.jpg|200]]
+
+SYN obsolete, outdated
+
+![[100. media/audio/4461.mp3]]~ laws
+![[100. media/audio/809.mp3]]His ~ attire made him stand out in the modern crowd.
+<!--SR:!2025-11-19,1,230-->
+-
+
+
+ap**o**calypse ![[100. media/audio/2446.mp3]] ![[100. media/audio/4448.mp3]] ![[100. media/audio/2678.mp3]] ![[100. media/audio/1357.mp3]]
 ?
 the apocalypse
 the destruction and end of the world
@@ -1124,7 +1093,7 @@ the destruction and end of the world
 
 a situation in which a lot of people die or suffer, and a lot of damage is done
 ![[100. media/audio/7736.mp3]]A lot of investors now fear a stock market apocalypse.
-<!--SR:!2025-11-15,1,230-->
+<!--SR:!2025-11-19,1,230-->
 -
 
 
@@ -1138,7 +1107,7 @@ the small hole at the front of a camera, which can be made larger or smaller t
 ![[100. media/audio/4873.mp3]]The telescope has a large ~ to capture more light from distant stars.
 ![[100. media/audio/4565.mp3]]The architect designed the building with several ~s for natural light.
 **Etymology**: The term comes from the Latin word "apertura," which means 'an opening,' derived from "aperire," which means 'to open.'
-<!--SR:!2025-11-15,1,230-->
+<!--SR:!2025-11-19,1,230-->
 -
 
 
@@ -1146,18 +1115,20 @@ appal ![[100. media/audio/8257.mp3]] ![[100. media/audio/391.mp3]] ![[100. media
 ?
 to make someone feel very shocked and upset SYN horrify  ![[100. media/image/5533.jpg|200]]
 ![[100. media/audio/2534.mp3]]The way we kill animals ~s a lot of people.  ![[100. media/audio/1954.mp3]]The decision to execute the two men has ~led many politicians.
-<!--SR:!2025-11-15,1,230-->
+<!--SR:!2025-11-19,1,230-->
 -
 
 
-apparition
+apparition ![[100. media/audio/4811.mp3]] ![[100. media/audio/304.mp3]] ![[100. media/audio/9713.mp3]] ![[100. media/audio/8006.mp3]]
 ?
-apparition![[100. media/audio/4811.mp3]]![[100. media/audio/304.mp3]]![[100. media/audio/9713.mp3]]![[100. media/audio/8006.mp3]]
-<!--SR:!2025-11-15,1,230-->
+something that you imagine you can see, especially the spirit of a dead person  ![[100. media/image/9875.jpg|200]]
+![[100. media/audio/9571.mp3]]He stared at the strange ~ before him.
+![[100. media/audio/6788.mp3]]a ghostly ~ of a man
+<!--SR:!2025-11-19,1,230-->
 -
 
 
-aprops ![[100. media/audio/5809.mp3]] ![[100. media/audio/10598.mp3]] ![[100. media/audio/5254.mp3]] ![[100. media/audio/7343.mp3]]
+aprop**o**s ![[100. media/audio/5809.mp3]] ![[100. media/audio/10598.mp3]] ![[100. media/audio/5254.mp3]] ![[100. media/audio/7343.mp3]]
 ?
 means being both relevant and timely, usually used to indicate that a comment is very suitable for the present situation or circumstance. As a preposition, it means concerning or with reference to.
 
@@ -1170,7 +1141,7 @@ means being both relevant and timely, usually used to indicate that a comment is
 
 ~ of nothing (=not relating to anything previously mentioned)
 ![[100. media/audio/8590.mp3]]~ of nothing, he suddenly asked me if I liked cats!
-<!--SR:!2025-11-15,1,230-->
+<!--SR:!2025-11-19,1,230-->
 -
 
 
@@ -1185,7 +1156,7 @@ to have a natural tendency to do something SYN tend to![[100. media/audio/9293.
 
 an ~ pupil/student formal
  a student who is quick to learn and understand SYN able
-<!--SR:!2025-11-15,1,230-->
+<!--SR:!2025-11-19,1,230-->
 -
 
 
@@ -1197,7 +1168,7 @@ natural ability or skill, especially in learning
 ![[100. media/audio/11322.mp3]]He has a natural ~ for teaching.
 
 aptitude test
-<!--SR:!2025-11-15,1,230-->
+<!--SR:!2025-11-19,1,230-->
 -
 
 
@@ -1206,7 +1177,21 @@ arachnophobia ![[100. media/audio/4334.mp3]] ![[100. media/audio/4696.mp3]]
 ![[100. media/image/9719.jpg|200]]
 거미 공포증
 ![[100. media/audio/11995.mp3]]arach=arachnology (거미학)
-<!--SR:!2025-11-15,1,230-->
+<!--SR:!2025-11-19,1,230-->
+-
+
+
+arbitrage ![[100. media/audio/2872.mp3]] ![[100. media/audio/8614.mp3]] ![[100. media/audio/12856.mp3]] ![[100. media/audio/7954.mp3]]
+?
+the process of buying something such as raw materials or **currency** in one place and selling them immediately in another place in order to make a profit from the difference in prices
+![[100. media/image/547.jpg|200]]
+
+SYN trading
+
+![[100. media/audio/504.mp3]]He made a significant profit through ~ by exploiting the price differences in gold between two different markets.
+![[100. media/audio/10171.mp3]]~ opportunities are often quickly eliminated by the market forces as traders seek to take advantage of the price discrepancies.
+![[100. media/audio/7545.mp3]]With the advent of high-speed trading, ~ has become an increasingly sophisticated and high-tech endeavor.
+<!--SR:!2025-11-19,1,230-->
 -
 
 
@@ -1220,7 +1205,7 @@ old and no longer used
 ![[100. media/audio/9172.mp3]]Many smaller radio stations broadcast on ~ equipment.
 
 from or relating to ancient times SYN ancient, anachronistic  ![[100. media/audio/4485.mp3]]He had a fascination with ~ language, often using outdated terms in his writing.
-<!--SR:!2025-11-15,1,230-->
+<!--SR:!2025-11-19,1,230-->
 -
 
 
@@ -1231,21 +1216,21 @@ Cf. epitome
 
 ![[100. media/audio/6931.mp3]]France is the ~ of the centralized nation-state.
 ![[100. media/audio/1482.mp3]]Byron was the ~al Romantic hero.
-<!--SR:!2025-11-15,1,230-->
+<!--SR:!2025-11-19,1,230-->
 -
 
 
-archnoid ![[100. media/audio/1668.mp3]] ![[100. media/audio/10560.mp3]]
+ar**a**chnoid ![[100. media/audio/1668.mp3]] ![[100. media/audio/10560.mp3]]
 ?
 ![[100. media/image/12569.jpg|200]]
 like a spider or arachnid.
 
 a fine, delicate membrane, the middle one of the three membranes or meninges that surround the brain and spinal cord, situated between the dura mater and the pia mater.
-<!--SR:!2025-11-15,1,230-->
+<!--SR:!2025-11-19,1,230-->
 -
 
 
-arcne ![[100. media/audio/12159.mp3]] ![[100. media/audio/3221.mp3]] ![[100. media/audio/6393.mp3]] ![[100. media/audio/2083.mp3]]
+arc**a**ne ![[100. media/audio/12159.mp3]] ![[100. media/audio/3221.mp3]] ![[100. media/audio/6393.mp3]] ![[100. media/audio/2083.mp3]]
 ?
 secret and known or understood by only a few people
 ![[100. media/image/9128.jpg|200]]
@@ -1253,7 +1238,7 @@ secret and known or understood by only a few people
 ![[100. media/audio/8844.mp3]]the ~ language of the law
 ![[100. media/audio/10896.mp3]]The scientist spent years studying ~ mathematical theories.
 ![[100. media/audio/5706.mp3]]The ~ symbol appeared in multiple ancient manuscripts, but its meaning remains unknown.
-<!--SR:!2025-11-15,1,230-->
+<!--SR:!2025-11-19,1,230-->
 -
 
 
@@ -1268,20 +1253,20 @@ SYN noble, blue-blood, patrician
 ![[100. media/audio/3819.mp3]]The ~ inherited a vast estate from his ancestors.
 
 **Etymology**: is derived from the Greek "aristokratia," where "aristo-" means "best" and "-kratia" means "power" or "rule." So, in its original sense, the term implied rule by the best or most capable individuals. Over time, it evolved to signify a specific social class, often hereditary, that possesses more privileges or power than others.
-<!--SR:!2025-11-15,1,230-->
+<!--SR:!2025-11-19,1,230-->
 -
 
 
-arna ![[100. media/audio/8182.mp3]] ![[100. media/audio/6374.mp3]] ![[100. media/audio/8101.mp3]] ![[100. media/audio/3104.mp3]]
+ar**e**na ![[100. media/audio/8182.mp3]] ![[100. media/audio/6374.mp3]] ![[100. media/audio/8101.mp3]] ![[100. media/audio/3104.mp3]]
 ?
 a building with a large flat central area surrounded by seats, where sports or entertainments take place
 ![[100. media/image/8591.jpg|200]]
 ![[100. media/audio/5842.mp3]]a sports ~  ![[100. media/audio/3394.mp3]]an indoor ~
-<!--SR:!2025-11-15,1,230-->
+<!--SR:!2025-11-19,1,230-->
 -
 
 
-artculated ![[100. media/audio/10173.mp3]] ![[100. media/audio/6119.mp3]] ![[100. media/audio/8229.mp3]] ![[100. media/audio/6319.mp3]]
+art**i**culated ![[100. media/audio/10173.mp3]] ![[100. media/audio/6119.mp3]] ![[100. media/audio/8229.mp3]] ![[100. media/audio/6319.mp3]]
 ?
 formal to express your ideas or feelings in words
 
@@ -1295,7 +1280,7 @@ technical if something such as a bone in your body is articulated to another t
 able to talk easily and effectively about things, especially difficult subjects OPP inarticulate  ![[100. media/audio/5142.mp3]]bright, ~ 17-year-olds  ![[100. media/audio/136.mp3]]a highly ~ speaker
 
 writing or speech that is ~ is very clear and easy to understand even if the subject is difficult
-<!--SR:!2025-11-15,1,230-->
+<!--SR:!2025-11-19,1,230-->
 -
 
 
@@ -1305,7 +1290,16 @@ a disease that causes the joints of your body to become swollen and very p
 ![[100. media/image/3145.jpg|200]]
 
 ![[100. media/audio/6688.mp3]]arthritic fingers
-<!--SR:!2025-11-15,1,230-->
+<!--SR:!2025-11-19,1,230-->
+-
+
+
+artifact ![[100. media/audio/12132.mp3]] ![[100. media/audio/11556.mp3]] ![[100. media/audio/9839.mp3]] ![[100. media/audio/11900.mp3]]
+?
+an object such as a tool, weapon etc that was made in the past and is historically important  ![[100. media/image/8219.jpg|200]]
+
+![[100. media/audio/9067.mp3]]ancient Egyptian ~s
+<!--SR:!2025-11-19,1,230-->
 -
 
 
@@ -1320,7 +1314,7 @@ a remark made in a low voice that you only intend particular people to hear
 
 a remark or story that is not part of the main subject of a speech
 ![[100. media/audio/12491.mp3]]I should add, as an ~, that the younger the child, the faster they learn.
-<!--SR:!2025-11-15,1,230-->
+<!--SR:!2025-11-19,1,230-->
 -
 
 
@@ -1332,7 +1326,7 @@ someone who hopes to get a position of importance or honor
 a literary ~
 ![[100. media/audio/3178.mp3]]As an ~ writer, he submitted his works to several literary magazines.
 ![[100. media/audio/10605.mp3]]Many tech industry ~s look to Silicon Valley as the ultimate destination.
-<!--SR:!2025-11-15,1,230-->
+<!--SR:!2025-11-19,1,230-->
 -
 
 
@@ -1347,7 +1341,7 @@ SYN yearn, strive
 ![[100. media/audio/63.mp3]]At that time, all serious artists ~ed to go to Rome.
 
 ![[100. media/audio/8185.mp3]]They ~ to create a more equitable society.
-<!--SR:!2025-11-15,1,230-->
+<!--SR:!2025-11-19,1,230-->
 -
 
 
@@ -1361,7 +1355,7 @@ if a strong smell or loud sound ~s you, you suddenly experience it
 
 to attack someone or something violently, to criticize someone or something severely
 ![[100. media/audio/1127.mp3]]The press ~ed the proposals.
-<!--SR:!2025-11-15,1,230-->
+<!--SR:!2025-11-19,1,230-->
 -
 
 
@@ -1376,7 +1370,7 @@ if people ~ or are ~ed into a country or group, they become part of that group a
 ![[100. media/audio/5507.mp3]]Small businesses are often ~ed by larger competitors.
 
 assimilate <- assimilatus(p.p) <- assimilare: ad(to) + similis(similar) --> to make similar to. In the context of language and culture, "assimilate" refers to the process of absorbing and integrating new information, ideas, or customs into an existing framework or context. This term is often used to describe the integration of immigrants into a new culture or the absorption of new knowledge or concepts.
-<!--SR:!2025-11-15,1,230-->
+<!--SR:!2025-11-19,1,230-->
 -
 
 
@@ -1402,7 +1396,7 @@ to be based on the idea that something else is correct SYN presuppose
 ![[100. media/audio/8317.mp3]]The theory assumes that both labour and capital are mobile.  ![[100. media/audio/1669.mp3]]Coen’s economic forecast assumes a 3.5% growth rate.
 
 \[assume, presume\] **'Presume' is the word to use if you're making an informed guess based on reasonable evidence.** **If you're making a guess based on little or no evidence, the word to use is 'assume'.**
-<!--SR:!2025-11-15,1,230-->
+<!--SR:!2025-11-19,1,230-->
 -
 
 
@@ -1414,7 +1408,7 @@ un~: showing no desire to be noticed or given special treatment SYN modest, 
 ![[100. media/audio/3606.mp3]]He lived in an un~ house, preferring a simple lifestyle over any display of wealth.
 
 used when talking about an event or situation that might happen, and what you will do if it happens  ![[100. media/audio/11975.mp3]]~ing that you get a place at university, how are you going to finance your studies?
-<!--SR:!2025-11-15,1,230-->
+<!--SR:!2025-11-19,1,230-->
 -
 
 
@@ -1427,7 +1421,7 @@ adverb, preposition with one leg on each side of something
 
 on both sides of a river, road etc
 ![[100. media/audio/11722.mp3]]The ancient town of Bridgwater, ~ the River Parrett, is an ideal touring centre.
-<!--SR:!2025-11-15,1,230-->
+<!--SR:!2025-11-19,1,230-->
 -
 
 
@@ -1442,11 +1436,11 @@ able to understand situations or behavior very well and very quickly, especially
 ![[100. media/audio/5181.mp3]]Her ~ analysis of the market trends was highly regarded in the industry.
 ![[100. media/audio/9749.mp3]]He made some ~ investments that significantly increased his wealth.
 ![[100. media/audio/11998.mp3]]Her ~ handling of the crisis averted potential damage to the organization.
-<!--SR:!2025-11-15,1,230-->
+<!--SR:!2025-11-19,1,230-->
 -
 
 
-asymptomtic ![[100. media/audio/10540.mp3]] ![[100. media/audio/4757.mp3]] ![[100. media/audio/2262.mp3]] ![[100. media/audio/4545.mp3]]
+asymptom**a**tic ![[100. media/audio/10540.mp3]] ![[100. media/audio/4757.mp3]] ![[100. media/audio/2262.mp3]] ![[100. media/audio/4545.mp3]]
 ?
 ![[100. media/image/3142.jpg|200]]
 if someone or the illness that they have is ~, the illness has no physical signs
@@ -1456,11 +1450,11 @@ SYN non-symptomatic
 ![[100. media/audio/9046.mp3]]Many people with COVID-19 are ~ and unknowingly spread the virus.
 ![[100. media/audio/10563.mp3]]She tested positive for the infection but remained ~ throughout her quarantine period.
 ![[100. media/audio/6253.mp3]]His condition was detected early because he opted for screening, even though he was ~.
-<!--SR:!2025-11-15,1,230-->
+<!--SR:!2025-11-19,1,230-->
 -
 
 
-asympttic ![[100. media/audio/12615.mp3]] ![[100. media/audio/10607.mp3]]
+asympt**o**tic ![[100. media/audio/12615.mp3]] ![[100. media/audio/10607.mp3]]
 ?
 refers to a line or curve that approaches a given curve arbitrarily closely, without ever meeting it. In mathematics, it describes a behavior where a function or sequence approaches a limit as an independent variable or index approaches infinity.
 ![[100. media/image/1929.jpg|200]]
@@ -1470,14 +1464,24 @@ SYN converging, tangential
 ![[100. media/audio/5075.mp3]]The graph showed that the curve was ~ to the x-axis, meaning it got closer and closer but never actually touched the axis.
 ![[100. media/audio/5182.mp3]]In calculus, ~ analysis is used to describe the behavior of functions as they tend towards infinity.
 ![[100. media/audio/3867.mp3]]Engineers often use ~ methods to simplify complex systems for analysis at extreme conditions.
-<!--SR:!2025-11-15,1,230-->
+<!--SR:!2025-11-19,1,230-->
 -
 
 
 at an angle
 ?
-at an angle
-<!--SR:!2025-11-15,1,230-->
+![[100. media/image/943.png|200]]
+leaning to one side and not straight or upright
+
+you have to cut the tree limb at ~.
+Do i need to cut the fruit at ~?
+the boxer punched his opponent at ~
+
+![[100. media/audio/6915.mp3]]The portrait was hanging at ~.
+![[100. media/audio/9327.mp3]]The sign leaned over at a slight ~.
+
+oblique
+<!--SR:!2025-11-19,1,230-->
 -
 
 
@@ -1493,7 +1497,7 @@ SYN at its peak
 
 at the ~ of: at the most advanced or extreme point of
 ![[100. media/audio/11950.mp3]]He was _at the ~ of_ his fame when he died.
-<!--SR:!2025-11-15,1,230-->
+<!--SR:!2025-11-19,1,230-->
 -
 
 
@@ -1512,7 +1516,7 @@ in Greek **mythology**, one of the Titans (=the first gods who ruled the univer
 road ~![[100. media/audio/1670.mp3]]
 
 ![[100. media/audio/228.mp3]]a road ~ of Europe
-<!--SR:!2025-11-15,1,230-->
+<!--SR:!2025-11-19,1,230-->
 -
 
 
@@ -1524,7 +1528,7 @@ usually used in "~ in \[time period\]", and means "never"
 
 ![[100. media/audio/5315.mp3]]At ~ ~ did he apologize.
 ![[100. media/audio/10576.mp3]]At ~ ~ did that happen
-<!--SR:!2025-11-15,1,230-->
+<!--SR:!2025-11-19,1,230-->
 -
 
 
@@ -1543,7 +1547,7 @@ one of the two spaces in the top of your heart that push blood into the **ventri
 
 ![[100. media/audio/11784.mp3]]In her biology class, she learned that the left ~ plays a crucial role in circulating oxygen-rich blood throughout the body.
 ![[100. media/audio/8847.mp3]]An echocardiogram can show how well the heart's ~a and ventricles are functioning.
-<!--SR:!2025-11-15,1,230-->
+<!--SR:!2025-11-19,1,230-->
 -
 
 
@@ -1559,7 +1563,7 @@ Horrifyingly wicked or cruel; of a very poor quality; extremely bad or unpleasan
 
 ~ity: an extremely cruel and violent action, especially during a war.
 ![[100. media/audio/4272.mp3]]The international community condemned the ~ies committed during the conflict, calling for an immediate investigation and justice for the victims.
-<!--SR:!2025-11-15,1,230-->
+<!--SR:!2025-11-19,1,230-->
 -
 
 
@@ -1575,17 +1579,14 @@ Cf. substantiate, corroborate, verify, affirm, vouch for
 ![[100. media/audio/2295.mp3]]The notary public will ~ to the authenticity of the document.
 ![[100. media/audio/12467.mp3]]The ancient artifacts ~ to the existence of a sophisticated civilization.
 ![[100. media/audio/8525.mp3]]I can ~ to his good character, having known him for many years.
-<!--SR:!2025-11-15,1,230-->
+<!--SR:!2025-11-19,1,230-->
 -
 
 
-attire ![[100. media/audio/7095.mp3]] ![[100. media/audio/8979.mp3]] ![[100. media/audio/7860.mp3]] ![[100. media/audio/5649.mp3]]
+attire ![[100. media/audio/11737.mp3]]
 ?
-![[100. media/image/12727.jpg|200]]
-clothes
-
-![[100. media/audio/11737.mp3]]business ~
-<!--SR:!2025-11-15,1,230-->
+attire![[100. media/audio/7095.mp3]]![[100. media/audio/8979.mp3]]![[100. media/audio/7860.mp3]]![[100. media/audio/5649.mp3]]
+<!--SR:!2025-11-19,1,230-->
 -
 
 
@@ -1603,7 +1604,7 @@ to believe or say that someone or something has a particular quality
 
 a quality or feature, especially one that is considered to be good or useful
 ![[100. media/audio/1969.mp3]]What ~s should a good manager possess?
-<!--SR:!2025-11-15,1,230-->
+<!--SR:!2025-11-19,1,230-->
 -
 
 
@@ -1616,7 +1617,7 @@ attrition ![[100. media/audio/11892.mp3]] ![[100. media/audio/4412.mp3]] ![[100.
 
 2 especially American English when people leave a company or course of study and are not replaced
 ![[100. media/audio/12521.mp3]]Staff reductions could be achieved through ~ and early retirements.
-<!--SR:!2025-11-15,1,230-->
+<!--SR:!2025-11-19,1,230-->
 -
 
 
@@ -1630,7 +1631,7 @@ SYN bold, daring, fealess
 ![[100. media/audio/12844.mp3]]The startup's ~ plan to compete with industry giants caught everyone by surprise.
 ![[100. media/audio/10543.mp3]]His ~ remark during the meeting raised many eyebrows but also sparked a vital discussion.
 ![[100. media/audio/6649.mp3]]the risks involved in such an ~ operation
-<!--SR:!2025-11-15,1,230-->
+<!--SR:!2025-11-19,1,230-->
 -
 
 
@@ -1650,7 +1651,7 @@ the practice of interpreting omens or signs, especially as they relate to the fu
 - **Adjective:** Augural (pertaining to augury)
 
 **Etymology:** comes from the Latin 'augurium', which refers to the practice of prophecy, especially as conducted by an 'augur' (a religious official in ancient Rome who interpreted omens). This practice was integral to Roman religion and decision-making, particularly in public and political matters.
-<!--SR:!2025-11-15,1,230-->
+<!--SR:!2025-11-19,1,230-->
 -
 
 
@@ -1659,7 +1660,7 @@ aural ![[100. media/audio/7214.mp3]] ![[100. media/audio/11676.mp3]]
 relating to the sense of hearing, or someone’s ability to understand sounds
 ![[100. media/image/4086.png|200]]
 ![[100. media/audio/11807.mp3]]an aural stimulus
-<!--SR:!2025-11-15,1,230-->
+<!--SR:!2025-11-19,1,230-->
 -
 
 
@@ -1677,14 +1678,18 @@ auspices ![[100. media/audio/8973.mp3]]![[100. media/audio/2713.mp3]]
 ![[100. media/audio/9247.mp3]]Under the ~ of the new director, the company embarked on an ambitious expansion plan.
 
 **Etymology**: The word "~" comes from the Latin word "auspicium," which itself derives from "auspex," meaning one who observes birds for omens. In ancient times, the flight and behavior of birds were often interpreted as signs or messages from the gods, guiding decisions or indicating future events.
-<!--SR:!2025-11-15,1,230-->
+<!--SR:!2025-11-19,1,230-->
 -
 
 
-autonomy
+autonomy ![[100. media/audio/7695.mp3]] ![[100. media/audio/5050.mp3]] ![[100. media/audio/3592.mp3]] ![[100. media/audio/2498.mp3]]
 ?
-autonomy![[100. media/audio/7695.mp3]]![[100. media/audio/5050.mp3]]![[100. media/audio/3592.mp3]]![[100. media/audio/2498.mp3]]
-<!--SR:!2025-11-15,1,230-->
+freedom that a place or an organization has to govern or control itself SYN independence![[100. media/image/6641.png|200]]
+![[100. media/audio/3282.mp3]]campaigners who want greater ~ for Corsica
+
+the ability or opportunity to make your own decisions without being controlled by anyone else
+![[100. media/audio/4287.mp3]]Teachers are given considerable individual ~.
+<!--SR:!2025-11-19,1,230-->
 -
 
 
@@ -1697,7 +1702,7 @@ auxiliary ![[100. media/audio/8941.mp3]] ![[100. media/audio/2344.mp3]] ![[100. 
 an ~ motor, piece of equipment etc is kept ready to be used if the main one stops working properly
 ![[100. media/audio/8993.mp3]]an ~ power supply  ![[100. media/audio/10450.mp3]]~ equipment
 ![[100. media/audio/5578.mp3]]a nursing ~
-<!--SR:!2025-11-15,1,230-->
+<!--SR:!2025-11-19,1,230-->
 -
 
 
@@ -1712,7 +1717,7 @@ to quite enjoy something, especially something that is slightly wrong or bad 
 ![[100. media/audio/2345.mp3]]I was not ~ to fighting with any boy who challenged me.
 
 Adverse, usually applied to things, often means "harmful" or "unfavorable" and is used in instances like "adverse effects from the medication." Averse usually applies to people and means "having a feeling of distaste or dislike." It is often used with to or from to describe someone having an aversion to something
-<!--SR:!2025-11-15,1,230-->
+<!--SR:!2025-11-19,1,230-->
 -
 
 
@@ -1725,7 +1730,7 @@ To assert or confess openly; to declare or acknowledge frankly and openly.
 
 ![[100. media/audio/2461.mp3]]He ~ed his commitment to Marxist ideals.
 ![[100. media/audio/255.mp3]]Her ~al of love took everyone by surprise, as she had kept her feelings secret for so long.
-<!--SR:!2025-11-15,1,230-->
+<!--SR:!2025-11-19,1,230-->
 -
 
 
@@ -1739,7 +1744,7 @@ containing too many things or people of a particular kind
 ![[100. media/audio/9220.mp3]]All the pavements were ~ with rubbish.
 ![[100. media/audio/12145.mp3]]The internet is ~ with misinformation.
 ![[100. media/audio/8457.mp3]]The company is ~ in cash after its successful IPO.
-<!--SR:!2025-11-15,1,230-->
+<!--SR:!2025-11-19,1,230-->
 -
 
 
@@ -1752,7 +1757,7 @@ if something goes ~, it does not happen in the way that was planned
 ![[100. media/audio/3728.mp3]]He rushed out, hat ~.
 ![[100. media/audio/568.mp3]]Her hat sat ~ on her head, giving her a whimsical look.(askew, tilted, lopsided)
 ![[100. media/audio/722.mp3]]The system update went ~, causing glitches throughout the software.
-<!--SR:!2025-11-15,1,230-->
+<!--SR:!2025-11-19,1,230-->
 -
 
 

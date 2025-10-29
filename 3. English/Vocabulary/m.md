@@ -20,13 +20,6 @@ technical something that is ~ is easy to press or pull into a new shape
 <!--SR:!2025-11-09,16,290-->
 -
 
-mangle ![[100. media/audio/2665.mp3]] ![[100. media/audio/7179.mp3]] ![[100. media/audio/6290.mp3]] ![[100. media/audio/5790.mp3]]
-?
-![[100. media/image/1531.jpg|200]]
-<!--SR:!2025-10-27,4,277-->
-
--
-
 mondo ![[100. media/audio/10930.mp3]] ![[100. media/audio/11502.mp3]]
 ?
 An informal term, often used in slang, meaning extreme or large in size, scope, or impact.
@@ -41,23 +34,7 @@ Noun: Shockumentary, exploitation film, sensational film
 ![[100. media/audio/5016.mp3]]The documentary delved into the ~ genre, exploring its impact on cinema.
 
 **Etymology:** is derived from the Italian word for "world" or "earth." In English, it was popularized through the title of the 1962 Italian film "~ Cane" (meaning "A Dog's World"), which showcased a series of shocking and bizarre vignettes from around the globe. This film led to the creation of the '~ film' genre, known for its sensational content. The adjective use of "~" in English slang, meaning something extreme or very large, likely evolved from this context, conveying the idea of something as extreme as the content of mondo films.
-<!--SR:!2025-10-27,4,277-->
--
-
-moot ![[100. media/audio/8963.mp3]] ![[100. media/audio/10114.mp3]]
-?
-![[100. media/audio/6275.mp3]]a ~ point/question
-![[100. media/audio/3459.mp3]]something that has not yet been decided or agreed, and about which people have different opinions
-
-![[100. media/audio/8308.mp3]]Whether these controls will really reduce violent crime is a ~ point.
-
-![[100. media/audio/1606.mp3]]American English, a situation or possible action that is ~ is no longer likely to happen or exist
-![[100. media/audio/3426.mp3]]The fear that airstrikes could endanger troops is moot now that the army is withdrawing.
-
-![[100. media/audio/10337.mp3]]be ~ed
-![[100. media/audio/9590.mp3]]to be suggested for people to consider. SYN put forward
-![[100. media/audio/7889.mp3]]The question of changing the membership rules was mooted at the last meeting.
-<!--SR:!2025-10-26,2,239-->
+<!--SR:!2025-11-08,12,277-->
 -
 
 move heaven and earth
@@ -81,7 +58,7 @@ the power given to one country to govern another country
 The government issued a mask mandate during the pandemic.![[100. media/audio/YwQDMGiG.mp3]]![[100. media/audio/ZRRNWC2Z.mp3]]
 
 The election results gave her a clear mandate to reform healthcare.![[100. media/audio/5EDaMDFL.mp3]]![[100. media/audio/VaIEEVv8.mp3]]
-<!--SR:!2025-10-29,1,230-->
+<!--SR:!2025-10-31,2,230-->
 -
 
 masquerade ![[100. media/audio/Y1MvtIxF.mp3]]![[100. media/audio/gD1Hrehj.mp3]]
@@ -93,8 +70,7 @@ to pretend to be something or someone different
 A number of police officers masqueraded as demonstrators.
 He was masquerading under a false name
 She kept up the masquerade for years as if she loved him.
-
-<!--SR:!2025-10-29,1,230-->
+<!--SR:!2025-10-30,1,210-->
 -
 
 mayhem ![[100. media/audio/XsZiE3m3.mp3]]![[100. media/audio/1ZZBHKtz.mp3]]
@@ -103,8 +79,7 @@ an extremely confused situation in which people are very frightened or excited S
 대혼란
 
 When the fire alarm went off during the school assembly, there was complete mayhem as hundreds of students rushed toward the exits at the same time.![[100. media/audio/aEeMJy0e.mp3]]![[100. media/audio/pdlqtVqd.mp3]]
-
-<!--SR:!2025-10-29,1,230-->
+<!--SR:!2025-10-31,2,230-->
 -
 
 #Vocabulary

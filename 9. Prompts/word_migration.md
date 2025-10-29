@@ -2,49 +2,182 @@
 
 ## Quick Reference
 
+**Working Directory:** `/tmp/vocab_migration/` (always work here first!)
+
+**Setup:**
+```bash
+mkdir -p /tmp/vocab_migration
+cp "3. English/Vocabulary/a.md" /tmp/vocab_migration/a.md
+```
+
+**Normalization Script:** `9. Prompts/normalize_format.py`
+```bash
+python3 "9. Prompts/normalize_format.py" <source_directory>
+# Example:
+python3 "9. Prompts/normalize_format.py" "/home/genext/Downloads/markdown-export/English"
+```
+
 **Migration Script:** `9. Prompts/migrate_words.py`
 ```bash
-python3 "9. Prompts/migrate_words.py" <word_list> <target_file> <sr_date>
-# Example:
-python3 "9. Prompts/migrate_words.py" /tmp/new_a_words.txt "3. English/Vocabulary/a.md" "2025-11-15"
+python3 "9. Prompts/migrate_words.py" <word_list> <working_file> <sr_date>
+# Example (note: output to /tmp/vocab_migration/):
+python3 "9. Prompts/migrate_words.py" /tmp/new_a_words.txt /tmp/vocab_migration/a.md "2025-11-15"
 ```
 
 **Verification Script:** `9. Prompts/verify_migration.py`
 ```bash
-python3 "9. Prompts/verify_migration.py" <target_file> <sr_date> <expected_count>
-# Example:
-python3 "9. Prompts/verify_migration.py" "3. English/Vocabulary/a.md" "2025-11-15" 120
+python3 "9. Prompts/verify_migration.py" <working_file> <sr_date> <expected_count>
+# Example (note: verify /tmp/vocab_migration/ file):
+python3 "9. Prompts/verify_migration.py" /tmp/vocab_migration/a.md "2025-11-15" 120
+```
+
+**Deploy to Production (after confirmation):**
+```bash
+cp /tmp/vocab_migration/a.md "3. English/Vocabulary/a.md"
 ```
 
 ## Overview
-Migrate vocabulary words from source directory to Obsidian Vault alphabetical files.
+Migrate vocabulary words from source directory to Obsidian Vault alphabetical files. When there is a problem in migration, stop working and show which word or markdown file caused the issue. After I check, I will let you know what to do.
+
+
+
+## Working Directory Strategy
+
+**IMPORTANT**: Always work in a designated working directory, never directly modify production files.
+
+**Working Directory:** `/tmp/vocab_migration/`
+
+**Workflow:**
+1. Copy target file (e.g., `a.md`) from vault to working directory
+2. Run all migration operations on the working directory copy
+3. Review and verify results in working directory
+4. **After user confirmation**, copy final result back to vault
+
+**Example for letter 'a':**
+```bash
+# 1. Setup working directory
+mkdir -p /tmp/vocab_migration
+cp "3. English/Vocabulary/a.md" /tmp/vocab_migration/a.md
+
+# 2. Run migration (output to working directory)
+python3 "9. Prompts/migrate_words.py" /tmp/new_a_words.txt /tmp/vocab_migration/a.md "2025-11-15"
+
+# 3. Review results
+cat /tmp/vocab_migration/a.md | less
+
+# 4. After confirmation, copy to production
+cp /tmp/vocab_migration/a.md "3. English/Vocabulary/a.md"
+```
+
+**Benefits:**
+- Safe: Production files never modified until confirmed
+- Reversible: Can restart without losing original data
+- Verifiable: Review working copy before deployment
+- Clean: Easy to cleanup and restart if issues found
 
 ## Step-by-Step Process
 
-### 1. Get User Input
-- Ask for source directory (e.g., `/home/genext/Downloads/markdown-export/export_words`)
-- target directory is `/home/genext/Documents/Obsidian Vault/3. English/Vocabulary`
+### 1. Setup Working Directory
+```bash
+# Create working directory
+mkdir -p /tmp/vocab_migration
+
+# Copy target file to working directory
+LETTER="a"  # Change as needed
+cp "3. English/Vocabulary/${LETTER}.md" "/tmp/vocab_migration/${LETTER}.md"
+```
+
+### 2. Get User Input
+- Ask for source directory (e.g., `/home/genext/Downloads/markdown-export/English`)
+- Working directory: `/tmp/vocab_migration/`
+- Target directory (final): `/home/genext/Documents/Obsidian Vault/3. English/Vocabulary`
 - Ask for which letter to migrate (e.g., 'a', 'c', 'd')
 - Ask for spaced repetition date (e.g., `2025-11-05`)
 
-### 2. Identify Source Files
+### 3. Identify Source Files
 - Find all markdown files starting with the specified letter in source directory
-- Example: `find [source] -name "c*.md" -o -name "C*.md" | sort`
+- **IMPORTANT**: Exclude files with Korean titles (non-ASCII characters in filenames)
+  - Korean filename files are out of scope for English vocabulary migration
+  - Only process files with English/ASCII characters in the filename
+  - Both scripts (`normalize_format.py` and `migrate_words.py`) automatically skip non-ASCII filenames
+- Example:
+  ```bash
+  # Find all c*.md files, excluding Korean filenames
+  find [source] -name "c*.md" -o -name "C*.md" | grep -v '[^[:ascii:]]' | sort
+  ```
 
-### 3. Extract Media References
+### 4. Extract Media References
 - Read each source markdown file
 - Parse and identify:
   - Audio files: `![](@media/filename.mp3)` or `![](filename.mp3)`
   - Image files: `![](@media/filename.jpg)` or `![](filename.png)`
 
-### 4. Copy Media Files
+### 5. Pre-Process Source Files (Normalize Format)
+
+**CRITICAL STEP**: Some source files have **reversed format** where definition comes first and word comes last. These MUST be converted to standard format BEFORE running the migration script.
+
+**Detection Method:**
+- Split file content by `---` separator
+- Check which section matches the word section pattern:
+  - Starts with a word (lowercase letters, may include `++` markers)
+  - Followed by media links `![](...)` with or without space
+  - Pattern: `^[a-z][a-z\s+]*!?\[?\]?\(`
+- The section matching this pattern is the word section
+- The other section is the definition section
+
+**Standard Format (Target):**
+```markdown
+word![](file.mp3)
+---
+definition text
+```
+
+**Reversed Format (Needs Conversion):**
+```markdown
+definition text (much longer)
+---
+word![](file.mp3)
+```
+
+**Pre-Processing Script:** `9. Prompts/normalize_format.py`
+
+This script detects reversed format files by pattern matching (not by length) and converts them to standard format.
+
+**Pattern Detection:**
+- Word section: Starts with lowercase word + media links `![](...)`
+- Pattern: `^[a-z][a-z\s+]*!?\[?\]?\(`
+- Examples: `word![](file.mp3)`, `word ![](file.mp3)`, `abbr++e++viate![](file.mp3)`
+
+**Run Pre-Processing:**
+```bash
+python3 "9. Prompts/normalize_format.py" "/home/genext/Downloads/markdown-export/English"
+```
+
+**Output:**
+- Shows each converted file
+- Reports total converted vs skipped files
+- Warns about ambiguous files that couldn't be determined
+
+**Why This Step is Critical:**
+- The migration script expects standard format (word first, definition second)
+- Reversed files will cause incorrect extraction of word names and definitions
+- Pre-processing ensures consistent input format for the migration script
+- Prevents content corruption and missing data
+
+### 6. Copy Media Files
 - Copy audio files to: `[target_vault]/100. media/audio/`
 - Copy image files to: `[target_vault]/100. media/image/`
 - Example: `cp file1.mp3 file2.mp3 ... "/path/to/100. media/audio/"`
 
-### 5. Convert Format
+### 7. Convert Format
 
 **Use the migration script:** `9. Prompts/migrate_words.py`
+
+**IMPORTANT:** Output to working directory, not production directory!
+
+```bash
+python3 "9. Prompts/migrate_words.py" /tmp/new_a_words.txt /tmp/vocab_migration/a.md "2025-11-15"
+```
 
 Transform from source format to Obsidian format:
 
@@ -71,6 +204,7 @@ example sentence![[100. media/audio/audio.mp3]]
 
 **Conversion rules:**
 - Add space after word name
+- Remove pronunciation markers: `++letter++` → `letter` (e.g., `abbr++e++viate` → `abbreviate`)
 - Remove `---` separator lines
 - Add `?` on line 2 for flashcard format
 - Convert audio links: `![](@media/file.mp3)` → `![[100. media/audio/file.mp3]]`
@@ -81,19 +215,32 @@ example sentence![[100. media/audio/audio.mp3]]
 - Add separator: `-`
 - Remove trailing spaces from lines
 
-### 6. Append to Target File
-- Determine target alphabetical file based on first letter (e.g., 'c' → `c.md`)
-- Insert converted entry **before** the final `#Vocabulary` tag
+### 8. Append to Working File
+- The migration script appends to the working directory file
+- Entries inserted **before** the final `#Vocabulary` tag
 - Each word entry separated by blank line
 
-### 7. Verify Results
+### 9. Verify Results in Working Directory
 
-#### 7.1 Basic Verification
+**Review working directory file before copying to production!**
+
+```bash
+# Quick review
+cat /tmp/vocab_migration/a.md | less
+
+# Count new entries
+grep -c "2025-11-15" /tmp/vocab_migration/a.md
+
+# Spot check random entries
+grep -A 10 "^word_name" /tmp/vocab_migration/a.md
+```
+
+#### 9.1 Basic Verification
 - Count entries with new SR date matches expected count
 - All media files copied successfully to correct directories
 - No file copy errors reported
 
-#### 7.2 Structure Verification
+#### 9.2 Structure Verification
 For each migrated entry, verify:
 - **Word line**: Starts with word name + audio files in `![[100. media/audio/...]]` format
 - **Question mark**: Second line is exactly `?`
@@ -105,7 +252,7 @@ For each migrated entry, verify:
 - **Separator**: Ends with `-` on its own line
 - **Blank line**: Followed by blank line before next entry
 
-#### 7.3 Content Verification
+#### 9.3 Content Verification
 Sample 5-10 random entries and verify:
 - Compare with source file
 - All text content preserved (definitions, examples, Korean text, etymology, synonyms)
@@ -114,13 +261,13 @@ Sample 5-10 random entries and verify:
 - No extra content added
 - Proper spacing and formatting maintained
 
-#### 7.4 Automated Verification Script
+#### 9.4 Automated Verification Script
 
 **Use the verification script:** `9. Prompts/verify_migration.py`
 
-Usage:
+**Run on working directory file:**
 ```bash
-python3 "9. Prompts/verify_migration.py" "3. English/Vocabulary/a.md" "2025-11-15" 120
+python3 "9. Prompts/verify_migration.py" /tmp/vocab_migration/a.md "2025-11-15" 120
 ```
 
 The script checks:
@@ -131,12 +278,32 @@ The script checks:
 - All entries have separator '-'
 - Reports detailed issues if found
 
-#### 7.5 Manual Spot Checks
-- Open target file in Obsidian
+#### 9.5 Manual Spot Checks
+- Open working directory file in text editor
+- Verify at least 3-5 entries render correctly
+- Check formatting and media links
+- Confirm no duplicate entries created
+
+### 10. Deploy to Production (After User Confirmation)
+
+**CRITICAL:** Only copy to production after user confirms verification is successful!
+
+```bash
+# Backup current production file (optional but recommended)
+cp "3. English/Vocabulary/a.md" "3. English/Vocabulary/a.md.backup.$(date +%Y%m%d_%H%M%S)"
+
+# Copy verified working file to production
+cp /tmp/vocab_migration/a.md "3. English/Vocabulary/a.md"
+
+echo "✅ Deployed to production!"
+```
+
+### 11. Final Validation in Obsidian
+- Open production file in Obsidian
 - Verify at least 3-5 entries render correctly
 - Check that flashcards work with spaced repetition plugin
 - Verify media files play/display correctly
-- Confirm no duplicate entries created
+- Test spaced repetition plugin functionality
 
 ## Example Migration
 
@@ -165,7 +332,7 @@ Source files may have different formats. Handle these variations:
 
 ### File Structure Variations
 
-**IMPORTANT**: Some markdown files have **reversed structure** where definition comes FIRST and title comes LAST:
+**IMPORTANT**: Some markdown files have **reversed structure** where definition comes FIRST and title comes LAST.
 
 **Standard Structure:**
 ```markdown
@@ -182,16 +349,21 @@ definition text
 word![](file.mp3)
 ```
 
-When encountering reversed structure:
-1. Identify the word name (usually on the last line)
-2. Extract all content above the last `---`
-3. Rebuild in standard format: word name → ? → definition content
+**NOTE**: Reversed format files should be converted to standard format in **Step 4 (Pre-Process Source Files)** BEFORE running the migration script. This ensures the migration script always receives consistent input format
 
-### Title Line Variations
-- **With audio only:** `word![](file.mp3)![](file2.mp3)`
-- **Without audio:** `word` (no audio files on title line)
+### Word Section Variations
+- **Single line with audio:** `word![](file.mp3)![](file2.mp3)`
+- **Multi-line with audio:**
+  ```
+  word
+  ![](file1.mp3)![](file2.mp3)
+  ```
+- **Without audio:** `word` (no audio files in word section)
+- **With pronunciation markers:** `abbr++e++viate` → convert to `abbr**e**viate` (change `++` to `**` for emphasis)
+- **Phrases:** `account for something` (preserve entire phrase)
 - **Mixed formats:** `word![4F7147D6065A97021A.mp3](DHED2Mzg.mp3)` (ID in alt text)
-- **Reversed file:** Word name appears at the END of file instead of beginning
+
+**IMPORTANT**: The word section is identified as the **shorter part** when content is split by `---`. Extract ALL media files from the ENTIRE word section, not just the first line.
 
 ### Definition Section Variations
 - **With image:** Definition text followed by `![Alt](@media/image.jpg)`

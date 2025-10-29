@@ -28,41 +28,5 @@ germ
 
 -
 
-graze ![[100. media/audio/4204.mp3]] ![[100. media/audio/1953.mp3]] ![[100. media/audio/3022.mp3]] ![[100. media/audio/1524.mp3]]
-?
-if an animal ~s, or if you ~ it, it eats grass that is growing
-![[100. media/image/4951.jpg|200]]
-~ on  ![[100. media/audio/1463.mp3]]Groups of cattle were ~ing on the rich grass.  ![[100. media/audio/11807.mp3]]fields where they used to ~ their sheep
-![[100. media/image/953.jpg|200]]
-to accidentally break the surface of your skin by rubbing it against something cf. bark![[100. media/audio/11649.mp3]]I fell on the gravel, severely ~ing my knee.
-
-to touch something lightly while passing it, sometimes damaging it  ![[100. media/audio/1090.mp3]]A bullet ~ed his arm.
-
-a wound caused by rubbing that slightly breaks the surface of your skin  ![[100. media/audio/79.mp3]]Adam walked away from the crash with just a ~ on his left shoulder.
-<!--SR:!2025-10-27,4,270-->
--
-
-grudge ![[100. media/audio/1210.mp3]] ![[100. media/audio/11570.mp3]] ![[100. media/audio/12678.mp3]] ![[100. media/audio/548.mp3]]
-?
-![[100. media/image/8984.jpg|200]]
-to do or give something very unwillingly
-
-![[100. media/audio/8068.mp3]]I really ~ paying for poor service.
-![[100. media/audio/4634.mp3]]I don’t ~ him his success.
-![[100. media/audio/6113.mp3]]a ~ing apology
-![[100. media/audio/7489.mp3]]He ~ingly admitted he’d been wrong.
-<!--SR:!2025-11-03,8,250-->
--
-
-germinate ![[100. media/audio/9m87t39D.mp3]] ![[100. media/audio/0MquvsJc.mp3]]
-?
-![[100. media/image/wuji51dv.png|200]]
-
-if a seed ~s, or if it is \~ed, it begins to grow
-SYN sprout
-
-Within a week, the Martian soil will be ready for plants to germinate in.![[100. media/audio/ypFBwWiw.mp3]]
-<!--SR:!2025-10-29,1,230-->
--
 
 #Vocabulary

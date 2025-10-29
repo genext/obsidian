@@ -9,5 +9,6 @@
   "foldHeading": true,
   "showIndentGuide": true,
   "useMarkdownLinks": false,
-  "attachmentFolderPath": "100. media"
+  "attachmentFolderPath": "100. media",
+  "showUnsupportedFiles": true
 }

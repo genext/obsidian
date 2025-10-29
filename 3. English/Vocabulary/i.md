@@ -10,7 +10,7 @@ It's much more **formal** than "blame, attribute" or "assign"
   ![[100. media/audio/VHbW1wVyS5.mp3]] ![[100. media/audio/rWAs0VUcuo.mp3]]
     **The software will impute values for incomplete survey responses.** → "소프트웨어가 불완전한 설문 응답에 대해 값을 추정해서 채워넣을 것입니다."
     "Imputed rent" (the theoretical rent you'd pay for a house you own)
-<!--SR:!2025-10-25,8,250-->
+<!--SR:!2025-11-17,21,250-->
 
 -
 
@@ -45,29 +45,9 @@ an ~ event or situation, especially an unpleasant one, is going to happen very 
 ![[100. media/image/10786.jpg|200]]
 ![[100. media/audio/11949.mp3]]She had a sense of ~ disaster.
 ![[100. media/audio/69.mp3]]~ changes in government legislation
-<!--SR:!2025-10-27,4,278-->
+<!--SR:!2025-11-08,12,278-->
 -
 
-interlocutor ![[100. media/audio/2100.mp3]] ![[100. media/audio/8769.mp3]] ![[100. media/audio/4065.mp3]] ![[100. media/audio/1586.mp3]]
-?
-your ~ is the person you are speaking to
-![[100. media/image/12766.jpg|200]]
-<!--SR:!2025-10-27,4,276-->  
--
-
-intrinsic ![[100. media/audio/8276.mp3]] ![[100. media/audio/5236.mp3]] ![[100. media/audio/166.mp3]]
-?
-being part of the nature or character of someone or something
-![[100. media/image/2261.jpg|200]]
-![[100. media/image/6883.jpg|200]]
-
-![[100. media/audio/205.mp3]] the ~ interest of the subject![[100. media/audio/10520.mp3]]There is nothing in the ~ nature of the work that makes it more suitable for women.
-![[100. media/audio/6806.mp3]]Flexibility is ~ to creative management.
-
-![[100. media/audio/1513.mp3]]Science is seen as ~ally good.
- OPP extrinsic
-<!--SR:!2025-10-27,4,274-->
--
 inaugural ![[100. media/audio/OCBLJOsu.mp3]] ![[100. media/audio/huC53uo6.mp3]]
 ?
 refers to marking the beginning of an institution, activity, or period of office. It is often associated with formal ceremonies or speeches that mark the commencement of something, especially the start of a new position of authority.
@@ -84,7 +64,7 @@ _The ~ ceremony of the new museum attracted art enthusiasts from all over the co
 _His ~ work in the field of renewable energy set a new standard for innovation._
 
 **Etymology:** comes from the Latin 'inaugurare', meaning "to consecrate by augury" (augury being the practice of interpreting omens). In ancient Rome, important actions or events, like the assumption of office, were often initiated with certain rituals to predict success. evolved in English usage to mean "serving to set in motion" or "initiating." It has since been used to denote the first in a series, or the beginning of a significant period, especially in a formal or ceremonial context.
-<!--SR:!2025-10-29,1,230-->
+<!--SR:!2025-10-31,2,230-->
 -
 
 indigent ![[100. media/audio/U2vNGIhd.mp3]] ![[100. media/audio/b8xEN5iR.mp3]]
@@ -97,7 +77,7 @@ The court appointed a public defender because the defendant was indigent and cou
 
 The hospital provides free medical care to indigent patients who have no insurance.
 ![[100. media/audio/GBkicZXH.mp3]]![[100. media/audio/6TAXrcoN.mp3]]
-<!--SR:!2025-10-29,1,230-->
+<!--SR:!2025-11-01,3,250-->
 -
 
 infinitesimal ![[100. media/audio/cYBpvgRh.mp3]] ![[100. media/audio/2Do982JV.mp3]]
@@ -105,7 +85,7 @@ infinitesimal ![[100. media/audio/cYBpvgRh.mp3]] ![[100. media/audio/2Do982JV.mp
 extremely small SYN minuscule
 
 infinitesimal changes in temperature![[100. media/audio/1fQRgkGy.mp3]]
-<!--SR:!2025-10-29,1,230-->
+<!--SR:!2025-11-01,3,250-->
 -
 
 irrigate ![[100. media/audio/75H2RxU0.mp3]] ![[100. media/audio/5di8I3lH.mp3]]
@@ -118,7 +98,7 @@ to supply land or crops with water
 관개하다,
 to wash a wound with a flow of liquid
 상처를 세척하다, 씻다.
-<!--SR:!2025-10-29,1,230-->
+<!--SR:!2025-11-01,3,250-->
 -
 
 #Vocabulary

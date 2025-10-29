@@ -1,13 +1,16 @@
-bustle ![[100. media/audio/4421.mp3]] ![[100. media/audio/10697.mp3]] ![[100. media/audio/12557.mp3]] ![[100. media/audio/5961.mp3]]
+bustle ![[100. media/audio/1354.mp3]] ![[100. media/audio/8227.mp3]] ![[100. media/audio/5601.mp3]] ![[100. media/audio/6090.mp3]]
 ?
-to move around quickly, looking very busy  
-![[100. media/image/7691.jpg|200]]  
-SYN hubbub, commotion, rush  
-![[100. media/audio/2906.mp3]]The ~ of the city was too much for her, so she moved to a quieter town.  
-![[100. media/audio/4070.mp3]]Madge ~ed round the room, putting things away.  
-![[100. media/audio/10577.mp3]]a continual ~ of people coming and going
-<!--SR:!2025-11-04,14,290-->
+to move around quickly, looking very busy
+![[100. media/image/7480.jpg|200]]
+
+SYN hubbub, commotion, rush
+
+![[100. media/audio/5204.mp3]]The ~ of the city was too much for her, so she moved to a quieter town.
+![[100. media/audio/4722.mp3]]Madge ~ed round the room, putting things away.
+![[100. media/audio/7758.mp3]]a continual ~ of people coming and going
+<!--SR:!2025-11-15,1,230-->
 -
+
 
 backtrack ![[100. media/audio/t920IRdQ.mp3]] ![[100. media/audio/RsmfgSJs.mp3]]
 ?
@@ -33,47 +36,13 @@ someone, especially a child, who is ~ makes a lot of noise and has a lot of ene
 <!--SR:!2025-11-04,14,290-->
 -
 
-booze ![[100. media/audio/7798.mp3]] ![[100. media/audio/8951.mp3]] ![[100. media/audio/6929.mp3]] ![[100. media/audio/7939.mp3]]
-?
-informal alcoholic drink
-![[100. media/audio/7742.mp3]]a bottle of ~
-![[100. media/audio/12085.mp3]]He’s been on the ~ (=drinking too much alcohol) for five days.
-![[100. media/audio/10563.mp3]]My husband is now off the ~ (=no longer drinking too much alcohol) and he is a different person.
-![[100. media/image/6132.jpg|200]]
-<!--SR:!2025-11-06,14,290-->
--
-
-boon ![[100. media/audio/2851.mp3]] ![[100. media/audio/9753.mp3]] ![[100. media/audio/7324.mp3]] ![[100. media/audio/8915.mp3]]
-?
-something that is very useful and makes your life a lot easier or better
-![[100. media/image/5686.jpg|200]]
-
-
-![[100. media/audio/1125.mp3]]The bus service is a real ~ to people in the village.
-![[100. media/audio/10055.mp3]]The recent rainfall was a ~ to the farmers who had been struggling with the drought conditions.
-![[100. media/audio/2453.mp3]]Access to free high-quality education is a significant ~ to the development and prosperity of any society.
-<!--SR:!2025-11-07,12,284-->
--
-
 brunet ![[100. media/audio/8020.mp3]] ![[100. media/audio/12504.mp3]]
 ?
 ![[100. media/image/11821.jpg|200]]
 a man with dark brown hair
 
 brunette![[100. media/audio/9423.mp3]]![[100. media/audio/1371.mp3]]: a woman with dark brown hair
-<!--SR:!2025-10-27,4,284-->
--
-brittle ![[100. media/audio/9994.mp3]] ![[100. media/audio/1512.mp3]] ![[100. media/audio/1038.mp3]] ![[100. media/audio/9155.mp3]]
-?
-hard but easily broken  
-![[100. media/image/10026.jpg|200]]  
-  
-![[100. media/audio/10672.mp3]]The branches were dry and ~.  ![[100. media/audio/10505.mp3]]Joanna was diagnosed as having ~ bones.  
-  
-![[100. media/audio/6247.mp3]]He spoke with the ~ confidence of someone who, underneath, was very worried.  
-  
-showing no warm feelings  ![[100. media/audio/7264.mp3]]a ~ laugh
-<!--SR:!2025-10-31,1,230-->
+<!--SR:!2025-11-08,12,284-->
 -
 backdrop ![[100. media/audio/2993.mp3]] ![[100. media/audio/2524.mp3]] ![[100. media/audio/5891.mp3]] ![[100. media/audio/1323.mp3]]
 ?
@@ -99,11 +68,11 @@ happening one after another
 -
 
 
-backwoodbackwoods ![[100. media/audio/8849.mp3]] ![[100. media/audio/6039.mp3]] ![[100. media/audio/9728.mp3]] ![[100. media/audio/7830.mp3]]
+backwood![[100. media/audio/8849.mp3]]![[100. media/audio/6039.mp3]]backwoods![[100. media/audio/9728.mp3]]![[100. media/audio/7830.mp3]]
 ?
 ![[100. media/image/4697.jpg|200]]
 
-a distant and undeveloped area away from any towns
+a distant and undeveloped area away from any towns
 <!--SR:!2025-11-15,1,230-->
 -
 
@@ -152,6 +121,19 @@ a large quantity of something such as paper or **hay** that is tightly tied t
 -
 
 
+ban++a++l ![[100. media/audio/3034.mp3]] ![[100. media/audio/12164.mp3]] ![[100. media/audio/10670.mp3]] ![[100. media/audio/6129.mp3]]
+?
+ordinary and not interesting, because of a lack of new or different ideas SYN trivial, mundane, trite
+![[100. media/image/7316.jpg|200]]
+
+![[100. media/audio/3461.mp3]]conversations about the most ~ subjects
+![[100. media/audio/2575.mp3]]Despite the celebrity's attempt to sound profound, his speech was littered with ~ platitudes.
+![[100. media/audio/6848.mp3]]She grew tired of the ~ plotlines in most television dramas, seeking something more innovative.
+his ~ compliment
+<!--SR:!2025-11-15,1,230-->
+-
+
+
 bang on ![[100. media/audio/11426.mp3]] ![[100. media/audio/11563.mp3]]
 ?
 British English to talk continuously about something in a boring way SYN go on about, be on about
@@ -182,20 +164,8 @@ literary to try to stop thinking about something or someone
 
 bank holiday
 ?
-bank holiday
-<!--SR:!2025-11-15,1,230-->
--
-
-
-banl ![[100. media/audio/3034.mp3]] ![[100. media/audio/12164.mp3]] ![[100. media/audio/10670.mp3]] ![[100. media/audio/6129.mp3]]
-?
-ordinary and not interesting, because of a lack of new or different ideas SYN trivial, mundane, trite
-![[100. media/image/7316.jpg|200]]
-
-![[100. media/audio/3461.mp3]]conversations about the most ~ subjects
-![[100. media/audio/2575.mp3]]Despite the celebrity's attempt to sound profound, his speech was littered with ~ platitudes.
-![[100. media/audio/6848.mp3]]She grew tired of the ~ plotlines in most television dramas, seeking something more innovative.
-his ~ compliment
+British English an official holiday when banks and most businesses are closed
+America public, legal holiday
 <!--SR:!2025-11-15,1,230-->
 -
 
@@ -326,9 +296,15 @@ beady ![[100. media/audio/4145.mp3]] ![[100. media/audio/1415.mp3]]
 -
 
 
-be alert to ![[100. media/audio/1373.mp3]]
-?
 be alert to
+?
+to know about or understand something, especially a possible danger or problem
+implies that one should be vigilant, attentive, or aware of a particular situation, circumstance, or condition.
+![[100. media/image/9742.jpg|200]]
+
+![[100. media/audio/4788.mp3]]The authorities should have been ~ to the possibility of invasion.
+![[100. media/audio/11055.mp3]]Be ~ to the symptoms of dehydration when you're hiking.
+![[100. media/audio/1373.mp3]]You should be ~ to any changes in your health.
 <!--SR:!2025-11-15,1,230-->
 -
 
@@ -347,9 +323,11 @@ SYN evade, dodge the question
 -
 
 
-be at large ![[100. media/audio/12845.mp3]]
-?
 be at large
+?
+if a dangerous person or animal is ~, they have escaped from somewhere, or have not been caught
+![[100. media/image/2323.jpg|200]]
+![[100. media/audio/12845.mp3]]The escaped prisoners are still at large.
 <!--SR:!2025-11-15,1,230-->
 -
 
@@ -390,9 +368,13 @@ your body can ~ handle so much stress.
 -
 
 
-become due ![[100. media/audio/469.mp3]]
+become due
 ?
-(be)come due
+**to reach the date by which payment is required**.
+
+![[100. media/audio/11257.mp3]]The contract becomes ~ for renewal at the end of the year.
+![[100. media/audio/4740.mp3]]The mortgage payment comes ~ on the first of every month.
+![[100. media/audio/469.mp3]]The performance review is coming ~; make sure to prepare your self-assessment.
 <!--SR:!2025-11-15,1,230-->
 -
 
@@ -467,14 +449,17 @@ to see or to look at something – sometimes used humorously
 -
 
 
-be into ![[100. media/audio/12564.mp3]]
+be into
 ?
-be into ~
+often used to indicate a strong interest, enthusiasm, or involvement in a particular subject or activity.
+![[100. media/audio/738.mp3]]he got me ~ swimming.
+![[100. media/audio/745.mp3]]She's really ~ yoga these days.
+![[100. media/audio/12564.mp3]]I'm ~ trying different kinds of sushi.
 <!--SR:!2025-11-15,1,230-->
 -
 
 
-bellgerent ![[100. media/audio/2771.mp3]] ![[100. media/audio/8807.mp3]] ![[100. media/audio/3545.mp3]] ![[100. media/audio/7797.mp3]]
+bell++i++gerent ![[100. media/audio/2771.mp3]] ![[100. media/audio/8807.mp3]] ![[100. media/audio/3545.mp3]] ![[100. media/audio/7797.mp3]]
 ?
 very unfriendly and wanting to argue or fight SYN aggressive, antagonistic, confrontational
 ![[100. media/image/6955.jpg|200]]
@@ -504,16 +489,26 @@ a ~ **tumor**(=unnatural growth in the body) is not caused by cancer OPP mal
 -
 
 
-be nothing if not ![[100. media/audio/4210.mp3]]
-?
 be nothing if not
+?
+used to emphasize a particular quality or characteristic of a person or thing. It suggests that if the person or thing were not described by this particular quality, they would not be anything at all, thus highlighting the prominence of that quality.
+
+**Synonyms:** Extremely, decidedly, particularly, highly, unquestionably.
+![[100. media/audio/140.mp3]]You’ve got to admit – he’s ~ if not persistent.
+![[100. media/audio/1086.mp3]]The new manager is ~ if not efficient, having streamlined many processes in her first month.
+![[100. media/audio/7357.mp3]]Her speech was ~ if not passionate, stirring the hearts of all who listened.
+![[100. media/audio/4210.mp3]]Their team is ~ if not resilient, bouncing back from every setback.
 <!--SR:!2025-11-15,1,230-->
 -
 
 
-be not much of a something ![[100. media/audio/2302.mp3]] ![[100. media/audio/4234.mp3]]
-?
 be not much of a something
+?
+![[100. media/audio/82.mp3]]to not be a good example of something or not be very good at something
+![[100. media/image/6929.jpg|200]]
+
+
+![[100. media/audio/2302.mp3]]I’m not much of a dancer, I’m afraid. ![[100. media/audio/4234.mp3]]It wasn’t really much of a storm.
 <!--SR:!2025-11-15,1,230-->
 -
 
@@ -570,10 +565,9 @@ Etymology:** It is composed of 'be-' (around) and 'settan' (to set, place), refl
 -
 
 
-bespectacled ![[100. media/audio/12076.mp3]] ![[100. media/audio/3768.mp3]] ![[100. media/audio/4243.mp3]] ![[100. media/audio/5480.mp3]]
+bespectacled
 ?
-![[100. media/image/11798.jpg|200]]
-wearing glasses
+bespectacled![[100. media/audio/12076.mp3]]![[100. media/audio/3768.mp3]]![[100. media/audio/4243.mp3]]![[100. media/audio/5480.mp3]]
 <!--SR:!2025-11-15,1,230-->
 -
 
@@ -587,16 +581,28 @@ a ~ product, especially computer software or a piece of clothing, has been sp
 -
 
 
-be torn im torn ![[100. media/audio/5053.mp3]]
+be torn im torn
 ?
-be torn. i'm torn
+if you are ~, you are unable to decide what to do because you have different feelings or different things that you want
+![[100. media/audio/3295.mp3]]She was ~ between her love of dancing and her fear of performing in public.
+![[100. media/audio/10109.mp3]]He was ~ two ways.
+![[100. media/audio/6133.mp3]]Jess was ~ by anger and worry.
+
+![[100. media/audio/4022.mp3]]The country was ~ by civil war.
+![[100. media/audio/5053.mp3]]She spent two months in the war-~ city.
 <!--SR:!2025-11-15,1,230-->
 -
 
 
-be without equal ![[100. media/audio/664.mp3]]
-?
 be without equal
+?
+(also have no ~) formal to be better than everyone or everything else of the same type
+
+SYN unmatched, second to none, unrivaled
+
+![[100. media/audio/6924.mp3]]His paintings are without ~.
+![[100. media/audio/9614.mp3]]When it comes to customer service, this hotel is without ~.
+![[100. media/audio/664.mp3]]This medical facility is without ~ in the region, providing state-of-the-art treatments and research.
 <!--SR:!2025-11-15,1,230-->
 -
 
@@ -624,10 +630,9 @@ an offer to pay a particular price for something, especially at an **auct
 -
 
 
-bigot ![[100. media/audio/8093.mp3]] ![[100. media/audio/4200.mp3]] ![[100. media/audio/1601.mp3]] ![[100. media/audio/9618.mp3]]
+bigot ![[100. media/audio/2034.mp3]]
 ?
-편협한 사람, 고집쟁이
-![[100. media/audio/2034.mp3]]racist ~s
+bigot![[100. media/audio/8093.mp3]]![[100. media/audio/4200.mp3]]![[100. media/audio/1601.mp3]]![[100. media/audio/9618.mp3]]
 <!--SR:!2025-11-15,1,230-->
 -
 
@@ -916,16 +921,48 @@ SYN genuine, authentic, sincere
 -
 
 
-bone up on something ![[100. media/audio/1730.mp3]]
-?
 bone up on something
+?
+![[100. media/audio/9924.mp3]]to learn as much as you can about a subject, because you need the knowledge, for example for an examination
+![[100. media/image/3743.png|200]]
+
+![[100. media/audio/6022.mp3]]I have to ~ up ~ criminal law for a test next week.
+![[100. media/audio/1730.mp3]]Sarah is ~ing up ~ the company's history for her job interview tomorrow.
 <!--SR:!2025-11-15,1,230-->
 -
 
 
-bonkers
+bonkers ![[100. media/audio/3944.mp3]] ![[100. media/audio/4894.mp3]]
 ?
-bonkers![[100. media/audio/3944.mp3]]![[100. media/audio/4894.mp3]]
+drive somebody ~ informalto make someone feel crazy or very annoyed  ![[100. media/image/12078.jpg|200]]
+
+![[100. media/audio/4644.mp3]]Thinking about the whole problem has driven me nearly ~.
+<!--SR:!2025-11-15,1,230-->
+-
+
+
+boon ![[100. media/audio/2809.mp3]] ![[100. media/audio/6004.mp3]] ![[100. media/audio/4664.mp3]] ![[100. media/audio/4310.mp3]]
+?
+something that is very useful and makes your life a lot easier or better
+![[100. media/image/12397.jpg|200]]
+
+
+![[100. media/audio/4754.mp3]]The bus service is a real ~ to people in the village.
+![[100. media/audio/6603.mp3]]The recent rainfall was a ~ to the farmers who had been struggling with the drought conditions.
+![[100. media/audio/11762.mp3]]Access to free high-quality education is a significant ~ to the development and prosperity of any society.
+<!--SR:!2025-11-15,1,230-->
+-
+
+
+booze ![[100. media/audio/7220.mp3]] ![[100. media/audio/3612.mp3]] ![[100. media/audio/10891.mp3]] ![[100. media/audio/12155.mp3]]
+?
+informal alcoholic drink
+
+![[100. media/audio/2893.mp3]]a bottle of ~
+![[100. media/audio/3978.mp3]]He's been on the ~ (=drinking too much alcohol) for five days.
+![[100. media/audio/5915.mp3]]My husband is now off the ~ (=no longer drinking too much alcohol) and he is a different person.
+![[100. media/image/7714.jpg|200]]
+to drink alcohol, especially a lot of it
 <!--SR:!2025-11-15,1,230-->
 -
 
@@ -1093,7 +1130,7 @@ brew ![[100. media/audio/4612.mp3]] ![[100. media/audio/9874.mp3]]
 -
 
 
-brigde ![[100. media/audio/7828.mp3]] ![[100. media/audio/8181.mp3]] ![[100. media/audio/8376.mp3]] ![[100. media/audio/2395.mp3]]
+brig++a++de ![[100. media/audio/7828.mp3]] ![[100. media/audio/8181.mp3]] ![[100. media/audio/8376.mp3]] ![[100. media/audio/2395.mp3]]
 ?
 ![[100. media/image/2243.jpg|200]]
 a large group of soldiers forming part of an army
@@ -1148,6 +1185,20 @@ to behave in a way that shows you are very angry or annoyed
 -
 
 
+brittle ![[100. media/audio/1810.mp3]] ![[100. media/audio/1079.mp3]] ![[100. media/audio/1815.mp3]] ![[100. media/audio/2189.mp3]]
+?
+hard but easily broken
+![[100. media/image/593.jpg|200]]
+
+![[100. media/audio/3130.mp3]]The branches were dry and ~.  ![[100. media/audio/4799.mp3]]Joanna was diagnosed as having ~ bones.
+
+![[100. media/audio/6228.mp3]]He spoke with the ~ confidence of someone who, underneath, was very worried.
+
+showing no warm feelings  ![[100. media/audio/9048.mp3]]a ~ laugh
+<!--SR:!2025-11-15,1,230-->
+-
+
+
 brood ![[100. media/audio/1264.mp3]] ![[100. media/audio/1137.mp3]]
 ?
 to keep thinking about something that you are worried or upset about
@@ -1188,9 +1239,9 @@ SYN: flatterer, sycophant
 -
 
 
-brown noser ![[100. media/audio/1341.mp3]] ![[100. media/audio/6698.mp3]]
+brown noser
 ?
-아첨쟁이
+brown noser![[100. media/audio/1341.mp3]]![[100. media/audio/6698.mp3]]
 <!--SR:!2025-11-15,1,230-->
 -
 
@@ -1203,9 +1254,13 @@ a black circle appearing before each item in a list
 -
 
 
-bully into ing ![[100. media/audio/2451.mp3]]
+bully into ing
 ?
-bully into ~ing
+to put pressure on someone in order to make them do what you want
+![[100. media/image/675.jpg|200]]
+
+was ~ied ~ taking some by Percy.
+![[100. media/audio/2451.mp3]]Don’t let them bully you into working on Saturdays.
 <!--SR:!2025-11-15,1,230-->
 -
 

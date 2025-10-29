@@ -5,7 +5,7 @@ syllogism ![[100. media/audio/MOkU9xc3.mp3]] ![[100. media/audio/BPXscieE.mp3]]
 Major premise: All humans are mortal.
 Minor premise: Socrates is a human.
 Conclusion: Therefore, Socrates is mortal.![[100. media/audio/fpTuoHgC.mp3]]
-<!--SR:!2025-10-29,3,260-->
+<!--SR:!2025-11-05,7,260-->
 -
 
 snitch ![[4F713FD10224C90213.mp3]]  ![[4F7119760270690192.mp3]]
@@ -58,7 +58,7 @@ shoehorn ![[100. media/audio/5670.mp3]] ![[100. media/audio/7990.mp3]] ![[100. m
 systematic ![[100. media/audio/Xen2jwrJEc.mp3]] ![[100. media/audio/kQ5kA9sbjm.mp3]]
 ?
 done in an organized, methodical way
-<!--SR:!2025-10-28,7,250-->
+<!--SR:!2025-11-14,17,250-->
 -
 
 systemic
@@ -69,97 +69,20 @@ systemic
   Systemic risk in the financial system (risk affecting the entire economy) ![[100. media/audio/PbbcNeTPV5.mp3]]
 
   Systemic racism (racism embedded in the entire system/society) ![[100. media/audio/5OVYyh_uwJ.mp3]]
-<!--SR:!2025-10-26,7,250-->
+<!--SR:!2025-11-21,25,270-->
 -
 
-scutwork ![[100. media/audio/387.mp3]] ![[100. media/audio/1571.mp3]]
+stringent ![[4F71411B0510BE00BE.mp3]] ![[4F711AB801224601D9.mp3]]
 ?
-tedious, menial work, , especially in the context of routine, non-technical tasks often delegated to junior staff or interns. This term is frequently used in the medical field, particularly in reference to mundane tasks assigned to residents or interns.
+a stringent law, rule, standard etc is very strict and must be obeyed
 
-**Synonyms:** Drudgery, menial labor, grunt work, busywork.
-![[100. media/audio/4911.mp3]]~, though often seen as unimportant, can be essential for the smooth running of a hospital.
-![[100. media/audio/2062.mp3]]Many professionals in their early career stages find themselves bogged down with ~, which they hope to delegate as they gain seniority.
-![[100. media/audio/4080.mp3]]Although he was an experienced engineer, he occasionally had to deal with ~ like data entry and document formatting.
-<!--SR:!2025-10-27,4,281-->
--
+Most other countries have similarly stringent selection processes
+![[speech_20251028063400065.mp3]] ![[speech_20251028063438993.mp3]]
 
-singular ![[100. media/audio/7501.mp3]] ![[100. media/audio/9817.mp3]] ![[100. media/audio/728.mp3]] ![[100. media/audio/3531.mp3]]
-?
-a ~ noun, verb, form etc is used when writing or speaking about one person or thing → plural
+stringent economic conditions exist when there is a severe lack of money and strict controls on the supply money
+(금융계가) 핍박한, 자금이 달리는.
+<!--SR:!2025-10-31,3,260-->
 
-![[100. media/audio/9161.mp3]]the ~ form of the noun
-![[100. media/audio/8612.mp3]]If the subject is ~, use a singular verb.
-
-very great or very noticeable
-![[100. media/audio/6760.mp3]]He showed a ~ lack of tact in the way he handled the situation.
-![[100. media/audio/11494.mp3]]a ~ achievement
-
-very unusual or strange
-![[100. media/audio/11548.mp3]]I wondered why she was behaving in so ~ a fashion.
-<!--SR:!2025-10-26,3,259-->
--
-
-subversive ![[100. media/audio/11252.mp3]] ![[100. media/audio/9457.mp3]] ![[100. media/audio/808.mp3]] ![[100. media/audio/12459.mp3]]
-?
-~ ideas, activities etc are secret and intended to damage or destroy a government or an established system  ![[100. media/image/12330.jpg|200]]
-
-![[100. media/audio/9669.mp3]]He was engaged in ~ activities.
-
-![[100. media/audio/4362.mp3]]a known ~
-<!--SR:!2025-10-27,4,280-->
--
-
-sulk ![[100. media/audio/11432.mp3]] ![[100. media/audio/3391.mp3]] ![[100. media/audio/6543.mp3]] ![[100. media/audio/995.mp3]]
-?
-to be silently angry and refuse to be friendly or discuss what is annoying or upsetting you – used to show disapproval
-![[100. media/image/7750.jpg|200]]
-
-![[100. media/audio/1056.mp3]]Nicola ~ed all morning.
-![[100. media/audio/6846.mp3]]Mike could go into a ~ that would last for days.
-![[100. media/audio/4243.mp3]]She’s having a ~.
-<!--SR:!2025-10-27,4,281-->
--
-
-sulky ![[100. media/audio/7569.mp3]] ![[100. media/audio/10389.mp3]] ![[100. media/audio/7753.mp3]] ![[100. media/audio/9068.mp3]]
-?
-tending to sulk
-![[100. media/image/2050.jpg|200]]
-
-![[100. media/audio/8930.mp3]]a sulky child
-![[100. media/audio/12775.mp3]]He put on a sulky expression.
-![[100. media/audio/6428.mp3]]Katherine sat in a sulky silence.
-<!--SR:!2025-10-27,4,279-->
--
-
-sow ![[100. media/audio/bm7Pf3ZL.mp3]]![[100. media/audio/B6dSOZkf.mp3]]
-?
-![[100. media/image/J0x822WL.png|200]]
-![[100. media/image/j5qjz4o8.png|200]]
-to plant or scatter seeds on a piece of ground
-씨뿌리다
-
-These fields used to be sown with oats.
-![[100. media/audio/SdARjoBF.mp3]]![[100. media/audio/EAlMLc9J.mp3]]
-
-repressive laws that are sowing the seeds of future conflicts
-![[100. media/audio/0d6v5kKi.mp3]]![[100. media/audio/sMA8GCWs.mp3]]
-
-
-an attempt to sow doubt among the jury members
-![[100. media/audio/VwtNcBhv.mp3]]![[100. media/audio/csSPyVNt.mp3]]
-
-<!--SR:!2025-10-29,1,230-->
--
-
-spree ![[100. media/audio/vhjgP6dc.mp3]]![[100. media/audio/UipZ8vk9.mp3]]
-?
-a period of unrestrained activity, often involving doing something excessively or with great enthusiasm. 흥청망청 놀가, 법석댐.
-
-Startups are on a hiring spree for a software engineering role.![[100. media/audio/TJowSLiS.mp3]]![[100. media/audio/M0BZiMHp.mp3]]
-
-The lottery winner went on a spending spree, buying a new car, jewelry, and expensive gadgets.![[100. media/audio/FINibXDE.mp3]]![[100. media/audio/H3GMc4ob.mp3]]
-
-<!--SR:!2025-10-29,1,230-->
 -
 
 #Vocabulary

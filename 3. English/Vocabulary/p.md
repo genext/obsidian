@@ -32,7 +32,7 @@ SYN determination, tenacity, doggedness
 <!--SR:!2025-11-02,12,270-->
 -
 
-puny ![[100. media/audio/10703.mp3]] ![[100. media/audio/898.mp3]] ![[100. media/audio/10294.mp3]] ![[100. media/audio/835.mp3]]
+puny ![[100. media/audio/10703.mp3]] ![[100. media/audio/898.mp3]] ![[100. media/audio/10294.mp3]]
 ?
 SYN: scrawny, paltry, trifling
 
@@ -41,7 +41,7 @@ SYN: scrawny, paltry, trifling
 
 not effective or impressive
 ![[100. media/audio/3299.mp3]]a ~ attempt at humour ![[100. media/audio/5108.mp3]]Our efforts look ~ beside Fred’s.
-<!--SR:!2025-10-27,4,285-->
+<!--SR:!2025-11-13,17,305-->
 -
 
 perpetual ![[100. media/audio/289.mp3]] ![[100. media/audio/5092.mp3]] ![[100. media/audio/1383.mp3]] ![[100. media/audio/10537.mp3]]
@@ -78,19 +78,7 @@ if liquid, gas etc ~s something, it enters it and spreads through every part
  if ideas, beliefs, emotions etc ~ something, they are present in every part of it
 ![[100. media/audio/8523.mp3]]Racism continues to ~ our society.
 ![[100. media/audio/1682.mp3]]An emotional intensity ~s every one of O'Connor’s songs.
-<!--SR:!2025-10-26,3,266-->
--
-
-pr**e**decessor ![[100. media/audio/8965.mp3]] ![[100. media/audio/4623.mp3]] ![[100. media/audio/1671.mp3]] ![[100. media/audio/11842.mp3]]
-?
-![[100. media/image/6793.jpg|200]]
-someone who had your job before you started doing it OPP successor
-
-![[100. media/audio/5568.mp3]]Kennedy’s ~ as president was the war hero Dwight Eisenhower.
-
-a machine, system etc that existed before another one in a process of development
-![[100. media/audio/11403.mp3]]The new BMW has a more powerful engine than its ~.
-<!--SR:!2025-10-27,4,286-->
+<!--SR:!2025-11-03,7,266-->
 -
 
 puberty ![[100. media/audio/4045.mp3]] ![[100. media/audio/11878.mp3]] ![[100. media/audio/10499.mp3]] ![[100. media/audio/12159.mp3]]
@@ -114,8 +102,7 @@ There was a ~ sense of relief among the crowd.
 
 ![[100. media/audio/07GVf9xe.mp3]]![[100. media/audio/rl0KVSLo.mp3]]
 When he claimed that Paris was the capital of Italy, he betrayed his own ~ ignorance of European geography.
-
-<!--SR:!2025-10-29,1,230-->
+<!--SR:!2025-10-31,2,230-->
 -
 
 pilfer ![[100. media/audio/scpsObij.mp3]]![[100. media/audio/SUO5MmWq.mp3]]
@@ -130,8 +117,7 @@ Someone's been pilfering snacks from the break room
 
 My brother keeps pilfering my favorite pens from my desk when I'm not looking.
 ![[100. media/audio/tsgCdiKF.mp3]]![[100. media/audio/D9GgdaJH.mp3]]
-
-<!--SR:!2025-10-29,1,230-->
+<!--SR:!2025-10-30,1,210-->
 -
 
 predicate ![[100. media/audio/rkZdmMWT.mp3]]![[100. media/audio/g6AQuHJf.mp3]]
@@ -142,8 +128,7 @@ predicate ![[100. media/audio/rkZdmMWT.mp3]]![[100. media/audio/g6AQuHJf.mp3]]
 Most religions predicate life after death.![[100. media/audio/3fLO6D9V.mp3]]![[100. media/audio/wIPGSKUn.mp3]]
 
 In each sentence, the subject is who or what the sentence is about, and the predicate is everything that tells us something about the subject![[100. media/audio/R4wtMaw8.mp3]]![[100. media/audio/rXEuSUeh.mp3]]
-
-<!--SR:!2025-10-29,1,230-->
+<!--SR:!2025-10-30,1,210-->
 -
 
 puke ![[100. media/audio/kfDEtTgw.mp3]]![[100. media/audio/M4Cc4pJU.mp3]]
@@ -153,8 +138,7 @@ puke ![[100. media/audio/kfDEtTgw.mp3]]![[100. media/audio/M4Cc4pJU.mp3]]
 to bring food back up from your stomach through your mouth
 
 I dumped my big container o' shit onto the soil and nearly ~ed from the smell. ![[100. media/audio/cMBA9BH9.mp3]]
-
-<!--SR:!2025-10-29,1,230-->
+<!--SR:!2025-11-01,3,250-->
 -
 proverbial ![[100. media/audio/9630.mp3]] ![[100. media/audio/9497.mp3]]
 ?
@@ -168,4 +152,10 @@ Referring to a well-known saying, proverb, or familiar expression; often used to
 <!--SR:!2025-10-31,1,230-->
 -
 
+prostate ![[4F713B87044919016F.mp3]] ![[4F71153F0269DA00BC.mp3]]
+?
+전립선, 전립선의
+<!--SR:!2025-10-31,3,259-->
+
+-
 #Vocabulary

@@ -1,8 +1,10 @@
 rationale ![[100. media/audio/4F713C570355640171.mp3]] ![[100. media/audio/4F71160A05317A00EE.mp3]]
 ?
+ the reasons for a decision, belief etc. 근본적 이유, 이유 붙이기, 정당화.
+
 Can you explain the rationale behind your decision?
 ![[100. media/audio/speech_20251014081925676.mp3]] ![[100. media/audio/speech_20251014081959271.mp3]]
-<!--SR:!2025-10-28,4,230-->
+<!--SR:!2025-11-05,8,230-->
 -
 
 ravage ![[4F713C5B057C1A0150.mp3]]  ![[4F71160F011B080104.mp3]]
@@ -11,7 +13,7 @@ Having brain tissue that was riddled with the ravages of Alzheimer's disease, di
 ![[speech_20251020171908147.mp3]] ![[speech_20251020171908147 1.mp3]]
 
 the ravages 파괴된 자리, 참화
-<!--SR:!2025-10-26,3,254-->
+<!--SR:!2025-11-03,5,234-->
 -
 
 refute ![[100. media/audio/E4PaidWQ.mp3]] ![[100. media/audio/7hhkfh26.mp3]]
@@ -34,38 +36,6 @@ within the ~s of possibility
 ![[100. media/audio/304.mp3]]I suppose it’s not beyond the ~s of possibility.
 ![[100. media/audio/7974.mp3]]This issue falls into the ~ of ethics and morality.
 <!--SR:!2025-11-05,15,290-->
--
-
-rampant ![[100. media/audio/1425.mp3]] ![[100. media/audio/314.mp3]] ![[100. media/audio/8498.mp3]] ![[100. media/audio/5107.mp3]]
-?
-if something bad, such as crime or disease, is ~, there is a lot of it and it is very difficult to control → rife, widespread
-![[100. media/image/2811.jpg|200]]
-
-![[100. media/audio/1846.mp3]]Pickpocketing is ~ in the downtown area.  ![[100. media/audio/8372.mp3]]~ inflation
-
-![[100. media/image/5664.jpg|200]]
-
-![[100. media/image/6385.png|200]]
-<!--SR:!2025-10-26,3,254-->
--
-
-res**i**lient ![[100. media/audio/8745.mp3]] ![[100. media/audio/1917.mp3]]
-![[100. media/audio/1361.mp3]] ![[100. media/audio/11113.mp3]]
-?
-![[100. media/image/4335.jpg|200]]
-회복력 있는, 탄력 있는
-able to become strong, happy, or successful again after a difficult situation or event → tough  ![[100. media/audio/9633.mp3]]Children are often very resilient.  ![[100. media/audio/1127.mp3]]The company proved remarkably resilient during the recession.
-![[100. media/audio/4815.mp3]]boots with tough resilient soles  ![[100. media/audio/2846.mp3]]Any chemical treatment will leave hair less resilient than before.
-<!--SR:!2025-10-27,4,274-->
--
-
-reservation ![[100. media/audio/571.mp3]] ![[100. media/audio/238.mp3]] ![[100. media/audio/4141.mp3]] ![[100. media/audio/4412.mp3]]
-?
-with ~:
-a feeling of doubt because you do not agree completely with a plan, idea, or suggestion
-![[100. media/audio/12333.mp3]]I had serious ~s about his appointment as captain.
-![[100. media/audio/672.mp3]]We condemn their actions without ~ (=completely).
-<!--SR:!2025-10-26,3,254-->
 -
 
 rouse ![[100. media/audio/5061.mp3]] ![[100. media/audio/8446.mp3]] ![[100. media/audio/757.mp3]] ![[100. media/audio/12000.mp3]]
@@ -94,8 +64,7 @@ You reap what you sow![[100. media/audio/E0VmDUqP.mp3]]![[100. media/audio/DfJDf
 
 It was time to reap and resow.
 ![[100. media/audio/bLB8U3Wf.mp3]]![[100. media/audio/6yozqeL5.mp3]]
-
-<!--SR:!2025-10-29,1,230-->
+<!--SR:!2025-11-01,3,250-->
 -
 
 redact ![[100. media/audio/BTNcUsh0.mp3]]![[100. media/audio/PCZ0Iy1b.mp3]]
@@ -108,8 +77,7 @@ MCP Clients may provide options to redact sensitive information.
 
 ![[100. media/audio/QaY4Z7j0.mp3]]![[100. media/audio/RAFFLFHk.mp3]]
 There were complaints about the redaction of details of MPs’ expenses claims.
-
-<!--SR:!2025-10-29,1,230-->
+<!--SR:!2025-10-31,2,230-->
 -
 
 #Vocabulary

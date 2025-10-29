@@ -8,22 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c819d96bf5144f90",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. 일일 기록/2025-10-26.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "2025-10-26"
-            }
-          },
-          {
             "id": "71d3c3a34aef2240",
             "type": "leaf",
             "pinned": true,
@@ -40,51 +24,35 @@
             }
           },
           {
-            "id": "d8d19f2f7446063b",
+            "id": "ca6b56f0eb92cf79",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. IT/Language/python/Knowledge base/2. Annotations and Decorators.md",
+                "file": "2. Not completed/pigment.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Annotations and Decorators"
+              "title": "pigment"
             }
           },
           {
-            "id": "f9780ffe2f48e3aa",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. 일일 기록/October 3rd, 2025.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "October 3rd, 2025"
-            }
-          },
-          {
-            "id": "e03f0530ab2cd709",
+            "id": "a902750e0cf48b1b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. English/Vocabulary/b.md",
+                "file": "final_report_e24cab9d-e358-4215-a4f2-595d26be9e59.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "b"
+              "title": "final_report_e24cab9d-e358-4215-a4f2-595d26be9e59"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -104,7 +72,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "파일 탐색기"
@@ -116,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "belt out",
+                "query": "dwell",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -259,53 +227,53 @@
       "zk-prefixer:새 고유 노트 생성": false
     }
   },
-  "active": "e03f0530ab2cd709",
+  "active": "a902750e0cf48b1b",
   "lastOpenFiles": [
-    "1. 일일 기록/October 3rd, 2025.md",
-    "3. English/Vocabulary/b.md",
-    "3. English/Vocabulary/a.md",
-    "100. media/audio/2067.mp3",
-    "100. media/audio/3729.mp3",
-    "100. media/audio/1342.mp3",
-    "100. media/audio/7269.mp3",
-    "100. media/audio/7749.mp3",
-    "100. media/audio/1264.mp3",
-    "100. media/audio/87.mp3",
-    "100. media/audio/11528.mp3",
-    "100. media/audio/12501.mp3",
-    "100. media/audio/8807.mp3",
-    "100. media/image/1679.jpg",
-    "100. media/image/11593.jpg",
-    "100. media/image/4705.jpg",
-    "100. media/image/11760.jpg",
-    "100. media/image/9686.jpg",
-    "100. media/image/2490.jpg",
-    "100. media/image/7153.jpg",
-    "100. media/image/2135.jpg",
-    "100. media/image/8924.jpg",
-    "100. media/image/546.jpg",
-    "4. IT/AI.md",
-    "2. Not completed/stringent.md",
-    "2. Not completed/latent.md",
-    "3. English/Quote.md",
-    "3. English/Phrase-idiom.md",
     "할 일 목록.md",
-    "일깨우기.md",
-    "1. 일일 기록/September 27th, 2025.md",
-    "4. IT/Language/java/record.md",
-    "4. IT/Language/python/Knowledge base/2. Annotations and Decorators.md",
-    "1. 일일 기록/September 5th, 2025.md",
-    "4. IT/Language/javascript/React.md",
-    "10. 일반 기록/아이 교육.md",
-    "1. 일일 기록/August 30th, 2025.md",
-    "4. IT/Language/python/Knowledge base/1. Basics.md",
-    "4. IT/Language/python/Knowledge base/7. web framework.md",
-    "6. 프로젝트 기록/우리은행 CBDC.md",
-    "4. IT/Language/java/java.md",
-    "4. IT/rust.md",
-    "1. 일일 기록/August 16th, 2025.md",
-    "1. 일일 기록/August 31st, 2025.md",
-    "1. 일일 기록/August 7th, 2024.md",
-    "1. 일일 기록/2025-10-21.md"
+    "1. 일일 기록/2025-10-29.md",
+    "2. Not completed/pigment.md",
+    "2. Not completed/You don’t perceive objects as they are. You perceive them as you are..md",
+    "1. 일일 기록/2025-10-27.md",
+    "1. 일일 기록/September 29th, 2025.md",
+    "4. IT/시스템 설계(System Design).md",
+    "3. English/Phrase-idiom.md",
+    "3. English/Quote.md",
+    "1. 일일 기록/December 13th, 2023.md",
+    "3. English/Vocabulary/l.md",
+    "100. media/speech_20251029070234310.mp3",
+    "100. media/speech_20251029070143056.mp3",
+    "100. media/4F712F1B0341450299.mp3",
+    "100. media/4F715518067B150072.mp3",
+    "2. Not completed/legwork.md",
+    "2. Not completed/dwell.md",
+    "3. English/Vocabulary/d.md",
+    "100. media/speech_20251029065750883.mp3",
+    "100. media/speech_20251029065711817.mp3",
+    "100. media/speech_20251029065625265.mp3",
+    "100. media/speech_20251029065554985.mp3",
+    "100. media/4F7126B606307B0170.mp3",
+    "100. media/4F714D070510E502F5.mp3",
+    "4. IT/Language/java/generic.md",
+    "3. English/Vocabulary/k.md",
+    "3. English/Vocabulary/v.md",
+    "3. English/Vocabulary/w.md",
+    "3. English/Vocabulary/j.md",
+    "3. English/Vocabulary/c.md",
+    "3. English/Vocabulary/t.md",
+    "3. English/Vocabulary/f.md",
+    "100. media/image/9691.jpeg",
+    "100. media/image/5275.jpeg",
+    "100. media/image/8470.jpeg",
+    "100. media/image/9893.jpeg",
+    "100. media/image/7956.jpeg",
+    "100. media/image/5025.jpeg",
+    "3. English/Vocabulary/e.md",
+    "1. 일일 기록/2025-10-28.md",
+    "10. 일반 기록/연금.md",
+    "10. 일반 기록/ISA 계좌.md",
+    "100. media/Pasted image 20251028105343.png",
+    "100. media/image/3620.jpg",
+    "100. media/image/4155.jpg",
+    "100. media/image/4188.jpg"
   ]
 }

@@ -41,19 +41,7 @@ to have an opinion, perspective, or interpretation about something. The word "ta
 
   What's your take on the new policy
   ![[100. media/audio/hZ_6BBAlYg.mp3]] ![[100. media/audio/jt6kSihtKE.mp3]]
-<!--SR:!2025-10-26,9,250-->
--
-
-hectic ![[100. media/audio/6712.mp3]] ![[100. media/audio/8502.mp3]] ![[100. media/audio/7318.mp3]] ![[100. media/audio/2848.mp3]]
-?
-![[100. media/image/2944.jpg|200]] _written_ if your face is a ~ colour, it is very pink
-![[100. media/audio/3208.mp3]]the ~ flush on her cheeks
-
-very busy or full of activity
-![[100. media/image/5501.jpg|200]]
-I’ve had a pretty ~ day.
-![[100. media/audio/10614.mp3]]a ~ social life
-<!--SR:!2025-10-27,4,274-->
+<!--SR:!2025-11-01,5,230-->
 -
 
 hot-headed ![[100. media/audio/5576.mp3]] ![[100. media/audio/10678.mp3]]
