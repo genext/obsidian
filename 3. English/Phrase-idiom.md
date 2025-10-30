@@ -43,7 +43,7 @@ Learning in action 체험학습
 ?
 They say no plan survives first contact with implementation.
 ![[100. media/audio/bMk2GNWK.mp3]]
-<!--SR:!2025-10-30,4,230-->
+<!--SR:!2025-11-09,10,230-->
 -
 
 The morbidity rate is a measure of how often a disease or illness occurs within a specific population over a defined period
@@ -256,7 +256,7 @@ He typed what amounted to a suicide note.
 
 He typed what was counted as a suicide note.
 ![[speech_20251018230523778.mp3]]
-<!--SR:!2025-10-30,8,250-->
+<!--SR:!2025-11-03,4,230-->
 -
 
 if only

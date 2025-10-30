@@ -256,7 +256,7 @@ class Box<T> implements Getable<T> {
 	}
 }
 ```
-<!--SR:!2025-10-30,1,210-->
+<!--SR:!2025-11-01,2,210-->
 -
 
 #java

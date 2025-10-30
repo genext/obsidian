@@ -70,7 +70,7 @@ to pretend to be something or someone different
 A number of police officers masqueraded as demonstrators.
 He was masquerading under a false name
 She kept up the masquerade for years as if she loved him.
-<!--SR:!2025-10-30,1,210-->
+<!--SR:!2025-11-01,2,210-->
 -
 
 mayhem ![[100. media/audio/XsZiE3m3.mp3]]![[100. media/audio/1ZZBHKtz.mp3]]

@@ -95,8 +95,10 @@ pip install dist/my_package-1.0.0-py3-none-any.whl
 ```
 ## virtual environment
 - 가상환경 만들려는 디렉토리에서 다음 명령어 실행.
+- `.`을 붙여서 `.venv`로 가상환경 이름을 정하는 걸 선호
 ```shell
   python -m venv my_venv_name
+  # -m venv: Runs the `venv` module
 
   # windows
   venv/Script/activate(.bat)

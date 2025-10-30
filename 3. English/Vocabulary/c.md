@@ -28,7 +28,7 @@ I'm very congested.
 
 London’s roads are heavily congested
 ![[speech_20251019023258898.mp3]]
-<!--SR:!2025-10-30,8,252-->
+<!--SR:!2025-11-18,19,252-->
 
 -
 
@@ -73,7 +73,7 @@ It's a bit more confrontational, but in a clarifying way.
 
 an ideological confrontation between conservatives and liberals
 ![[speech_20251028015243608.mp3]] ![[speech_20251028015304531.mp3]]
-<!--SR:!2025-10-30,2,249-->
+<!--SR:!2025-11-04,5,249-->
 -
 c**a**dence ![[100. media/audio/6893.mp3]] ![[100. media/audio/7842.mp3]] ![[100. media/audio/5948.mp3]] ![[100. media/audio/149.mp3]]
 ?
