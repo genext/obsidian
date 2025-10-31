@@ -1384,5 +1384,14 @@ covered with soft short hair or fur
 <!--SR:!2025-11-24,1,230-->
 -
 
+flabbergast ![[100. media/audio/8031.mp3]] ![[100. media/audio/12601.mp3]] ![[100. media/audio/900.mp3]] ![[100. media/audio/579.mp3]]
+?
+extremely surprised or shocked
+![[100. media/image/8731.jpg|200]]
+
+![[100. media/audio/10452.mp3]]When I heard how much money we’d made, I was ~ed.
+<!--SR:!2025-11-04,1,230-->
+-
+
 
 #Vocabulary

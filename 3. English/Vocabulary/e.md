@@ -2028,4 +2028,14 @@ NORTH AMERICAN a district outside a city, especially a prosperous area beyond 
 -
 
 
+(every) now and then
+?
+(also every so often) sometimes, but not often or regularly
+![[100. media/audio/10057.mp3]]I still see her every now and then.
+
+### every once in a while\[way\]
+<!--SR:!2025-11-04,1,230-->
+-
+
+
 #Vocabulary
