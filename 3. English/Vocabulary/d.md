@@ -47,7 +47,7 @@ a method of examining and discussing ideas in order to find the truth, in which 
 변증법
 
 dialect에서 나온 것으로 혼동하기 쉽지만 아니다!
-<!--SR:!2025-10-31,3,260-->
+<!--SR:!2025-11-02,2,240-->
 
 -
 
@@ -1701,7 +1701,7 @@ They dwelt in the forest.
 
 It implies you're _choosing_ to fixate on those 15 minutes, replaying them, dwelling on them, and letting them take up mental real estate.
 ![[speech_20251029065711817.mp3]] ![[speech_20251029065750883.mp3]]
-<!--SR:!2025-10-31,2,232-->
+<!--SR:!2025-11-05,5,232-->
 -
 
 #Vocabulary

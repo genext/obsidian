@@ -64,7 +64,7 @@ _The ~ ceremony of the new museum attracted art enthusiasts from all over the co
 _His ~ work in the field of renewable energy set a new standard for innovation._
 
 **Etymology:** comes from the Latin 'inaugurare', meaning "to consecrate by augury" (augury being the practice of interpreting omens). In ancient Rome, important actions or events, like the assumption of office, were often initiated with certain rituals to predict success. evolved in English usage to mean "serving to set in motion" or "initiating." It has since been used to denote the first in a series, or the beginning of a significant period, especially in a formal or ceremonial context.
-<!--SR:!2025-10-31,2,230-->
+<!--SR:!2025-11-05,5,230-->
 -
 
 indigent ![[100. media/audio/U2vNGIhd.mp3]] ![[100. media/audio/b8xEN5iR.mp3]]
@@ -451,7 +451,7 @@ having taken human form
 
 to represent a particular quality in a physical or human form,  to make something appear in a human form
 ![[100. media/audio/12488.mp3]]The crown ~s national power.
-<!--SR:!2025-10-31,1,210-->
+<!--SR:!2025-11-01,1,190-->
 -
 
 
@@ -521,7 +521,7 @@ SYN irredeamable, irreformable, unchangeable, chronic
 ![[100. media/audio/5530.mp3]]Peter, you are an ~ flirt!
 
 **Etymology:** derived from Latin "incorrigibilis," from "in-" (not) and "corrigere" (to correct).
-<!--SR:!2025-10-31,1,210-->
+<!--SR:!2025-11-03,3,230-->
 -
 
 
@@ -655,7 +655,7 @@ An ~ point signifies a key moment of change, but the specific nature of this cha
 ![[100. media/audio/498.mp3]]In the graph of the company's annual revenue, the introduction of the new product line represented an ~ point, after which profits increased dramatically.
 ![[100. media/audio/4691.mp3]]The mathematician explained that at an ~ point, the curvature of the function's graph changes from concave to convex.
 ![[100. media/audio/3410.mp3]]The global financial crisis of 2008 served as an ~ point for the banking industry, leading to significant regulatory changes and new business practices.
-<!--SR:!2025-10-31,1,210-->
+<!--SR:!2025-11-02,2,210-->
 -
 
 
@@ -1169,7 +1169,7 @@ to make spirits appear by using magic  ---> summon
 Etymology
 
 The term "invoke" originates from the Latin word "invocare," where "in-" means "into" and "vocare" means "to call." In Latin, it initially meant to call on, summon, or call for.
-<!--SR:!2025-10-31,1,210-->
+<!--SR:!2025-11-02,2,210-->
 -
 
 
@@ -1196,7 +1196,7 @@ full of energy and enthusiasm; impossible to stop
 full of energy, confidence, and happiness so that you never seem unhappy
 ![[100. media/image/10812.jpg|200]]
 ![[100. media/audio/6060.mp3]]an ~ optimist
-<!--SR:!2025-10-31,1,210-->
+<!--SR:!2025-11-02,2,210-->
 -
 
 

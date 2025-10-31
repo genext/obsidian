@@ -58,7 +58,7 @@ the power given to one country to govern another country
 The government issued a mask mandate during the pandemic.![[100. media/audio/YwQDMGiG.mp3]]![[100. media/audio/ZRRNWC2Z.mp3]]
 
 The election results gave her a clear mandate to reform healthcare.![[100. media/audio/5EDaMDFL.mp3]]![[100. media/audio/VaIEEVv8.mp3]]
-<!--SR:!2025-10-31,2,230-->
+<!--SR:!2025-11-07,7,250-->
 -
 
 masquerade ![[100. media/audio/Y1MvtIxF.mp3]]![[100. media/audio/gD1Hrehj.mp3]]
@@ -79,7 +79,7 @@ an extremely confused situation in which people are very frightened or excited S
 대혼란
 
 When the fire alarm went off during the school assembly, there was complete mayhem as hundreds of students rushed toward the exits at the same time.![[100. media/audio/aEeMJy0e.mp3]]![[100. media/audio/pdlqtVqd.mp3]]
-<!--SR:!2025-10-31,2,230-->
+<!--SR:!2025-11-07,7,250-->
 -
 
 #Vocabulary

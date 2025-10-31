@@ -60,7 +60,7 @@ save for ~
 The break room was empty save for a computer technician sipping a cup of coffee.
 ![[100. media/audio/KV1MGiXN.mp3]]
 ![[100. media/audio/1dmOb0e5.mp3]]
-<!--SR:!2025-10-31,5,230-->
+<!--SR:!2025-11-12,12,230-->
 -
 
 someone's point of view
@@ -121,7 +121,7 @@ I'm just mindlessly scrolling ![[100. media/audio/gk56BAzYVC.mp3]]
 idling while looking at my phone ![[100. media/audio/TdAdl0REsz.mp3]]
 sit around and stare at their phone all day ![[100. media/audio/FuFtF9Fn2l.mp3]]
 coin: doom scrolling
-<!--SR:!2025-10-31,5,230-->
+<!--SR:!2025-11-11,11,230-->
 -
 
 take a bashing
@@ -129,7 +129,7 @@ take a bashing
 크게 당하다, 혹평 받다.
  The fairy tale of the quest to find our One True Love has taken a bashing of late, and not before time.
 ![[100. media/audio/HpkHZ3sVr_.mp3]] ![[100. media/audio/1tLeEJlC-Z.mp3]]
-<!--SR:!2025-10-31,5,230-->
+<!--SR:!2025-11-03,3,210-->
 -
 brush up
 ?
@@ -298,7 +298,7 @@ My coworker found out I left early yesterday, and she ratted me out to the boss.
 formal
 The witness informed on the suspect to the police, providing crucial evidence for the investigation.
 ![[speech_20251021030514534.mp3]]
-<!--SR:!2025-10-31,7,250-->
+<!--SR:!2025-11-17,17,250-->
 -
 
 edge on

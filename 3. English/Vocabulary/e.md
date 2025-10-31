@@ -84,7 +84,7 @@ The gabby salesman wouldn't let us get a word in edgewise.![[100. media/audio/Pk
 
 get a word in edgeways
 The gabby salesman wouldn't let us get a word in edgeways![[100. media/audio/7mCFPdsw.mp3]].
-<!--SR:!2025-10-31,2,230-->
+<!--SR:!2025-11-07,7,250-->
 -
 
 elate ![[100. media/audio/kmQQUhQ3.mp3]] ![[100. media/audio/tvjZxNkV.mp3]]
@@ -92,7 +92,7 @@ elate ![[100. media/audio/kmQQUhQ3.mp3]] ![[100. media/audio/tvjZxNkV.mp3]]
 ![[100. media/image/nL8QEAJI.png|200]]
 
 I was elated!![[100. media/audio/01N2shTW.mp3]]
-<!--SR:!2025-10-31,2,230-->
+<!--SR:!2025-11-07,7,250-->
 -
 
 elicit ![[100. media/audio/p7OnA7cQ.mp3]] ![[100. media/audio/074q5Wob.mp3]]
@@ -105,7 +105,7 @@ When her knock elicited no response, she opened the door and peeped in.
 
 ![[100. media/audio/tIGytpaQ.mp3]]![[100. media/audio/9E1z14li.mp3]]
 The test uses pictures to elicit words from the child.
-<!--SR:!2025-10-31,2,230-->
+<!--SR:!2025-11-07,7,250-->
 -
 
 eulogy ![[100. media/audio/Fwr9a9Wi.mp3]] ![[100. media/audio/TNcGgZOz.mp3]]
@@ -117,7 +117,7 @@ The minister delivered a long eulogy.![[100. media/audio/5NGjF7A4.mp3]]
 Commander Lewis and the surviving crew, via long-range communication from Hermes, gave eulogies for their departed comrade from deep space.![[100. media/audio/ftHBTu76.mp3]]![[100. media/audio/RjrP0c35.mp3]]
 <!--SR:!2025-11-01,3,250-->
 -
-enamo\[u\]red ![[100. media/audio/11068.mp3]] ![[100. media/audio/12612.mp3]]
+enamo\[u\]red ![[100. media/audio/12612.mp3]]
 ?
 \[not before noun\] liking something very much  
 
@@ -128,13 +128,14 @@ SYN captivated, 
 
 ![[100. media/image/12073.png|200]]  
 ![[100. media/audio/10965.mp3]]You don’t seem very ~ed with your job.  
-The new video game has enamored kids all over the world.  
+The new video game has enamored kids all over the world. ![[speech_20251031011743393.mp3]] 
 formal in love with someone  
-![[100. media/audio/1893.mp3]]He was greatly ~ed of Elizabeth.  
+
+He was greatly ~ed of Elizabeth.  ![[speech_20251031011857129.mp3]]
   
 **Etymology**:  
 The word "~" comes from the Middle English word "enamouren," which itself is derived from the Old French "enamourer," meaning 'to fall in love.' The root words are "en-" (in) + "amour" (love).
-<!--SR:!2025-10-31,1,230-->
+<!--SR:!2025-11-11,1,230-->
 -
 earnest ![[100. media/audio/6548.mp3]] ![[100. media/audio/2555.mp3]] ![[100. media/audio/11068.mp3]] ![[100. media/audio/6902.mp3]]
 ?

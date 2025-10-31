@@ -77,7 +77,7 @@ MCP Clients may provide options to redact sensitive information.
 
 ![[100. media/audio/QaY4Z7j0.mp3]]![[100. media/audio/RAFFLFHk.mp3]]
 There were complaints about the redaction of details of MPs’ expenses claims.
-<!--SR:!2025-10-31,2,230-->
+<!--SR:!2025-11-07,7,250-->
 -
 
 #Vocabulary

@@ -39,16 +39,6 @@ someone who is very famous or highly respected for their skill at doing som
 <!--SR:!2025-11-06,16,290-->
 -
 
-lusty ![[100. media/audio/8335.mp3]] ![[100. media/audio/4444.mp3]] ![[100. media/audio/11278.mp3]] ![[100. media/audio/10952.mp3]]
-?
-![[100. media/image/6736.jpg|200]]  
-strong and healthy SYN powerful (vigorous, peppy)  
-  
-![[100. media/audio/6783.mp3]]the ~ cry of a new-born baby  ![[100. media/audio/4456.mp3]]her strong, ~ young husband  
-![[100. media/audio/6327.mp3]]Her mother was singing ~ily.
-<!--SR:!2025-10-31,1,230-->
--
-
 latent ![[4F7154E4066CD30251.mp3]] ![[4F712EE90432C602E3.mp3]]
 ?
 something that is latent is present but hidden may develop or become more noticeable in the future → dormant
@@ -57,7 +47,7 @@ latent snobbery
 ![[speech_20251028015852503.mp3]] ![[speech_20251028015911360.mp3]]
 a verification-and-refinement pipeline is essential for converting their latent capabilities into rigorous mathematical proofs.
 ![[speech_20251028015945962.mp3]] ![[speech_20251028020014045.mp3]]
-<!--SR:!2025-10-31,3,258-->
+<!--SR:!2025-11-08,8,258-->
 -
 
 legwork ![[4F715518067B150072.mp3]] ![[4F712F1B0341450299.mp3]]

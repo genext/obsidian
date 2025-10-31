@@ -102,7 +102,7 @@ There was a ~ sense of relief among the crowd.
 
 ![[100. media/audio/07GVf9xe.mp3]]![[100. media/audio/rl0KVSLo.mp3]]
 When he claimed that Paris was the capital of Italy, he betrayed his own ~ ignorance of European geography.
-<!--SR:!2025-10-31,2,230-->
+<!--SR:!2025-11-05,5,230-->
 -
 
 pilfer ![[100. media/audio/scpsObij.mp3]]![[100. media/audio/SUO5MmWq.mp3]]
@@ -138,24 +138,25 @@ puke ![[100. media/audio/kfDEtTgw.mp3]]![[100. media/audio/M4Cc4pJU.mp3]]
 to bring food back up from your stomach through your mouth
 
 I dumped my big container o' shit onto the soil and nearly ~ed from the smell. ![[100. media/audio/cMBA9BH9.mp3]]
-<!--SR:!2025-11-01,3,250-->
+<!--SR:!2025-11-06,3,250-->
 -
-proverbial ![[100. media/audio/9630.mp3]] ![[100. media/audio/9497.mp3]]
+proverbial ![[4F713B940573160259.mp3]] ![[4F71154B0674E500DA.mp3]]
 ?
 Referring to a well-known saying, proverb, or familiar expression; often used to describe something that is widely known or commonly referred to.  
-![Proverbs 10:13 | Calvary Heights Baptist Church](https://unknown_file.png.com/images?q=tbn:ANd9GcSA8sGu4WylAQLLnuWg_GSAm1wL2yYmLqJugw&usqp=CAU)  
 **Noun:** Proverb  
 **Synonyms:** Well-known, famed, legendary, notorious, traditional  
-![[100. media/audio/7712.mp3]]He has the ~ Midas touch when it comes to investing.  
-![[100. media/audio/8465.mp3]]She avoided the ~ elephant in the room during the conversation.  
-![[100. media/audio/12830.mp3]]The team faced the ~ David and Goliath scenario in the championship game.
-<!--SR:!2025-10-31,1,230-->
+
+He has the ~ Midas touch when it comes to investing.  ![[speech_20251031010625997.mp3]]
+She avoided the ~ elephant in the room during the conversation.  
+![[100. media/audio/8465.mp3]]
+The team faced the ~ David and Goliath scenario in the championship game. ![[speech_20251031010719993.mp3]]
+<!--SR:!2025-12-12,1,230-->
 -
 
 prostate ![[4F713B87044919016F.mp3]] ![[4F71153F0269DA00BC.mp3]]
 ?
 전립선, 전립선의
-<!--SR:!2025-10-31,3,259-->
+<!--SR:!2025-11-03,3,259-->
 
 -
 #Vocabulary

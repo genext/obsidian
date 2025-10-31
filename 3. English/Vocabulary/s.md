@@ -81,7 +81,7 @@ Most other countries have similarly stringent selection processes
 
 stringent economic conditions exist when there is a severe lack of money and strict controls on the supply money
 (금융계가) 핍박한, 자금이 달리는.
-<!--SR:!2025-10-31,3,260-->
+<!--SR:!2025-11-08,8,260-->
 
 -
 

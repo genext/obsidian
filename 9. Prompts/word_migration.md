@@ -305,6 +305,68 @@ echo "✅ Deployed to production!"
 - Verify media files play/display correctly
 - Test spaced repetition plugin functionality
 
+### 12. Randomize SR Dates
+
+**Purpose:** Spread review dates across 4 months to avoid reviewing too many words on a single day.
+
+**IMPORTANT:** This step is mandatory after validation to distribute the review load evenly.
+
+**Randomization Script:** `9. Prompts/randomize_sr_dates.py`
+
+**Setup:**
+```bash
+# The script should be located at:
+# 9. Prompts/randomize_sr_dates.py
+```
+
+**Usage:**
+```bash
+python3 "9. Prompts/randomize_sr_dates.py" <target_file> <original_sr_date> <end_date>
+
+# Example: Spread 2025-11-24 across 4 months (until 2026-03-24)
+python3 "9. Prompts/randomize_sr_dates.py" "3. English/Vocabulary/h.md" "2025-11-24" "2026-03-24"
+```
+
+**How it works:**
+- Keeps the **first entry** at the original SR date
+- Randomizes **remaining entries** between original date and end date (4 months later)
+- Maintains all other structure (word, ?, definition, media, separator)
+- Only modifies the date portion within `<!--SR:!DATE,1,230-->` tags
+
+**Period calculation:**
+- Original SR date: User-specified (e.g., `2025-11-24`)
+- End date: Original date + 4 months (e.g., `2026-03-24`)
+- Use online date calculator or: 4 months ≈ 120 days for approximation
+
+**Verification:**
+```bash
+# Check date distribution by month
+grep -oP '<!--SR:!\K[^,]+' "3. English/Vocabulary/h.md" | cut -d'-' -f1,2 | sort | uniq -c
+
+# Verify date range
+echo "First date: $(grep -oP '<!--SR:!\K[^,]+' "3. English/Vocabulary/h.md" | sort -u | head -1)"
+echo "Last date: $(grep -oP '<!--SR:!\K[^,]+' "3. English/Vocabulary/h.md" | sort -u | tail -1)"
+
+# Verify structure integrity (should match entry count)
+grep -c "<!--SR:!.*,1,230-->" "3. English/Vocabulary/h.md"
+```
+
+**Example output:**
+```
+Distribution by month:
+  2025-11: 5 entries
+  2025-12: 14 entries
+  2026-01: 20 entries
+  2026-02: 17 entries
+  2026-03: 14 entries
+```
+
+**Important notes:**
+- Run only **after** step 11 (Final Validation in Obsidian)
+- Creates even distribution preventing review bottlenecks
+- First entry stays at original date for reference
+- Verify structure remains intact after randomization
+
 ## Example Migration
 
 **Source:** `canonical.md`
