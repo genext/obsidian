@@ -77,7 +77,7 @@ The court appointed a public defender because the defendant was indigent and cou
 
 The hospital provides free medical care to indigent patients who have no insurance.
 ![[100. media/audio/GBkicZXH.mp3]]![[100. media/audio/6TAXrcoN.mp3]]
-<!--SR:!2025-11-01,3,250-->
+<!--SR:!2025-11-12,11,270-->
 -
 
 infinitesimal ![[100. media/audio/cYBpvgRh.mp3]] ![[100. media/audio/2Do982JV.mp3]]
@@ -85,7 +85,7 @@ infinitesimal ![[100. media/audio/cYBpvgRh.mp3]] ![[100. media/audio/2Do982JV.mp
 extremely small SYN minuscule
 
 infinitesimal changes in temperature![[100. media/audio/1fQRgkGy.mp3]]
-<!--SR:!2025-11-01,3,250-->
+<!--SR:!2025-11-13,12,270-->
 -
 
 irrigate ![[100. media/audio/75H2RxU0.mp3]] ![[100. media/audio/5di8I3lH.mp3]]
@@ -98,7 +98,7 @@ to supply land or crops with water
 관개하다,
 to wash a wound with a flow of liquid
 상처를 세척하다, 씻다.
-<!--SR:!2025-11-01,3,250-->
+<!--SR:!2025-11-12,11,270-->
 -
 iconoclastic ![[100. media/audio/12209.mp3]] ![[100. media/audio/3063.mp3]] ![[100. media/audio/8830.mp3]] ![[100. media/audio/550.mp3]]
 ?
@@ -127,7 +127,7 @@ iconoclasm![[100. media/audio/4355.mp3]]![[100. media/audio/12154.mp3]]: 성상�
 
 iconoclastic![[100. media/audio/6322.mp3]]![[100. media/audio/11074.mp3]]![[100. media/audio/12138.mp3]]![[100. media/audio/7422.mp3]]: iconoclastic ideas, opinions, writings etc attack established beliefs and customs
 ![[100. media/audio/6890.mp3]]Wolfe’s theories were revolutionary and iconoclastic.
-<!--SR:!2025-11-01,2,230-->
+<!--SR:!2025-11-08,7,250-->
 -
 
 
@@ -170,7 +170,7 @@ if you ask me
 used to emphasize your own opinion
 
 ![[100. media/audio/3234.mp3]]He’s just plain crazy, if you ask me.
-<!--SR:!2025-11-01,2,230-->
+<!--SR:!2025-11-08,7,250-->
 -
 
 
@@ -203,7 +203,7 @@ SYN: convey, instill
 
 impeccable ![[100. media/audio/8856.mp3]] ![[100. media/audio/8234.mp3]] ![[100. media/audio/3585.mp3]] ![[100. media/audio/6215.mp3]]
 ?
-without any faults and **++im++**possible to criticize.
+without any faults and impossible to criticize.
 describes something that is flawless and without any errors or faults. It signifies a high standard of perfection and excellence.
 ![[100. media/image/2735.jpg|200]]
 **Synonyms:** Flawless, perfect, faultless, unblemished, exemplary, immaculate.
@@ -213,7 +213,7 @@ describes something that is flawless and without any errors or faults. It signif
 ![[100. media/audio/3551.mp3]]Her ~ sense of style always leaves an impression at social events.
 
 **Etymology:** is formed from 'in-', meaning 'not,' and 'peccare', meaning 'to sin.' This etymological background conveys a sense of being unable to do wrong or make mistakes, thus emphasizing faultlessness or perfection.
-<!--SR:!2025-11-01,2,230-->
+<!--SR:!2025-11-06,5,230-->
 -
 
 
@@ -340,7 +340,7 @@ formal to expect or ask someone to do something for you when this is not conv
 ![[100. media/image/11415.jpg|200]]
 to have a bad effect on something or someone and to cause problems for them
 ![[100. media/audio/5516.mp3]]Military spending ~s a huge strain on the economy.
-<!--SR:!2025-11-01,2,230-->
+<!--SR:!2025-11-06,5,230-->
 -
 
 
@@ -351,7 +351,7 @@ imposing ![[100. media/audio/3535.mp3]] ![[100. media/audio/4824.mp3]] ![[100. m
 large, impressive, and appearing important
 
 ![[100. media/audio/8914.mp3]]an ~ building  ![[100. media/audio/11456.mp3]]He’s a tall, quietly spoken, but ~ figure.
-<!--SR:!2025-11-01,2,230-->
+<!--SR:!2025-11-20,7,250-->
 -
 
 
@@ -396,7 +396,7 @@ I'm with you
 to understand what someone is telling you or explaining to you
 
 ![[100. media/audio/764.mp3]]Sorry, I’m not with you – which room do you mean?  ![[100. media/audio/6980.mp3]]So that’s how the system works. Are you with me?
-<!--SR:!2025-11-01,2,230-->
+<!--SR:!2025-11-18,7,250-->
 -
 
 
@@ -407,7 +407,7 @@ without realizing what you are doing SYN accidentally OPP deliberately
 ![[100. media/audio/2284.mp3]]~ exposure to chemicals
 
 advertent: giving attention  SYN heedful
-<!--SR:!2025-11-01,2,230-->
+<!--SR:!2025-11-08,7,250-->
 -
 
 
@@ -451,7 +451,7 @@ having taken human form
 
 to represent a particular quality in a physical or human form,  to make something appear in a human form
 ![[100. media/audio/12488.mp3]]The crown ~s national power.
-<!--SR:!2025-11-01,1,190-->
+<!--SR:!2025-11-03,2,190-->
 -
 
 
@@ -575,7 +575,7 @@ Absolutely necessary, essential, or requisite.
 
 
 **Etymology:** derived from medieval Latin "indispensabilis," which means 'not to be set aside.' It is composed of the prefix "in-" (meaning 'not') and "dispensabilis" (meaning 'able to be dispensed with').
-<!--SR:!2025-11-01,2,230-->
+<!--SR:!2025-11-06,5,230-->
 -
 
 
@@ -594,7 +594,7 @@ SYN **incompetence, incapability**
 
 ![[100. media/audio/7700.mp3]]the ~ of the people in charge
 ![[100. media/audio/5683.mp3]]He was fired due to his ~.
-<!--SR:!2025-11-01,2,230-->
+<!--SR:!2025-11-08,7,250-->
 -
 
 
@@ -605,7 +605,7 @@ to form an opinion that something is probably true because of information that 
 
 ![[100. media/audio/10378.mp3]]A lot can be inferred from these statistics.
 ![[100. media/audio/11363.mp3]]From the evidence, we can infer that the victim knew her killer.
-<!--SR:!2025-11-01,2,230-->
+<!--SR:!2025-11-08,7,250-->
 -
 
 
@@ -635,7 +635,7 @@ in flames
 
 ![[100. media/audio/6420.mp3]]When we reached Mandalay it was in ~s.
 ![[100. media/audio/2695.mp3]]They escaped just as the house was engulfed in ~s.
-<!--SR:!2025-11-01,2,230-->
+<!--SR:!2025-12-08,7,250-->
 -
 
 
@@ -665,9 +665,10 @@ is a verb that means to modify the form of a word to express a particular gramma
 
 **Synonyms:** conjugate, decline, vary, modulate, mutate, alter.
 To form the past tense of regular verbs in English, we typically ~ the base form by adding '-ed.'
-In many languages, nouns are ~ed to indicate number, case, and gender.(it means the form of the noun changes to reflect its role in the sentence, its number, or its gender. )
-The teacher explained how to ~ the verb correctly according to person and number in the sentence.
-<!--SR:!2025-11-01,2,230-->
+
+In many languages, nouns are inflected to indicate number, case, and gender.(it means the form of the noun changes to reflect its role in the sentence, its number, or its gender. )
+The teacher explained how to inflect the verb correctly according to person and number in the sentence.
+<!--SR:!2025-11-06,5,230-->
 -
 
 
@@ -733,7 +734,7 @@ if you ~ tea or **herbs**, or if they ~, you leave them in very hot water whil
 Etymology:
 
 The word "~" originates from the Latin "infundere," which means "to pour in." It's composed of "in-" (in) + "fundere" (to pour).
-<!--SR:!2025-11-01,2,230-->
+<!--SR:!2025-11-06,5,230-->
 -
 
 
@@ -743,7 +744,7 @@ an ~ plan, idea, or object works well and is the result of clever thinking an
 ![[100. media/audio/6759.mp3]]Many fish have ~ ways of protecting their eggs from predators.  ![[100. media/audio/10469.mp3]]an ~ device
 
 ~uity![[100. media/audio/8824.mp3]]![[100. media/audio/12221.mp3]]![[100. media/audio/3338.mp3]]![[100. media/audio/12074.mp3]]
-<!--SR:!2025-11-01,2,230-->
+<!--SR:!2025-11-06,5,230-->
 -
 
 
@@ -772,11 +773,9 @@ It can also refer to the process of dyeing fabric or yarn in such a way that the
 SYN instill, imprint, entrench, imbue, infuse, embed
 
 ~ attitudes or behavior are firmly established and therefore difficult to change
-![[100. media/audio/2669.mp3]]![[100. media/audio/12495.mp3]]
-
 ![[100. media/audio/4364.mp3]]The idea of doing our duty is deeply ~ed in most people.![[100. media/audio/12092.mp3]]The training program aimed to ~ a sense of discipline and teamwork in the new recruits.
 ![[100. media/audio/3309.mp3]]The importance of honesty was ~ed in her from a young age, shaping her character as she grew up.
-<!--SR:!2025-11-01,2,230-->
+<!--SR:!2025-11-08,7,250-->
 -
 
 
@@ -835,17 +834,17 @@ in the correct position
 ![[100. media/audio/1455.mp3]]The glass was held in ~ by a few pieces of sellotape.
 
 existing and ready to be used  ![[100. media/audio/5200.mp3]]Funding arrangements are already in ~.
-<!--SR:!2025-11-01,2,230-->
+<!--SR:!2025-11-06,5,230-->
 -
 
 
 inquisition ![[100. media/audio/596.mp3]] ![[100. media/audio/2962.mp3]] ![[100. media/audio/12562.mp3]] ![[100. media/audio/9163.mp3]]
 ?
 ![[100. media/image/2841.jpg|200]]
-엄한\[장시간의\] 심문, a [series](https://www.ldoceonline.com/dictionary/series) of questions that someone asks you in a threatening or unpleasant way
+엄한\[장시간의\] 심문, a series of questions that someone asks you in a threatening or unpleasant way
 the ~: 종교재판소
 ![[100. media/audio/3132.mp3]]I had to face a two-hour ~ from my parents about where I’d been.
-<!--SR:!2025-11-01,2,230-->
+<!--SR:!2025-11-08,7,250-->
 -
 
 
@@ -895,7 +894,7 @@ offshore 반대말
 
 ![[100. media/audio/8956.mp3]]The fishing boats usually stay close ~shore.
 ![[100. media/audio/3305.mp3]]~shore waters
-<!--SR:!2025-11-01,2,230-->
+<!--SR:!2025-11-08,7,250-->
 -
 
 
@@ -906,7 +905,7 @@ insolvent ![[100. media/audio/5925.mp3]] ![[100. media/audio/4544.mp3]] ![[100. 
 
 ![[100. media/audio/11297.mp3]]The company was later declared ~ (=officially said to be insolvent).
 ![[100. media/audio/2291.mp3]]Many ~ firms are facing liquidation due to the economic downturn.
-<!--SR:!2025-11-01,2,230-->
+<!--SR:!2025-11-08,7,250-->
 -
 
 
@@ -1006,7 +1005,7 @@ to put something in between pieces of speech or writing, parts of a film etc
 
 disperse(흩어지게 하다:scatter, 퍼뜨리다)의 dis는 떨어져 있는 것을 의미. 뜻이 다름.
 참고 disseminate
-<!--SR:!2025-11-01,2,230-->
+<!--SR:!2025-11-06,5,230-->
 -
 
 
@@ -1028,7 +1027,7 @@ SYN just in time, at the last moment
 ![[100. media/audio/11585.mp3]]Luckily, help arrived in the ~ of time.
 ![[100. media/audio/2599.mp3]]The medication was administered in the ~ of time, saving the patient's life.
 ![[100. media/audio/113.mp3]]The fire department arrived in the ~ of time to put out the fire and save the house.
-<!--SR:!2025-11-01,2,230-->
+<!--SR:!2025-11-06,5,230-->
 -
 
 
@@ -1053,7 +1052,7 @@ SYN in this regard, with respect to this
 ![[100. media/audio/1747.mp3]]Binary computing seems to be like a classic suit in this ~.
 ![[100. media/audio/12166.mp3]]~, the novel is quite groundbreaking; it tackles social issues in a way that hasn't been done before.
 ![[100. media/audio/1799.mp3]]She was an excellent leader in many ways, but ~, she was unmatched: her ability to motivate her team.
-<!--SR:!2025-11-01,2,230-->
+<!--SR:!2025-11-06,5,230-->
 -
 
 
@@ -1132,7 +1131,7 @@ to receive so much of something that you cannot easily deal with it all SYN sw
 ![[100. media/audio/10272.mp3]]After the broadcast, we were ~ed with requests for more information. Cf. deluged
 
 formal to cover an area with a large amount of water SYN flood  ![[100. media/audio/1551.mp3]]The tidal wave ~ed vast areas of cropland.
-<!--SR:!2025-11-01,2,230-->
+<!--SR:!2025-11-06,5,230-->
 -
 
 
@@ -1185,7 +1184,7 @@ to include or affect someone or something
 
 to ask or allow someone to take part in something
 ~ somebody in (doing) something  ![[100. media/audio/11081.mp3]]Try to ~ as many children as possible in the game.  ![[100. media/audio/4793.mp3]]We want to ~ the workforce at all stages of the decision-making process.
-<!--SR:!2025-11-01,2,230-->
+<!--SR:!2025-11-06,5,230-->
 -
 
 
@@ -1207,7 +1206,7 @@ to formally support a suggestion made by another person in a meeting
 
 ![[100. media/audio/2496.mp3]]"I think we should invest more in cybersecurity." "I ~ that, it's crucial for our business."
 ![[100. media/audio/11348.mp3]]"I believe the author's main argument is flawed." "I ~ that, there are multiple inconsistencies."
-<!--SR:!2025-11-01,2,230-->
+<!--SR:!2025-11-08,7,250-->
 -
 
 
@@ -1219,7 +1218,7 @@ used to say that something cannot be the explanation for a situation or someone
 ![[100. media/audio/6233.mp3]]It's not as if she had any other choice, given the circumstances.
 ![[100. media/audio/12691.mp3]]Why do they never go on holiday? I mean it’s not as if they’re poor, is it?
 ![[100. media/audio/3875.mp3]]I don’t know why you’re so frightened of her - it’s not as if she’s got any power over you.
-<!--SR:!2025-11-01,2,230-->
+<!--SR:!2025-11-06,5,230-->
 -
 
 
@@ -1241,7 +1240,7 @@ It was like a moment thing.
 suggests that the action occurred spontaneously, driven by the flow of the moment or the natural progression of events leading up to it. It implies that something happened more as a result of the situation's energy or the emotional build-up, rather than premeditated intent.
 
 ![[100. media/audio/6933.mp3]]They had been talking and laughing all evening, and then, suddenly, he kissed her—it was like a ~ thing, unplanned but not unwelcome.
-<!--SR:!2025-11-01,2,230-->
+<!--SR:!2025-11-08,7,250-->
 -
 
 

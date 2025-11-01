@@ -115,7 +115,7 @@ a speech or piece of writing in which you praise someone or something very much,
 
 The minister delivered a long eulogy.![[100. media/audio/5NGjF7A4.mp3]]
 Commander Lewis and the surviving crew, via long-range communication from Hermes, gave eulogies for their departed comrade from deep space.![[100. media/audio/ftHBTu76.mp3]]![[100. media/audio/RjrP0c35.mp3]]
-<!--SR:!2025-11-01,3,250-->
+<!--SR:!2025-11-10,9,250-->
 -
 enamo\[u\]red ![[100. media/audio/12612.mp3]]
 ?

@@ -41,7 +41,7 @@ to have an opinion, perspective, or interpretation about something. The word "ta
 
   What's your take on the new policy
   ![[100. media/audio/hZ_6BBAlYg.mp3]] ![[100. media/audio/jt6kSihtKE.mp3]]
-<!--SR:!2025-11-01,5,230-->
+<!--SR:!2025-11-14,13,230-->
 -
 
 hot-headed ![[100. media/audio/5576.mp3]] ![[100. media/audio/10678.mp3]]

@@ -56,7 +56,7 @@ the hard boring job that has to be done in order to achieve something. 탐방, �
 
 The legwork needed to build this bespoke tooling to be able to pull this project off was too much.
 ![[speech_20251029070143056.mp3]] ![[speech_20251029070234310.mp3]]
-<!--SR:!2025-11-01,2,238-->
+<!--SR:!2025-11-06,5,238-->
 -
 
 

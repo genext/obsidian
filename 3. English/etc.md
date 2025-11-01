@@ -23,11 +23,11 @@ The main meaning of "-wise" is in the manner or direction" or "with respect to"
 
 ### Direction/orientation
 clockwise: in the direction a clock's hand move
-lengthwise: along the length 
+lengthwise: along the length
 sideways: to the side
 
 ### manner or way
-likewise: in a like manner 
+likewise: in a like manner
 otherwise: in another way
 
 ### with respect to
@@ -44,6 +44,7 @@ Moneywise, we need to cut back on expenses. ![[speech_20251030235547612.mp3]]
 Careerwise, this job is a great opportunity for me ![[speech_20251030235617022.mp3]]
 Timewise, we need to finish by 5 PM ![[speech_20251030235651463.mp3]]
 Healthwise, she's doing much better after the treatment ![[speech_20251030235720201.mp3]]
+<!--SR:!2025-11-03,3,250-->
 -
 
 #phrase 

@@ -38,7 +38,7 @@ to continue doing something after stopping ****
 to continue doing something, especially work
 
 ![[100. media/audio/9335.mp3]]I suppose I could get ~ with doing my expenses while I wait for the computer system to restart.
-<!--SR:!2025-11-01,1,210-->
+<!--SR:!2025-11-03,2,210-->
 -
 
 
@@ -95,7 +95,7 @@ a round iron plate that is used for cooking meat, vegetables, or cakes on to
 
 ![[100. media/audio/9127.mp3]]The chef used a ~ to cook the pancakes to a perfect golden brown.
 ![[100. media/audio/2937.mp3]]She placed the dough on the ~ to make traditional Welsh cakes.
-<!--SR:!2025-11-01,1,210-->
+<!--SR:!2025-11-04,3,230-->
 -
 
 
@@ -273,7 +273,7 @@ SYN gesture, sign, signal, wave
 ![[100. media/audio/5571.mp3]]Jane ~ed wildly and shouted ‘Stop! Stop!’
 ![[100. media/audio/8680.mp3]]As he explained the directions, he ~ed towards various landmarks to help us understand the route better.
 ![[100. media/audio/10068.mp3]]The teacher often used to ~ to keep the students engaged and to make the lecture more dynamic.
-<!--SR:!2025-11-01,1,210-->
+<!--SR:!2025-11-04,3,230-->
 -
 
 
@@ -381,7 +381,7 @@ conceding a point, used when you admit that something is true SYN admittedly,
 assuming a fact for the sake of argument
 ![[100. media/audio/1858.mp3]]~ that you've won the lottery, what would you do with the money?
 ![[100. media/audio/8629.mp3]]~ that the climate is changing, what steps should we take to adapt?
-<!--SR:!2025-11-01,1,210-->
+<!--SR:!2025-11-04,3,230-->
 -
 
 
@@ -890,7 +890,7 @@ whole gamut, entire gamut
 
 ![[100. media/audio/4891.mp3]]College life opened up a whole gamut of new experiences.
 ![[100. media/audio/12669.mp3]]Her feelings that day ran the gamut of emotions (=included all the possibilities between two extremes).
-<!--SR:!2025-11-01,1,210-->
+<!--SR:!2025-11-03,2,210-->
 -
 
 

@@ -37,7 +37,7 @@ to become gradually narrower towards one end, or to make something become narrow
 
 ![[100. media/audio/makcyN64.mp3]]![[100. media/audio/ZgbNYXJP.mp3]]
 The media's obsession with Watney's death is finally starting to taper off.
-<!--SR:!2025-11-01,3,250-->
+<!--SR:!2025-11-10,9,250-->
 -
 
 triplet ![[100. media/audio/rDXH3yon.mp3]]![[100. media/audio/cESuXyRq.mp3]]
@@ -46,7 +46,7 @@ one of three children born at the same time to the same mother
 
 ~s: 세 쌍둥이
 세 개 한 벌
-<!--SR:!2025-11-01,3,250-->
+<!--SR:!2025-11-13,12,270-->
 -
 
 #Vocabulary

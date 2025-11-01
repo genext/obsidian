@@ -117,7 +117,7 @@ Someone's been pilfering snacks from the break room
 
 My brother keeps pilfering my favorite pens from my desk when I'm not looking.
 ![[100. media/audio/tsgCdiKF.mp3]]![[100. media/audio/D9GgdaJH.mp3]]
-<!--SR:!2025-11-01,2,210-->
+<!--SR:!2025-11-07,6,230-->
 -
 
 predicate ![[100. media/audio/rkZdmMWT.mp3]]![[100. media/audio/g6AQuHJf.mp3]]
@@ -128,7 +128,7 @@ predicate ![[100. media/audio/rkZdmMWT.mp3]]![[100. media/audio/g6AQuHJf.mp3]]
 Most religions predicate life after death.![[100. media/audio/3fLO6D9V.mp3]]![[100. media/audio/wIPGSKUn.mp3]]
 
 In each sentence, the subject is who or what the sentence is about, and the predicate is everything that tells us something about the subject![[100. media/audio/R4wtMaw8.mp3]]![[100. media/audio/rXEuSUeh.mp3]]
-<!--SR:!2025-11-01,2,210-->
+<!--SR:!2025-11-07,6,230-->
 -
 
 puke ![[100. media/audio/kfDEtTgw.mp3]]![[100. media/audio/M4Cc4pJU.mp3]]

@@ -16,13 +16,13 @@ An educated person should know some Korean, just as in English-speaking countrie
 ?
 Those who cling to death live, those who cling to life die
 ![[100. media/audio/speech_20251015085248236.mp3]] ![[100. media/audio/speech_20251015085354001.mp3]]
-<!--SR:!2025-11-01,5,230-->
+<!--SR:!2025-11-14,13,230-->
 -
 You have not had a bad day. You had ...
 ?
 You have not had a bad day. You had 15 bad minutes, which you carried with you throughout the day. ![[100. media/audio/speech_20251015085817050.mp3]]
 You have not had a bad day. You had 15 bad minutes, and you were attached to it all day. ![[100. media/audio/speech_20251015085909842 1.mp3]]
-<!--SR:!2025-11-01,5,230-->
+<!--SR:!2025-11-04,3,210-->
 -
 일체유심조
 ?

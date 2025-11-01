@@ -64,7 +64,7 @@ You reap what you sow![[100. media/audio/E0VmDUqP.mp3]]![[100. media/audio/DfJDf
 
 It was time to reap and resow.
 ![[100. media/audio/bLB8U3Wf.mp3]]![[100. media/audio/6yozqeL5.mp3]]
-<!--SR:!2025-11-01,3,250-->
+<!--SR:!2025-11-11,10,270-->
 -
 
 redact ![[100. media/audio/BTNcUsh0.mp3]]![[100. media/audio/PCZ0Iy1b.mp3]]
