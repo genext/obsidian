@@ -129,7 +129,7 @@ take a bashing
 크게 당하다, 혹평 받다.
  The fairy tale of the quest to find our One True Love has taken a bashing of late, and not before time.
 ![[100. media/audio/HpkHZ3sVr_.mp3]] ![[100. media/audio/1tLeEJlC-Z.mp3]]
-<!--SR:!2025-11-03,3,210-->
+<!--SR:!2025-11-09,6,210-->
 -
 brush up
 ?
@@ -138,7 +138,7 @@ My English is rusty, so I'm **brushing up on** grammar and vocabulary.
 ![[100. media/audio/mg12Se-JVw.mp3]] ![[100. media/audio/y-qdpnU6ee.mp3]]
 She's **brushing up on** her math skills for the exam.
 ![[100. media/audio/0jTVZ9SHNs.mp3]] ![[100. media/audio/EbroOL3XJS.mp3]]
-<!--SR:!2025-11-05,8,230-->
+<!--SR:!2025-11-22,17,230-->
 -
 
 sniff out ~
@@ -202,7 +202,7 @@ idiomatic expression "make [something] of [something]."
 "Take what you will from this experience" (= take whatever you choose from it)
 make something of oneself 입신출세[성공]하다.
 make an ass of oneself 어리석은 짓을 하다.
-<!--SR:!2025-11-05,8,230-->
+<!--SR:!2025-11-22,17,230-->
 -
 
 not(never) so much ~ as + verb
@@ -254,9 +254,9 @@ He struck up a conversation with the woman sitting next to him on the plane.
 He typed what amounted to a suicide note.
 ![[speech_20251018230439008.mp3]]
 
-He typed what was counted as a suicide note.
+He typed what was counted as a suicide note. -> considered로 바꾸는 것이 자연스럽다.
 ![[speech_20251018230523778.mp3]]
-<!--SR:!2025-11-03,4,230-->
+<!--SR:!2025-11-12,9,230-->
 -
 
 if only
@@ -310,14 +310,14 @@ Her experience gives her an edge on other candidates.
 
 If you fully delegate everything that you’re doing to a machine, then the person who doesn’t do that has an edge on you.
 ![[speech_20251022063105879.mp3]] ![[speech_20251022063138417.mp3]]
-<!--SR:!2025-11-03,8,250-->
+<!--SR:!2025-11-07,4,230-->
 -
 
 belt out a song
 ?
 When someone "belts out a song," they're singing it in a powerful, forceful way—often at the top of their lungs, used to describe singing that's bold and uninhibited.
 ![[speech_20251022075550546.mp3]] ![[speech_20251022075648569.mp3]]
-<!--SR:!2025-11-03,8,250-->
+<!--SR:!2025-11-07,4,230-->
 -
 
 - “Life happens wherever you are, whether you make it or not.” We need more cartoon charactes like Iroh. If only for his character, “Avatar: The Last Airbender” is worth watching and rewatching.

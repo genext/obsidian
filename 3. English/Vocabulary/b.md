@@ -24,16 +24,7 @@ The president is backtracking on his promise to increase health care spending.
 
 We had to backtrack about a mile.
 ![[100. media/audio/5gxX7Noe.mp3]]
-<!--SR:!2025-11-02,14,290-->
--
-
-boisterous ![[100. media/audio/1054.mp3]] ![[100. media/audio/6682.mp3]] ![[100. media/audio/10804.mp3]] ![[100. media/audio/5957.mp3]]
-?
-![[100. media/image/11598.jpg|200]]
-someone, especially a child, who is ~ makes a lot of noise and has a lot of energy
-
-![[100. media/audio/4913.mp3]]a class of ~ five-year-olds
-<!--SR:!2025-11-04,14,290-->
+<!--SR:!2025-12-15,43,290-->
 -
 
 brunet ![[100. media/audio/8020.mp3]] ![[100. media/audio/12504.mp3]]
@@ -1364,7 +1355,7 @@ become due
 ![[100. media/audio/11257.mp3]]The contract becomes ~ for renewal at the end of the year.
 ![[100. media/audio/4740.mp3]]The mortgage payment comes ~ on the first of every month.
 ![[100. media/audio/469.mp3]]The performance review is coming ~; make sure to prepare your self-assessment.
-<!--SR:!2025-11-04,1,230-->
+<!--SR:!2025-11-07,3,250-->
 -
 
 

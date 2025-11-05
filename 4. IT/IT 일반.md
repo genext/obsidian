@@ -74,7 +74,7 @@ class House {
 ## sentinel value
 ?
 * 참조자 타입이 아닌, 값 타입(value type)이면 nullable이 아니고 초기화값이 항상 있다. 이 때는 -1 또는 그 타입의 최대값을 sentinel value로 정해서 쓰면 굳이 그 타입을 nullable 참조자 타입으로 바꿔서 복잡하게 코딩할 필요 없다.
-<!--SR:!2025-11-04,18,250-->
+<!--SR:!2025-12-21,47,250-->
 -
 
 ## 파일 타입 식별(magic numbers, file signature)
@@ -88,7 +88,7 @@ class House {
 - 운영체제 구분
 	Unix/linux: `file` -> /etc/magic, /usr/share/misc/magic
 	Windows: file extension.
-<!--SR:!2025-11-03,17,250-->
+<!--SR:!2025-12-17,44,250-->
 -
 
 ## 클럭/코어/쓰레드

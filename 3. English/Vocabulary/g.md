@@ -38,7 +38,7 @@ to continue doing something after stopping ****
 to continue doing something, especially work
 
 ![[100. media/audio/9335.mp3]]I suppose I could get ~ with doing my expenses while I wait for the computer system to restart.
-<!--SR:!2025-11-03,2,210-->
+<!--SR:!2025-11-06,2,190-->
 -
 
 
@@ -48,7 +48,7 @@ go native
 
 Austen has been living in New Guinea so long he’s gone native.
 ![[speech_20251031005704557.mp3]] ![[speech_20251031005737515.mp3]]
-<!--SR:!2025-11-04,1,230-->
+<!--SR:!2025-11-07,3,250-->
 -
 
 
@@ -59,7 +59,7 @@ grimace ![[100. media/audio/2380.mp3]] ![[100. media/audio/9820.mp3]] ![[100. me
 to twist your face in an ugly way because you do not like something, because you are feeling pain, or because you are trying to be funny
 ![[100. media/audio/9412.mp3]]She ~ed at her reflection in the mirror. ![[100. media/audio/2403.mp3]]She sipped the whisky and ~ed.
 ![[100. media/audio/12363.mp3]]His face twisted in a ~ of pain. ![[100. media/audio/11967.mp3]]a ~ of disgust
-<!--SR:!2025-11-03,3,250-->
+<!--SR:!2025-11-11,8,250-->
 -
 
 
@@ -84,7 +84,7 @@ SYN equipped, designed, fitted, adapted
 ~ investments, shares etc are bought with money that has been borrowed
 ![[100. media/audio/5218.mp3]]The term in this context implies that the investment is 'equipped' with leverage, similar to how ~s can increase the output force in a mechanical system.
 ![[100. media/image/2187.jpg|200]]
-<!--SR:!2025-11-02,2,230-->
+<!--SR:!2025-11-07,5,230-->
 -
 
 
@@ -95,7 +95,7 @@ a round iron plate that is used for cooking meat, vegetables, or cakes on to
 
 ![[100. media/audio/9127.mp3]]The chef used a ~ to cook the pancakes to a perfect golden brown.
 ![[100. media/audio/2937.mp3]]She placed the dough on the ~ to make traditional Welsh cakes.
-<!--SR:!2025-11-04,3,230-->
+<!--SR:!2025-12-13,9,250-->
 -
 
 
@@ -113,7 +113,7 @@ someone who is good at gymnastics and competes against other people in gymnastic
 ![[100. media/image/50.jpg|200]]
 
 gymnastics![[100. media/audio/4465.mp3]]![[100. media/audio/9350.mp3]]
-<!--SR:!2025-11-05,2,230-->
+<!--SR:!2025-11-12,7,250-->
 -
 
 
@@ -139,7 +139,7 @@ friendly and preferring to be with other people SYN sociable OPP solitary
 
 ![[100. media/image/11561.jpg|200]]
 ~ animals tend to live in a group
-<!--SR:!2025-11-02,2,230-->
+<!--SR:!2025-11-09,7,250-->
 -
 
 
@@ -176,7 +176,7 @@ gall ![[100. media/audio/3655.mp3]] ![[100. media/audio/2355.mp3]]
 ### Etymology
 
 stemming from the word "gealla," which referred to bile or bitterness. The use of "~" to mean irritation or vexation likely evolved from the association of bitterness with feelings of annoyance or resentment.
-<!--SR:!2025-11-02,2,230-->
+<!--SR:!2025-11-07,5,230-->
 -
 
 
@@ -199,7 +199,7 @@ to do no work when you are at your place of work or to stay away from your place
 
 Working from home, once considered an opportunity to ~, has become the norm in many industries.
 ![[speech_20251031004434766.mp3]] ![[speech_20251031004459671.mp3]]
-<!--SR:!2025-11-04,1,230-->
+<!--SR:!2025-11-06,2,230-->
 -
 
 
@@ -211,7 +211,7 @@ is an act or instance of giving something away, especially as a gift or prize. I
 ![[100. media/audio/11289.mp3]]She won a smartphone in an online social media ~.
 ![[100. media/audio/2965.mp3]]The company organized a ~ of its new product to attract potential customers.
 ![[100. media/audio/5391.mp3]]The radio station's ticket ~ for the concert caused an enthusiastic response from listeners.
-<!--SR:!2025-11-02,2,230-->
+<!--SR:!2025-11-07,5,230-->
 -
 
 
@@ -231,7 +231,7 @@ get on with
 
 get on with one's work
 get on well with a person
-<!--SR:!2025-11-02,2,230-->
+<!--SR:!2025-11-07,5,230-->
 -
 
 
@@ -273,7 +273,7 @@ SYN gesture, sign, signal, wave
 ![[100. media/audio/5571.mp3]]Jane ~ed wildly and shouted ‘Stop! Stop!’
 ![[100. media/audio/8680.mp3]]As he explained the directions, he ~ed towards various landmarks to help us understand the route better.
 ![[100. media/audio/10068.mp3]]The teacher often used to ~ to keep the students engaged and to make the lecture more dynamic.
-<!--SR:!2025-11-04,3,230-->
+<!--SR:!2025-11-11,7,230-->
 -
 
 
@@ -284,7 +284,7 @@ to do something that you have been intending to do for some time
 
 ![[100. media/audio/5551.mp3]]I meant to phone her yesterday, but I never got ~ to it.
 ![[100. media/audio/4636.mp3]]We finally got ~ to clearing out the garage.
-<!--SR:!2025-11-02,2,230-->
+<!--SR:!2025-11-09,7,250-->
 -
 
 
@@ -299,7 +299,7 @@ to rub cheese, vegetables etc against a rough or sharp surface in order to 
 
 to annoy someone
 ![[100. media/audio/7326.mp3]]Mr Fen had a loud voice that ~ed on her ears.
-<!--SR:!2025-11-03,3,250-->
+<!--SR:!2025-11-10,7,250-->
 -
 
 
@@ -343,7 +343,7 @@ In a more figurative sense, which is quite common today, it means to take great 
 ![[100. media/audio/9019.mp3]]Once the band started playing, everyone found their ~ and the dance floor was alive with energy.
 ![[100. media/audio/3093.mp3]]It took a few weeks to settle into the new job, but now I'm really in the ~ and loving the work.
 ![[100. media/audio/6686.mp3]]The team members fell into a ~ after a few practice sessions; their cooperation was seamless.
-<!--SR:!2025-11-03,3,250-->
+<!--SR:!2025-11-11,8,250-->
 -
 
 
@@ -354,7 +354,7 @@ a garbled statement or report is very unclear and confusing SYN confused
 ![[100. media/image/3096.jpg|200]]
 
 ![[100. media/audio/4314.mp3]]The papers had some ~ed version of the story.  ![[100. media/audio/2904.mp3]]a ~ed phone message
-<!--SR:!2025-11-05,3,250-->
+<!--SR:!2025-11-12,7,250-->
 -
 
 
@@ -368,7 +368,7 @@ if someone is ~, they feel unhappy and do not talk a lot SYN gloomy, morose
 ![[100. media/audio/2177.mp3]]After dinner, Kate lapsed into a ~ silence.
 
 ![[100. media/audio/3184.mp3]]She stared ~ly at her plate.
-<!--SR:!2025-11-02,2,230-->
+<!--SR:!2025-11-07,5,230-->
 -
 
 
@@ -381,7 +381,7 @@ conceding a point, used when you admit that something is true SYN admittedly,
 assuming a fact for the sake of argument
 ![[100. media/audio/1858.mp3]]~ that you've won the lottery, what would you do with the money?
 ![[100. media/audio/8629.mp3]]~ that the climate is changing, what steps should we take to adapt?
-<!--SR:!2025-11-04,3,230-->
+<!--SR:!2025-11-13,9,250-->
 -
 
 
@@ -427,7 +427,7 @@ gratification![[100. media/audio/6740.mp3]]![[100. media/audio/5324.mp3]]
 ![[100. media/audio/10087.mp3]]sexual gratification
 
 **Etymology:** comes from the Latin "gratificari," meaning 'to do a favor to,' 'oblige,' or 'please.' This word is composed of "gratus" (pleasing, thankful) and "-ficari," which is derived from "facere" (to make, do).
-<!--SR:!2025-11-02,2,230-->
+<!--SR:!2025-11-07,5,230-->
 -
 
 
@@ -439,7 +439,7 @@ A ~ is a small mechanical or electronic device or tool, especially an ingenious 
 ![[100. media/audio/12194.mp3]]While cleaning the attic, she found an old ~ that her grandfather used to use, but couldn't figure out its purpose.
 ![[100. media/audio/12001.mp3]]In the world of technology, there's always a new ~ or gadget capturing people's attention.
 ![[100. media/audio/10555.mp3]]He pulled out a ~ from his bag that could instantly translate spoken language.
-<!--SR:!2025-11-03,3,250-->
+<!--SR:!2025-11-10,7,250-->
 -
 
 
@@ -453,7 +453,7 @@ said or done without a good reason, in a way that offends someone SYN unnecess
 
 as given freely(Free of charge)
 ![[100. media/audio/9193.mp3]]The software comes with a ~ trial period of 30 days.
-<!--SR:!2025-11-02,2,230-->
+<!--SR:!2025-11-07,5,230-->
 -
 
 
@@ -517,7 +517,7 @@ SYN Suspending judgment, Presumption of innocence
 ![[100. media/audio/3566.mp3]]In a close call situation, it's often best to give your colleague the ~ of the ~ and assume they had good intentions.
 ![[100. media/audio/4570.mp3]]Even though her story seemed improbable, I gave her the ~ of the ~ and believed what she said.
 ![[100. media/audio/3412.mp3]]I wasn't sure if his excuse was valid, but I chose to give him the ~ of the ~.
-<!--SR:!2025-11-02,2,230-->
+<!--SR:!2025-11-07,5,230-->
 -
 
 
@@ -527,7 +527,7 @@ garden variety ![[100. media/audio/4107.mp3]] ![[100. media/audio/10572.mp3]] ![
 especially American English very ordinary and not very interesting
 
 ![[100. media/audio/12168.mp3]]This is not one of your garden-~ cases of fraud.
-<!--SR:!2025-11-03,3,250-->
+<!--SR:!2025-11-11,8,250-->
 -
 
 
@@ -541,7 +541,7 @@ Cf. reel
 
 ![[100. media/audio/7454.mp3]]Greg stared down from the seventh floor and began to feel ~.
 ![[100. media/audio/4.mp3]]Sheila felt ~ with excitement.
-<!--SR:!2025-11-03,3,250-->
+<!--SR:!2025-11-14,11,270-->
 -
 
 
@@ -552,7 +552,7 @@ a ~ tree or branch is rough and twisted with hard lumps SYN gnarled
 
 American English spoken a word meaning very good or excellent, used by young people  ![[100. media/audio/5249.mp3]]‘Look at the size of that wave.’ ‘Gnarly!’
 spoken a word meaning very bad, used by young people  ![[100. media/audio/10551.mp3]]a gnarly car wreck
-<!--SR:!2025-11-02,2,230-->
+<!--SR:!2025-11-07,5,230-->
 -
 
 
@@ -564,7 +564,7 @@ to keep complaining in an unhappy way SYN moan, complain
 ![[100. media/image/8274.png|200]]
 to make a low continuous sound SYN rumble  ![[100. media/audio/8231.mp3]]Thunder grumbled overhead.
 ![[100. media/audio/9788.mp3]]the usual grumbles about pay
-<!--SR:!2025-11-03,3,250-->
+<!--SR:!2025-11-11,8,250-->
 -
 
 
@@ -578,7 +578,7 @@ refer to engaging in a close fight or struggle without weapons; wrestling. It al
 ![[100. media/audio/205.mp3]]Two men ~ed with a guard at the door.
 ![[100. media/audio/8601.mp3]]The two wrestlers ~ed with each other, each trying to gain the upper hand.
 ![[100. media/audio/5838.mp3]]In his new role, he found himself ~ing with complex problems that required innovative solutions.
-<!--SR:!2025-11-03,3,250-->
+<!--SR:!2025-11-11,8,250-->
 -
 
 
@@ -590,7 +590,7 @@ bad-temperedand easily annoyed SYN irritable
 ![[100. media/audio/389.mp3]]Mina’s always a bit ~ first thing in the morning.
 ![[100. media/audio/10385.mp3]]She woke up on the ~ side of the bed today.
 (![[100. media/audio/2522.mp3]]This dress is on the expensive side.)
-<!--SR:!2025-11-03,3,250-->
+<!--SR:!2025-11-10,7,250-->
 -
 
 
@@ -604,7 +604,7 @@ gem ![[100. media/audio/3164.mp3]] ![[100. media/audio/10666.mp3]]
 something that is very special or beautiful
 ![[100. media/audio/7135.mp3]]Ben, you’re a real ~!
 ![[100. media/audio/10086.mp3]]Every single ad in the campaign has been a ~.
-<!--SR:!2025-11-03,3,250-->
+<!--SR:!2025-11-11,8,250-->
 -
 
 
@@ -620,7 +620,7 @@ a food made of **oats cooked** in water or milk, which poor people ate in the 
 ![[100. media/audio/11864.mp3]]In many historical novels, characters living in poverty are often depicted eating ~ as a staple food.
 ![[100. media/audio/3610.mp3]]The book offered only ~ in terms of insights, providing little that was new or thought-provoking.
 ![[100. media/audio/10334.mp3]]The sick child was fed ~ because it was gentle on his stomach.
-<!--SR:!2025-11-02,2,230-->
+<!--SR:!2025-11-06,1,190-->
 -
 
 
@@ -634,7 +634,7 @@ to be very angry or unhappy about something, or to move your teeth against eac
 ![[100. media/audio/880.mp3]]The old man would often ~ his teeth in his sleep, worrying his family.
 ![[100. media/audio/6015.mp3]]In frustration, he ~ed his teeth as he looked at the broken machine.
 ![[100. media/audio/4070.mp3]]During the intense part of the movie, she unconsciously began to ~ her teeth.
-<!--SR:!2025-11-02,2,230-->
+<!--SR:!2025-11-09,7,250-->
 -
 
 
@@ -647,7 +647,7 @@ looking or sounding very serious
 ![[100. media/audio/6976.mp3]]‘I’ll survive, ’ he said with a ~ smile.  ![[100. media/audio/12568.mp3]]The child hung on to her arm with ~ determination.  ![[100. media/audio/3558.mp3]]The police officers were silent and ~-faced.
 ![[100. media/image/8809.jpg|200]]
 ![[100. media/audio/4938.mp3]]Arnold smiled ~ly.
-<!--SR:!2025-11-02,2,230-->
+<!--SR:!2025-11-07,5,230-->
 -
 
 
@@ -658,7 +658,7 @@ if a person or animal ~, they make short low sounds in their throat
 ![[100. media/audio/8703.mp3]]He just ~ed and carried on reading his book.
 ![[100. media/audio/11209.mp3]]~ing with effort, she lifted me up.
 ![[100. media/audio/7492.mp3]]Chris gave a ~ and went back to sleep.
-<!--SR:!2025-11-03,3,250-->
+<!--SR:!2025-11-13,10,270-->
 -
 
 
@@ -670,7 +670,7 @@ relating to areas of land that have never been used for building on
 
 ![[100. media/image/9933.jpg|200]]
 brown‧field \[only before noun\] relating to areas of a city that in the past were used for factories, offices etc, and could be cleared and used to build new houses
-<!--SR:!2025-11-03,3,250-->
+<!--SR:!2025-11-10,7,250-->
 -
 
 
@@ -678,7 +678,7 @@ gauge ![[100. media/audio/7668.mp3]] ![[100. media/audio/1134.mp3]] ![[100. medi
 ?
 측정하다, 평가하다
 ![[100. media/audio/8386.mp3]]The petrol ~ is still on full.
-<!--SR:!2025-11-03,3,250-->
+<!--SR:!2025-11-10,5,230-->
 -
 
 
@@ -690,7 +690,7 @@ to shiver or shudder
 
 
 Cf. shudder
-<!--SR:!2025-11-03,3,250-->
+<!--SR:!2025-11-10,5,230-->
 -
 
 
@@ -715,7 +715,7 @@ Mr. Dursley couldn't bear people who dressed in funny clothes-the ~s you saw on 
 ![[100. media/audio/7129.mp3]]The band had a psychedelic ~.
 
 ![[100. media/audio/1699.mp3]]I couldn't recognize him in that cowboy ~.
-<!--SR:!2025-11-03,3,250-->
+<!--SR:!2025-11-13,10,270-->
 -
 
 
@@ -731,7 +731,7 @@ to be criticized or attacked by a lot of people  ![[100. media/audio/10448.mp3]
 
 throw down the ~
 to invite someone to fight or compete over a disagreement
-<!--SR:!2025-11-02,2,230-->
+<!--SR:!2025-11-07,5,230-->
 -
 
 
@@ -746,7 +746,7 @@ to have enough money to buy the things you need, but no more
 get by with
 to manage to deal with a difficult situation, using whatever money, equipment etc you have SYN manage
 ![[100. media/audio/4551.mp3]]The Fed made several changes designed to make it easier for banks to get ~ on fewer reserves.
-<!--SR:!2025-11-03,3,250-->
+<!--SR:!2025-11-14,11,270-->
 -
 
 
@@ -765,7 +765,7 @@ To perform an action or a series of actions in a mechanical or perfunctory way, 
 ![[100. media/audio/4689.mp3]]She went through the ~s at the party, smiling and chatting, but her mind was elsewhere.
 
 ![[100. media/audio/7574.mp3]]The performance felt like the actors were just going through the ~s, lacking the emotion that the play demanded.
-<!--SR:!2025-11-02,2,230-->
+<!--SR:!2025-11-07,5,230-->
 -
 
 
@@ -778,7 +778,7 @@ an attractive appearance on the surface of something that may hide something le
 a description or explanation that makes something seem more attractive or acceptable than it really is → spin  ![[100. media/audio/1941.mp3]]The minister was accused of putting a ~ on the government’s poor performance.
 
 to provide a note in a piece of writing, explaining a difficult word, phrase, or idea
-<!--SR:!2025-11-02,2,230-->
+<!--SR:!2025-11-07,5,230-->
 -
 
 
@@ -794,7 +794,7 @@ If a buyer isn't found, this famous old club could ~ out of ~.
 ![[100. media/audio/1273.mp3]]The organization has been in existence for 25 years.  ![[100. media/audio/9995.mp3]]Scientists have many theories about how the universe first came into existence (=started to exist).
 ![[100. media/audio/11158.mp3]]The very existence of the museum is threatened by lack of funding.  ![[100. media/audio/8683.mp3]]the continued existence of economic inequalities
 ![[100. media/audio/8713.mp3]]Pablo led a miserable existence when he first moved to San Juan.
-<!--SR:!2025-11-02,2,230-->
+<!--SR:!2025-11-07,5,230-->
 -
 
 
@@ -806,7 +806,7 @@ to cover something with a thin layer of gold or with something that looks like 
 
 literary to make something look as if it is covered in gold
 ![[100. media/audio/5157.mp3]]The autumn sun ~ed the lake.
-<!--SR:!2025-11-02,2,230-->
+<!--SR:!2025-11-09,7,250-->
 -
 
 
@@ -815,7 +815,7 @@ give rise to
 formal to be the reason why something happens, especially something bad or unpleasant → provoke
 
 ![[100. media/audio/265.mp3]]His speech gave ~ to a bitter argument.  ![[100. media/audio/12586.mp3]]The president’s absence has given ~ to speculation about his health.
-<!--SR:!2025-11-03,3,250-->
+<!--SR:!2025-11-11,8,250-->
 -
 
 
@@ -824,8 +824,8 @@ grudge 2 ![[100. media/audio/11026.mp3]] ![[100. media/audio/5082.mp3]] ![[100. 
 a feeling of dislike for someone because you cannot forget that they harmed you in the past
 ![[100. media/image/9339.jpg|200]]
 ![[100. media/audio/1696.mp3]]Is there anyone who might have had a ~ against her?
-![[100. media/audio/9910.mp3]]Mr Gillis was not normally a man to bear ~s.  ![[100. media/audio/6632.mp3]]I’m not harbouring some secret ~ against you.  ![[100. media/audio/8322.mp3]]It could be the work of someone with a ~ against the company.  ![[100. media/audio/2745.mp3]]You let nasty little personal ~s creep in.
-<!--SR:!2025-11-03,3,250-->
+![[100. media/audio/9910.mp3]]==Mr Gillis was not normally a man to bear ~s.==  ![[100. media/audio/6632.mp3]]I’m not harbouring some secret ~ against you.  ![[100. media/audio/8322.mp3]]It could be the work of someone with a ~ against the company.  ![[100. media/audio/2745.mp3]]You let nasty little personal ~s creep in.
+<!--SR:!2025-11-12,9,250-->
 -
 
 
@@ -837,7 +837,7 @@ a supply of something, especially a product or crop, that is more than is need
 to cause something to have too much of something  ![[100. media/audio/9473.mp3]]the ~ted property market
 
 Etymology:
-<!--SR:!2025-11-03,3,250-->
+<!--SR:!2025-11-10,5,230-->
 -
 
 
@@ -846,12 +846,12 @@ gravitas ![[100. media/audio/10768.mp3]] ![[100. media/audio/8059.mp3]] ![[100. 
 ![[100. media/image/5107.jpg|200]]
 formal ![[100. media/audio/1475.mp3]]a seriousness of manner that people respect
 
-SYN sol++e++mnity(difference accent and pronunciation from s++o++lemn), seriousness, authority, weightiness
+SYN solemnity(difference accent and pronunciation from s++o++lemn), seriousness, authority, weightiness
 
 ![[100. media/audio/5456.mp3]]He's an effective enough politician but somehow he lacks the statesmanlike ~ of a world leader.
 ![[100. media/audio/6809.mp3]]Despite his youthful appearance, he has the ~ of someone twice his age.
 ![[100. media/audio/9772.mp3]]He tried to imbue his speech with ~ by using formal language and referencing historical events.
-<!--SR:!2025-11-02,2,230-->
+<!--SR:!2025-11-09,7,250-->
 -
 
 
@@ -865,7 +865,7 @@ if your feelings or wishes get the ~ of you, they make you behave in a way you
 
 to defeat someone or deal successfully with a problem
 ![[100. media/audio/8654.mp3]]In the chess match, the young prodigy managed to get the ~ of the seasoned champion.
-<!--SR:!2025-11-02,2,230-->
+<!--SR:!2025-11-07,5,230-->
 -
 
 
@@ -876,7 +876,7 @@ to prepare someone for an important job or position in society by training th
 ![[100. media/audio/10784.mp3]]Tim was being ~ed for a managerial position.
 ![[100. media/audio/2186.mp3]]Clare’s been ~ed to take her father’s place when he retires.
 ![[100. media/audio/824.mp3]]Her hair is always perfectly ~ed.
-<!--SR:!2025-11-03,3,250-->
+<!--SR:!2025-11-14,11,270-->
 -
 
 
@@ -890,7 +890,7 @@ whole gamut, entire gamut
 
 ![[100. media/audio/4891.mp3]]College life opened up a whole gamut of new experiences.
 ![[100. media/audio/12669.mp3]]Her feelings that day ran the gamut of emotions (=included all the possibilities between two extremes).
-<!--SR:!2025-11-03,2,210-->
+<!--SR:!2025-11-07,4,210-->
 -
 
 
@@ -898,7 +898,7 @@ gibberish ![[100. media/audio/12413.mp3]] ![[100. media/audio/740.mp3]] ![[100. 
 ?
 something you write or say that has no meaning, or is very difficult to understand SYN nonsense  ![[100. media/image/456.jpg|200]]
 ![[100. media/audio/11317.mp3]]You’re talking ~!
-<!--SR:!2025-11-03,3,250-->
+<!--SR:!2025-11-14,11,270-->
 -
 
 
@@ -908,7 +908,7 @@ very unpleasant or shocking, and involving someone being killed or badly i
 ![[100. media/image/12095.jpg|200]]
 
 ![[100. media/audio/724.mp3]]Police described it as a particularly ~ attack. ![[100. media/audio/1410.mp3]]Spare me the ~ details.
-<!--SR:!2025-11-03,3,250-->
+<!--SR:!2025-11-11,8,250-->
 -
 
 

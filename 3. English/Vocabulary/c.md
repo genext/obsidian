@@ -6,7 +6,7 @@ relating to the heart `SYN` cardiac
 Don't give me a coronary - just tell me what happened!
 (getting extremely upset or stressed about something.)
 ![[100. media/audio/speech_20251006043610095.mp3]]![[100. media/audio/speech_20251006043643153.mp3]]
-<!--SR:!2025-11-02,7,228-->
+<!--SR:!2025-11-17,15,228-->
 -
 
 credential
@@ -16,7 +16,7 @@ Her academic credentials include an MA and a PhD.
 ![[speech_20251022072822384.mp3]] ![[speech_20251022072906653.mp3]]
 you specify your AWS _security credentials_ to verify who you are and whether you have permission to access the resources that you are requesting.
 ![[speech_20251022072653904.mp3]] ![[speech_20251022072756435.mp3]]
-<!--SR:!2025-11-03,8,251-->
+<!--SR:!2025-11-22,19,251-->
 -
 
 congested
@@ -43,24 +43,7 @@ to avoid something by changing the direction in which you are traveling
 
 We went north in order to circumvent the mountains.
 ![[speech_20251022024517382.mp3]] ![[speech_20251022024555679.mp3]]
-<!--SR:!2025-11-05,7,251-->
--
-
-chromosome ![[100. media/audio/2019.mp3]] ![[100. media/audio/1862.mp3]] ![[100. media/audio/1163.mp3]] ![[100. media/audio/12664.mp3]]
-?
-![[100. media/image/11460.jpg|200]]
-
-a part of every living cell that is shaped like a thread and contains the genes that control the size, shape etc that a plant or animal has
-<!--SR:!2025-11-02,7,253-->
-
--
-
-cottage industry ![[100. media/audio/3436.mp3]] ![[100. media/audio/6101.mp3]]
-?
-가내 공업, 누구나 손쉽게 시작할 수 있는 일, 영세 기업
-an industry that consists of people working at home
-![[100. media/audio/10882.mp3]]Hand weaving is a flourishing ~ industry in the region.
-<!--SR:!2025-11-05,15,290-->
+<!--SR:!2025-11-09,4,231-->
 -
 
 confrontation ![[4F7149C80510BE0252 1.mp3]] ![[4F71238C04317F0102 1.mp3]]
@@ -73,7 +56,7 @@ It's a bit more confrontational, but in a clarifying way.
 
 an ideological confrontation between conservatives and liberals
 ![[speech_20251028015243608.mp3]] ![[speech_20251028015304531.mp3]]
-<!--SR:!2025-11-04,5,249-->
+<!--SR:!2025-11-17,13,249-->
 -
 c**a**dence ![[100. media/audio/6893.mp3]] ![[100. media/audio/7842.mp3]] ![[100. media/audio/5948.mp3]] ![[100. media/audio/149.mp3]]
 ?

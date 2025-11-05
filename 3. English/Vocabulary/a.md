@@ -5,7 +5,7 @@ nucleus accumbens(측좌핵) 보상, 동기 부여, 쾌락 및 중독과 관련�
 
 An orgasm is produced when a build-up of dopamine is released suddenly to activate the nucleus accumbens and produce intense feelings of pleasure.
 ![[100. media/audio/pXlWY4IoHY.mp3]] ![[100. media/audio/9xFJtr3Z-5.mp3]]
-<!--SR:!2025-11-05,8,230-->
+<!--SR:!2025-11-22,17,230-->
 -
 
 apprise ![[100. media/audio/lCnIMS8V.mp3]] ![[100. media/audio/4ONup1lF.mp3]]
@@ -16,7 +16,7 @@ formal to tell or give someone information about something SYN inform
 
 He wasn't on shift, but he was kept apprised at all times.![[100. media/audio/FoNrWMWw.mp3]]
 The district chairman was fully apprised of all the details.![[100. media/audio/vm5xRmk9.mp3]]
-<!--SR:!2025-11-03,7,261-->
+<!--SR:!2025-11-22,19,261-->
 -
 
 abbreviation ![[100. media/audio/2852.mp3]] ![[100. media/audio/2394.mp3]] ![[100. media/audio/12895.mp3]] ![[100. media/audio/9250.mp3]]
@@ -24,18 +24,6 @@ abbreviation ![[100. media/audio/2852.mp3]] ![[100. media/audio/2394.mp3]] ![[10
 a short form of a word or expression
 ![[100. media/audio/12608.mp3]]‘Dr’ is the written ~ of ‘Doctor’
 <!--SR:!2025-11-06,16,290-->
--
-
-aglow ![[100. media/audio/10315.mp3]] ![[100. media/audio/9700.mp3]] ![[100. media/audio/751.mp3]] ![[100. media/audio/9906.mp3]]
-?
-![[100. media/image/7980.jpg|200]]
-his orb-like eyes ~.
-
-1\. having a soft light, or a strong warm color
-![[100. media/audio/12407.mp3]]The evening sky was still ~.
-2.  if someone's face is ~, they seem happy and excited
-![[100. media/audio/8142.mp3]]Linda's face was ~ with happiness.
-<!--SR:!2025-11-05,15,290-->
 -
 
 aloof ![[100. media/audio/1064.mp3]] ![[100. media/audio/12732.mp3]] ![[100. media/audio/1507.mp3]] ![[100. media/audio/9952.mp3]]

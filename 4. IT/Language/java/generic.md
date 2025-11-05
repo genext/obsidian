@@ -41,7 +41,7 @@ Box<Apple> aBox = new Box<Apple>();
 aBox.put(new Apple());
 Apple apple = aBox.take();
 ```
-<!--SR:!2025-11-03,5,230-->
+<!--SR:!2025-11-16,13,230-->
 -
 
 ## generic and lombok
@@ -85,7 +85,7 @@ class Apple implements Eatable {
 ```java
 class Box<T extends Number & Eatable> {...}
 ```
-<!--SR:!2025-11-03,5,230-->
+<!--SR:!2025-11-06,3,210-->
 -
 
 ## generic 메소드 정의
@@ -115,7 +115,7 @@ Box<String> sBox = BoxFactory.<String>makeBox("Sweet");
 	- 단순화한 호출 -> BoxFactory.makeBox("Sweet") 참조 변수 타입으로 유추 가능. 즉 target type으로 input type 유추.
 	- 클래스처럼 타입 인자 제한 가능
 		- public static \<T extends Number> T openBox(Box\<T> box) {...}
-<!--SR:!2025-11-03,5,230-->
+<!--SR:!2025-11-16,13,230-->
 -
 
 ## generic class 상속
@@ -125,7 +125,7 @@ class SteelBox<T> extends Box<T> {...}
 ```
 - 생각할 것
 	- 상속 관계 덕분에 Box\<T> 타입 참조변수에  SteelBox\<T> 인스턴스 저장 가능.
-<!--SR:!2025-11-03,5,230-->
+<!--SR:!2025-11-06,3,210-->
 -
 
 ## wild card 기반 메소드 정의
@@ -136,7 +136,7 @@ public static <T> void peekBox(<Box<T> box) {...}
 
 public static void peekBox(<Box<?> box) {...}
 ```
-<!--SR:!2025-11-03,5,230-->
+<!--SR:!2025-11-06,3,210-->
 -
 
 ## 상한 제한(Upper-Bounded) wildcard
@@ -170,7 +170,7 @@ shop.feedAllPets(Arrays.asList(new Animal(), new Animal()));
 ```
 ### 3. 의미
 Toy를 상속한 Car는 Toy 타입에 저장 가능하지만, 반대 방향으로, Car에 Toy 타입 저장하는 것은 불가
-<!--SR:!2025-11-03,5,230-->
+<!--SR:!2025-11-16,13,230-->
 -
 
 ## 하한 제한(Lower-Bounded) wildcard
@@ -213,7 +213,7 @@ manager.addListener(generalList);  // Works! Object is supertype of EventListene
 ```
 ### 3. 의미
 Toy가 상속하는 플라스틱에 Toy 타입 저장 가능하지만, 반대 방향으로, Toy 타입에 플라스틱 저장하는 것은 불가
-<!--SR:!2025-11-03,5,230-->
+<!--SR:!2025-11-16,13,230-->
 -
 
 ## 타입 매개변수 T를 상속, overloading을 위해?
@@ -238,7 +238,7 @@ inBox만 오버로딩된다고 해결되는 것이 아니기 때문에 다음과
 public static <T> void outBox(Box<? extends T> box) {...}
 public static <T> void inBox(Box<? super T> box, T n) {...}
 ```
-<!--SR:!2025-11-03,5,230-->
+<!--SR:!2025-11-06,3,210-->
 -
 
 ## generic 인터페이스
@@ -256,7 +256,7 @@ class Box<T> implements Getable<T> {
 	}
 }
 ```
-<!--SR:!2025-11-05,4,210-->
+<!--SR:!2025-11-07,2,190-->
 -
 
 #java

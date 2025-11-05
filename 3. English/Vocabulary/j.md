@@ -22,10 +22,11 @@ SYN: Nephrite, greenstone
 wear out, tire, or make dull
 SYN: exhaust, weary
 
-![[100. media/audio/2648.mp3]]The daily commute has completely ~ed me; I'm so tired of it.
-![[100. media/audio/11600.mp3]]She was ~ed by the endless meetings and the corporate culture.
+The daily commute has completely ~ed me; I'm so tired of it.
+![[speech_20251103005605120.mp3]]
+
 ![[100. media/audio/11142.mp3]]Years of doing the same task had ~ed him, making him seek a new career.
-<!--SR:!2025-11-02,1,230-->
+<!--SR:!2025-12-05,2,210-->
 -
 
 
@@ -39,7 +40,7 @@ Cf. clatter
 
 if your nerves ~, or if something ~s your nerves, you feel nervous or upset
 ![[100. media/audio/6928.mp3]]The harsh sound ~ed his nerves.
-<!--SR:!2025-11-02,1,230-->
+<!--SR:!2025-11-12,7,250-->
 -
 
 
@@ -48,12 +49,12 @@ jeer ![[100. media/audio/7486.mp3]] ![[100. media/audio/11671.mp3]] ![[100. medi
 to laugh at someone or shout unkind things at them in a way that shows you do not respect them
 ![[100. media/image/7488.jpg|200]]
 
-Harry jumped to his feet just as a ~ing voice floated across the lawn.
-
 ![[100. media/audio/495.mp3]]You know I’m right!’ she ~ed.  ![[100. media/audio/12596.mp3]]The president was booed and ~ed by a crowd of protesters.
 ![[100. media/audio/4743.mp3]]Fans ~ed at the referee.
 ![[100. media/audio/12510.mp3]]There were ~s and booing from the audience.
-<!--SR:!2025-11-02,1,230-->
+
+Harry jumped to his feet just as a ~ing voice floated across the lawn.
+<!--SR:!2025-11-09,5,230-->
 -
 
 
@@ -66,7 +67,7 @@ plural
 ![[100. media/image/9262.jpg|200]]
 
 ![[100. media/audio/3668.mp3]]The ~s are worst in the capital, where 61% of people are fearful of a terrorist attack.
-<!--SR:!2025-11-02,1,230-->
+<!--SR:!2025-11-13,8,250-->
 -
 
 
@@ -75,7 +76,7 @@ jocular ![[100. media/audio/3015.mp3]] ![[100. media/audio/8283.mp3]] ![[100. me
 ![[100. media/image/108.jpg|200]]
 joking or humorous → jolly
 ![[100. media/audio/4909.mp3]]He sounded in a ~ mood.
-<!--SR:!2025-11-02,1,230-->
+<!--SR:!2025-11-17,12,270-->
 -
 
 
@@ -84,7 +85,7 @@ judicious ![[100. media/audio/1880.mp3]] ![[100. media/audio/1935.mp3]] ![[100. 
 done in a sensible and careful way SYN wise
 ![[100. media/image/10133.jpg|200]]
 ![[100. media/audio/8928.mp3]]a ~ choice
-<!--SR:!2025-11-02,1,230-->
+<!--SR:!2025-11-17,12,270-->
 -
 
 
@@ -94,7 +95,7 @@ juggernaut ![[100. media/audio/11821.mp3]] ![[100. media/audio/6846.mp3]] ![[100
 a very large vehicle that carries goods over long distances SYN semi American English
 a very powerful force, organization etc whose effect or influence cannot be stopped
 ![[100. media/audio/4401.mp3]]the ~ of industrialization
-<!--SR:!2025-11-02,1,230-->
+<!--SR:!2025-11-06,3,230-->
 -
 
 
@@ -106,7 +107,7 @@ a container with a wide curved opening at the top and a handle, used espe
 
 ![[100. media/audio/1207.mp3]]a milk ~
 ![[100. media/audio/12331.mp3]]a ~ of water
-<!--SR:!2025-11-02,1,230-->
+<!--SR:!2025-11-16,11,270-->
 -
 
 
@@ -117,7 +118,7 @@ jumble ![[100. media/audio/9192.mp3]] ![[100. media/audio/3761.mp3]] ![[100. med
 
 ![[100. media/audio/6720.mp3]]a ~ of old toys  ![[100. media/audio/8021.mp3]]Inside, she was a ~ of emotions.
 ![[100. media/audio/8759.mp3]]The photographs were all ~ed up.  ![[100. media/audio/10971.mp3]]Ben’s words became ~ed.
-<!--SR:!2025-11-02,1,230-->
+<!--SR:!2025-11-14,9,250-->
 -
 
 

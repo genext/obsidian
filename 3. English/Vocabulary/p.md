@@ -19,19 +19,6 @@ These thoughts pester me throughout the long, boring days.![[100. media/audio/cl
 <!--SR:!2025-11-06,16,290-->
 -
 
-perseverance ![[100. media/audio/5950.mp3]] ![[100. media/audio/11458.mp3]] ![[100. media/audio/1723.mp3]] ![[100. media/audio/577.mp3]]
-?
-determination to keep trying to achieve something in spite of difficulties – use this to show approval
-![[100. media/image/10514.jpg|200]]
-
-SYN determination, tenacity, doggedness
-
-![[100. media/audio/2496.mp3]]It took ~ to overcome his reading problems.
-![[100. media/audio/7473.mp3]]Her ~ in the face of adversity is truly inspiring.
-![[100. media/audio/11003.mp3]]He credits his success to talent, luck, and above all, ~.
-<!--SR:!2025-11-02,12,270-->
--
-
 puny ![[100. media/audio/10703.mp3]] ![[100. media/audio/898.mp3]] ![[100. media/audio/10294.mp3]]
 ?
 SYN: scrawny, paltry, trifling
@@ -68,19 +55,6 @@ one of the most important supporters of a social or political idea
 <!--SR:!2025-11-06,16,290-->
 -
 
-permeate ![[100. media/audio/10242.mp3]] ![[100. media/audio/2859.mp3]] ![[100. media/audio/12711.mp3]] ![[100. media/audio/1839.mp3]]
-?
-if liquid, gas etc ~s something, it enters it and spreads through every part of it
-![[100. media/image/3193.png|200]]
-![[100. media/audio/1632.mp3]]The smell of diesel oil ~ed the air.
-![[100. media/audio/7025.mp3]]Rain ~s through the ground to add to ground water levels.
-
- if ideas, beliefs, emotions etc ~ something, they are present in every part of it
-![[100. media/audio/8523.mp3]]Racism continues to ~ our society.
-![[100. media/audio/1682.mp3]]An emotional intensity ~s every one of O'Connor’s songs.
-<!--SR:!2025-11-03,7,266-->
--
-
 puberty ![[100. media/audio/4045.mp3]] ![[100. media/audio/11878.mp3]] ![[100. media/audio/10499.mp3]] ![[100. media/audio/12159.mp3]]
 ?
 the stage of physical development during which you change from a child to an adult and are able to have children  ![[100. media/image/1931.jpg|200]]
@@ -102,7 +76,7 @@ There was a ~ sense of relief among the crowd.
 
 ![[100. media/audio/07GVf9xe.mp3]]![[100. media/audio/rl0KVSLo.mp3]]
 When he claimed that Paris was the capital of Italy, he betrayed his own ~ ignorance of European geography.
-<!--SR:!2025-11-05,5,230-->
+<!--SR:!2025-11-17,12,230-->
 -
 
 pilfer ![[100. media/audio/scpsObij.mp3]]![[100. media/audio/SUO5MmWq.mp3]]
@@ -156,7 +130,7 @@ The team faced the ~ David and Goliath scenario in the championship game. ![[spe
 prostate ![[4F713B87044919016F.mp3]] ![[4F71153F0269DA00BC.mp3]]
 ?
 전립선, 전립선의
-<!--SR:!2025-11-03,3,259-->
+<!--SR:!2025-11-10,7,259-->
 
 -
 #Vocabulary

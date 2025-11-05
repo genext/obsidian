@@ -1,25 +1,3 @@
-hostile ![[100. media/audio/8820.mp3]] ![[100. media/audio/4852.mp3]] ![[100. media/audio/775.mp3]] ![[100. media/audio/11435.mp3]]
-?
-angry and deliberately unfriendly towards someone, and ready to argue with them
-
-![[100. media/audio/3475.mp3]]Southampton fans gave their former coach a hostile reception.  ![[100. media/audio/2994.mp3]]Carr wouldn’t meet Feng’s stare, which was openly hostile.  ![[100. media/audio/7397.mp3]]his hostile attitude
-![[100. media/audio/473.mp3]]the boy feels hostile towards his father.
-
-opposing a plan or idea very strongly
-![[100. media/audio/1474.mp3]]Senator Lydon was hostile to our proposals.
-
-belonging to an enemy
-![[100. media/audio/1401.mp3]]hostile territory
-![[100. media/audio/6368.mp3]]a guide to surviving in even the most hostile terrain  ![[100. media/audio/12772.mp3]]Sales increased last year despite the hostile economic environment.
-<!--SR:!2025-11-04,14,290-->
--
-
-hell bent ![[100. media/audio/9869.mp3]] ![[100. media/audio/5280.mp3]] ![[100. media/audio/12191.mp3]] ![[100. media/audio/7417.mp3]]
-?
-So, someone who is "~" on doing something is so determined that they would go to hell to achieve it.
-<!--SR:!2025-11-02,7,254-->
--
-
 hunger ![[100. media/audio/Cncp_ptkFE.mp3]] ![[100. media/audio/JuGLlTPK_l.mp3]]
 ?
   1. lack of food, especially for a long period of time, that can cause illness or death SYN starvation

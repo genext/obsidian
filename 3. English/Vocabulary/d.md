@@ -22,14 +22,6 @@ deeper, more complete, forceful than dip
 <!--SR:!2025-11-11,18,250-->
 -
 
-di**a**meter
-?
-지름
-![[100. media/audio/10424.mp3]]Draw a circle six centimetres in ~.
-![[100. media/audio/10824.mp3]]The ~ of the Earth is about 13,000 km.
-<!--SR:!2025-11-04,14,290-->
--
-
 dem**e**ter ![[100. media/audio/2389.mp3]] ![[100. media/audio/11912.mp3]]
 ?
 ![[100. media/image/7410.jpg|200]]
@@ -47,7 +39,7 @@ a method of examining and discussing ideas in order to find the truth, in which 
 변증법
 
 dialect에서 나온 것으로 혼동하기 쉽지만 아니다!
-<!--SR:!2025-11-02,2,240-->
+<!--SR:!2025-11-09,4,220-->
 
 -
 
@@ -1701,7 +1693,7 @@ They dwelt in the forest.
 
 It implies you're _choosing_ to fixate on those 15 minutes, replaying them, dwelling on them, and letting them take up mental real estate.
 ![[speech_20251029065711817.mp3]] ![[speech_20251029065750883.mp3]]
-<!--SR:!2025-11-05,5,232-->
+<!--SR:!2025-11-17,12,232-->
 -
 
 #Vocabulary

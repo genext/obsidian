@@ -64,7 +64,7 @@ _The ~ ceremony of the new museum attracted art enthusiasts from all over the co
 _His ~ work in the field of renewable energy set a new standard for innovation._
 
 **Etymology:** comes from the Latin 'inaugurare', meaning "to consecrate by augury" (augury being the practice of interpreting omens). In ancient Rome, important actions or events, like the assumption of office, were often initiated with certain rituals to predict success. evolved in English usage to mean "serving to set in motion" or "initiating." It has since been used to denote the first in a series, or the beginning of a significant period, especially in a formal or ceremonial context.
-<!--SR:!2025-11-05,5,230-->
+<!--SR:!2025-11-16,11,230-->
 -
 
 indigent ![[100. media/audio/U2vNGIhd.mp3]] ![[100. media/audio/b8xEN5iR.mp3]]
@@ -108,7 +108,7 @@ iconoclastic ![[100. media/audio/12209.mp3]] ![[100. media/audio/3063.mp3]] ![[1
 ![[100. media/audio/1140.mp3]]Wolfe’s theories were revolutionary and iconoclastic.
 
 iconoclasm![[100. media/audio/5084.mp3]]![[100. media/audio/1822.mp3]]:
-<!--SR:!2025-11-02,3,250-->
+<!--SR:!2025-11-13,11,270-->
 -
 
 
@@ -140,7 +140,7 @@ an unusual habit or way of behaving that someone has
 an unusual or unexpected feature that something has
 ![[100. media/audio/716.mp3]]one of the many ~ies of English spelling
 ![[100. media/audio/8491.mp3]]"The ~ies of suicides have never been satisfactorily explained," returned Vance casually.
-<!--SR:!2025-11-02,3,250-->
+<!--SR:!2025-11-14,12,270-->
 -
 
 
@@ -149,7 +149,7 @@ idiot-proof ![[100. media/audio/9734.mp3]] ![[100. media/audio/8177.mp3]]
 something that is ~-proof is so easy to use or do that even stupid people will not break it or make a mistake → foolproof
 
 ![[100. media/audio/8566.mp3]]~-proof instructions
-<!--SR:!2025-11-02,3,250-->
+<!--SR:!2025-11-14,12,270-->
 -
 
 
@@ -183,7 +183,7 @@ SYN Eager to hear
 ![[100. media/audio/1253.mp3]]As soon as I mentioned money, Karen was ~.
 ![[100. media/audio/8767.mp3]]You look like you've had a tough day. If you want to talk about it, ~.
 ![[100. media/audio/5186.mp3]]If anyone has questions about the material, ~.
-<!--SR:!2025-11-02,3,250-->
+<!--SR:!2025-11-12,10,270-->
 -
 
 
@@ -197,7 +197,7 @@ SYN: convey, instill
 ![[100. media/audio/6462.mp3]]Use a piece of fresh ginger to ~ a Far Eastern flavour to simple ingredients.
 ![[100. media/audio/5014.mp3]]The spices ~ed a rich flavor to the stew.
 ![[100. media/audio/7573.mp3]]She had information that she couldn’t wait to ~.
-<!--SR:!2025-11-02,3,250-->
+<!--SR:!2025-11-09,7,250-->
 -
 
 
@@ -222,7 +222,7 @@ impending ![[100. media/audio/6.mp3]] ![[100. media/audio/9233.mp3]] ![[100. med
 an ~ event or situation, especially an unpleasant one, is going to happen very soon. Cf. foreboding
 ![[100. media/image/12724.jpg|200]]
 ![[100. media/audio/2292.mp3]]She had a sense of ~ disaster.  ![[100. media/audio/4853.mp3]]~ changes in government legislation
-<!--SR:!2025-11-02,3,250-->
+<!--SR:!2025-11-13,11,270-->
 -
 
 
@@ -239,7 +239,7 @@ refers to something of vital importance or necessity; crucial. It also describes
 **Etymology**: traces back to the Latin term "imperativus," which means 'commanding', which is a compound of "in-" (into, towards) and "parare" (to prepare or provide).
 
 technical an imperative verb is one that expresses an order, such as ‘stand up’
-<!--SR:!2025-11-02,3,250-->
+<!--SR:!2025-11-12,10,270-->
 -
 
 
@@ -249,7 +249,7 @@ almost impossible to see or notice
 
 ![[100. media/audio/4745.mp3]]Such changes are ~ to even the best-trained eye.
 ![[100. media/audio/5849.mp3]]The daylight faded almost ~ly into night.
-<!--SR:!2025-11-02,3,250-->
+<!--SR:!2025-11-14,12,270-->
 -
 
 
@@ -263,7 +263,7 @@ SYN endanger, jeopardize
 ![[100. media/audio/3477.mp3]]Tax increases now might ~ economic recovery.
 ![[100. media/audio/9209.mp3]]_The company's financial losses ~ed its future, making it difficult to secure new investors.
 _![[100. media/audio/4251.mp3]]_Overfishing can ~ the entire marine ecosystem, leading to a collapse of fish populations._
-<!--SR:!2025-11-02,3,250-->
+<!--SR:!2025-11-13,11,270-->
 -
 
 
@@ -277,7 +277,7 @@ to pretend to be someone else by copying their appearance, voice, and behavi
 ![[100. media/audio/8764.mp3]]In the film, he amusingly ~s a woman.
 
 ![[100. media/audio/11088.mp3]]He’s renowned for his Elvis ~ation.
-<!--SR:!2025-11-02,3,250-->
+<!--SR:!2025-11-13,11,270-->
 -
 
 
@@ -293,7 +293,7 @@ Unable to be affected by; not allowing fluid to pass through.
 
 
 **Etymology:** originates from the Latin "impervius," meaning "not to be traversed." It is composed of "im-" (not) and "pervius" (passable), which comes from "per-" (through) and "via" (way, road).
-<!--SR:!2025-11-02,3,250-->
+<!--SR:!2025-11-14,12,270-->
 -
 
 
@@ -306,7 +306,7 @@ this method, ~ though it may seem for some,
 
 ![[100. media/audio/11810.mp3]]Margaret found his excuse somewhat ~.
 ![[100. media/audio/11034.mp3]]It’s not entirely ~ that a galaxy could be identical to our own.
-<!--SR:!2025-11-02,3,250-->
+<!--SR:!2025-11-10,8,250-->
 -
 
 
@@ -321,7 +321,7 @@ he looked ~ingly at Harry
 ![[100. media/audio/2650.mp3]]a ragged child with ~ing eyes
 
 **Etymology:** comes from the Latin "implorare," meaning "to invoke with tears, beseech earnestly." It is composed of "in-" (toward) and "plorare" (to weep, cry out).
-<!--SR:!2025-11-02,3,250-->
+<!--SR:!2025-11-10,8,250-->
 -
 
 
@@ -359,7 +359,7 @@ imposter ![[100. media/audio/4373.mp3]] ![[100. media/audio/222.mp3]]
 ?
 사칭하는 사람, (다른 사람 행세를 하는)사기꾼.
 ![[100. media/audio/2312.mp3]]The nurse was soon discovered to be an ~.
-<!--SR:!2025-11-02,3,250-->
+<!--SR:!2025-11-12,10,270-->
 -
 
 
@@ -373,7 +373,7 @@ to make something worse in quality
 ![[100. media/audio/931.mp3]]Fast-growing trees remove nutrients and ~ the soil.
 ![[100. media/audio/7293.mp3]]an ~ed student
 ![[100. media/audio/11542.mp3]]spiritual ~ment
-<!--SR:!2025-11-02,3,250-->
+<!--SR:!2025-11-10,8,250-->
 -
 
 
@@ -387,7 +387,7 @@ improvise ![[100. media/audio/6856.mp3]] ![[100. media/audio/11067.mp3]] ![[100.
 
 
 improvisation![[100. media/audio/3205.mp3]]![[100. media/audio/4303.mp3]]
-<!--SR:!2025-11-02,3,250-->
+<!--SR:!2025-11-09,3,250-->
 -
 
 
@@ -421,7 +421,7 @@ SYN lifeless, insensate
 ![[100. media/audio/12574.mp3]]an ~ object
 ![[100. media/audio/8545.mp3]]She looked ~, devoid of any emotion or energy.
 ![[100. media/audio/12014.mp3]]Plants are considered animate beings because they grow, while rocks are ~.
-<!--SR:!2025-11-02,3,250-->
+<!--SR:!2025-11-14,12,270-->
 -
 
 
@@ -434,7 +434,7 @@ to put or keep someone in prison SYN imprison
 ![[100. media/audio/1361.mp3]]He was ~ed for five years on charges of embezzlement.
 ![[100. media/audio/8514.mp3]]Many argue that the system disproportionately ~s people of color.
 ![[100. media/audio/7902.mp3]]The legal system is looking for alternatives to ~ing juveniles.
-<!--SR:!2025-11-02,3,250-->
+<!--SR:!2025-11-14,12,270-->
 -
 
 
@@ -451,7 +451,7 @@ having taken human form
 
 to represent a particular quality in a physical or human form,  to make something appear in a human form
 ![[100. media/audio/12488.mp3]]The crown ~s national power.
-<!--SR:!2025-11-03,2,190-->
+<!--SR:!2025-11-08,5,210-->
 -
 
 
@@ -460,7 +460,7 @@ incentivize ![[100. media/audio/11082.mp3]] ![[100. media/audio/832.mp3]] ![[100
 to give someone a reason to do something, especially by offering them a reward
 
 ![[100. media/audio/3183.mp3]]How should a company ~ its employees?
-<!--SR:!2025-11-02,3,250-->
+<!--SR:!2025-11-13,11,270-->
 -
 
 
@@ -474,7 +474,7 @@ incidental to  ![[100. media/audio/12634.mp3]]Drinking too much is almost ~ to b
 discomforts ~ to a journey
 
 something that you have to do, buy etc which you had not planned to  ![[100. media/audio/11718.mp3]]Carry extra cash for taxis, tips, and other ~s.
-<!--SR:!2025-11-02,3,250-->
+<!--SR:!2025-11-14,12,270-->
 -
 
 
@@ -490,7 +490,7 @@ Burn, cremate, consume, destroy by fire, reduce to ashes.
 ![[100. media/audio/9981.mp3]]Many hazardous materials cannot be ~ed without releasing toxic gases.
 
 **Etymology:** originates from the Latin "incineratus," the past participle of "incinerare," which means 'to reduce to ashes.' It is composed of "in-" (into) and "cinis" (ashes).
-<!--SR:!2025-11-02,3,250-->
+<!--SR:!2025-11-10,8,250-->
 -
 
 
@@ -505,7 +505,7 @@ an ~ case of the flu
 ![[100. media/audio/2325.mp3]]Scientists have discovered an ~ black hole in a distant galaxy.
 
 **Etymology:** comes from the Latin "incipiens," the present participle of "incipere," which means 'to begin.', is a combination of "in-" (meaning 'into' or 'upon') and "capere" (meaning 'take' or 'seize').
-<!--SR:!2025-11-02,3,250-->
+<!--SR:!2025-11-14,12,270-->
 -
 
 
@@ -521,7 +521,7 @@ SYN irredeamable, irreformable, unchangeable, chronic
 ![[100. media/audio/5530.mp3]]Peter, you are an ~ flirt!
 
 **Etymology:** derived from Latin "incorrigibilis," from "in-" (not) and "corrigere" (to correct).
-<!--SR:!2025-11-03,3,230-->
+<!--SR:!2025-11-10,7,230-->
 -
 
 
@@ -540,7 +540,7 @@ someone who has been elected to an official position, especially in politics, 
 if it is ~ upon you to do something, it is your duty or responsibility to do it
 ![[100. media/audio/11686.mp3]]It is ~ upon parents to control what their children watch on TV.
 ![[100. media/audio/7601.mp3]]The company felt it was ~ to address environmental concerns in their operations.
-<!--SR:!2025-11-02,3,250-->
+<!--SR:!2025-11-14,12,270-->
 -
 
 
@@ -552,7 +552,7 @@ if you ~ a cost, debt, or a fine, you have to pay money because of something 
 ![[100. media/audio/2130.mp3]]If the council loses the appeal, it will ~ all the legal costs.  ![[100. media/audio/10970.mp3]]the heavy losses ~red by airlines since September 11th
 
 ~ somebody’s displeasure/wrath/disapproval etc  ![[100. media/audio/7940.mp3]]She wondered what she’d done to ~ his displeasure this time.
-<!--SR:!2025-11-02,3,250-->
+<!--SR:!2025-11-14,12,270-->
 -
 
 
@@ -582,7 +582,7 @@ Absolutely necessary, essential, or requisite.
 ineffable![[100. media/audio/10627.mp3]]![[100. media/audio/2237.mp3]]![[100. media/audio/7424.mp3]]![[100. media/audio/376.mp3]]
 ?
 too great to be described in words SYN indescribable ![[100. media/audio/1438.mp3]]
-<!--SR:!2025-11-02,3,250-->
+<!--SR:!2025-11-12,10,270-->
 -
 
 
@@ -614,7 +614,7 @@ inf**e**rtile ![[100. media/audio/10158.mp3]] ![[100. media/audio/2574.mp3]] ![[
 unable to have babies
 
 ![[100. media/audio/877.mp3]]~ couples
-<!--SR:!2025-11-02,3,250-->
+<!--SR:!2025-11-12,10,270-->
 -
 
 
@@ -625,7 +625,7 @@ when someone is unable to have a baby
 ![[100. media/audio/6864.mp3]]There are many possible causes of infertility in women.  ![[100. media/audio/7155.mp3]]infertility treatments
 
 ![[100. media/audio/877.mp3]]infertile couples
-<!--SR:!2025-11-02,3,250-->
+<!--SR:!2025-11-14,12,270-->
 -
 
 
@@ -655,7 +655,7 @@ An ~ point signifies a key moment of change, but the specific nature of this cha
 ![[100. media/audio/498.mp3]]In the graph of the company's annual revenue, the introduction of the new product line represented an ~ point, after which profits increased dramatically.
 ![[100. media/audio/4691.mp3]]The mathematician explained that at an ~ point, the curvature of the function's graph changes from concave to convex.
 ![[100. media/audio/3410.mp3]]The global financial crisis of 2008 served as an ~ point for the banking industry, leading to significant regulatory changes and new business practices.
-<!--SR:!2025-11-02,2,210-->
+<!--SR:!2025-11-06,4,210-->
 -
 
 
@@ -683,7 +683,7 @@ infl**i**ct ![[100. media/audio/11291.mp3]] ![[100. media/audio/6377.mp3]] ![[10
 ![[100. media/audio/889.mp3]]the deliberate ~ion of pain
 
 to cause suffering or unhappiness, something a disease does, but _inflict_ means to force pain or suffering, like if you smack someone upside the head.
-<!--SR:!2025-11-02,3,250-->
+<!--SR:!2025-11-11,9,250-->
 -
 
 
@@ -694,7 +694,7 @@ the arrival of large numbers of people or large amounts of money, goods etc, 
 
 ![[100. media/audio/11817.mp3]]a sudden ~ of cash
 ![[100. media/audio/5555.mp3]]a large ~ of tourists in the summer
-<!--SR:!2025-11-02,3,250-->
+<!--SR:!2025-11-13,11,270-->
 -
 
 
@@ -711,7 +711,7 @@ SYN violate, breach, transgress
 ![[100. media/audio/6326.mp3]]the ~ment of human rights
 
 **Etymology**: It comes from the Latin "infringere," where "in-" means "in" or "into," and "frangere" means "to break." In essence, "infringere" means to "break into" or "break a law."
-<!--SR:!2025-11-02,3,250-->
+<!--SR:!2025-11-09,5,230-->
 -
 
 
@@ -760,7 +760,7 @@ an ~ person is simple, trusting, and honest, especially because they have no
 
 
 **Etymology:** comes from "in-" (in, on) + "genu" (knee), originally referring to a "freeborn" child who is "born in (a state of) freedom," contrasting with a slave. The current meaning evolved to denote frankness and simplicity, reflecting an idealized view of how freeborn people behave.
-<!--SR:!2025-11-02,3,250-->
+<!--SR:!2025-11-10,8,250-->
 -
 
 
@@ -792,7 +792,7 @@ to make someone feel embarrassed or nervous so that they cannot do or say what 
 ![[100. media/audio/4478.mp3]]Recording the meeting may ~ people from expressing their real views.
 
 too embarrassed or nervous to do or say what you want SYN shy![[100. media/audio/28.mp3]]Many people are ~ed about discussing sexual matters.
-<!--SR:!2025-11-02,3,250-->
+<!--SR:!2025-11-12,10,270-->
 -
 
 
@@ -804,7 +804,7 @@ have plumbers ~ of architects
 time off ~
 
 ![[100. media/audio/6247.mp3]]extra time off in ~ of payment
-<!--SR:!2025-11-02,3,250-->
+<!--SR:!2025-11-10,8,250-->
 -
 
 
@@ -813,7 +813,7 @@ innocuous ![[100. media/audio/10707.mp3]] ![[100. media/audio/7752.mp3]] ![[100.
 ![[100. media/image/1020.jpeg|200]]
 not offensive, dangerous, or hanrmful SYN harmless
 ![[100. media/audio/9090.mp3]]an ~ remark  ![[100. media/audio/6746.mp3]]He’s a perfectly ~ young man.
-<!--SR:!2025-11-02,3,250-->
+<!--SR:!2025-11-13,11,270-->
 -
 
 
@@ -822,7 +822,7 @@ inordinate ![[100. media/audio/9326.mp3]] ![[100. media/audio/5284.mp3]] ![[100.
 far more than you would reasonably or normally expect SYN excessive
 ![[100. media/audio/4278.mp3]]Testing is taking up an ~ amount of teachers’ time.
 ![[100. media/audio/5572.mp3]]She’s ~ly fond of her parrot.
-<!--SR:!2025-11-02,3,250-->
+<!--SR:!2025-11-13,11,270-->
 -
 
 
@@ -856,7 +856,7 @@ asking too many questions and trying to find out too many detail about somethi
 interested in a lot of different things and wanting to find out more about them → curious
 ![[100. media/audio/3903.mp3]]a cheerful, ~ little boy  ![[100. media/audio/7406.mp3]]an ~ mind
 ![[100. media/audio/4818.mp3]]He peeped ~ly into the drawer.
-<!--SR:!2025-11-02,3,250-->
+<!--SR:!2025-11-13,11,270-->
 -
 
 
@@ -869,7 +869,7 @@ inquisitor![[100. media/audio/8606.mp3]]![[100. media/audio/878.mp3]]:
 someone who is asking you a lot of difficult questions and making you feel very uncomfortable
 
 an official of the Inquisition 종교 재판관
-<!--SR:!2025-11-02,3,250-->
+<!--SR:!2025-11-11,7,250-->
 -
 
 
@@ -882,7 +882,7 @@ SYN enigmatic, cryptic, unfathomable, incomprehensible, impenetrable
 ![[100. media/audio/9531.mp3]]He stood silent and ~.
 ![[100. media/audio/8135.mp3]]His expression was ~, giving nothing away about his thoughts on the matter.
 ![[100. media/audio/9250.mp3]]Despite thorough analysis, the motives behind the ancient civilization’s rituals remain ~.
-<!--SR:!2025-11-02,3,250-->
+<!--SR:!2025-11-09,7,250-->
 -
 
 
@@ -919,7 +919,7 @@ SYN infuse, imbue, inject
 ![[100. media/audio/128.mp3]]A manager’s job is to ~ determination into his players.
 ![[100. media/audio/9466.mp3]]The teacher aimed to ~ a love of reading in her students by introducing a variety of interesting books.
 ![[100. media/audio/3374.mp3]]It's important to ~ good habits in children from a young age.
-<!--SR:!2025-11-02,3,250-->
+<!--SR:!2025-11-11,9,250-->
 -
 
 
@@ -934,7 +934,7 @@ needing serious thought in order to be understood
 ![[100. media/audio/3139.mp3]]an ~ film
 ![[100. media/audio/11747.mp3]]~ly stimulating
 ![[100. media/audio/1295.mp3]]a leading British ~
-<!--SR:!2025-11-02,3,250-->
+<!--SR:!2025-11-13,11,270-->
 -
 
 
@@ -948,7 +948,7 @@ in the ~
 in the period of time between two events SYN meanwhile
 
 ![[100. media/audio/11709.mp3]]The child will be adopted, but a relative is looking after him in the ~.
-<!--SR:!2025-11-02,3,250-->
+<!--SR:!2025-11-12,10,270-->
 -
 
 
@@ -960,7 +960,7 @@ insert pages, typically blank ones, between the pages of (a book).
 mix (two or more digital signals) by alternating between them.
 
 you can make your study time more valuable by ~ing, providing intelligent variety in your studies.
-<!--SR:!2025-11-02,3,250-->
+<!--SR:!2025-11-12,10,270-->
 -
 
 
@@ -968,7 +968,7 @@ interlocutor ![[100. media/audio/2062.mp3]] ![[100. media/audio/9909.mp3]] ![[10
 ?
 your ~ is the person you are speaking to
 ![[100. media/image/11574.jpg|200]]
-<!--SR:!2025-11-02,3,250-->
+<!--SR:!2025-11-14,12,270-->
 -
 
 
@@ -977,7 +977,7 @@ interpolate ![[100. media/audio/1967.mp3]] ![[100. media/audio/1765.mp3]] ![[100
 to put additional words into a piece of writing SYN insert
 ![[100. media/image/8073.png|200]]
 to interrupt someone by saying something, but less rude than interject and rather add something than interrupt
-<!--SR:!2025-11-02,3,250-->
+<!--SR:!2025-11-11,9,250-->
 -
 
 
@@ -989,7 +989,7 @@ to put yourself or something else between two other things
 
 to say something when other people are having a conversation or argument, interrupting them
 ![[100. media/audio/2584.mp3]]‘That might be difficult, ’ ~ed Regina
-<!--SR:!2025-11-02,3,250-->
+<!--SR:!2025-11-12,10,270-->
 -
 
 
@@ -1039,7 +1039,7 @@ if something, especially something bad, happens in the ~ of an event, it happens
 ![[100. media/audio/2543.mp3]]Famine followed in the ~ of the drought.
 ![[100. media/audio/4386.mp3]]The new safety regulations were introduced in the ~ of the tragic accident.
 ![[100. media/audio/3502.mp3]]In the ~ of the economic crisis, many businesses were forced to close.
-<!--SR:!2025-11-02,3,250-->
+<!--SR:!2025-11-10,8,250-->
 -
 
 
@@ -1068,7 +1068,7 @@ having a strong will and difficult to control
 ![[100. media/image/7606.png|200]]
 
 Etymology from "in-" meaning "not" and "tractare," which means "to handle."
-<!--SR:!2025-11-02,3,250-->
+<!--SR:!2025-11-11,9,250-->
 -
 
 
@@ -1077,11 +1077,11 @@ intricate ![[100. media/audio/9530.mp3]] ![[100. media/audio/4785.mp3]] ![[100. 
 ![[100. media/image/2454.jpg|200]]
 containing many small parts or details that all work or fit together → complex, elaborate![[100. media/audio/6266.mp3]]~ patterns
 ![[100. media/audio/3898.mp3]]~ly woven fabric
-<!--SR:!2025-11-02,3,250-->
+<!--SR:!2025-11-12,10,270-->
 -
 
 
-intr**i**gue ![[100. media/audio/5112.mp3]] ![[100. media/audio/2401.mp3]] ![[100. media/audio/3086.mp3]] ![[100. media/audio/4194.mp3]]
+intrigue ![[100. media/audio/5112.mp3]] ![[100. media/audio/2401.mp3]] ![[100. media/audio/3086.mp3]] ![[100. media/audio/4194.mp3]]
 ?
 formal to make secret plans to harm someone or make them lose their position of power
 ![[100. media/audio/10275.mp3]]While King Richard was abroad, the barons had been ~ing against him.
@@ -1095,7 +1095,7 @@ if something ~s you, it interests you a lot because it seems strange or mysteri
 ![[100. media/audio/1543.mp3]]![[100. media/audio/10071.mp3]]
 ![[100. media/audio/3007.mp3]]It’s an exciting story of political ~ and murder.  ![[100. media/audio/10402.mp3]]a web of ~ (=complicated set of secret plans)
 ![[100. media/audio/1481.mp3]]the political ~s of the capital
-<!--SR:!2025-11-02,3,250-->
+<!--SR:!2025-11-07,2,210-->
 -
 
 
@@ -1105,7 +1105,7 @@ something that is ~ is very interesting because it is strange, mysterious, or
 
 ![[100. media/audio/7476.mp3]]The magazine carries an ~ing mixture of high fashion, gossip and racing.
 an ~ question.
-<!--SR:!2025-11-02,3,250-->
+<!--SR:!2025-11-10,8,250-->
 -
 
 
@@ -1120,7 +1120,7 @@ being part of the nature or character of someone or something
 
 ![[100. media/audio/6272.mp3]]Science is seen as ~ally good.
  OPP extrinsic
-<!--SR:!2025-11-02,3,250-->
+<!--SR:!2025-11-13,11,270-->
 -
 
 
@@ -1140,7 +1140,7 @@ invalid ![[100. media/audio/12800.mp3]] ![[100. media/audio/3836.mp3]]
 someone who cannot look after themselves because of illness, old age, or injury
 
 ![[100. media/audio/8245.mp3]]I resented being treated as an ~.
-<!--SR:!2025-11-02,3,250-->
+<!--SR:!2025-11-12,10,270-->
 -
 
 
@@ -1168,7 +1168,7 @@ to make spirits appear by using magic  ---> summon
 Etymology
 
 The term "invoke" originates from the Latin word "invocare," where "in-" means "into" and "vocare" means "to call." In Latin, it initially meant to call on, summon, or call for.
-<!--SR:!2025-11-02,2,210-->
+<!--SR:!2025-11-08,6,230-->
 -
 
 
@@ -1195,7 +1195,7 @@ full of energy and enthusiasm; impossible to stop
 full of energy, confidence, and happiness so that you never seem unhappy
 ![[100. media/image/10812.jpg|200]]
 ![[100. media/audio/6060.mp3]]an ~ optimist
-<!--SR:!2025-11-02,2,210-->
+<!--SR:!2025-11-08,6,230-->
 -
 
 
@@ -1231,7 +1231,7 @@ SYN This does not mean, however, nonetheles
 ![[100. media/audio/7490.mp3]]I’m quite happy in my job but that’s not to ~ I’m going to do it for the rest of my life.
 ![[100. media/audio/5559.mp3]]I enjoy her company, but that's not to ~ we don't have our disagreements.
 ![[100. media/audio/1524.mp3]]The project was a success; it's not to ~, however, that we didn't face significant challenges along the way.
-<!--SR:!2025-11-02,3,250-->
+<!--SR:!2025-11-11,9,250-->
 -
 
 

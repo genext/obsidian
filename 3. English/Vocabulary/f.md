@@ -6,50 +6,6 @@ The company is ~ with resources.![[100. media/audio/2gOUHfrs.mp3]]
 <!--SR:!2025-11-07,12,279-->
 -
 
-fragrant ![[100. media/audio/5163.mp3]] ![[100. media/audio/5737.mp3]] ![[100. media/audio/8497.mp3]] ![[100. media/audio/7814.mp3]]
-?
-![[100. media/image/763.jpg|200]]
-![[100. media/audio/3454.mp3]]~ flowers
-<!--SR:!2025-11-04,14,290-->
--
-
-frolic ![[100. media/audio/12151.mp3]] ![[100. media/audio/9820.mp3]] ![[100. media/audio/2908.mp3]] ![[100. media/audio/2465.mp3]]
-?
-![[100. media/image/12706.jpg|200]]
-having a pleasant smell
-
-if people ~to a place, they go there in large numbers because something interesting or exciting is happening there  
-![[100. media/audio/10411.mp3]]People have been ~ing to the exhibition.  
-![[100. media/audio/6356.mp3]]Tourists ~ to see the town’s medieval churches and buildings.  
-<!--SR:!2025-11-05,14,290-->
--
-
-felicitous ![[100. media/audio/985.mp3]] ![[100. media/audio/10990.mp3]] ![[100. media/audio/8797.mp3]] ![[100. media/audio/1866.mp3]]
-?
-1. well-chosen and suitable OPP in~
-**Synonyms: apt, appropriate, suitable**
-![[100. media/image/9222.jpg|200]]
-![[100. media/audio/502.mp3]]a ~ choice of candidate
-
-2. Marked by good fortune; fortunate.
-**Synonyms:** fortunate, lucky, happy.
-
-![[100. media/audio/8974.mp3]]The couple's ~ union was celebrated by all their friends and family.
-![[100. media/audio/2590.mp3]]It was a ~ coincidence that brought them together at the right place and time.
-
-**Etymology:**Derived from the Latin word "felicitas," meaning "happiness," "luck," or "fruitfulness," which in turn is derived from "felix," meaning "happy" or "lucky." The suffix "-ous" in English is used to form adjectives meaning "full of" or "having the quality of."
-<!--SR:!2025-11-02,7,261-->
--
-
-fiat ![[100. media/audio/10935.mp3]] ![[100. media/audio/8791.mp3]] ![[100. media/audio/6035.mp3]] ![[100. media/audio/9295.mp3]]
-?
-![[100. media/image/9470.jpg|200]]
-an official order given by someone in a position of authority, without considering what other people want
-
-![[100. media/audio/10927.mp3]]The matter was settled by presidential fiat.
-<!--SR:!2025-11-03,8,259-->
--
-
 fibroid ![[100. media/audio/7146.mp3]] ![[100. media/audio/11496.mp3]]
 ?
 non-cancerous growths that develop in or around the womb (uterus). The growths are made up of muscle and fibrous tissue, and vary in size
@@ -308,23 +264,6 @@ feel sorry for yourself (=feel unhappy and pity yourself) ![[100. media/audio/72
 <!--SR:!2025-11-24,1,230-->
 -
 
-
-felicitous ![[100. media/audio/12605.mp3]] ![[100. media/audio/8792.mp3]] ![[100. media/audio/6930.mp3]] ![[100. media/audio/7384.mp3]]
-?
-1\. well-chosen and suitable OPP in~
-**Synonyms: apt, appropriate, suitable**
-![[100. media/image/4965.jpg|200]]
-![[100. media/audio/10122.mp3]]a ~ choice of candidate
-
-2. Marked by good fortune; fortunate.
-**Synonyms:** fortunate, lucky, happy.
-
-![[100. media/audio/5396.mp3]]The couple's ~ union was celebrated by all their friends and family.
-![[100. media/audio/12748.mp3]]It was a ~ coincidence that brought them together at the right place and time.
-
-**Etymology:**Derived from the Latin word "felicitas," meaning "happiness," "luck," or "fruitfulness," which in turn is derived from "felix," meaning "happy" or "lucky." The suffix "-ous" in English is used to form adjectives meaning "full of" or "having the quality of."
-<!--SR:!2025-11-24,1,230-->
--
 
 
 f**e**line ![[100. media/audio/6887.mp3]] ![[100. media/audio/1022.mp3]] ![[100. media/audio/4883.mp3]] ![[100. media/audio/7599.mp3]]
@@ -1390,8 +1329,27 @@ extremely surprised or shocked
 ![[100. media/image/8731.jpg|200]]
 
 ![[100. media/audio/10452.mp3]]When I heard how much money we’d made, I was ~ed.
-<!--SR:!2025-11-04,1,230-->
+<!--SR:!2025-12-27,3,250-->
 -
+
+
+felicitous ![[100. media/audio/12605.mp3]] ![[100. media/audio/8792.mp3]] ![[100. media/audio/6930.mp3]] ![[100. media/audio/7384.mp3]]
+?
+1\. well-chosen and suitable OPP in~
+**Synonyms: apt, appropriate, suitable**
+![[100. media/image/4965.jpg|200]]
+![[100. media/audio/10122.mp3]]a ~ choice of candidate
+
+2. Marked by good fortune; fortunate.
+**Synonyms:** fortunate, lucky, happy.
+
+![[100. media/audio/5396.mp3]]The couple's ~ union was celebrated by all their friends and family.
+![[100. media/audio/12748.mp3]]It was a ~ coincidence that brought them together at the right place and time.
+
+**Etymology:**Derived from the Latin word "felicitas," meaning "happiness," "luck," or "fruitfulness," which in turn is derived from "felix," meaning "happy" or "lucky." The suffix "-ous" in English is used to form adjectives meaning "full of" or "having the quality of."
+<!--SR:!2025-11-15,1,230-->
+-
+
 
 
 #Vocabulary

@@ -44,7 +44,7 @@ Moneywise, we need to cut back on expenses. ![[speech_20251030235547612.mp3]]
 Careerwise, this job is a great opportunity for me ![[speech_20251030235617022.mp3]]
 Timewise, we need to finish by 5 PM ![[speech_20251030235651463.mp3]]
 Healthwise, she's doing much better after the treatment ![[speech_20251030235720201.mp3]]
-<!--SR:!2025-11-03,3,250-->
+<!--SR:!2025-11-10,7,250-->
 -
 
 #phrase 
