@@ -1,12 +1,3 @@
-nook ![[100. media/audio/2174.mp3]] ![[100. media/audio/5309.mp3]]
-?
-literary a small quiet place which is sheltered by a rock, a big tree etc
-a small space in a corner of a room
-![[100. media/image/5519.jpg|200]]
-![[100. media/audio/12915.mp3]]a shady ~
-![[100. media/audio/9913.mp3]]the table in the breakfast ~
-<!--SR:!2025-11-06,16,290-->
--
 natal ![[100. media/audio/12788.mp3]] ![[100. media/audio/11785.mp3]]
 ?
 relating to birth
@@ -16,7 +7,7 @@ SYN native
 ![[100. media/audio/11501.mp3]]Green turtles return to their ~ island to breed.
 ![[100. media/audio/12695.mp3]]The ~ care unit in the hospital is equipped with advanced technologies to take care of newborn babies.
 ![[100. media/audio/2950.mp3]]During the ~ anniversary festival, the town celebrates the founding date of their community.
-<!--SR:!2025-11-07,1,230-->
+<!--SR:!2025-11-17,10,270-->
 -
 
 

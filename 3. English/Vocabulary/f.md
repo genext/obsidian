@@ -3,15 +3,9 @@ flush
 기존에 알던 물을 내리다, 붉어지다가 아닌 형용사로 쓰일 때는 풍부한
 I'm pretty ~ on EVA suits.![[100. media/audio/Pgqbh8on.mp3]]
 The company is ~ with resources.![[100. media/audio/2gOUHfrs.mp3]]
-<!--SR:!2025-11-07,12,279-->
+<!--SR:!2025-12-10,33,279-->
 -
 
-fibroid ![[100. media/audio/7146.mp3]] ![[100. media/audio/11496.mp3]]
-?
-non-cancerous growths that develop in or around the womb (uterus). The growths are made up of muscle and fibrous tissue, and vary in size
-![[100. media/image/5577.jpg|200]]
-<!--SR:!2025-11-07,11,279-->
--
 fac**i**litate ![[100. media/audio/11497.mp3]] ![[100. media/audio/10207.mp3]] ![[100. media/audio/7073.mp3]] ![[100. media/audio/4665.mp3]]
 ?
 to make it easier for a process or activity to happen

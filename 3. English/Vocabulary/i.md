@@ -24,21 +24,6 @@ Plutonium-238 is an incredibly unstable isotope![[100. media/audio/4cJkcdt0.mp3]
 <!--SR:!2025-11-07,16,290-->
 -
 
-impervious ![[100. media/audio/559.mp3]] ![[100. media/audio/8007.mp3]] ![[100. media/audio/1301.mp3]] ![[100. media/audio/11251.mp3]]
-?
-Unable to be affected by; not allowing fluid to pass through.
-![[100. media/image/1062.png|200]]
-**Synonyms:** resistant, impermeable, unaffected, insusceptible, immune
-
-![[100. media/audio/3102.mp3]]His ego was impervious to self-doubt.
-![[100. media/audio/11518.mp3]]impervious volcanic rock
-![[100. media/audio/10765.mp3]]materials that are impervious to water
-
-
-**Etymology:** originates from the Latin "impervius," meaning "not to be traversed." It is composed of "im-" (not) and "pervius" (passable), which comes from "per-" (through) and "via" (way, road).
-<!--SR:!2025-11-06,16,290-->
--
-
 impending ![[100. media/audio/4792.mp3]] ![[100. media/audio/5537.mp3]] ![[100. media/audio/6801.mp3]] ![[100. media/audio/3999.mp3]]
 ?
 an ~ event or situation, especially an unpleasant one, is going to happen very soon. Cf. foreboding
@@ -213,7 +198,7 @@ describes something that is flawless and without any errors or faults. It signif
 ![[100. media/audio/3551.mp3]]Her ~ sense of style always leaves an impression at social events.
 
 **Etymology:** is formed from 'in-', meaning 'not,' and 'peccare', meaning 'to sin.' This etymological background conveys a sense of being unable to do wrong or make mistakes, thus emphasizing faultlessness or perfection.
-<!--SR:!2025-11-06,5,230-->
+<!--SR:!2025-11-18,11,230-->
 -
 
 
@@ -340,7 +325,7 @@ formal to expect or ask someone to do something for you when this is not conv
 ![[100. media/image/11415.jpg|200]]
 to have a bad effect on something or someone and to cause problems for them
 ![[100. media/audio/5516.mp3]]Military spending ~s a huge strain on the economy.
-<!--SR:!2025-11-06,5,230-->
+<!--SR:!2025-11-22,15,250-->
 -
 
 
@@ -575,7 +560,7 @@ Absolutely necessary, essential, or requisite.
 
 
 **Etymology:** derived from medieval Latin "indispensabilis," which means 'not to be set aside.' It is composed of the prefix "in-" (meaning 'not') and "dispensabilis" (meaning 'able to be dispensed with').
-<!--SR:!2025-11-06,5,230-->
+<!--SR:!2025-11-22,15,250-->
 -
 
 
@@ -655,7 +640,7 @@ An ~ point signifies a key moment of change, but the specific nature of this cha
 ![[100. media/audio/498.mp3]]In the graph of the company's annual revenue, the introduction of the new product line represented an ~ point, after which profits increased dramatically.
 ![[100. media/audio/4691.mp3]]The mathematician explained that at an ~ point, the curvature of the function's graph changes from concave to convex.
 ![[100. media/audio/3410.mp3]]The global financial crisis of 2008 served as an ~ point for the banking industry, leading to significant regulatory changes and new business practices.
-<!--SR:!2025-11-06,4,210-->
+<!--SR:!2025-11-16,9,210-->
 -
 
 
@@ -668,7 +653,7 @@ To form the past tense of regular verbs in English, we typically ~ the base form
 
 In many languages, nouns are inflected to indicate number, case, and gender.(it means the form of the noun changes to reflect its role in the sentence, its number, or its gender. )
 The teacher explained how to inflect the verb correctly according to person and number in the sentence.
-<!--SR:!2025-11-06,5,230-->
+<!--SR:!2025-11-10,3,210-->
 -
 
 
@@ -734,7 +719,7 @@ if you ~ tea or **herbs**, or if they ~, you leave them in very hot water whil
 Etymology:
 
 The word "~" originates from the Latin "infundere," which means "to pour in." It's composed of "in-" (in) + "fundere" (to pour).
-<!--SR:!2025-11-06,5,230-->
+<!--SR:!2025-11-10,3,210-->
 -
 
 
@@ -744,7 +729,7 @@ an ~ plan, idea, or object works well and is the result of clever thinking an
 ![[100. media/audio/6759.mp3]]Many fish have ~ ways of protecting their eggs from predators.  ![[100. media/audio/10469.mp3]]an ~ device
 
 ~uity![[100. media/audio/8824.mp3]]![[100. media/audio/12221.mp3]]![[100. media/audio/3338.mp3]]![[100. media/audio/12074.mp3]]
-<!--SR:!2025-11-06,5,230-->
+<!--SR:!2025-11-18,11,230-->
 -
 
 
@@ -834,7 +819,7 @@ in the correct position
 ![[100. media/audio/1455.mp3]]The glass was held in ~ by a few pieces of sellotape.
 
 existing and ready to be used  ![[100. media/audio/5200.mp3]]Funding arrangements are already in ~.
-<!--SR:!2025-11-06,5,230-->
+<!--SR:!2025-11-18,11,230-->
 -
 
 
@@ -1005,7 +990,7 @@ to put something in between pieces of speech or writing, parts of a film etc
 
 disperse(흩어지게 하다:scatter, 퍼뜨리다)의 dis는 떨어져 있는 것을 의미. 뜻이 다름.
 참고 disseminate
-<!--SR:!2025-11-06,5,230-->
+<!--SR:!2025-11-18,11,230-->
 -
 
 
@@ -1027,7 +1012,7 @@ SYN just in time, at the last moment
 ![[100. media/audio/11585.mp3]]Luckily, help arrived in the ~ of time.
 ![[100. media/audio/2599.mp3]]The medication was administered in the ~ of time, saving the patient's life.
 ![[100. media/audio/113.mp3]]The fire department arrived in the ~ of time to put out the fire and save the house.
-<!--SR:!2025-11-06,5,230-->
+<!--SR:!2025-11-18,11,230-->
 -
 
 
@@ -1052,7 +1037,7 @@ SYN in this regard, with respect to this
 ![[100. media/audio/1747.mp3]]Binary computing seems to be like a classic suit in this ~.
 ![[100. media/audio/12166.mp3]]~, the novel is quite groundbreaking; it tackles social issues in a way that hasn't been done before.
 ![[100. media/audio/1799.mp3]]She was an excellent leader in many ways, but ~, she was unmatched: her ability to motivate her team.
-<!--SR:!2025-11-06,5,230-->
+<!--SR:!2025-11-18,11,230-->
 -
 
 
@@ -1095,7 +1080,7 @@ if something ~s you, it interests you a lot because it seems strange or mysteri
 ![[100. media/audio/1543.mp3]]![[100. media/audio/10071.mp3]]
 ![[100. media/audio/3007.mp3]]It’s an exciting story of political ~ and murder.  ![[100. media/audio/10402.mp3]]a web of ~ (=complicated set of secret plans)
 ![[100. media/audio/1481.mp3]]the political ~s of the capital
-<!--SR:!2025-11-07,2,210-->
+<!--SR:!2025-11-11,4,210-->
 -
 
 
@@ -1131,7 +1116,7 @@ to receive so much of something that you cannot easily deal with it all SYN sw
 ![[100. media/audio/10272.mp3]]After the broadcast, we were ~ed with requests for more information. Cf. deluged
 
 formal to cover an area with a large amount of water SYN flood  ![[100. media/audio/1551.mp3]]The tidal wave ~ed vast areas of cropland.
-<!--SR:!2025-11-06,5,230-->
+<!--SR:!2025-11-22,15,250-->
 -
 
 
@@ -1184,7 +1169,7 @@ to include or affect someone or something
 
 to ask or allow someone to take part in something
 ~ somebody in (doing) something  ![[100. media/audio/11081.mp3]]Try to ~ as many children as possible in the game.  ![[100. media/audio/4793.mp3]]We want to ~ the workforce at all stages of the decision-making process.
-<!--SR:!2025-11-06,5,230-->
+<!--SR:!2025-11-22,15,250-->
 -
 
 
@@ -1218,7 +1203,7 @@ used to say that something cannot be the explanation for a situation or someone
 ![[100. media/audio/6233.mp3]]It's not as if she had any other choice, given the circumstances.
 ![[100. media/audio/12691.mp3]]Why do they never go on holiday? I mean it’s not as if they’re poor, is it?
 ![[100. media/audio/3875.mp3]]I don’t know why you’re so frightened of her - it’s not as if she’s got any power over you.
-<!--SR:!2025-11-06,5,230-->
+<!--SR:!2025-11-18,11,230-->
 -
 
 

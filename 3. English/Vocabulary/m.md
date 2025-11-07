@@ -1,17 +1,3 @@
-mock ![[100. media/audio/2961.mp3]] ![[100. media/audio/6733.mp3]] ![[100. media/audio/98.mp3]] ![[100. media/audio/5517.mp3]]
-?
-formal to laugh at someone or something and try to make them look stupid by saying unkind things about them or by copying them SYN make fun of
-![[100. media/image/12329.jpg|200]]
-![[100. media/audio/1731.mp3]]Opposition MPs mocked the government’s decision.
-![[100. media/audio/7613.mp3]]It’s easy for you to mock, but we put a lot of work into this play.
- ****used to show that an attitude or feeling is pretended, not real
-![[100. media/audio/10236.mp3]]a mock-serious expression  ![[100. media/audio/10634.mp3]]His frown was mock-severe.
-
-copying a particular style, especially a style of building
-![[100. media/audio/8751.mp3]]a mock-Tudor house
-<!--SR:!2025-11-06,16,290-->
--
-
 malleable ![[100. media/audio/9549.mp3]] ![[100. media/audio/6705.mp3]] ![[100. media/audio/7634.mp3]] ![[100. media/audio/1798.mp3]]
 ?
 technical something that is ~ is easy to press or pull into a new shape
@@ -46,7 +32,7 @@ the power given to one country to govern another country
 The government issued a mask mandate during the pandemic.![[100. media/audio/YwQDMGiG.mp3]]![[100. media/audio/ZRRNWC2Z.mp3]]
 
 The election results gave her a clear mandate to reform healthcare.![[100. media/audio/5EDaMDFL.mp3]]![[100. media/audio/VaIEEVv8.mp3]]
-<!--SR:!2025-11-07,7,250-->
+<!--SR:!2025-12-02,25,270-->
 -
 
 masquerade ![[100. media/audio/Y1MvtIxF.mp3]]![[100. media/audio/gD1Hrehj.mp3]]
@@ -58,7 +44,7 @@ to pretend to be something or someone different
 A number of police officers masqueraded as demonstrators.
 He was masquerading under a false name
 She kept up the masquerade for years as if she loved him.
-<!--SR:!2025-11-07,6,230-->
+<!--SR:!2025-11-27,20,250-->
 -
 
 mayhem ![[100. media/audio/XsZiE3m3.mp3]]![[100. media/audio/1ZZBHKtz.mp3]]
@@ -67,7 +53,7 @@ an extremely confused situation in which people are very frightened or excited S
 대혼란
 
 When the fire alarm went off during the school assembly, there was complete mayhem as hundreds of students rushed toward the exits at the same time.![[100. media/audio/aEeMJy0e.mp3]]![[100. media/audio/pdlqtVqd.mp3]]
-<!--SR:!2025-11-07,7,250-->
+<!--SR:!2025-12-01,24,270-->
 -
 m**a**cerate ![[100. media/audio/3992.mp3]] ![[100. media/audio/7766.mp3]] ![[100. media/audio/6564.mp3]] ![[100. media/audio/9516.mp3]]
 ?
@@ -86,7 +72,7 @@ The word "~" is a verb that has a few related meanings, but most commonly, it is
 
 **Etymology**:
 The word "macerate" comes from the Latin "macerare," which means "to soften, soak, steep."
-<!--SR:!2025-11-06,1,230-->
+<!--SR:!2025-11-10,3,250-->
 -
 
 
@@ -943,7 +929,7 @@ to do everything possible, make a supreme effort, or take extraordinary measures
 ![[100. media/audio/7160.mp3]]I would move ~ and ~ to help her.
 ![[100. media/audio/10108.mp3]]To fulfill his child's birthday wish, he moved ~ and ~ to find the rare toy she wanted.
 ![[100. media/audio/2071.mp3]]The rescue team moved ~ and ~ to find the missing hikers in the mountain.
-<!--SR:!2025-11-07,1,230-->
+<!--SR:!2025-11-17,10,270-->
 -
 
 

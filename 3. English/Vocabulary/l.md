@@ -1,12 +1,3 @@
-laborious ![[100. media/audio/4218.mp3]] ![[100. media/audio/3071.mp3]] ![[100. media/audio/3563.mp3]] ![[100. media/audio/7462.mp3]]
-?
-taking a lot of time and effort
-![[100. media/image/3059.jpg|200]]
-![[100. media/audio/8635.mp3]]Collecting the raw materials proved a long and laborious task.  ![[100. media/audio/6373.mp3]]the laborious business of drying the crops
-![[100. media/audio/2618.mp3]]A beetle began to crawl laboriously up his leg.
-<!--SR:!2026-04-05,15,290-->
--
-
 lesion ![[100. media/audio/ryrTc6Acv1.mp3]] ![[100. media/audio/vfgpmKLCd8.mp3]]
 ?
 ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fgenext%2F837ti6h14S.png?alt=media&token=f47f517f-1048-40fb-a46a-7347f86ae236)
@@ -16,18 +7,6 @@ lesion ![[100. media/audio/ryrTc6Acv1.mp3]] ![[100. media/audio/vfgpmKLCd8.mp3]]
 
   Skin lesions can be caused by infections or injuries ![[100. media/audio/W-qbzyWlEZ.mp3]] ![[100. media/audio/4FpShwB8HF.mp3]]
 <!--SR:!2025-11-16,21,250-->
--
-
-
-luminary ![[100. media/audio/1907.mp3]] ![[100. media/audio/4392.mp3]] ![[100. media/audio/6125.mp3]] ![[100. media/audio/7911.mp3]]
-?
-someone who is very famous or highly respected for their skill at doing something or their knowledge of a particular subject
-![[100. media/image/2052.jpg|200]]
-![[100. media/audio/5033.mp3]]~ies of Parisian society
-![[100. media/audio/11289.mp3]]The conference was attended by several ~ies in the field of artificial intelligence.
-![[100. media/audio/10338.mp3]]The moon is the brightest ~ in the night sky.
-![[100. media/audio/7606.mp3]]Ancient people navigated by the ~ies of the sky, the sun, moon, and stars.
-<!--SR:!2025-11-06,16,290-->
 -
 
 latent ![[4F7154E4066CD30251.mp3]] ![[4F712EE90432C602E3.mp3]]
@@ -47,7 +26,7 @@ the hard boring job that has to be done in order to achieve something. 탐방, �
 
 The legwork needed to build this bespoke tooling to be able to pull this project off was too much.
 ![[speech_20251029070143056.mp3]] ![[speech_20251029070234310.mp3]]
-<!--SR:!2025-11-06,5,238-->
+<!--SR:!2025-11-25,18,258-->
 -
 
 laborious ![[100. media/audio/7542.mp3]] ![[100. media/audio/11880.mp3]] ![[100. media/audio/2488.mp3]] ![[100. media/audio/7019.mp3]]
@@ -58,7 +37,7 @@ taking a lot of time and effort
 ![[100. media/audio/2269.mp3]]Collecting the raw materials proved a long and laborious task.  ![[100. media/audio/11166.mp3]]the laborious business of drying the crops
 
 ![[100. media/audio/7887.mp3]]A beetle began to crawl laboriously up his leg.
-<!--SR:!2025-11-07,3,250-->
+<!--SR:!2026-04-17,10,270-->
 -
 
 
@@ -653,7 +632,7 @@ if a ship or aircraft ~s somewhere, it goes there slowly, because it has been 
 
 the way someone walks when they are limping
 ![[100. media/audio/7173.mp3]]Young walked with a slight ~.
-<!--SR:!2025-11-07,1,230-->
+<!--SR:!2025-11-08,1,210-->
 -
 
 

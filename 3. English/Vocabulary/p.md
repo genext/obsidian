@@ -16,55 +16,7 @@ to annoy someone, especially by asking them many times to do something → haras
 
 I can’t even walk down the street without being continually pestered for money.![[100. media/audio/6XwLsw3s.mp3]]
 These thoughts pester me throughout the long, boring days.![[100. media/audio/cl0NnLoV.mp3]]
-<!--SR:!2025-11-06,16,290-->
--
-
-puny ![[100. media/audio/10703.mp3]] ![[100. media/audio/898.mp3]] ![[100. media/audio/10294.mp3]]
-?
-SYN: scrawny, paltry, trifling
-
-![[100. media/audio/4989.mp3]]a ~ little guy
-![[100. media/audio/10245.mp3]]~ arms
-
-not effective or impressive
-![[100. media/audio/3299.mp3]]a ~ attempt at humour ![[100. media/audio/5108.mp3]]Our efforts look ~ beside Fred’s.
-<!--SR:!2025-11-13,17,305-->
--
-
-perpetual ![[100. media/audio/289.mp3]] ![[100. media/audio/5092.mp3]] ![[100. media/audio/1383.mp3]] ![[100. media/audio/10537.mp3]]
-?
-![[100. media/image/2012.jpg|200]]
-continuing all the time without changing or stopping
-![[100. media/audio/9596.mp3]]the ~ noise of the machines  ![[100. media/audio/12537.mp3]]a little girl with a ~ smile
-
-![[100. media/audio/12168.mp3]]my mother’s ~ nagging
-
-permanent
-![[100. media/audio/12295.mp3]]the ~ snows of the mountaintops
-<!--SR:!2025-11-06,16,290-->
--
-
-protagonist ![[100. media/audio/9929.mp3]] ![[100. media/audio/7583.mp3]] ![[100. media/audio/9828.mp3]] ![[100. media/audio/10873.mp3]]
-?
-the most important character in a play, film, or story SYN main character
-
-![[100. media/image/534.jpg|200]]
-
-one of the most important supporters of a social or political idea
-![[100. media/audio/12456.mp3]]a ~ of educational reform
-<!--SR:!2025-11-06,16,290-->
--
-
-puberty ![[100. media/audio/4045.mp3]] ![[100. media/audio/11878.mp3]] ![[100. media/audio/10499.mp3]] ![[100. media/audio/12159.mp3]]
-?
-the stage of physical development during which you change from a child to an adult and are able to have children  ![[100. media/image/1931.jpg|200]]
-
-![[100. media/audio/8339.mp3]]Fourteen is a fairly normal age for a girl to reach ~.
-![[100. media/audio/6603.mp3]]Her parents noticed her becoming more independent as she entered ~.
-![[100. media/audio/9598.mp3]]During ~, many teenagers experience significant physical and emotional changes.
-
-**Etymology:** originates from the Latin word "pubertas," which means "adult" or "manhood." This Latin term is derived from "pubes," meaning "grown up, sexually mature."
-<!--SR:!2025-11-07,12,286-->
+<!--SR:!2025-12-23,46,290-->
 -
 
 palpable ![[100. media/audio/lGfGcghQ.mp3]]![[100. media/audio/9yuFPBrU.mp3]]
@@ -91,7 +43,7 @@ Someone's been pilfering snacks from the break room
 
 My brother keeps pilfering my favorite pens from my desk when I'm not looking.
 ![[100. media/audio/tsgCdiKF.mp3]]![[100. media/audio/D9GgdaJH.mp3]]
-<!--SR:!2025-11-07,6,230-->
+<!--SR:!2025-11-27,20,250-->
 -
 
 predicate ![[100. media/audio/rkZdmMWT.mp3]]![[100. media/audio/g6AQuHJf.mp3]]
@@ -102,7 +54,7 @@ predicate ![[100. media/audio/rkZdmMWT.mp3]]![[100. media/audio/g6AQuHJf.mp3]]
 Most religions predicate life after death.![[100. media/audio/3fLO6D9V.mp3]]![[100. media/audio/wIPGSKUn.mp3]]
 
 In each sentence, the subject is who or what the sentence is about, and the predicate is everything that tells us something about the subject![[100. media/audio/R4wtMaw8.mp3]]![[100. media/audio/rXEuSUeh.mp3]]
-<!--SR:!2025-11-07,6,230-->
+<!--SR:!2025-11-22,15,230-->
 -
 
 puke ![[100. media/audio/kfDEtTgw.mp3]]![[100. media/audio/M4Cc4pJU.mp3]]
@@ -112,7 +64,7 @@ puke ![[100. media/audio/kfDEtTgw.mp3]]![[100. media/audio/M4Cc4pJU.mp3]]
 to bring food back up from your stomach through your mouth
 
 I dumped my big container o' shit onto the soil and nearly ~ed from the smell. ![[100. media/audio/cMBA9BH9.mp3]]
-<!--SR:!2025-11-06,3,250-->
+<!--SR:!2025-11-17,10,270-->
 -
 proverbial ![[4F713B940573160259.mp3]] ![[4F71154B0674E500DA.mp3]]
 ?

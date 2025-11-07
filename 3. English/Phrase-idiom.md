@@ -36,7 +36,7 @@ Theory in action 이론의 실제 적용/실제로 적용된 이론
 ![[100. media/audio/pqiJYL4b.mp3]]
 Learning in action 체험학습
 ![[100. media/audio/g0ldSjmj.mp3]]
-<!--SR:!2025-11-07,10,230-->
+<!--SR:!2025-11-29,22,230-->
 -
 
 사람들은 처음부터 계획대로 되는 일이 없다고 말한다
@@ -155,7 +155,7 @@ stand[turn] ... on its head
 뒤엎다, 뒤집다, 정반대 결과를 보이다
 The researchers also discovered that the contraceptive Pill, which hormonally emulates a perpetual state of pregnancy and thereby renders the woman temporarily infertile, turned **these results on their head.**
 ![[100. media/audio/5PaquGcZxC.mp3]] ![[100. media/audio/_t3EUQaMb9.mp3]]
-<!--SR:!2025-11-07,10,230-->
+<!--SR:!2025-12-01,24,230-->
 -
 
 come off
@@ -310,14 +310,14 @@ Her experience gives her an edge on other candidates.
 
 If you fully delegate everything that you’re doing to a machine, then the person who doesn’t do that has an edge on you.
 ![[speech_20251022063105879.mp3]] ![[speech_20251022063138417.mp3]]
-<!--SR:!2025-11-07,4,230-->
+<!--SR:!2025-11-16,9,230-->
 -
 
 belt out a song
 ?
 When someone "belts out a song," they're singing it in a powerful, forceful way—often at the top of their lungs, used to describe singing that's bold and uninhibited.
 ![[speech_20251022075550546.mp3]] ![[speech_20251022075648569.mp3]]
-<!--SR:!2025-11-07,4,230-->
+<!--SR:!2025-11-17,10,230-->
 -
 
 - “Life happens wherever you are, whether you make it or not.” We need more cartoon charactes like Iroh. If only for his character, “Avatar: The Last Airbender” is worth watching and rewatching.

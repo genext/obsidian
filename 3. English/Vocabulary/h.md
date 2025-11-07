@@ -22,19 +22,6 @@ to have an opinion, perspective, or interpretation about something. The word "ta
 <!--SR:!2025-11-14,13,230-->
 -
 
-hot-headed ![[100. media/audio/5576.mp3]] ![[100. media/audio/10678.mp3]]
-?
-![[100. media/image/3984.jpg|200]]
-having an impetuous or quick-tempered nature.
-
-doing things or reacting to things quickly and without thinking carefully first:
-
-SYN fiery, impulsive, irritable
-
-![[100. media/audio/9822.mp3]]His ~-~ decision to quit his job without another one lined up was a big mistake.
-![[100. media/audio/6841.mp3]]Be careful when talking politics with him; he can be quite ~-~.
-<!--SR:!2025-11-07,12,274-->
--
 habitat ![[100. media/audio/9787.mp3]] ![[100. media/audio/4974.mp3]] ![[100. media/audio/4108.mp3]] ![[100. media/audio/8064.mp3]]
 ?
 ![[100. media/image/4114.jpg|200]]

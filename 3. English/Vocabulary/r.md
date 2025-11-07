@@ -9,11 +9,13 @@ Can you explain the rationale behind your decision?
 
 ravage ![[4F713C5B057C1A0150.mp3]]  ![[4F71160F011B080104.mp3]]
 ?
+to damage something very badly
+
 Having brain tissue that was riddled with the ravages of Alzheimer's disease, didn’t necessarily mean cognitive problems.
 ![[speech_20251020171908147.mp3]] ![[speech_20251020171908147 1.mp3]]
 
 the ravages 파괴된 자리, 참화
-<!--SR:!2025-11-06,3,214-->
+<!--SR:!2025-11-13,6,214-->
 -
 
 refute ![[100. media/audio/E4PaidWQ.mp3]] ![[100. media/audio/7hhkfh26.mp3]]
@@ -46,7 +48,7 @@ MCP Clients may provide options to redact sensitive information.
 
 ![[100. media/audio/QaY4Z7j0.mp3]]![[100. media/audio/RAFFLFHk.mp3]]
 There were complaints about the redaction of details of MPs’ expenses claims.
-<!--SR:!2025-11-07,7,250-->
+<!--SR:!2025-12-01,24,270-->
 -
 
 #Vocabulary

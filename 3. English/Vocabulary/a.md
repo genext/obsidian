@@ -19,31 +19,6 @@ The district chairman was fully apprised of all the details.![[100. media/audio/
 <!--SR:!2025-11-22,19,261-->
 -
 
-abbreviation ![[100. media/audio/2852.mp3]] ![[100. media/audio/2394.mp3]] ![[100. media/audio/12895.mp3]] ![[100. media/audio/9250.mp3]]
-?
-a short form of a word or expression
-![[100. media/audio/12608.mp3]]‘Dr’ is the written ~ of ‘Doctor’
-<!--SR:!2025-11-06,16,290-->
--
-
-aloof ![[100. media/audio/1064.mp3]] ![[100. media/audio/12732.mp3]] ![[100. media/audio/1507.mp3]] ![[100. media/audio/9952.mp3]]
-?
-![[100. media/image/8738.jpg|200]]
-unfriendly and deliberately not talking to other people
-![[100. media/audio/9151.mp3]]They worked hard, but tended to stay ~ from the local inhabitants.
-
-![[100. media/audio/3732.mp3]]
-She had always kept herself ~ from the boys in class.  
-
-![[100. media/audio/2109.mp3]]
-Beneath that ~ exterior, Gayle is a warm, sympathetic person
-
-deliberately not becoming involved in something
-![[100. media/audio/12868.mp3]]Initially, the President remained ~ from the campaign.
-![[100. media/audio/4097.mp3]]The doctor held himself somewhat ~ from the rest of the ship’s crew.
-<!--SR:!2025-11-06,16,290-->
--
-
 amiable ![[100. media/audio/7259.mp3]] ![[100. media/audio/5829.mp3]] ![[100. media/audio/2875.mp3]] ![[100. media/audio/7609.mp3]]
 ?
 friendly and easy to like

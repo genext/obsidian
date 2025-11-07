@@ -35,21 +35,6 @@ emergent ![[100. media/audio/QqVdt3nX9b.mp3]] ![[100. media/audio/uKcmUVCXnA.mp3
 -
 
 
-encumbrance ![[100. media/audio/7731.mp3]] ![[100. media/audio/8036.mp3]]
-?
-something such as a mortgage, lease, or charge on property, that may cause difficulties when the property is passed on to someone else
-
-refers to a burden, impediment, or hindrance. In a legal or financial context, it specifically denotes a claim or liability attached to a property, such as a mortgage or lien. It can also broadly mean anything that makes progress or movement difficult.
-![[100. media/image/11493.png|200]]
-![[100. media/image/12906.jpg|200]]
-
-**Synonyms:** burden, hindrance, impediment, obstacle, lien, charge.
-![[100. media/audio/10917.mp3]]Before purchasing the property, they checked for any legal ~s, such as unpaid taxes or easements.
-![[100. media/audio/4198.mp3]]His lack of experience in the field was an ~ in finding the job he wanted.
-![[100. media/audio/12607.mp3]]The heavy debt was an ~ that prevented the company from investing in new projects.
-<!--SR:!2025-11-06,16,290-->
--
-
 ethno-, ethnic ![[100. media/audio/KBbhpyCp2-.mp3]] ![[100. media/audio/m9yssioBNg.mp3]]
 ?
   인종, 민족
@@ -57,21 +42,6 @@ ethno-, ethnic ![[100. media/audio/KBbhpyCp2-.mp3]] ![[100. media/audio/m9yssioB
   ![[100. media/audio/MsJ7v8qFIX.mp3]] ![[100. media/audio/NW8Vf-swtx.mp3]]
 <!--SR:!2025-11-19,23,250-->
 -
-
-endeavour ![[100. media/audio/5358.mp3]] ![[100. media/audio/3862.mp3]] ![[100. media/audio/3501.mp3]]
-?
-formal to try very hard
-![[100. media/image/4257.jpg|200]]
-
-![[100. media/audio/8062.mp3]]We always ~ to please our customers.
-
-formal an [attempt](https://www.ldoceonline.com/dictionary/attempt) to do something new or difficult
-![[100. media/audio/11516.mp3]]an outstanding example of human ~
-![[100. media/audio/11542.mp3]]They made every ~ to find the two boys.
-![[100. media/audio/11400.mp3]]Despite our best ~, we couldn’t start the car.
-<!--SR:!2025-11-07,12,275-->
--
-
 
 edgewise ![[100. media/audio/aJmXLfv9.mp3]] ![[100. media/audio/8FgQKQ4Q.mp3]]
 edgeways ![[100. media/audio/pQuXa4Vo.mp3]] ![[100. media/audio/7GSCEmBk.mp3]]
@@ -84,7 +54,7 @@ The gabby salesman wouldn't let us get a word in edgewise.![[100. media/audio/Pk
 
 get a word in edgeways
 The gabby salesman wouldn't let us get a word in edgeways![[100. media/audio/7mCFPdsw.mp3]].
-<!--SR:!2025-11-07,7,250-->
+<!--SR:!2025-11-26,19,250-->
 -
 
 elate ![[100. media/audio/kmQQUhQ3.mp3]] ![[100. media/audio/tvjZxNkV.mp3]]
@@ -92,7 +62,7 @@ elate ![[100. media/audio/kmQQUhQ3.mp3]] ![[100. media/audio/tvjZxNkV.mp3]]
 ![[100. media/image/nL8QEAJI.png|200]]
 
 I was elated!![[100. media/audio/01N2shTW.mp3]]
-<!--SR:!2025-11-07,7,250-->
+<!--SR:!2025-12-03,26,270-->
 -
 
 elicit ![[100. media/audio/p7OnA7cQ.mp3]] ![[100. media/audio/074q5Wob.mp3]]
@@ -105,7 +75,7 @@ When her knock elicited no response, she opened the door and peeped in.
 
 ![[100. media/audio/tIGytpaQ.mp3]]![[100. media/audio/9E1z14li.mp3]]
 The test uses pictures to elicit words from the child.
-<!--SR:!2025-11-07,7,250-->
+<!--SR:!2025-11-26,19,250-->
 -
 
 eulogy ![[100. media/audio/Fwr9a9Wi.mp3]] ![[100. media/audio/TNcGgZOz.mp3]]
@@ -2034,7 +2004,7 @@ NORTH AMERICAN a district outside a city, especially a prosperous area beyond 
 ![[100. media/audio/10057.mp3]]I still see her every now and then.
 
 ### every once in a while\[way\]
-<!--SR:!2025-11-07,3,250-->
+<!--SR:!2025-11-16,9,250-->
 -
 
 

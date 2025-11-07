@@ -26,7 +26,7 @@ a pattern, situation, or scene that is always changing and has many details o
 ![[100. media/audio/3979.mp3]]a kaleidoscope of cultures
 
 a tube with mirrors and pieces of coloured glass at one end, which shows coloured patterns when you turn it.
-<!--SR:!2025-11-07,3,230-->
+<!--SR:!2025-11-14,7,230-->
 -
 
 
@@ -36,7 +36,7 @@ if you ~ a fire, or if it ~s, it starts to burn
 ![[100. media/image/2918.jpg|200]]
 to make someone feel interested, excited, hopeful etc
 ![[100. media/audio/6241.mp3]]A love of poetry was kindled in him by his mother.
-<!--SR:!2025-11-06,3,250-->
+<!--SR:!2025-11-17,10,270-->
 -
 
 
@@ -47,7 +47,7 @@ a ~ spirit: someone who thinks and feels the way you do
 
 formal belonging to the same group or family
 ![[100. media/audio/4431.mp3]]The protest included members of Free the Streets and ~ organisations.
-<!--SR:!2025-11-06,3,250-->
+<!--SR:!2025-11-17,10,270-->
 -
 
 
@@ -61,7 +61,7 @@ a strong connection between people → rapport~ between  ![[100. media/audio/80
 The sense of ~ between the two men is surprising.
 ![[speech_20251102232933009.mp3]]
 He felt a ~ with the only other American on the base.
-<!--SR:!2025-11-06,3,250-->
+<!--SR:!2025-11-16,9,250-->
 -
 
 
@@ -90,7 +90,7 @@ A skill or ability to do something easily and well; a clever or adr++o++it way o
 have a ~ of doing something
 British English to have a tendency to do something
 ![[100. media/audio/8571.mp3]]He has a knack of saying the wrong thing.
-<!--SR:!2025-11-06,3,250-->
+<!--SR:!2025-11-16,9,250-->
 -
 
 
@@ -99,7 +99,7 @@ kook ![[100. media/audio/8083.mp3]] ![[100. media/audio/10547.mp3]]
 American English informal
 someone who is silly or crazy
 ![[100. media/image/12139.jpg|200]]
-<!--SR:!2025-11-06,3,250-->
+<!--SR:!2025-11-17,10,270-->
 -
 
 

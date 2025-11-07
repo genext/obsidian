@@ -7,7 +7,7 @@ a short strong metal bar used especially by thieves to break open locked doors, 
 
 Making sure to jimmy the heater to stay on, I headed back to the Hab.
 ![[100. media/audio/ulyIMzzk.mp3]]![[100. media/audio/N5WdESTG.mp3]]
-<!--SR:!2025-11-07,7,250-->
+<!--SR:!2025-11-26,19,250-->
 -
 jade ![[100. media/audio/11029.mp3]] ![[100. media/audio/2817.mp3]] ![[100. media/audio/6512.mp3]] ![[100. media/audio/7641.mp3]]
 ?
@@ -95,7 +95,7 @@ juggernaut ![[100. media/audio/11821.mp3]] ![[100. media/audio/6846.mp3]] ![[100
 a very large vehicle that carries goods over long distances SYN semi American English
 a very powerful force, organization etc whose effect or influence cannot be stopped
 ![[100. media/audio/4401.mp3]]the ~ of industrialization
-<!--SR:!2025-11-06,3,230-->
+<!--SR:!2025-11-09,2,210-->
 -
 
 

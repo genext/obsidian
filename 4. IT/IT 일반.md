@@ -8,7 +8,7 @@ updated: 2025-10-04 13:04:24
 - **core: M x N 관계를 1 x N 관계로 decoupling**
 - a standardized protocol that defines how development tools communicate with language servers.
 - Most modern editors (VS Code, Neovim, Emacs, ...) already have LSP support
-<!--SR:!2025-11-06,19,250-->
+<!--SR:!2025-12-23,46,250-->
 -
   
 ## frontend css framework
@@ -68,7 +68,7 @@ class House {
 }
 ```
 또는 이식이나 재사용이 불가능하고 아주 종속적인 것만 inner class로 구현하기도 함.
-<!--SR:!2025-11-06,6,210-->
+<!--SR:!2025-11-21,14,210-->
 -
 
 ## sentinel value
@@ -110,7 +110,7 @@ class House {
 	CPU 2: 3.5 × 12 = 42.0 GHz-threads
 	Difference: 75.2 ÷ 42.0 = **1.79x faster (79% faster)**
 * 거기에 RAM, SSD까지 성능 고려..
-<!--SR:!2025-11-07,20,250-->
+<!--SR:!2025-12-27,50,250-->
 - 
 
 #it일반

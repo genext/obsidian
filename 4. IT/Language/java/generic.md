@@ -85,7 +85,7 @@ class Apple implements Eatable {
 ```java
 class Box<T extends Number & Eatable> {...}
 ```
-<!--SR:!2025-11-06,3,210-->
+<!--SR:!2025-11-09,2,190-->
 -
 
 ## generic 메소드 정의
@@ -125,7 +125,7 @@ class SteelBox<T> extends Box<T> {...}
 ```
 - 생각할 것
 	- 상속 관계 덕분에 Box\<T> 타입 참조변수에  SteelBox\<T> 인스턴스 저장 가능.
-<!--SR:!2025-11-06,3,210-->
+<!--SR:!2025-11-13,6,210-->
 -
 
 ## wild card 기반 메소드 정의
@@ -136,7 +136,7 @@ public static <T> void peekBox(<Box<T> box) {...}
 
 public static void peekBox(<Box<?> box) {...}
 ```
-<!--SR:!2025-11-06,3,210-->
+<!--SR:!2025-11-13,6,210-->
 -
 
 ## 상한 제한(Upper-Bounded) wildcard
@@ -238,7 +238,7 @@ inBox만 오버로딩된다고 해결되는 것이 아니기 때문에 다음과
 public static <T> void outBox(Box<? extends T> box) {...}
 public static <T> void inBox(Box<? super T> box, T n) {...}
 ```
-<!--SR:!2025-11-06,3,210-->
+<!--SR:!2025-11-13,6,210-->
 -
 
 ## generic 인터페이스
@@ -256,7 +256,7 @@ class Box<T> implements Getable<T> {
 	}
 }
 ```
-<!--SR:!2025-11-07,2,190-->
+<!--SR:!2025-11-11,4,190-->
 -
 
 #java

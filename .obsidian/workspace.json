@@ -24,33 +24,33 @@
             }
           },
           {
-            "id": "ee90441303797b53",
+            "id": "6734fa6132e10320",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. 일일 기록/2025-11-05.md",
+                "file": "1. 일일 기록/2025-11-07.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "2025-11-05"
+              "title": "2025-11-07"
             }
           },
           {
-            "id": "7bbb4e88a7315369",
+            "id": "534981e55925cbcb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. English/Vocabulary/m.md",
+                "file": "3. English/Vocabulary/l.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "m"
+              "title": "l"
             }
           }
         ],
@@ -86,7 +86,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "laborious",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -107,7 +107,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -229,14 +230,25 @@
       "zk-prefixer:새 고유 노트 생성": false
     }
   },
-  "active": "7bbb4e88a7315369",
+  "active": "534981e55925cbcb",
   "lastOpenFiles": [
-    "100. media/image/1071.jpeg",
-    "3. English/Vocabulary/l.md",
-    "3. English/Vocabulary/a.md",
-    "3. English/Vocabulary/r.md",
-    "3. English/Vocabulary/o.md",
+    "3. English/Vocabulary/i.md",
     "3. English/Vocabulary/f.md",
+    "3. English/Vocabulary/l.md",
+    "3. English/Vocabulary/m.md",
+    "3. English/Vocabulary/o.md",
+    "3. English/Vocabulary/e.md",
+    "3. English/Vocabulary/p.md",
+    "3. English/Vocabulary/g.md",
+    "3. English/Vocabulary/a.md",
+    "3. English/Vocabulary/h.md",
+    "1. 일일 기록/2025-11-07.md",
+    "할 일 목록.md",
+    "1. 일일 기록/2025-11-05.md",
+    "3. English/Vocabulary/n.md",
+    "1. 일일 기록/2025-11-06.md",
+    "100. media/image/1071.jpeg",
+    "3. English/Vocabulary/r.md",
     "3. English/Vocabulary/c.md",
     "4. IT/Tavily.md",
     "4. IT/Language/python/streaming retrieval 분석.md",
@@ -246,7 +258,6 @@
     "1. 일일 기록/March 23rd, 2024.md",
     "1. 일일 기록/December 9th, 2023.md",
     "1. 일일 기록/2025-10-30.md",
-    "1. 일일 기록/2025-11-05.md",
     "4. IT/Agentic AI.md",
     "100. media/Pasted image 20251105105714.png",
     "100. media/Pasted image 20251105104845.png",
@@ -257,16 +268,6 @@
     "100. media/Pasted image 20251105094050.png",
     "100. media/Pasted image 20251105093917.png",
     "100. media/Pasted image 20251105092235.png",
-    "100. media/Pasted image 20251105090325.png",
-    "10. 일반 기록/아이 교육.md",
-    "3. English/Vocabulary/s.md",
-    "3. English/Vocabulary/t.md",
-    "3. English/Vocabulary/d.md",
-    "3. English/Vocabulary/b.md",
-    "3. English/Vocabulary/h.md",
-    "3. English/Vocabulary/k.md",
-    "3. English/Vocabulary/g.md",
-    "1. 일일 기록/2025-11-04.md",
     "100. media/speech_20251103005605120.mp3",
     "100. media/speech_20251102232933009.mp3",
     "3. English/Vocabulary/k.md.backup.20251101_192536",

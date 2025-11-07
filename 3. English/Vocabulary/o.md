@@ -1,12 +1,3 @@
-overt ![[100. media/audio/10797.mp3]] ![[100. media/audio/463.mp3]] ![[100. media/audio/2216.mp3]] ![[100. media/audio/8508.mp3]]
-?
-~ actions are done publicly, without trying to hide anything
-![[100. media/audio/11939.mp3]]an ~ly political message
-
-OPP covert
-<!--SR:!2025-11-06,16,290-->
--
-
 olfactory ![[100. media/audio/9aP7d6OQNQ.mp3]] ![[100. media/audio/wGDwgVWmZb.mp3]]
 ?
   connected with the sense of smell, 후각의
@@ -831,7 +822,6 @@ if something bad, especially a feeling, ~s you, it happens to you suddenly and h
 <!--SR:!2025-12-29,1,230-->
 -
 
-
 overt ![[100. media/audio/3657.mp3]] ![[100. media/audio/12051.mp3]] ![[100. media/audio/8053.mp3]] ![[100. media/audio/6194.mp3]]
 ?
 ~ actions are done publicly, without trying to hide anything
@@ -841,7 +831,7 @@ overt ![[100. media/audio/3657.mp3]] ![[100. media/audio/12051.mp3]] ![[100. med
 ![[100. media/audio/10973.mp3]]an ~ly political message
 
 OPP covert
-<!--SR:!2025-11-24,1,230-->
+<!--SR:!2025-12-24,20,230-->
 -
 
 

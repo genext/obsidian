@@ -38,7 +38,7 @@ to continue doing something after stopping ****
 to continue doing something, especially work
 
 ![[100. media/audio/9335.mp3]]I suppose I could get ~ with doing my expenses while I wait for the computer system to restart.
-<!--SR:!2025-11-06,2,190-->
+<!--SR:!2025-11-11,4,190-->
 -
 
 
@@ -48,7 +48,7 @@ go native
 
 Austen has been living in New Guinea so long he’s gone native.
 ![[speech_20251031005704557.mp3]] ![[speech_20251031005737515.mp3]]
-<!--SR:!2025-11-07,3,250-->
+<!--SR:!2025-12-15,38,290-->
 -
 
 
@@ -84,7 +84,7 @@ SYN equipped, designed, fitted, adapted
 ~ investments, shares etc are bought with money that has been borrowed
 ![[100. media/audio/5218.mp3]]The term in this context implies that the investment is 'equipped' with leverage, similar to how ~s can increase the output force in a mechanical system.
 ![[100. media/image/2187.jpg|200]]
-<!--SR:!2025-11-07,5,230-->
+<!--SR:!2025-11-18,11,230-->
 -
 
 
@@ -176,7 +176,7 @@ gall ![[100. media/audio/3655.mp3]] ![[100. media/audio/2355.mp3]]
 ### Etymology
 
 stemming from the word "gealla," which referred to bile or bitterness. The use of "~" to mean irritation or vexation likely evolved from the association of bitterness with feelings of annoyance or resentment.
-<!--SR:!2025-11-07,5,230-->
+<!--SR:!2025-11-18,11,230-->
 -
 
 
@@ -199,7 +199,7 @@ to do no work when you are at your place of work or to stay away from your place
 
 Working from home, once considered an opportunity to ~, has become the norm in many industries.
 ![[speech_20251031004434766.mp3]] ![[speech_20251031004459671.mp3]]
-<!--SR:!2025-11-06,2,230-->
+<!--SR:!2025-11-12,5,230-->
 -
 
 
@@ -211,7 +211,7 @@ is an act or instance of giving something away, especially as a gift or prize. I
 ![[100. media/audio/11289.mp3]]She won a smartphone in an online social media ~.
 ![[100. media/audio/2965.mp3]]The company organized a ~ of its new product to attract potential customers.
 ![[100. media/audio/5391.mp3]]The radio station's ticket ~ for the concert caused an enthusiastic response from listeners.
-<!--SR:!2025-11-07,5,230-->
+<!--SR:!2025-11-18,11,230-->
 -
 
 
@@ -231,7 +231,7 @@ get on with
 
 get on with one's work
 get on well with a person
-<!--SR:!2025-11-07,5,230-->
+<!--SR:!2025-11-18,11,230-->
 -
 
 
@@ -250,7 +250,7 @@ dabbing his face with a corner of the ~  pillowcase he was wearing.
 
 ~ behavior or activity is morally unpleasant
 ![[100. media/audio/822.mp3]]the ~ details of his financial dealings
-<!--SR:!2025-11-07,3,250-->
+<!--SR:!2025-11-17,10,270-->
 -
 
 
@@ -368,7 +368,7 @@ if someone is ~, they feel unhappy and do not talk a lot SYN gloomy, morose
 ![[100. media/audio/2177.mp3]]After dinner, Kate lapsed into a ~ silence.
 
 ![[100. media/audio/3184.mp3]]She stared ~ly at her plate.
-<!--SR:!2025-11-07,5,230-->
+<!--SR:!2025-12-15,38,250-->
 -
 
 
@@ -427,7 +427,7 @@ gratification![[100. media/audio/6740.mp3]]![[100. media/audio/5324.mp3]]
 ![[100. media/audio/10087.mp3]]sexual gratification
 
 **Etymology:** comes from the Latin "gratificari," meaning 'to do a favor to,' 'oblige,' or 'please.' This word is composed of "gratus" (pleasing, thankful) and "-ficari," which is derived from "facere" (to make, do).
-<!--SR:!2025-11-07,5,230-->
+<!--SR:!2025-11-22,15,250-->
 -
 
 
@@ -453,7 +453,7 @@ said or done without a good reason, in a way that offends someone SYN unnecess
 
 as given freely(Free of charge)
 ![[100. media/audio/9193.mp3]]The software comes with a ~ trial period of 30 days.
-<!--SR:!2025-11-07,5,230-->
+<!--SR:!2025-11-10,3,210-->
 -
 
 
@@ -517,7 +517,7 @@ SYN Suspending judgment, Presumption of innocence
 ![[100. media/audio/3566.mp3]]In a close call situation, it's often best to give your colleague the ~ of the ~ and assume they had good intentions.
 ![[100. media/audio/4570.mp3]]Even though her story seemed improbable, I gave her the ~ of the ~ and believed what she said.
 ![[100. media/audio/3412.mp3]]I wasn't sure if his excuse was valid, but I chose to give him the ~ of the ~.
-<!--SR:!2025-11-07,5,230-->
+<!--SR:!2025-11-18,11,230-->
 -
 
 
@@ -552,7 +552,7 @@ a ~ tree or branch is rough and twisted with hard lumps SYN gnarled
 
 American English spoken a word meaning very good or excellent, used by young people  ![[100. media/audio/5249.mp3]]‘Look at the size of that wave.’ ‘Gnarly!’
 spoken a word meaning very bad, used by young people  ![[100. media/audio/10551.mp3]]a gnarly car wreck
-<!--SR:!2025-11-07,5,230-->
+<!--SR:!2025-11-18,11,230-->
 -
 
 
@@ -620,7 +620,7 @@ a food made of **oats cooked** in water or milk, which poor people ate in the 
 ![[100. media/audio/11864.mp3]]In many historical novels, characters living in poverty are often depicted eating ~ as a staple food.
 ![[100. media/audio/3610.mp3]]The book offered only ~ in terms of insights, providing little that was new or thought-provoking.
 ![[100. media/audio/10334.mp3]]The sick child was fed ~ because it was gentle on his stomach.
-<!--SR:!2025-11-06,1,190-->
+<!--SR:!2025-11-10,3,210-->
 -
 
 
@@ -647,7 +647,7 @@ looking or sounding very serious
 ![[100. media/audio/6976.mp3]]‘I’ll survive, ’ he said with a ~ smile.  ![[100. media/audio/12568.mp3]]The child hung on to her arm with ~ determination.  ![[100. media/audio/3558.mp3]]The police officers were silent and ~-faced.
 ![[100. media/image/8809.jpg|200]]
 ![[100. media/audio/4938.mp3]]Arnold smiled ~ly.
-<!--SR:!2025-11-07,5,230-->
+<!--SR:!2025-11-18,11,230-->
 -
 
 
@@ -726,12 +726,12 @@ gauntlet ![[100. media/audio/12769.mp3]] ![[100. media/audio/8048.mp3]] ![[100. 
 ![[100. media/image/3887.jpg|200]]
  a glove covered in metal, used for protection by soldiers in the past
 
-run the gauntlet
+run the gauntlet of ~
 to be criticized or attacked by a lot of people  ![[100. media/audio/10448.mp3]]The foreign secretary ran the ~ of demonstrators.
 
 throw down the ~
 to invite someone to fight or compete over a disagreement
-<!--SR:!2025-11-07,5,230-->
+<!--SR:!2025-12-22,15,250-->
 -
 
 
@@ -765,7 +765,7 @@ To perform an action or a series of actions in a mechanical or perfunctory way, 
 ![[100. media/audio/4689.mp3]]She went through the ~s at the party, smiling and chatting, but her mind was elsewhere.
 
 ![[100. media/audio/7574.mp3]]The performance felt like the actors were just going through the ~s, lacking the emotion that the play demanded.
-<!--SR:!2025-11-07,5,230-->
+<!--SR:!2025-11-18,11,230-->
 -
 
 
@@ -778,7 +778,7 @@ an attractive appearance on the surface of something that may hide something le
 a description or explanation that makes something seem more attractive or acceptable than it really is → spin  ![[100. media/audio/1941.mp3]]The minister was accused of putting a ~ on the government’s poor performance.
 
 to provide a note in a piece of writing, explaining a difficult word, phrase, or idea
-<!--SR:!2025-11-07,5,230-->
+<!--SR:!2025-11-22,15,250-->
 -
 
 
@@ -794,7 +794,7 @@ If a buyer isn't found, this famous old club could ~ out of ~.
 ![[100. media/audio/1273.mp3]]The organization has been in existence for 25 years.  ![[100. media/audio/9995.mp3]]Scientists have many theories about how the universe first came into existence (=started to exist).
 ![[100. media/audio/11158.mp3]]The very existence of the museum is threatened by lack of funding.  ![[100. media/audio/8683.mp3]]the continued existence of economic inequalities
 ![[100. media/audio/8713.mp3]]Pablo led a miserable existence when he first moved to San Juan.
-<!--SR:!2025-11-07,5,230-->
+<!--SR:!2025-11-18,11,230-->
 -
 
 
@@ -865,7 +865,7 @@ if your feelings or wishes get the ~ of you, they make you behave in a way you
 
 to defeat someone or deal successfully with a problem
 ![[100. media/audio/8654.mp3]]In the chess match, the young prodigy managed to get the ~ of the seasoned champion.
-<!--SR:!2025-11-07,5,230-->
+<!--SR:!2025-11-22,15,250-->
 -
 
 
@@ -890,7 +890,7 @@ whole gamut, entire gamut
 
 ![[100. media/audio/4891.mp3]]College life opened up a whole gamut of new experiences.
 ![[100. media/audio/12669.mp3]]Her feelings that day ran the gamut of emotions (=included all the possibilities between two extremes).
-<!--SR:!2025-11-07,4,210-->
+<!--SR:!2025-11-16,9,210-->
 -
 
 
