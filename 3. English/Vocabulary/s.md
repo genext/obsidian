@@ -28,13 +28,6 @@ The palace sentry stood at attention, rifle in hand, guarding the main entrance.
 <!--SR:!2025-11-12,19,250-->
 -
 
-shoehorn ![[100. media/audio/5670.mp3]] ![[100. media/audio/7990.mp3]] ![[100. media/audio/5976.mp3]] ![[100. media/audio/8712.mp3]]
-?
-![[100. media/image/8325.jpg|200]]
-<!--SR:!2025-11-09,14,290-->
-
--
-
 systematic ![[100. media/audio/Xen2jwrJEc.mp3]] ![[100. media/audio/kQ5kA9sbjm.mp3]]
 ?
 done in an organized, methodical way
@@ -61,7 +54,7 @@ Most other countries have similarly stringent selection processes
 
 stringent economic conditions exist when there is a severe lack of money and strict controls on the supply money
 (금융계가) 핍박한, 자금이 달리는.
-<!--SR:!2025-11-08,8,260-->
+<!--SR:!2025-11-29,20,260-->
 
 -
 

@@ -19,25 +19,6 @@ The district chairman was fully apprised of all the details.![[100. media/audio/
 <!--SR:!2025-11-22,19,261-->
 -
 
-amiable ![[100. media/audio/7259.mp3]] ![[100. media/audio/5829.mp3]] ![[100. media/audio/2875.mp3]] ![[100. media/audio/7609.mp3]]
-?
-friendly and easy to like
-![[100. media/image/8430.jpg|200]]
-
-![[100. media/audio/7395.mp3]]The driver was an ~ young man.  ![[100. media/audio/9485.mp3]]She was in an ~ mood.
-<!--SR:!2025-11-08,12,283-->
--
-
-afflict  ![[100. media/audio/5248.mp3]] ![[100. media/audio/4629.mp3]] ![[100. media/audio/7955.mp3]]
-?
-![[100. media/image/6210.jpg|200]]
-
-- to affect someone or something in an unpleasant way, and make them suffer
-- to cause suffering or unhappiness, something a disease does, but _inflict_ means to force pain or suffering, like if you smack someone upside the head.
-
-![[100. media/audio/6341.mp3]]a country ~ed by famine
-<!--SR:!2025-11-08,12,284-->
--
 abbr**e**viate ![[100. media/audio/7537.mp3]] ![[100. media/audio/3368.mp3]] ![[100. media/audio/2897.mp3]] ![[100. media/audio/4682.mp3]]
 ?
 to make a word or expression shorter by not including letters or using only the first letter of each word SYN shorten

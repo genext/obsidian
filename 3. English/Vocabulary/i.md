@@ -24,15 +24,6 @@ Plutonium-238 is an incredibly unstable isotope![[100. media/audio/4cJkcdt0.mp3]
 <!--SR:!2025-11-07,16,290-->
 -
 
-impending ![[100. media/audio/4792.mp3]] ![[100. media/audio/5537.mp3]] ![[100. media/audio/6801.mp3]] ![[100. media/audio/3999.mp3]]
-?
-an ~ event or situation, especially an unpleasant one, is going to happen very soon. Cf. foreboding
-![[100. media/image/10786.jpg|200]]
-![[100. media/audio/11949.mp3]]She had a sense of ~ disaster.
-![[100. media/audio/69.mp3]]~ changes in government legislation
-<!--SR:!2025-11-08,12,278-->
--
-
 inaugural ![[100. media/audio/OCBLJOsu.mp3]] ![[100. media/audio/huC53uo6.mp3]]
 ?
 refers to marking the beginning of an institution, activity, or period of office. It is often associated with formal ceremonies or speeches that mark the commencement of something, especially the start of a new position of authority.
@@ -112,7 +103,7 @@ iconoclasm![[100. media/audio/4355.mp3]]![[100. media/audio/12154.mp3]]: 성상�
 
 iconoclastic![[100. media/audio/6322.mp3]]![[100. media/audio/11074.mp3]]![[100. media/audio/12138.mp3]]![[100. media/audio/7422.mp3]]: iconoclastic ideas, opinions, writings etc attack established beliefs and customs
 ![[100. media/audio/6890.mp3]]Wolfe’s theories were revolutionary and iconoclastic.
-<!--SR:!2025-11-08,7,250-->
+<!--SR:!2025-12-04,25,270-->
 -
 
 
@@ -155,7 +146,7 @@ if you ask me
 used to emphasize your own opinion
 
 ![[100. media/audio/3234.mp3]]He’s just plain crazy, if you ask me.
-<!--SR:!2025-11-08,7,250-->
+<!--SR:!2025-12-03,24,270-->
 -
 
 
@@ -182,7 +173,7 @@ SYN: convey, instill
 ![[100. media/audio/6462.mp3]]Use a piece of fresh ginger to ~ a Far Eastern flavour to simple ingredients.
 ![[100. media/audio/5014.mp3]]The spices ~ed a rich flavor to the stew.
 ![[100. media/audio/7573.mp3]]She had information that she couldn’t wait to ~.
-<!--SR:!2025-11-09,7,250-->
+<!--SR:!2025-12-03,24,270-->
 -
 
 
@@ -372,7 +363,7 @@ improvise ![[100. media/audio/6856.mp3]] ![[100. media/audio/11067.mp3]] ![[100.
 
 
 improvisation![[100. media/audio/3205.mp3]]![[100. media/audio/4303.mp3]]
-<!--SR:!2025-11-09,3,250-->
+<!--SR:!2025-12-29,30,270-->
 -
 
 
@@ -392,7 +383,7 @@ without realizing what you are doing SYN accidentally OPP deliberately
 ![[100. media/audio/2284.mp3]]~ exposure to chemicals
 
 advertent: giving attention  SYN heedful
-<!--SR:!2025-11-08,7,250-->
+<!--SR:!2025-12-03,24,270-->
 -
 
 
@@ -436,7 +427,7 @@ having taken human form
 
 to represent a particular quality in a physical or human form,  to make something appear in a human form
 ![[100. media/audio/12488.mp3]]The crown ~s national power.
-<!--SR:!2025-11-08,5,210-->
+<!--SR:!2025-11-19,10,210-->
 -
 
 
@@ -579,7 +570,7 @@ SYN **incompetence, incapability**
 
 ![[100. media/audio/7700.mp3]]the ~ of the people in charge
 ![[100. media/audio/5683.mp3]]He was fired due to his ~.
-<!--SR:!2025-11-08,7,250-->
+<!--SR:!2025-11-13,4,230-->
 -
 
 
@@ -590,7 +581,7 @@ to form an opinion that something is probably true because of information that 
 
 ![[100. media/audio/10378.mp3]]A lot can be inferred from these statistics.
 ![[100. media/audio/11363.mp3]]From the evidence, we can infer that the victim knew her killer.
-<!--SR:!2025-11-08,7,250-->
+<!--SR:!2025-11-27,18,250-->
 -
 
 
@@ -696,7 +687,7 @@ SYN violate, breach, transgress
 ![[100. media/audio/6326.mp3]]the ~ment of human rights
 
 **Etymology**: It comes from the Latin "infringere," where "in-" means "in" or "into," and "frangere" means "to break." In essence, "infringere" means to "break into" or "break a law."
-<!--SR:!2025-11-09,5,230-->
+<!--SR:!2025-11-12,3,210-->
 -
 
 
@@ -760,7 +751,7 @@ SYN instill, imprint, entrench, imbue, infuse, embed
 ~ attitudes or behavior are firmly established and therefore difficult to change
 ![[100. media/audio/4364.mp3]]The idea of doing our duty is deeply ~ed in most people.![[100. media/audio/12092.mp3]]The training program aimed to ~ a sense of discipline and teamwork in the new recruits.
 ![[100. media/audio/3309.mp3]]The importance of honesty was ~ed in her from a young age, shaping her character as she grew up.
-<!--SR:!2025-11-08,7,250-->
+<!--SR:!2025-12-04,25,270-->
 -
 
 
@@ -829,7 +820,7 @@ inquisition ![[100. media/audio/596.mp3]] ![[100. media/audio/2962.mp3]] ![[100.
 엄한\[장시간의\] 심문, a series of questions that someone asks you in a threatening or unpleasant way
 the ~: 종교재판소
 ![[100. media/audio/3132.mp3]]I had to face a two-hour ~ from my parents about where I’d been.
-<!--SR:!2025-11-08,7,250-->
+<!--SR:!2025-12-04,25,270-->
 -
 
 
@@ -867,7 +858,7 @@ SYN enigmatic, cryptic, unfathomable, incomprehensible, impenetrable
 ![[100. media/audio/9531.mp3]]He stood silent and ~.
 ![[100. media/audio/8135.mp3]]His expression was ~, giving nothing away about his thoughts on the matter.
 ![[100. media/audio/9250.mp3]]Despite thorough analysis, the motives behind the ancient civilization’s rituals remain ~.
-<!--SR:!2025-11-09,7,250-->
+<!--SR:!2025-12-03,24,270-->
 -
 
 
@@ -879,7 +870,7 @@ offshore 반대말
 
 ![[100. media/audio/8956.mp3]]The fishing boats usually stay close ~shore.
 ![[100. media/audio/3305.mp3]]~shore waters
-<!--SR:!2025-11-08,7,250-->
+<!--SR:!2025-12-05,26,270-->
 -
 
 
@@ -890,7 +881,7 @@ insolvent ![[100. media/audio/5925.mp3]] ![[100. media/audio/4544.mp3]] ![[100. 
 
 ![[100. media/audio/11297.mp3]]The company was later declared ~ (=officially said to be insolvent).
 ![[100. media/audio/2291.mp3]]Many ~ firms are facing liquidation due to the economic downturn.
-<!--SR:!2025-11-08,7,250-->
+<!--SR:!2025-12-04,25,270-->
 -
 
 
@@ -1153,7 +1144,7 @@ to make spirits appear by using magic  ---> summon
 Etymology
 
 The term "invoke" originates from the Latin word "invocare," where "in-" means "into" and "vocare" means "to call." In Latin, it initially meant to call on, summon, or call for.
-<!--SR:!2025-11-08,6,230-->
+<!--SR:!2025-11-28,19,250-->
 -
 
 
@@ -1180,7 +1171,7 @@ full of energy and enthusiasm; impossible to stop
 full of energy, confidence, and happiness so that you never seem unhappy
 ![[100. media/image/10812.jpg|200]]
 ![[100. media/audio/6060.mp3]]an ~ optimist
-<!--SR:!2025-11-08,6,230-->
+<!--SR:!2025-11-22,13,230-->
 -
 
 
@@ -1191,7 +1182,7 @@ to formally support a suggestion made by another person in a meeting
 
 ![[100. media/audio/2496.mp3]]"I think we should invest more in cybersecurity." "I ~ that, it's crucial for our business."
 ![[100. media/audio/11348.mp3]]"I believe the author's main argument is flawed." "I ~ that, there are multiple inconsistencies."
-<!--SR:!2025-11-08,7,250-->
+<!--SR:!2025-11-27,18,250-->
 -
 
 
@@ -1225,7 +1216,7 @@ It was like a moment thing.
 suggests that the action occurred spontaneously, driven by the flow of the moment or the natural progression of events leading up to it. It implies that something happened more as a result of the situation's energy or the emotional build-up, rather than premeditated intent.
 
 ![[100. media/audio/6933.mp3]]They had been talking and laughing all evening, and then, suddenly, he kissed her—it was like a ~ thing, unplanned but not unwelcome.
-<!--SR:!2025-11-08,7,250-->
+<!--SR:!2025-11-27,18,250-->
 -
 
 

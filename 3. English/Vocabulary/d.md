@@ -39,7 +39,7 @@ a method of examining and discussing ideas in order to find the truth, in which 
 변증법
 
 dialect에서 나온 것으로 혼동하기 쉽지만 아니다!
-<!--SR:!2025-11-09,4,220-->
+<!--SR:!2025-11-17,8,220-->
 
 -
 

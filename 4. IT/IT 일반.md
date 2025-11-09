@@ -33,7 +33,7 @@ updated: 2025-10-04 13:04:24
 * kebab-case: buffer-max-size
 * camelCase: bufferMaxSize
 * PascalCase: BufferMaxSize(upper camel case)
-<!--SR:!2025-11-08,21,250-->
+<!--SR:!2025-11-21,12,230-->
 -
 
 ## uml 표기

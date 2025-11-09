@@ -43,7 +43,7 @@ to avoid something by changing the direction in which you are traveling
 
 We went north in order to circumvent the mountains.
 ![[speech_20251022024517382.mp3]] ![[speech_20251022024555679.mp3]]
-<!--SR:!2025-11-09,4,231-->
+<!--SR:!2025-11-17,8,231-->
 -
 
 confrontation ![[4F7149C80510BE0252 1.mp3]] ![[4F71238C04317F0102 1.mp3]]

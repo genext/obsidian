@@ -1,7 +1,7 @@
 tertiary ![[100. media/audio/expqbhad.mp3]] ![[100. media/audio/sm9lYaK9.mp3]]
 ?
 third in place, degree, or order
-<!--SR:!2025-11-09,14,290-->
+<!--SR:!2026-01-06,58,310-->
 -
 
 tacit ![[100. media/audio/R7fOLft6.mp3]]![[100. media/audio/UXrXxEVD.mp3]]

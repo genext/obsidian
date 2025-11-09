@@ -54,7 +54,7 @@ to laugh at someone or shout unkind things at them in a way that shows you do
 ![[100. media/audio/12510.mp3]]There were ~s and booing from the audience.
 
 Harry jumped to his feet just as a ~ing voice floated across the lawn.
-<!--SR:!2025-11-09,5,230-->
+<!--SR:!2025-11-26,17,250-->
 -
 
 
@@ -95,7 +95,7 @@ juggernaut ![[100. media/audio/11821.mp3]] ![[100. media/audio/6846.mp3]] ![[100
 a very large vehicle that carries goods over long distances SYN semi American English
 a very powerful force, organization etc whose effect or influence cannot be stopped
 ![[100. media/audio/4401.mp3]]the ~ of industrialization
-<!--SR:!2025-11-09,2,210-->
+<!--SR:!2025-12-15,30,230-->
 -
 
 

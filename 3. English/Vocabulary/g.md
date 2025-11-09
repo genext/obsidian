@@ -24,7 +24,7 @@ germ
 1. a very small living thing that can make you ill. → **bacteria**
   2. technical the part of a plant or animal that can develop into a new plant or animal. 발아, 초기배
   3. (old) seed
-<!--SR:!2025-11-09,10,230-->
+<!--SR:!2025-12-02,23,230-->
 
 -
 
@@ -128,7 +128,7 @@ to accidentally break the surface of your skin by rubbing it against something
 to touch something lightly while passing it, sometimes damaging it  ![[100. media/audio/9541.mp3]]A bullet ~ed his arm.
 
 a wound caused by rubbing that slightly breaks the surface of your skin  ![[100. media/audio/12725.mp3]]Adam walked away from the crash with just a ~ on his left shoulder.
-<!--SR:!2025-11-09,1,230-->
+<!--SR:!2025-11-12,3,250-->
 -
 
 
@@ -139,7 +139,7 @@ friendly and preferring to be with other people SYN sociable OPP solitary
 
 ![[100. media/image/11561.jpg|200]]
 ~ animals tend to live in a group
-<!--SR:!2025-11-09,7,250-->
+<!--SR:!2025-11-27,18,250-->
 -
 
 
@@ -284,7 +284,7 @@ to do something that you have been intending to do for some time
 
 ![[100. media/audio/5551.mp3]]I meant to phone her yesterday, but I never got ~ to it.
 ![[100. media/audio/4636.mp3]]We finally got ~ to clearing out the garage.
-<!--SR:!2025-11-09,7,250-->
+<!--SR:!2025-11-28,19,250-->
 -
 
 
@@ -634,7 +634,7 @@ to be very angry or unhappy about something, or to move your teeth against eac
 ![[100. media/audio/880.mp3]]The old man would often ~ his teeth in his sleep, worrying his family.
 ![[100. media/audio/6015.mp3]]In frustration, he ~ed his teeth as he looked at the broken machine.
 ![[100. media/audio/4070.mp3]]During the intense part of the movie, she unconsciously began to ~ her teeth.
-<!--SR:!2025-11-09,7,250-->
+<!--SR:!2025-11-28,19,250-->
 -
 
 
@@ -806,7 +806,7 @@ to cover something with a thin layer of gold or with something that looks like 
 
 literary to make something look as if it is covered in gold
 ![[100. media/audio/5157.mp3]]The autumn sun ~ed the lake.
-<!--SR:!2025-11-09,7,250-->
+<!--SR:!2025-12-05,26,270-->
 -
 
 
@@ -851,7 +851,7 @@ SYN solemnity(difference accent and pronunciation from s++o++lemn), seriousness,
 ![[100. media/audio/5456.mp3]]He's an effective enough politician but somehow he lacks the statesmanlike ~ of a world leader.
 ![[100. media/audio/6809.mp3]]Despite his youthful appearance, he has the ~ of someone twice his age.
 ![[100. media/audio/9772.mp3]]He tried to imbue his speech with ~ by using formal language and referencing historical events.
-<!--SR:!2025-11-09,7,250-->
+<!--SR:!2025-12-04,25,270-->
 -
 
 

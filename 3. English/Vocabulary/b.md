@@ -27,14 +27,6 @@ We had to backtrack about a mile.
 <!--SR:!2025-12-15,43,290-->
 -
 
-brunet ![[100. media/audio/8020.mp3]] ![[100. media/audio/12504.mp3]]
-?
-![[100. media/image/11821.jpg|200]]
-a man with dark brown hair
-
-brunette![[100. media/audio/9423.mp3]]![[100. media/audio/1371.mp3]]: a woman with dark brown hair
-<!--SR:!2025-11-08,12,284-->
--
 backdrop ![[100. media/audio/2993.mp3]] ![[100. media/audio/2524.mp3]] ![[100. media/audio/5891.mp3]] ![[100. media/audio/1323.mp3]]
 ?
 literary the **scenery** behind something that you are looking at

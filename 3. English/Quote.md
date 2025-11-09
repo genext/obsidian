@@ -2,7 +2,7 @@ Let us understand each other in regard to ~
 ?
 Let us understand each other in regard to equality; for, if liberty is the summit, equality is the base. - Victor Hugo - Les Misérables
 ![[100. media/audio/speech_20251014224634946.mp3]] ![[100. media/audio/speech_20251014224710794.mp3]]
-<!--SR:!2025-11-08,13,230-->
+<!--SR:!2025-11-16,7,210-->
 -
 
 An educated person should know some Korean, just as in ~

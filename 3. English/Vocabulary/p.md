@@ -6,7 +6,7 @@ an examination of a dead body to discover why the person died SYN autopsy 검시
 ![[100. media/image/GfupczDi.png|200]]
 
 A post-mortem on the body revealed that the victim had been strangled.![[100. media/audio/jXaB0S0x.mp3]]
-<!--SR:!2025-11-09,16,290-->
+<!--SR:!2025-11-16,7,270-->
 -
 
 pester ![[100. media/audio/ZsplflUn.mp3]] ![[100. media/audio/ZVY4UNIX.mp3]]

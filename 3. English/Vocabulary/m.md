@@ -1,28 +1,3 @@
-malleable ![[100. media/audio/9549.mp3]] ![[100. media/audio/6705.mp3]] ![[100. media/audio/7634.mp3]] ![[100. media/audio/1798.mp3]]
-?
-technical something that is ~ is easy to press or pull into a new shape
-![[100. media/image/11595.jpg|200]]
-![[100. media/audio/4251.mp3]]~ steel
-<!--SR:!2025-11-09,16,290-->
--
-
-mondo ![[100. media/audio/10930.mp3]] ![[100. media/audio/11502.mp3]]
-?
-An informal term, often used in slang, meaning extreme or large in size, scope, or impact.
- In certain contexts, "~" refers to a genre of films that.![[100. media/image/9282.jpg|200]] depict sensationalized and often shocking content, characterized by documentary-style footage
-
-**Synonyms:
-**Adjective: Huge, enormous, extreme, outlandish, bizarre
-Noun: Shockumentary, exploitation film, sensational film
-
-![[100. media/audio/12200.mp3]]He told a ~ story about his adventures in the Amazon rainforest.
-![[100. media/audio/6902.mp3]]"~ Cane," a film from the 1960s, is often cited as a classic example of the ~ genre.
-![[100. media/audio/5016.mp3]]The documentary delved into the ~ genre, exploring its impact on cinema.
-
-**Etymology:** is derived from the Italian word for "world" or "earth." In English, it was popularized through the title of the 1962 Italian film "~ Cane" (meaning "A Dog's World"), which showcased a series of shocking and bizarre vignettes from around the globe. This film led to the creation of the '~ film' genre, known for its sensational content. The adjective use of "~" in English slang, meaning something extreme or very large, likely evolved from this context, conveying the idea of something as extreme as the content of mondo films.
-<!--SR:!2025-11-08,12,277-->
--
-
 mandate ![[100. media/audio/EzBHg369.mp3]]![[100. media/audio/MbxDRrl8.mp3]]
 ?
 if a government or official has a mandate to make important decisions, they have the authority to make the decisions because they have been elected by the people to do so 위임, 권한
@@ -877,7 +852,7 @@ was staring ~ly out of a window,
 
 ![[100. media/audio/10866.mp3]]Daniel seems very ~ and gloomy.
 ![[100. media/audio/992.mp3]]He stared ~ly at the floor.
-<!--SR:!2025-11-09,1,230-->
+<!--SR:!2025-11-12,3,250-->
 -
 
 

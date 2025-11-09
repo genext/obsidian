@@ -85,7 +85,7 @@ class Apple implements Eatable {
 ```java
 class Box<T extends Number & Eatable> {...}
 ```
-<!--SR:!2025-11-09,2,190-->
+<!--SR:!2025-11-10,1,170-->
 -
 
 ## generic 메소드 정의

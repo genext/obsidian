@@ -43,7 +43,7 @@ Learning in action 체험학습
 ?
 They say no plan survives first contact with implementation.
 ![[100. media/audio/bMk2GNWK.mp3]]
-<!--SR:!2025-11-09,10,230-->
+<!--SR:!2025-12-02,23,230-->
 -
 
 The morbidity rate is a measure of how often a disease or illness occurs within a specific population over a defined period
@@ -129,7 +129,7 @@ take a bashing
 크게 당하다, 혹평 받다.
  The fairy tale of the quest to find our One True Love has taken a bashing of late, and not before time.
 ![[100. media/audio/HpkHZ3sVr_.mp3]] ![[100. media/audio/1tLeEJlC-Z.mp3]]
-<!--SR:!2025-11-09,6,210-->
+<!--SR:!2025-11-12,3,190-->
 -
 brush up
 ?

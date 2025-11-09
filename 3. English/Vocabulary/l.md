@@ -17,7 +17,7 @@ latent snobbery
 ![[speech_20251028015852503.mp3]] ![[speech_20251028015911360.mp3]]
 a verification-and-refinement pipeline is essential for converting their latent capabilities into rigorous mathematical proofs.
 ![[speech_20251028015945962.mp3]] ![[speech_20251028020014045.mp3]]
-<!--SR:!2025-11-08,8,258-->
+<!--SR:!2025-12-01,22,258-->
 -
 
 legwork ![[4F715518067B150072.mp3]] ![[4F712F1B0341450299.mp3]]
@@ -86,7 +86,7 @@ is a gerund or present participle form of the verb '~', which means to fall behi
 Insulation, typically used around pipes or boilers, to prevent heat loss or to protect against fire.
 ![[100. media/audio/781.mp3]]The plumber recommended adding ~ to the pipes to improve energy efficiency.
 ![[100. media/audio/6587.mp3]]The renovation project included updating the ~ around the heating system for better performance.
-<!--SR:!2025-11-08,3,250-->
+<!--SR:!2025-11-17,8,250-->
 -
 
 
@@ -632,7 +632,7 @@ if a ship or aircraft ~s somewhere, it goes there slowly, because it has been 
 
 the way someone walks when they are limping
 ![[100. media/audio/7173.mp3]]Young walked with a slight ~.
-<!--SR:!2025-11-08,1,210-->
+<!--SR:!2025-11-18,9,230-->
 -
 
 
@@ -686,7 +686,7 @@ technical to pay a debt
 ![[100. media/audio/5680.mp3]]The stock was sold to ~ the loan.
 
 ![[100. media/audio/1623.mp3]]The government took action to ~ the criminal organization.
-<!--SR:!2025-11-08,3,250-->
+<!--SR:!2025-11-21,12,270-->
 -
 
 
@@ -906,7 +906,7 @@ very beautiful, comfortable, and expensive SYN luxurious  ![[100. media/audi
 ~ music has a lot of pleasant-sounding instruments or voices together  ![[100. media/audio/762.mp3]]~ vocal harmonies
 
 very attractive or nice – used especially by young people  ![[100. media/audio/8539.mp3]]He looks so ~ in this pic!
-<!--SR:!2025-11-08,3,250-->
+<!--SR:!2025-11-19,10,270-->
 -
 
 
