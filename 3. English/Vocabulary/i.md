@@ -282,7 +282,7 @@ this method, ~ though it may seem for some,
 
 ![[100. media/audio/11810.mp3]]Margaret found his excuse somewhat ~.
 ![[100. media/audio/11034.mp3]]It’s not entirely ~ that a galaxy could be identical to our own.
-<!--SR:!2025-11-10,8,250-->
+<!--SR:!2025-11-29,19,250-->
 -
 
 
@@ -297,7 +297,7 @@ he looked ~ingly at Harry
 ![[100. media/audio/2650.mp3]]a ragged child with ~ing eyes
 
 **Etymology:** comes from the Latin "implorare," meaning "to invoke with tears, beseech earnestly." It is composed of "in-" (toward) and "plorare" (to weep, cry out).
-<!--SR:!2025-11-10,8,250-->
+<!--SR:!2025-12-01,21,250-->
 -
 
 
@@ -349,7 +349,7 @@ to make something worse in quality
 ![[100. media/audio/931.mp3]]Fast-growing trees remove nutrients and ~ the soil.
 ![[100. media/audio/7293.mp3]]an ~ed student
 ![[100. media/audio/11542.mp3]]spiritual ~ment
-<!--SR:!2025-11-10,8,250-->
+<!--SR:!2025-12-07,27,270-->
 -
 
 
@@ -466,7 +466,7 @@ Burn, cremate, consume, destroy by fire, reduce to ashes.
 ![[100. media/audio/9981.mp3]]Many hazardous materials cannot be ~ed without releasing toxic gases.
 
 **Etymology:** originates from the Latin "incineratus," the past participle of "incinerare," which means 'to reduce to ashes.' It is composed of "in-" (into) and "cinis" (ashes).
-<!--SR:!2025-11-10,8,250-->
+<!--SR:!2025-12-01,21,250-->
 -
 
 
@@ -497,7 +497,7 @@ SYN irredeamable, irreformable, unchangeable, chronic
 ![[100. media/audio/5530.mp3]]Peter, you are an ~ flirt!
 
 **Etymology:** derived from Latin "incorrigibilis," from "in-" (not) and "corrigere" (to correct).
-<!--SR:!2025-11-10,7,230-->
+<!--SR:!2025-11-26,16,230-->
 -
 
 
@@ -644,7 +644,7 @@ To form the past tense of regular verbs in English, we typically ~ the base form
 
 In many languages, nouns are inflected to indicate number, case, and gender.(it means the form of the noun changes to reflect its role in the sentence, its number, or its gender. )
 The teacher explained how to inflect the verb correctly according to person and number in the sentence.
-<!--SR:!2025-11-10,3,210-->
+<!--SR:!2025-11-16,6,210-->
 -
 
 
@@ -710,7 +710,7 @@ if you ~ tea or **herbs**, or if they ~, you leave them in very hot water whil
 Etymology:
 
 The word "~" originates from the Latin "infundere," which means "to pour in." It's composed of "in-" (in) + "fundere" (to pour).
-<!--SR:!2025-11-10,3,210-->
+<!--SR:!2025-11-16,6,210-->
 -
 
 
@@ -736,7 +736,7 @@ an ~ person is simple, trusting, and honest, especially because they have no
 
 
 **Etymology:** comes from "in-" (in, on) + "genu" (knee), originally referring to a "freeborn" child who is "born in (a state of) freedom," contrasting with a slave. The current meaning evolved to denote frankness and simplicity, reflecting an idealized view of how freeborn people behave.
-<!--SR:!2025-11-10,8,250-->
+<!--SR:!2025-11-30,20,250-->
 -
 
 
@@ -780,7 +780,7 @@ have plumbers ~ of architects
 time off ~
 
 ![[100. media/audio/6247.mp3]]extra time off in ~ of payment
-<!--SR:!2025-11-10,8,250-->
+<!--SR:!2025-11-30,20,250-->
 -
 
 
@@ -1015,7 +1015,7 @@ if something, especially something bad, happens in the ~ of an event, it happens
 ![[100. media/audio/2543.mp3]]Famine followed in the ~ of the drought.
 ![[100. media/audio/4386.mp3]]The new safety regulations were introduced in the ~ of the tragic accident.
 ![[100. media/audio/3502.mp3]]In the ~ of the economic crisis, many businesses were forced to close.
-<!--SR:!2025-11-10,8,250-->
+<!--SR:!2025-11-14,4,230-->
 -
 
 
@@ -1081,7 +1081,7 @@ something that is ~ is very interesting because it is strange, mysterious, or
 
 ![[100. media/audio/7476.mp3]]The magazine carries an ~ing mixture of high fashion, gossip and racing.
 an ~ question.
-<!--SR:!2025-11-10,8,250-->
+<!--SR:!2025-11-29,19,250-->
 -
 
 

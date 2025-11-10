@@ -3,20 +3,20 @@ title: "Spring boot"
 created: 2024-10-22 08:57:11
 updated: 2025-10-02 11:00:03
 ---
-  * # 필수지식
-    * ### 1. **Core Spring Framework Concepts**
-      * **Inversion of Control (IoC) and Dependency Injection (DI)**:
-        * Understand how Spring Boot uses IoC to manage dependencies and how DI works through constructor, setter, or field injection.
-        * Familiarity with @Component, @Service, @Repository, and @Autowired annotations.
-      * **Bean Lifecycle**:
-        * Learn about the bean lifecycle (instantiation, initialization, destruction) and how to customize it using @PostConstruct, @PreDestroy, or implementing InitializingBean/DisposableBean.
-      * **Spring Boot Auto-Configuration**:
-        * Understand how Spring Boot auto-configures components (e.g., DataSource, Security, etc.) based on the classpath and properties.
-        * Know how to disable or customize auto-configuration using @SpringBootApplication and @EnableAutoConfiguration.
+# 필수지식
+### 1. **Core Spring Framework Concepts**
+* **Inversion of Control (IoC) and Dependency Injection (DI)**:
+* Understand how Spring Boot uses IoC to manage dependencies and how DI works through constructor, setter, or field injection.
+* Familiarity with @Component, @Service, @Repository, and @Autowired annotations.
+* **Bean Lifecycle**:
+	* Learn about the bean lifecycle (instantiation, initialization, destruction) and how to customize it using @PostConstruct, @PreDestroy, or implementing InitializingBean/DisposableBean.
+	* **Spring Boot Auto-Configuration**:
+		* Understand how Spring Boot auto-configures components (e.g., DataSource, Security, etc.) based on the classpath and properties.
+		* Know how to disable or customize auto-configuration using @SpringBootApplication and @EnableAutoConfiguration.
         * @Bean
           * method level annotation
           * used to manually declare Spring-managed bean inside java configuration class that is annotated with @Configuration
-    * ### 2. **Spring Boot Basics**
+ ### 2. **Spring Boot Basics**
       * **Starter Dependencies**:
         * Understand how Spring Boot “starters” simplify adding dependencies and configurations for specific use cases like web development (spring-boot-starter-web), data access (spring-boot-starter-data-jpa), security (spring-boot-starter-security), etc.
       * **Spring Boot Configuration**:
@@ -63,7 +63,7 @@ The AccessDecisionManager works with security voters (e.g., RoleHierarchyVoter, 
 You need to add the FilterSecurityInterceptor to the Spring Security filter chain. This is typically done in your HttpSecurity configuration.
           * 기본 예
             * custom metadata example
-              * ```java
+```java
 import org.springframework.security.web.access.intercept.FilterInvocationSecurityMetadataSource;
 import org.springframework.stereotype.Component;
 import java.util.LinkedHashMap;
@@ -92,7 +92,7 @@ public class ReloadableFilterInvocationSecurityMetadataSource implements FilterI
 }
 ```
             * SecurityConfig with FilterSecurityInterceptor:
-              * ```javascript
+```javascript
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
@@ -177,7 +177,7 @@ public class SecurityConfig {
 ```
           * 디지털 바우처 시스템 실제 사용 예: with custom filter.
             * custom filter
-              * ```java
+```java
 package kr.or.cbdc.application.common.user.filter;
 
 import java.io.IOException;
@@ -286,9 +286,10 @@ public class JwtTokenFilter extends OncePerRequestFilter {
         response.getWriter().write(errorMessage.toJson());
     }
 
-}```
+}
+```
             * custom metadata
-              * ```java
+```java
 package kr.or.cbdc.infrastructure.security.intercept;
 
 import java.util.Collection;
@@ -380,7 +381,7 @@ public class ReloadableFilterInvocationSecurityMetadataSource
 }
 ```
             * SecurityConfig with FilterSecurityInterceptor
-              * ```java
+```java
 package kr.or.cbdc.config;
 
 import java.util.ArrayList;
@@ -551,7 +552,8 @@ public class SecurityConfig {
 			new AntPathRequestMatcher("/ewa/stplat/readList"),
 			new AntPathRequestMatcher("/ewa/common/regPinNum"));
 	}
-}```
+}
+```
         * Low-level interface인 Filter나 OncePerRequestFilter를 상속하여 custome filter를 구현
     * ### 6. **AOP (Aspect-Oriented Programming)** #memo
       * An Aspect is a **specialized class** annotated with @Aspect (or configured via XML) that contains advice methods and pointcut expressions to implement cross-cutting concerns.
@@ -576,13 +578,14 @@ public class LoggingAspect {  // Specialized class
     public void logBefore(JoinPoint joinPoint) {
         // This runs automatically, not called directly
     }
-}```
+}
+```
 
 ![[100. media/image/G1zZs8ljV5.png]]
 
 - usage: It's more commonly employed for tasks that are not easily handled by filters or that apply to different layers beyond HTTP requests.
         * Logging and Monitoring
-          * ```java
+```java
 @Aspect
 @Component
 public class LoggingAspect {
@@ -600,7 +603,7 @@ public class LoggingAspect {
 ```
         * Transaction Management
           * Spring’s @Transactional annotation is based on AOP.
-          * ```java
+```java
 @Service
 public class YourService {
 
@@ -611,7 +614,7 @@ public class YourService {
 }
 ```
         * Caching
-          * ```java
+```java
 @Cacheable("dataCache")
 public Data getDataById(Long id) {
     // If data is not in the cache, fetch from DB and cache the result
@@ -619,7 +622,7 @@ public Data getDataById(Long id) {
 }
 ```
         * Auditing
-          * ```java
+```java
 @Aspect
 @Component
 public class AuditAspect {
@@ -635,7 +638,7 @@ public class AuditAspect {
         * Error Handling
           * global exception handler(@RestControllerAdvice)와 함께 쓸 수 있음.
           * AOP는 service 이하 계층에서 database 관련 특정 에러만 처리하고 나머지(보통 runtime exception)는 그냥 rest controller로 보내기
-          * ```java
+```java
 @Aspect
 @Component
 public class ExceptionHandlingAspect {
@@ -648,7 +651,7 @@ public class ExceptionHandlingAspect {
 }
 ```
         * Security at method level
-          * ```java
+```java
 @Service
 public class AdminService {
 
@@ -659,7 +662,7 @@ public class AdminService {
 }
 ```
         * Rate Limiting / Throttling
-          * ```java
+```java
 @Aspect
 @Component
 public class RateLimitingAspect {
@@ -766,7 +769,7 @@ public class RateLimitingAspect {
         * maven
         * gradle
           * build.gradle 예
-            * ```plain text
+```plain text
 plugins {
     id 'org.springframework.boot' version '3.1.0'
     id 'io.spring.dependency-management' version '1.1.0'
@@ -795,7 +798,7 @@ test {
 }
 ```
           * 디지털 바우처 시스템 build.gradle
-            * ```plain text
+```plain text
 /*
  * This file was generated by the Gradle 'init' task.
  */
@@ -936,11 +939,12 @@ bootRun {
 tasks.withType(JavaCompile) {
     options.encoding = 'UTF-8'
     options.compilerArgs.add("-parameters")
-}```
+}
+```
     * **Configure MySQL Database in Spring Boot:**
       * configure database setting in application.properties or application.yml
         * application.properties
-          * ```plain text
+```plain text
 spring.datasource.url=jdbc:mysql://localhost:3306/your_database_name
 spring.datasource.username=your_username
 spring.datasource.password=your_password
@@ -948,9 +952,10 @@ spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
 
 # HikariCP settings (optional tuning)
 spring.datasource.hikari.maximum-pool-size=10
-spring.datasource.hikari.minimum-idle=5```
+spring.datasource.hikari.minimum-idle=5
+```
         * application.yml
-          * ```plain text
+```plain text
 spring:
   datasource:
     url: jdbc:mysql://localhost:3306/your_database_name
@@ -963,7 +968,7 @@ spring:
 ```
         * 디지털 바우처 시스템(mybatis 설정 포함)
           * application.dev.yml
-            * ```plain text
+```plain text
 server:
   servlet:
     encoding:
@@ -1134,9 +1139,10 @@ navercloud:
       accessKey: xxxxxxxxx  # NCP 계정관리 API 키 발급 Access Key
       secretKey: xxxxxxx # NCP 계정관리 API 키 발급 Secret Key
     sender: contact@sooho.io # Sender 메일 설정
-    s```
+    s
+```
           * application-voucher-dev.yml
-            * ```plain text
+```plain text
 ################################################################################
 # 기본
 ################################################################################
@@ -1248,7 +1254,7 @@ eoa:
     * **MyBatis Setup**:
       * Create a mybatis-config.xml file in your src/main/resources directory to configure MyBatis globally.
         * mybatis-config.xml
-          * ```xml
+```xml
 <configuration>
   <settings>
     <setting name="cacheEnabled" value="true" />
@@ -1258,7 +1264,7 @@ eoa:
 ```
       * 위 방법은 거의 필요없고 application.yml에 정의해도 됨
         * application.yml 예
-          * ```plain text
+```plain text
 spring:
   datasource:
     url: jdbc:mysql://localhost:3306/your_database_name
@@ -1279,7 +1285,7 @@ spring:
       * 디지털 바우처 금결원(docker로 mysql 시스템 생성)
         * /docker
           * docker-compose.yml
-            * ```plain text
+```plain text
 services:
   bok-mysql:
     image: mysql:8.0
@@ -1340,14 +1346,16 @@ services:
 
 networks:
   shared_network:
-    driver: bridge```
+    driver: bridge
+```
           * start.sh: git bash 띄워서 실행하면 /docker/data 디렉토리 만들고 거기에 mysql, minio, redis 생성.
-            * ```shell
+```shell
 #!/bin/bash
 
-docker-compose -f docker-compose.yml up --remove-orphans```
+docker-compose -f docker-compose.yml up --remove-orphans
+```
           * stop.sh
-            * ```shell
+```shell
 #!/bin/bash
 
 PROJECT_NAME=cbdc-voucher
@@ -1397,11 +1405,12 @@ select yn in "${options[@]}"; do
         "Prune" ) stop;  prune; break;;
         "Quit" ) exit;;
     esac
-done```
+done
+```
         * /database
           * /config
             * my.cnf
-              * ```plain text
+```plain text
 [mysqld]
 default-time-zone = 'Asia/Seoul'
 innodb_file_per_table = 1
@@ -1421,7 +1430,7 @@ default-character-set=utf8mb4
 default-character-set=utf8mb4
 ```
           * 01-init.sql
-            * ```plain text
+```plain text
 -- Initial DDL: valid from commit hash
 CREATE TABLE IF NOT EXISTS `bok-cbdc-voucher`.tb_ca_vc_verification_request (
     `req_id` varchar(18) not null comment '템플릿 검증 의뢰 ID (eg. REQ+YYYY+MM+DD+000001)',
@@ -1945,9 +1954,10 @@ CREATE TABLE IF NOT EXISTS `bok-cbdc-voucher`.TB_SYS_MENU (
     MENU_PATH varchar(1000) null comment '메뉴 경로',
     USE_YN char not null comment '사용 여부(1/0)',
     MENU_DC varchar(4000) null comment '메뉴 설명'
-) ENGINE = InnoDB DEFAULT CHARSET = utf8mb4 COLLATE = utf8mb4_general_ci;```
+) ENGINE = InnoDB DEFAULT CHARSET = utf8mb4 COLLATE = utf8mb4_general_ci;
+```
           * 02-func-all.sql
-            * ```plain text
+```plain text
 DELIMITER $$
 
 create  DEFINER='root'@'%' function  `bok-cbdc-voucher`.FN_UID(
@@ -2096,7 +2106,7 @@ END$$
 DELIMITER ;
 ```
           * 03-init-data.sql
-            * ```sql
+```sql
 -- 코드 값 기초 데이터 셋팅 부분
 
 -- 기초 코드 값 셋팅
@@ -2197,7 +2207,7 @@ INSERT INTO `bok-cbdc-voucher`.tb_ca_menu (
           * 이후 데이터 필요할 때마다 생성 스크립트 작성
     * **Define Entities, Repositories, and Services(JPA):**
       * Entity
-        * ```java
+```java
 import jakarta.persistence.*;
 
 @Entity
@@ -2216,7 +2226,7 @@ public class User {
 }
 ```
       * Repository
-        * ```java
+```java
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface UserRepository extends JpaRepository<User, Long> {
@@ -2224,7 +2234,7 @@ public interface UserRepository extends JpaRepository<User, Long> {
 }
 ```
       * Service
-        * ```java
+```java
 import org.springframework.stereotype.Service;
 import java.util.List;
 
@@ -2247,12 +2257,13 @@ public class UserService {
 ```
     * **Create REST Controllers:**
     * **Run the Application:**
-      * ```shell
-./gradlew bootRun```
+```shell
+./gradlew bootRun
+```
     * **Appendix**
       * Manual Configuration class 예
         * Data source configuration(HikariCP)
-          * ```java
+```java
 package com.example.config;
 
 import com.zaxxer.hikari.HikariConfig;
@@ -2279,7 +2290,7 @@ public class DataSourceConfig {
 }
 ```
         * MyBatis confiuration
-          * ```java
+```java
 package com.example.config;
 
 import org.apache.ibatis.session.SqlSessionFactory;
@@ -2307,7 +2318,7 @@ public class MyBatisConfig {
 }
 ```
         * Transaction management configuration
-          * ```java
+```java
 package com.example.config;
 
 import org.springframework.context.annotation.Configuration;
@@ -2321,12 +2332,12 @@ public class TransactionConfig {
 ```
         * MyBatis Properties Configuration (Optional):
           * application.properties
-            * ```plain text
+```plain text
 spring.mybatis.configuration.map-underscore-to-camel-case=true
 spring.mybatis.configuration.cache-enabled=false
 ```
           * configuration class
-            * ```java
+```java
 package com.example.config;
 
 import org.apache.ibatis.session.Configuration;
@@ -2350,11 +2361,11 @@ public class MyBatisCustomConfig {
 ```
         * Setting Up Logging and Monitoring (Optional):
           * application.properties
-            * ```plain text
+```plain text
 logging.level.com.zaxxer.hikari=DEBUG
 ```
         * Directory structure
-          * ```plain text
+```plain text
 src/main/java/com/example
     ├── config
     │   ├── DataSourceConfig.java
@@ -2411,7 +2422,7 @@ src/main/java/com/example
           * **UseDataSource**:
             * This annotation is used to explicitly tell the system which data source (main or mirror) should be used by applying it to methods or classes. It works in conjunction with DataSourceAspect and RoutingDataSourceMain.
         * **Textual Diagram of Class Relationships:**
-          * ```plain text
+```plain text
                             +-------------------+
                             |   DatabaseProperties |
                             +-------------------+
@@ -2463,7 +2474,7 @@ src/main/java/com/example
           * This structure allows you to handle **multiple data sources** dynamically and **switch between them** using annotations and AOP. It also supports MyBatis configurations tailored to each data source, with various customizations such as interceptors and type handlers.
       * Configuration classes가 제대로 올라가기 위해서 @SpringBootApplication이 붙은 클래스가 있어야 한다.
         * 예
-          * ```java
+```java
 package kr.or.cbdc;
 
 import org.springframework.boot.SpringApplication;
@@ -2478,7 +2489,7 @@ public class CbdcApplication {
 ```
         * 디지털 바우처 시작 클래스
           * Application.java
-            * ```java
+```java
 package kr.or.cbdc;
 
 import java.io.IOException;
@@ -2549,10 +2560,11 @@ public class Application {
 }
 ```
           * **Check Component Scanning Scope (If Needed)**:
-            * ```plain text
-@SpringBootApplication(scanBasePackages = "kr.or.cbdc")```
+```plain text
+@SpringBootApplication(scanBasePackages = "kr.or.cbdc")
+```
           * **Manual Bean Registration (Optional)**:
-            * ```java
+```java
 import kr.or.cbdc.config.datasources.DataSourceMainConfig;
 import kr.or.cbdc.config.datasources.DataSourceAnalysisConfig;
 
@@ -2563,7 +2575,7 @@ public class CbdcApplication {
 }
 ```
           * **Ensure the YAML/Properties Files Are Configured Correctly**:
-            * ```yaml
+```yaml
 config:
   datasources:
     main:
@@ -2590,7 +2602,7 @@ config:
         * container용 WAR 생성
           * Application.java와 같은 디렉토리에 initializer 클래스를 두었다.
           * ServletInitializer.java
-            * ```java
+```java
 package kr.or.cbdc;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
@@ -2604,7 +2616,8 @@ public class ServletInitializer extends SpringBootServletInitializer implements 
         return application.sources(Application.class);
     }
 
-} ```
+} 
+```
           * ### 1. **ServletInitializer Purpose**:
             * Normally, Spring Boot applications are packaged as standalone JAR files that include an embedded servlet container (like Tomcat or Jetty). You can run them with java -jar yourapp.jar.
             * However, if you want to deploy your Spring Boot application as a **WAR file** to a traditional servlet container (like Tomcat or Jetty running **separately**), the ServletInitializer class is necessary.
@@ -2630,7 +2643,7 @@ public class ServletInitializer extends SpringBootServletInitializer implements 
         * Spring AI start(org.springframework.ai:spring-ai-starter-model-anthropic) 추가하면 작동
       * [작동 전제 조건](https://docs.spring.io/spring-ai/reference/api/chatmodel.html)
         * application.yaml for Anthropic
-          * ```yaml
+```yaml
 spring:
   application:
     name: mcp1
@@ -2641,7 +2654,8 @@ spring:
         options:
           model: claude-3-5-sonnet-20241022
           temperature: 0.7
-          max-tokens: 1000```
+          max-tokens: 1000
+```
       * 생성되는 주요 구성 요소
         * ChatModel 구현체
           * AnthropicChatModel
@@ -2658,7 +2672,8 @@ spring:
             * WebClient가 HTTP 요청을 처리할 수 있는 인터페이스 제공하는 것과 비슷.
           * 프롬프트 템플릿, RAG 어드바이저, 대화 메모리, 구조화된 출력 등 개발 용이하게 하는 API 포함.
       * AI 모델을 하나만 쓸 때, 자동 구성을 이용한 코드
-        * ```java
+
+```java
 @RestController
 @RequestMapping("/api/chatbot")
 public class ChatbotController {
@@ -2695,10 +2710,11 @@ public class ChatbotController {
 }
 
 record ChatRequest(String question) {}
-record ChatResponse(String answer, Long tokensUsed) {}```
+record ChatResponse(String answer, Long tokensUsed) {}
+```
       * 서비스 컴포넌트 만들 때 단일 모델 코딩, 복수 AI 모델 코딩 비교
         * 단일 모델
-          * ```java
+```java
 @Component
 public class AutoconfiguredChatService {
     private final ChatClient chatClient;
@@ -2714,10 +2730,11 @@ public class AutoconfiguredChatService {
                 .call()
                 .content();
     }
-}```
+}
+```
         * 복수 모델
           * 반드시 spring.ai.chat.client.enabled=false를 설정.
-          * ```java
+```java
 @Configuration
 @EnableConfigurationProperties(ChatClientProperties.class)
 public class ManualChatConfiguration {
@@ -2740,14 +2757,15 @@ public class ManualChatConfiguration {
             .defaultSystem("You are using a local Ollama model")
             .build();
     }
-}```
+}
+```
     * Chat Client API
       * Offers **a** fluent API
         * ![[100. media/image/pVOaC-OHfF.png]]
       * Creating a ChatClient
         * Inject autoconfigured ChatClient.builder Bean
           * 간단한 예
-            * ```java
+```java
 @RestController
 Class MyController() {
   private final ChatClient chatClient;
@@ -2763,7 +2781,8 @@ Class MyController() {
             .call()
             .content()
   }
-}```
+}
+```
       * multiple Chat Models
         * disable the `ChatClient.Builder` autoconfiguration by setting the property `spring.ai.chat.client.enabled=false` -> create multiple ChatCient manually.
   * Annotation
@@ -2777,7 +2796,7 @@ System properties
 Static values
 SpEL (Spring Expression Language) expressions
 
-      * ```javascript
+```javascript
 // Property from application.properties/yml
 @Value("${app.name}")
 private String applicationName;
@@ -2802,7 +2821,8 @@ private String userHome;
 @Value("classpath:data.json")
 private Resource dataFile;
 @Value("file:/path/to/external/file.txt")
-private Resource externalFile;```
+private Resource externalFile;
+```
 
 classpath: - This is a Spring resource prefix that tells Spring to look for the file in the classpath (typically in src/main/resources or any JAR dependencies).
 Resource - The field type is Resource, which is a Spring abstraction for accessing various types of resources (files, URLs, etc.).
@@ -2834,19 +2854,20 @@ Resource - The field type is Resource, which is a Spring abstraction for accessi
 4. Need nested object validation? → Use @Valid on the field/paramete__
     * configuration
       * ### @Configuration
-        * ```java
+```java
 @Configuration
 public class AppConfig {
     @Bean
     public MyService myService() {
         return new MyServiceImpl();
     }
-}```
+}
+```
           * Marks a class as a source of bean definitions
           * Equivalent to XML configuration files
           * Classes annotated with @Configuration are processed by Spring container
       * ### @ConfigurationProperties
-        * ```java
+```java
 @ConfigurationProperties(prefix = "app.database")
 @Component
 public class DatabaseProperties {
@@ -2854,21 +2875,23 @@ public class DatabaseProperties {
     private String username;
     private String password;
     // getters and setters
-}```
+}
+```
           * Binds external configuration properties to Java objects
           * Supports type-safe configuration binding
           * Can be used with records in Java 17+
       * ### @EnableConfigurationProperties
-        * ```java
+```java
 @Configuration
 @EnableConfigurationProperties({DatabaseProperties.class, CacheProperties.class})
 public class AppConfig {
-}```
+}
+```
           * Enables support for @ConfigurationProperties beans
           * Alternative to using @Component on properties classes
       * ## Bean Definition Annotations
       * ### @Bean
-        * ```java
+```java
 @Configuration
 public class ServiceConfig {
     @Bean
@@ -2882,21 +2905,23 @@ public class ServiceConfig {
     public MyService myService() {
         return new MyServiceImpl();
     }
-}```
+}
+```
           * Declares a method as a bean producer
           * Method return value is registered as a bean
           * Can specify bean name, scope, and other properties
       * ### @Primary
-        * ```java
+```java
 @Bean
 @Primary
 public EmailService primaryEmailService() {
     return new SmtpEmailService();
-}```
+}
+```
           * Marks a bean as primary when multiple candidates exist
           * Used for autowiring disambiguation
       * ### @Qualifier
-        * ```java
+```java
 @Bean
 @Qualifier("fast")
 public PaymentProcessor fastProcessor() {
@@ -2905,12 +2930,13 @@ public PaymentProcessor fastProcessor() {
 
 @Autowired
 @Qualifier("fast")
-private PaymentProcessor processor;```
+private PaymentProcessor processor;
+```
           * Provides additional metadata for autowiring
           * Used to specify which bean to inject when multiple candidates exist
       * ## Conditional Configuration
       * ### @ConditionalOnProperty
-        * ```java
+```java
 @Configuration
 @ConditionalOnProperty(
     name = "app.feature.enabled", 
@@ -2918,11 +2944,12 @@ private PaymentProcessor processor;```
     matchIfMissing = false
 )
 public class FeatureConfig {
-}```
+}
+```
           * Conditionally enables configuration based on property values
           * Can check for property existence or specific values
       * ### @ConditionalOnClass
-        * ```java
+```java
 @Configuration
 @ConditionalOnClass(RedisTemplate.class)
 public class RedisConfig {
@@ -2930,28 +2957,31 @@ public class RedisConfig {
     public RedisTemplate<String, Object> redisTemplate() {
         return new RedisTemplate<>();
     }
-}```
+}
+```
           * Enables configuration only if specified classes are present on classpath
       * ### @ConditionalOnMissingBean
-        * ```java
+```java
 @Bean
 @ConditionalOnMissingBean(DataSource.class)
 public DataSource defaultDataSource() {
     return new H2DataSource();
-}```
+}
+```
           * Creates bean only if no bean of specified type exists
           * Useful for providing default implementations
       * ### @ConditionalOnBean
-        * ```java
+```java
 @Bean
 @ConditionalOnBean(DataSource.class)
 public JdbcTemplate jdbcTemplate(DataSource dataSource) {
     return new JdbcTemplate(dataSource);
-}```
+}
+```
           * Creates bean only if specified bean exists
       * ## Profile and Environment
       * ### @Profile
-        * ```java
+```java
 @Configuration
 @Profile("production")
 public class ProductionConfig {
@@ -2968,55 +2998,61 @@ public class DevelopmentConfig {
     public DataSource dataSource() {
         return new H2DataSource();
     }
-}```
+}
+```
           * Activates configuration for specific profiles
           * Supports negation with "!" and expressions with "&", "|"
       * ### @ActiveProfiles (Testing)
-        * ```java
+```java
 @SpringBootTest
 @ActiveProfiles("test")
 class MyServiceTest {
-}```
+}
+```
           * Activates specific profiles for testing
       * ## Auto-Configuration
       * ### @EnableAutoConfiguration
-        * ```java
+```java
 @SpringBootApplication // includes @EnableAutoConfiguration
 public class Application {
     public static void main(String[] args) {
         SpringApplication.run(Application.class, args);
     }
-}```
+}
+```
           * Enables Spring Boot's auto-configuration mechanism
           * Usually included via @SpringBootApplication
       * ### @AutoConfigureAfter / @AutoConfigureBefore
-        * ```java
+```java
 @Configuration
 @AutoConfigureAfter(DataSourceAutoConfiguration.class)
 public class MyDatabaseConfig {
-}```
+}
+```
           * Controls the order of auto-configuration classes
           * Ensures dependencies are configured in correct order
       * ## Import and Component Scanning
       * ### @Import
-        * ```java
+```java
 @Configuration
 @Import({DatabaseConfig.class, CacheConfig.class})
 public class AppConfig {
-}```
+}
+```
           * Imports additional configuration classes
           * Can import @Configuration classes, ImportSelector, or ImportBeanDefinitionRegistrar
       * ### @ComponentScan
-        * ```java
+```java
 @Configuration
 @ComponentScan(basePackages = "com.example.services")
 public class AppConfig {
-}```
+}
+```
           * Configures component scanning
           * Usually included via @SpringBootApplication
       * ## Validation
       * ### @Validated
-        * ```java
+```java
 @ConfigurationProperties("app")
 @Validated
 public class AppProperties {
@@ -3026,43 +3062,47 @@ public class AppProperties {
     @Min(1)
     @Max(100)
     private int maxConnections;
-}```
+}
+```
           * Enables validation for configuration properties
           * Works with JSR-303/JSR-380 validation annotations
       * ## Property Sources
       * ### @PropertySource
-        * ```java
+```java
 @Configuration
 @PropertySource("classpath:custom.properties")
 @PropertySource(value = "file:${app.config.path}/app.properties", ignoreResourceNotFound = true)
 public class AppConfig {
-}```
+}
+```
           * Adds property sources to Spring Environment
           * Can load from classpath, file system, or URLs
       * ### @TestPropertySource (Testing)
-        * ```java
+```java
 @SpringBootTest
 @TestPropertySource(properties = {
     "app.feature.enabled=true",
     "app.timeout=5000"
 })
 class MyServiceTest {
-}```
+}
+```
           * Configures property sources for testing
       * ## Refresh and Dynamic Configuration
       * ### @RefreshScope
-        * ```java
+```java
 @Component
 @RefreshScope
 public class ConfigurableService {
     @Value("${app.message}")
     private String message;
-}```
+}
+```
           * Allows beans to be refreshed when configuration changes
           * Requires Spring Cloud Context dependency
       * ## Value Injection
       * ### @Value
-        * ```java
+```java
 @Component
 public class MyService {
     @Value("${app.timeout:30}")
@@ -3070,7 +3110,8 @@ public class MyService {
     
     @Value("#{systemProperties['java.version']}")
     private String javaVersion;
-}```
+}
+```
           * Injects property values directly into fields/methods
           * Supports default values and SpEL expressions
     * HTTP Request
@@ -3144,13 +3185,14 @@ public String processDynamicForm(@RequestParam Map<String, String> formData) {
 }
 ```
       * Multiple values as in GET collection
-        * ```java
+```java
 // Multiple values per parameter name
 @PostMapping("/multi") 
 public String handleMulti(@RequestParam MultiValueMap<String, String> params) {
   // params.get("categories") returns List<String>
   List<String> categories = params.get("categories");
-}```
+}
+```
       * @RequestParam Basic in POST
         * Spring boot annotation used to extract query parameters, **form data, and parts in multiple requests** from HTTP requests and bind them method parameters in your controller.
 Form data (POST with application/x-www-form-urlencoded): form fields in request body
@@ -3175,11 +3217,12 @@ public String createUser(@RequestParam Map<String, String> formData) {
   String email = formData.get("email");
     
   return "Created user: " + username + " with email: " + email;
-}```
+}
+```
 
   * RestClient
     * RestTemplate보다 최신.
-      * ```java
+```java
 RestClient restClient = RestClient.builder()
     .baseUrl(BASE_URL)
     .defaultHeader("Accept", "application/geo+json")
@@ -3189,7 +3232,8 @@ RestClient restClient = RestClient.builder()
 Points points = restClient.get()
     .uri("/points/{latitude},{longitude}", latitude, longitude)
     .retrieve()
-    .body(Points.class);```
+    .body(Points.class);
+```
   * Spring Milestones #memo ^2DfcxZcYB
     * Pre-release versions of Spring projects (e.g., 1.0.0-M6)
 More stable than SNAPSHOTs, less stable than RELEASE versions
@@ -3200,7 +3244,8 @@ Spring Version Hierarchy
 SNAPSHOT → Daily builds (most unstable)
 MILESTONE (M) → Pre-release with new features
 RC → Release Candidate (almost final)
-RELEASE → Production-ready (most stable)```
+RELEASE → Production-ready (most stable)
+```
 
 Why Add Milestone Repository?
 Maven Central only contains stable RELEASE versions

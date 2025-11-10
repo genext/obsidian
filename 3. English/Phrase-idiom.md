@@ -14,7 +14,7 @@ That's more of a trade-off than clear superiority.
 ?
 ![[100. media/audio/NrK84qx8.mp3]]
 ![[100. media/audio/XWwoZfYy.mp3]]
-<!--SR:!2025-11-10,17,250-->
+<!--SR:!2025-12-24,44,250-->
 -
 
 in action
@@ -78,7 +78,7 @@ What's your viewpoint on this?
 Both are correct, so use whichever feels more natural in your context.
 
 Standpoint?
-<!--SR:!2025-11-10,17,250-->
+<!--SR:!2025-12-23,43,250-->
 -
 
 more than anything, nothing more

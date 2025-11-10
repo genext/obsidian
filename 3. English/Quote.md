@@ -22,7 +22,7 @@ You have not had a bad day. You had ...
 ?
 You have not had a bad day. You had 15 bad minutes, which you carried with you throughout the day. ![[100. media/audio/speech_20251015085817050.mp3]]
 You have not had a bad day. You had 15 bad minutes, and you were attached to it all day. ![[100. media/audio/speech_20251015085909842 1.mp3]]
-<!--SR:!2025-11-10,6,210-->
+<!--SR:!2025-11-22,12,210-->
 -
 일체유심조
 ?

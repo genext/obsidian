@@ -299,7 +299,7 @@ to rub cheese, vegetables etc against a rough or sharp surface in order to 
 
 to annoy someone
 ![[100. media/audio/7326.mp3]]Mr Fen had a loud voice that ~ed on her ears.
-<!--SR:!2025-11-10,7,250-->
+<!--SR:!2025-11-28,18,250-->
 -
 
 
@@ -439,7 +439,7 @@ A ~ is a small mechanical or electronic device or tool, especially an ingenious 
 ![[100. media/audio/12194.mp3]]While cleaning the attic, she found an old ~ that her grandfather used to use, but couldn't figure out its purpose.
 ![[100. media/audio/12001.mp3]]In the world of technology, there's always a new ~ or gadget capturing people's attention.
 ![[100. media/audio/10555.mp3]]He pulled out a ~ from his bag that could instantly translate spoken language.
-<!--SR:!2025-11-10,7,250-->
+<!--SR:!2025-11-27,17,250-->
 -
 
 
@@ -453,7 +453,7 @@ said or done without a good reason, in a way that offends someone SYN unnecess
 
 as given freely(Free of charge)
 ![[100. media/audio/9193.mp3]]The software comes with a ~ trial period of 30 days.
-<!--SR:!2025-11-10,3,210-->
+<!--SR:!2025-11-16,6,210-->
 -
 
 
@@ -590,7 +590,7 @@ bad-temperedand easily annoyed SYN irritable
 ![[100. media/audio/389.mp3]]Mina’s always a bit ~ first thing in the morning.
 ![[100. media/audio/10385.mp3]]She woke up on the ~ side of the bed today.
 (![[100. media/audio/2522.mp3]]This dress is on the expensive side.)
-<!--SR:!2025-11-10,7,250-->
+<!--SR:!2025-11-28,18,250-->
 -
 
 
@@ -620,7 +620,7 @@ a food made of **oats cooked** in water or milk, which poor people ate in the 
 ![[100. media/audio/11864.mp3]]In many historical novels, characters living in poverty are often depicted eating ~ as a staple food.
 ![[100. media/audio/3610.mp3]]The book offered only ~ in terms of insights, providing little that was new or thought-provoking.
 ![[100. media/audio/10334.mp3]]The sick child was fed ~ because it was gentle on his stomach.
-<!--SR:!2025-11-10,3,210-->
+<!--SR:!2025-11-16,6,210-->
 -
 
 
@@ -670,7 +670,7 @@ relating to areas of land that have never been used for building on
 
 ![[100. media/image/9933.jpg|200]]
 brown‧field \[only before noun\] relating to areas of a city that in the past were used for factories, offices etc, and could be cleared and used to build new houses
-<!--SR:!2025-11-10,7,250-->
+<!--SR:!2025-12-06,26,270-->
 -
 
 
@@ -678,7 +678,7 @@ gauge ![[100. media/audio/7668.mp3]] ![[100. media/audio/1134.mp3]] ![[100. medi
 ?
 측정하다, 평가하다
 ![[100. media/audio/8386.mp3]]The petrol ~ is still on full.
-<!--SR:!2025-11-10,5,230-->
+<!--SR:!2025-11-22,12,230-->
 -
 
 
@@ -690,7 +690,7 @@ to shiver or shudder
 
 
 Cf. shudder
-<!--SR:!2025-11-10,5,230-->
+<!--SR:!2025-11-25,15,250-->
 -
 
 
@@ -837,7 +837,7 @@ a supply of something, especially a product or crop, that is more than is need
 to cause something to have too much of something  ![[100. media/audio/9473.mp3]]the ~ted property market
 
 Etymology:
-<!--SR:!2025-11-10,5,230-->
+<!--SR:!2025-11-22,12,230-->
 -
 
 

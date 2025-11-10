@@ -12,10 +12,11 @@ updated: 2025-09-07 12:49:42
 ## JwtTokenFilter
 ### Source
 #### build error?
-##### ```plain text
+```plain text
 Build error. C:\develop\backend\org_back_end\src\main\java\kr\or\cbdc\application\common\user\filter\JwtTokenFilter.java:125: error: local variables referenced from a lambda expression must be final or effectively final
-                    if ( PAYMENT_URL.stream().anyMatch(paymentUrl -> httpServletRequest.getRequestURL().toString().contains(paymentUrl))) {```
-#### ```java
+                    if ( PAYMENT_URL.stream().anyMatch(paymentUrl -> httpServletRequest.getRequestURL().toString().contains(paymentUrl))) {
+```
+```java
 package kr.or.cbdc.application.common.user.filter;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
@@ -290,7 +291,8 @@ public class JwtTokenFilter extends OncePerRequestFilter {
 
     }
 
-}```
+}
+```
 ## sftp + job scheduler 구현
 ### dependency
 #### ```xml
@@ -300,7 +302,7 @@ public class JwtTokenFilter extends OncePerRequestFilter {
 </dependency>```
 ### config class
 #### Instead of direct config values, you can use configuration class with better type safe
-#### ```java
+```java
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
@@ -336,9 +338,10 @@ public class SftpConfig {
     public SftpRemoteFileTemplate sftpRemoteFileTemplate() {
         return new SftpRemoteFileTemplate(sftpSessionFactory());
     }
-}```
+}
+```
 ### job scheduler
-#### ```java
+```java
 package kr.or.cbdc.application.common.scheduler;
 
 import java.nio.charset.StandardCharsets;
@@ -580,11 +583,12 @@ public class EwaDeactivateCstmrJob extends AnyJob {
         String headerDate = header.substring(1);
         return headerDate.equals(expectedDate);
     }
-}```
+}
+```
 ## AI 대화록
 ### Deposit Token 발행 메소드에 발행이력 데이터 기본키값 파라미터 추가
 #### 질문: issueDepositToken 변경해라
-##### ```java
+```java
 package kr.or.cbdc.application.ewa.cstmr.service;
 
 import kr.or.bok.wallet.sdk.errorhandling.WalletSdkException;
@@ -1720,9 +1724,10 @@ Now I need to change issueDepositToken.
 1. add a parameter named 'TxDbId' which is nullable.
 Then there are 2 cases.
 1. TxDbId is null, then just do everything in issueDepositToken.
-2. TxDbId is not null, then skip 3-1, 4 and set kafka message's TxDbId with the parameter.```
+2. TxDbId is not null, then skip 3-1, 4 and set kafka message's TxDbId with the parameter.
+```
 #### 답
-##### ```java
+```java
 /**
 ##### 계정계를 포함한 전체 onRamp 로직을 실행.
 ##### convDeposit에서 호출
@@ -1880,10 +1885,11 @@ private void handleBankingFailure(String cstmrNo, BigDecimal acnutnoBlce, BigDec
     if (wGuid != null) {
         handleOnRampFailure(wGuid, acnutno, trnscAmt);
     }
-}```
+}
+```
 ### issueDepositToken을 활용하여 변경하기 전 소스와 변경 후 소스 비교 점검
 #### 질문: 소스를 비교하고 업무 처리흐름이 동일한지 판별
-##### ```java
+```java
 package kr.or.cbdc.application.ewa.cstmr.service;
 
 import kr.or.bok.wallet.sdk.errorhandling.WalletSdkException;
@@ -4986,9 +4992,10 @@ public class MessageListener {
 }
 
 Compare old version and new version and check if business logic is identical.
-Everything must be the same except when performOffRampRecovery should run.```
+Everything must be the same except when performOffRampRecovery should run.
+```
 #### 답
-##### ```plain text
+```plain text
 The business logic remains identical except in the following scenarios:
 
 When offRamp API call fails:
@@ -5006,11 +5013,12 @@ New: Executes full recovery process including token reissuance
 
 The changes enhance error recovery by attempting to restore the system to its original state through token reissuance when offRamp operations fail, rather than just adjusting the customer balance.
 All other business logic including account validation, blockchain interactions, transaction processing, and message handling remains functionally identical between versions.
-These changes improve system resilience without altering the core business rules.```
+These changes improve system resilience without altering the core business rules.
+```
 ### sftp 환경변수 문제
 #### 질문: 환경변수 사용이 일관되지 않다.
 ##### SftpConfig와 EwaDeactivateCstmrJob
-##### ```java
+```java
 package kr.or.cbdc.config;
 
 import java.time.LocalDate;
@@ -5313,9 +5321,10 @@ public class EwaDeactivateCstmrJob extends AnyJob {
 
 These are code for sftp.
 There is an inconsistency about config variables.
-In SftpConfig, I commented out reading config variables. But in the DeactivateCstmrJob, I use configProperties.```
+In SftpConfig, I commented out reading config variables. But in the DeactivateCstmrJob, I use configProperties.
+```
 ##### ConfigProperties
-##### ```java
+```java
 package kr.or.cbdc.config.props;
 
 import java.io.IOException;
@@ -5753,10 +5762,11 @@ public class ConfigProperties {
         @NotBlank(message = "기본 파일명이 없습니다.")
         private String fileBaseName;
     }
-}```
+}
+```
 #### 답
 ##### ConfigProperties 내 Sftp 클래스 변경
-##### ```java
+```java
 @Data
 public static class Sftp {
     @NotBlank(message = "SFTP host is required")
@@ -5774,9 +5784,10 @@ public static class Sftp {
     
     @Valid
     private Remote remote;
-}```
+}
+```
 ##### yaml 파일 수정
-##### ```plain text
+```plain text
 config:
   sftp:
     host: 10.208.63.15
@@ -5785,9 +5796,10 @@ config:
     password: xxxxxxxxxx
     remote:
       directory: /upload/SEND/
-      file-base-name: TDONOFFRAMPHISTORY```
+      file-base-name: TDONOFFRAMPHISTORY
+```
 ##### SftpConfig 수정
-##### ```java
+```java
 @Configuration
 @RequiredArgsConstructor
 public class SftpConfig {
@@ -5817,10 +5829,11 @@ public class SftpConfig {
         });
         return handler;
     }
-}```
+}
+```
 ### Optional을 이용한 UMS message refactory
 #### 질문: 코드가 refactoring 된 것 같다. 비교
-##### ```java
+```java
 This is old code. 
 @Slf4j
 @Service
@@ -6402,10 +6415,11 @@ GwUmsAppPushDto push = GwUmsAppPushDto.builder().umsTmplCd("RPWSTTPE0132438")
 								.csno(userInfo.getCstmrNo()).stlAm(amount).mpng1(recNm).build();
 						apiCallHelper.callUMSGateway(push);
 						if (userInfo.getPushToken() != null && !userInfo.getPushToken().isEmpty())
-							tokenList.add(userInfo.getPushToken());```
+							tokenList.add(userInfo.getPushToken());
+```
 ### SecurityConfig 기능
 #### 질문: SecurityConfig에 특정 url이 등록되어 있을 때 기능?
-##### ```java
+```java
 This is security config file.
 
 @Configuration
@@ -6577,9 +6591,10 @@ public class SecurityConfig {
 
 Look at the /pdm/wallet/**.
 
-When I call this endpoint with token, no problem? Doesn't the security filter remove the token? Or just pass the token to the endpoint?```
+When I call this endpoint with token, no problem? Doesn't the security filter remove the token? Or just pass the token to the endpoint?
+```
 #### 답
-##### ```plain text
+```plain text
 Let me analyze the security configuration to answer your questions about the /pdm/wallet/** endpoint behavior.
 Looking at the code, I notice that /pdm/wallet/** is listed in the webSecurityCustomizer() method under web.ignoring().requestMatchers(). This is significant because:
 
@@ -6597,10 +6612,11 @@ The security filter will not process or remove the token
 The token will be passed unchanged to the endpoint
 It's up to your endpoint implementation to handle any token validation if needed
 
-If you want the JWT token validation to occur for /pdm/wallet/** endpoints, you should remove that path from the webSecurityCustomizer() method. This would make the endpoint go through the normal security filter chain, including your jwtTokenFilter.```
+If you want the JWT token validation to occur for /pdm/wallet/** endpoints, you should remove that path from the webSecurityCustomizer() method. This would make the endpoint go through the normal security filter chain, including your jwtTokenFilter.
+```
 ### Kafka 구조 변경
 #### v1: 업무 처리가 들어가기 이전 버전.
-##### ```java
+```java
 @Slf4j
 @Component
 public class MessageListener {
@@ -6837,9 +6853,10 @@ public class MessageListener {
     }
 
 
-}```
+}
+```
 #### v2: v1에 업무 처리가 추가된 버전
-##### ```java
+```java
 @Slf4j
 @Component
 public class MessageListener {
@@ -7480,7 +7497,7 @@ public class MessageListener {
 
 ```
 #### v3: 구조가 완전히 바뀐 버전
-        * ```java
+```java
 package kr.or.cbdc.infrastructure.queue;
 
 import kr.or.bok.wallet.sdk.errorhandling.WalletSdkException;
@@ -7862,7 +7879,8 @@ public class MessageListener {
 
     }
 
-}```
+}
+```
 #### v2에 있는 업무 처리를 v3에 적용한 것은 소스 디렉토리에
 #### 순서도
 ![[100. media/image/gIo9Liz4Mj.png]]
@@ -7873,7 +7891,7 @@ public class MessageListener {
 ##### Managing transaction sagas (coordinating distributed transactions)
 ##### Generating unique request IDs
 ##### Storing transaction states
-          * ```java
+```java
 package kr.or.cbdc.infrastructure.queue;
 
 import kr.or.bok.wallet.sdk.errorhandling.WalletSdkException;
@@ -8167,9 +8185,10 @@ public class KafkaProducer {
                 message.getTrnscSttusCd(), message.getTxHash(), message.getTretInstt(), null);
     }
 
-}```
+}
+```
 ##### EwaAcnutManageServiceImpl.java
-          * ```java
+```java
 package kr.or.cbdc.application.ewa.cstmr.service;
 
 import kr.or.bok.wallet.sdk.errorhandling.WalletSdkException;
@@ -8842,9 +8861,10 @@ public class EwaAcnutManageServiceImpl extends SupportCallback {
         FencedLock lock = hazelcastInstance.getCPSubsystem().getLock("lock:" + userId);
         lock.unlock();
     }
-}```
+}
+```
 ##### SupportCallback.java
-          * ```java
+```java
 package kr.or.cbdc.interfaces.blockchain;
 
 import kr.or.bok.wallet.sdk.errorhandling.WalletSdkException;
@@ -9000,13 +9020,14 @@ public class SupportCallback {
             }
         };
     }
-}```
+}
+```
 ##### MessageListener.java - Processes messages by
 ##### Consuming messages from Kafka topics using `@KafkaListener` annotations
 ##### Handling transaction events
 ##### Processing updates and sending responses
 ##### Managing retries for failed messages
-          * ```java
+```java
 package kr.or.cbdc.infrastructure.queue;
 
 import kr.or.bok.wallet.sdk.errorhandling.WalletSdkException;
@@ -9823,7 +9844,8 @@ public class MessageListener {
             sendBankLegacyEvent(message);
         }
     }
-}```
+}
+```
 #### 답
 ##### Kafka
 ##### How messages flow
@@ -9848,7 +9870,7 @@ public class MessageListener {
 ##### How Saga Pattern is Implemented
 ##### Transaction Saga Records
 ##### The system creates a transaction saga record for each step in a distributed transaction:
-              * ```java
+```java
 TransactionSaga txSaga = TransactionSaga.builder()
     .fromAdres(message.getFrom())
     .toAdres(message.getTo())
@@ -9861,10 +9883,11 @@ TransactionSaga txSaga = TransactionSaga.builder()
     .aliasNm(message.getAliasNm())
     .sagaGrupId(requestId)  // Groups related transactions
     .trnscTypeSe(message.getCommand().name())
-    .build().newId();```
+    .build().newId();
+    ```
 ##### Saga Coordination with Kafka
 ##### In the `KafkaProducer.setSaga()` method, a unique saga group ID is generated, and all related messages are assigned this ID:
-              * ```java
+```java
 public String setSaga(List<TxMessage> messages, AccessLevel walletType) {
     String requestId = generateRequestId(prefixRequestId, walletType);
     for (TxMessage message : messages) {
@@ -9876,17 +9899,19 @@ public String setSaga(List<TxMessage> messages, AccessLevel walletType) {
         message.setNum(num);
     }
     return requestId;
-}```
+}
+```
 ##### State Tracking and Progression
 ##### The `MessageListener` processes messages and updates the saga state:
-              * ```java
+```java
 transactionSagaMapper.updateStatus(message.getTxSagaId(),
-        message.getTrnscSttusCd(), message.getTxHash(), message.getTretInstt(), null);```
+        message.getTrnscSttusCd(), message.getTxHash(), message.getTretInstt(), null);
+```
 ##### Compensating Transactions? 설명이 좀 잘못된 것 같다.
 ### Serializable and Clonable
 #### 질문: Should I implement Serializable and Cloneable for Kafka messaging?
 ##### TxMessage.java
-          * ```java
+```java
 package kr.or.cbdc.infrastructure.queue;
 import java.io.Serializable;
 import java.math.BigDecimal;
@@ -9957,7 +9982,8 @@ public class TxMessage implements Serializable , Cloneable {
             throw new AssertionError();
         }
     }
-}```
+}
+```
 #### 답
 ##### **Serializable**: Yes, implementing Serializable is appropriate for Kafka messages. Kafka's default serializers/deserializers often rely on Java serialization when working with complex objects. While Kafka has its own serialization mechanisms, having your message class implement Serializable provides flexibility.
 ##### **Cloneable**: This is less necessary for Kafka specifically. The Cloneable interface is more about object copying within your application rather than message transmission. Your implementation of `clone()` might be useful for your application logic (creating copies of messages before modification), but it's not directly required for Kafka messaging.
@@ -9972,7 +9998,7 @@ public class TxMessage implements Serializable , Cloneable {
 ##### **Your implementation**: Your `clone()` method performs a shallow copy (which may be sufficient if all fields are immutable or primitive).
 ### blockchain callback
 #### EwaAcnutManageServiceImpl.java
-        * ```java
+```java
 package kr.or.cbdc.application.ewa.cstmr.service;
 
 import kr.or.bok.wallet.sdk.errorhandling.WalletSdkException;
@@ -10645,9 +10671,10 @@ public class EwaAcnutManageServiceImpl extends SupportCallback {
         FencedLock lock = hazelcastInstance.getCPSubsystem().getLock("lock:" + userId);
         lock.unlock();
     }
-}```
+}
+```
 #### SupportCallback.java
-        * ```java
+```java
 package kr.or.cbdc.interfaces.blockchain;
 
 import kr.or.bok.wallet.sdk.errorhandling.WalletSdkException;
@@ -10842,9 +10869,10 @@ public class CheckCallBack {
         callbackMap.remove(key);
     }
 
-}```
+}
+```
 #### BlockchainListener.java
-        * ```java
+```java
 package kr.or.cbdc.infrastructure.queue;
 
 import org.apache.commons.lang3.ObjectUtils;
@@ -11100,9 +11128,10 @@ public class BlockChainListener {
 
     }
 
-}```
+}
+```
 #### BlockchainFilter.java
-        * ```java
+```java
 package kr.or.cbdc.infrastructure.queue;
 
 import kr.or.cbdc.infrastructure.framework.core.foundation.exception.ErrorCode;
@@ -11151,7 +11180,7 @@ public class BlockChainFilter implements RecordFilterStrategy<String, String> {
 #### 상속관계가 "is-a" 관계가 아니고 이상. 대신 composite 방식으로 해도 아무런 문제 없음.
 ### lead to the **UnexpectedRollbackException** at the end.
 #### 문제가 된 소스
-##### ```java
+```java
 @Transactional(readOnly = false)
 public VcPlaceOwnerModel read(String ownerId) {
 
@@ -11199,11 +11228,12 @@ public VcPlaceOwnerModel read(String ownerId) {
         model.setVcPlaceVoucherList(this.vcPlaceVoucherMapper.selectByCstmrNo(ownerId));
 
         return model;
-    }```
+    }
+```
 #### 추출한 log
 ##### 첫 에러: **cannot get acnutBalance for the request**
 ##### 종료 commit 시도할 때 에러: **Transaction rolled back because it has been marked as rollback-only**
-##### ```plain text
+```plain text
 2025-03-07 15:28:48.180 DEBUG [1529269:catalina-http-8090-exec-2] k.o.c.i.f.m.p.dao.interceptor.EncodingInterceptor  [020LEL8CB903BFE200-10.208.16.11] 암복 0208EIF5ACCC1EEA90
 2025-03-07 15:28:48.180 DEBUG [1529269:catalina-http-8090-exec-2] k.o.c.a.v.v.m.V.selectVcIndutyRlList               [020LEL8CB903BFE200-10.208.16.11] ==> Parameters: 0208EIF5ACCC1EEA90(String)
 2025-03-07 15:28:48.182 DEBUG [1529269:catalina-http-8090-exec-2] k.o.c.a.v.v.m.V.selectVcIndutyRlList               [020LEL8CB903BFE200-10.208.16.11] <==      Total: 1
@@ -11267,7 +11297,8 @@ org.springframework.transaction.UnexpectedRollbackException: Transaction rolled 
         at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
         at java.base/java.lang.reflect.Method.invoke(Method.java:568)
         at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205)
-        at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:150)```
+        at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:150)
+```
 #### 답
 ##### Even though the exception is caught, it's causing the transaction to be marked as **rollback-only**, which leads to the **UnexpectedRollbackException** at the end.
 ##### Although you catch this exception, the transaction is already marked for rollback behind the scenes.
@@ -11275,7 +11306,7 @@ org.springframework.transaction.UnexpectedRollbackException: Transaction rolled 
 #### 해결책. "Transactional" 주석 제거
 ### frontEnd에서 필수 입력 항목을 선택 입력으로 바꾸기(미완료)
 #### create.tsx?
-##### ```typescript
+```typescript
 import Row from 'shared/src/component/input/row';
 import useBankModal from 'shared/src/component/modal/modalHook';
 import codeUtil from 'shared/src/component/util/codeUtil';
@@ -11840,19 +11871,22 @@ export default function VcOwnerManagementCreate({ listViewRef, closeDetail }: Cr
       </Modal>
     </>
   );
-}```
+}
+```
 #### 사업자 코드, 업종 코드가 필수 입력값인데 이를 선택 입력으로 수정
 ### DB unique index 정의 및 error free insert
 #### index 정의
-##### ```sql
-CREATE UNIQUE_INDEX idx_unique_cstmr on TB_DEDPESZPE_LIST (ITCSNO, CUS_DSCD, CUS_STS_CHG_DTM)```
+```sql
+CREATE UNIQUE_INDEX idx_unique_cstmr on TB_DEDPESZPE_LIST (ITCSNO, CUS_DSCD, CUS_STS_CHG_DTM)
+```
 ##### 테이블 변경
-##### ```sql
+```sql
 ALTER TB_DEDPESZPE_LIST
 ADD CONSTRAINT uk_dedpeszpe_list_combination
-UNIQUE INDEX (ITCSNO, CUS_DSCD, CUS_STS_CHG_DTM)```
+UNIQUE INDEX (ITCSNO, CUS_DSCD, CUS_STS_CHG_DTM)
+```
 #### 중복 키로 에러가 나도 다음 레코드로 넘어가기
-##### ```sql
+```sql
 <insert id=insertList parameterType="java.util.List">
   INSERT IGNORE INTO TB_DEDPESZPE_LIST
     (ITCSNO,
@@ -11866,10 +11900,11 @@ UNIQUE INDEX (ITCSNO, CUS_DSCD, CUS_STS_CHG_DTM)```
      #{item.cusStsChgDtm}},
      NOW(),
     '0')
-<insert/>```
+<insert/>
+```
 ### Distributed locking(FencedLock) with Hazelcast
 #### EwaAcnutManageServiceImpl.java
-##### ```java
+```java
 package kr.or.cbdc.application.ewa.cstmr.service;
 
 import kr.or.bok.wallet.sdk.errorhandling.WalletSdkException;
@@ -12531,12 +12566,13 @@ public class EwaAcnutManageServiceImpl extends SupportCallback {
         FencedLock lock = hazelcastInstance.getCPSubsystem().getLock("lock:" + userId);
         lock.unlock();
     }
-}```
+}
+```
 #### 답: This pattern is common in financial systems where you need stronger guarantees than what regular database transactions provide, especially in distributed environments. It prevents scenarios like a user initiating two token redemptions simultaneously from different devices, potentially leading to incorrect balance calculations or double-spending.
 ### Default transation
 #### config 설정으로 @Transaction이 없어도 특정 파일 내 메소드가 기본적으로 Transactional이 되도록 한 것(using AOP with transaction advisors)
 ##### TransactionConfigProperties.java
-##### ```java
+```java
 package kr.or.cbdc.infrastructure.framework.core.persistence.transaction.props;
 
 import org.springframework.transaction.TransactionDefinition;
@@ -12583,9 +12619,10 @@ public class TransactionConfigProperties {
 
     }
 
-}```
+}
+```
 ##### TransactionInterceptorFactory.java
-##### ```java
+```java
 package kr.or.cbdc.infrastructure.framework.core.persistence.transaction.config;
 
 import java.util.ArrayList;
@@ -12677,9 +12714,10 @@ public class TransactionInterceptorFactory {
         return txAdvice;
     }
 
-}```
+}
+```
 ##### DataSourceMainConfig.java
-##### ```java
+```java
 package kr.or.cbdc.config.datasources;
 
 import com.zaxxer.hikari.HikariDataSource;
@@ -12943,9 +12981,10 @@ public class DataSourceMainConfig {
 
     }
 
-}```
+}
+```
 ##### application.yml
-##### ```plain text
+```plain text
 config:
   validStdt: "9"
   validEddt: "14"
@@ -12962,10 +13001,11 @@ config:
       transaction:
         read-only-method-names:
         - view*
-        - get*```
+        - get*
+```
 #### 설정
 ##### In `DataSourceMainConfig`, there's a method called `transactionAdviceAdvisor()` that creates an AOP advisor with a pointcut expression:
-##### ```java
+```java
 @Bean(name = "transactionAdviceAdvisor.main")
 public Advisor transactionAdviceAdvisor() {
     AspectJExpressionPointcut pointcut = new AspectJExpressionPointcut();
@@ -12977,25 +13017,28 @@ public Advisor transactionAdviceAdvisor() {
     txAdviceAdvisor.setAdvice(transactionAdvice());
 
     return txAdviceAdvisor;
-}```
+}
+```
 ##### This pointcut expression applies transaction management to **all methods** in classes that:
 ##### End with `ServiceImpl`
 ##### Are in any package with `.service.` or `.service.impl.`
 ##### The transaction attributes (read-only, isolation level, etc.) are configured via `TransactionInterceptorFactory` which reads from application properties:
-##### ```java
+```java
 @Bean(name = "transactionConfig.main")
 @ConfigurationProperties(prefix = "config.datasources.main.transaction")
 public TransactionConfigProperties transactionConfig() {
     return new TransactionConfigProperties();
-}```
+}
+```
 ##### From your application.yml, specific methods are designated as read-only:
-##### ```java
+```java
 transaction:
   read-only-method-names:
   - view*
-  - get*```
+  - get*
+```
 ##### All other methods that match the pointcut expression are configured with a default transaction attribute in `TransactionInterceptorFactory`:
-##### ```java
+```java
 {
     transactionAttribute = new RuleBasedTransactionAttribute();
     transactionAttribute.setName(this.attributeName);
@@ -13005,10 +13048,11 @@ transaction:
     transactionAttributeSource = new NameMatchTransactionAttributeSource();
     transactionAttributeSource.addTransactionalMethod("*", transactionAttribute);
     transactionAttributeSourceList.add(transactionAttributeSource);
-}```
+}
+```
 ### API call interface
 #### ApiCallHelper.java
-##### ```java
+```java
 package kr.or.cbdc.interfaces;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
@@ -13457,9 +13501,10 @@ public class ApiCallHelper {
         return null;
     }
 
-}```
+}
+```
 #### InterfaceMap.java
-##### ```java
+```java
 package kr.or.cbdc.interfaces;
 
 import com.google.gson.Gson;
@@ -13527,9 +13572,10 @@ public class InterfaceMap  extends HashMap{
 
 
 
-}```
+}
+```
 #### InterfaceSend.java
-##### ```java
+```java
 package kr.or.cbdc.interfaces;
 
 import java.util.HashMap;
@@ -13904,9 +13950,10 @@ public class InterfaceSend {
 		return sendWooriWon(url, map);
 	}	
 	
-}```
+}
+```
 #### 그 외 관련 code
-##### ```java
+```java
 package kr.or.cbdc.config.props;
 
 import java.io.IOException;
@@ -15691,4 +15738,5 @@ public class TokenUtils {
 
     }    
 }
---```
+--
+```

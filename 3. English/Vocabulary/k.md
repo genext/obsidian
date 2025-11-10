@@ -74,7 +74,7 @@ a computer system or program that is made or written very quickly and not very w
 ![[100. media/audio/12008.mp3]]_When the software crashed, we ~ed a fix to keep it running.
 _![[100. media/audio/10494.mp3]]_The temporary repair on the boat was a ~, but it got us back to shore.
 _![[100. media/audio/8850.mp3]]_The computer system was a ~ of old and new software._
-<!--SR:!2025-11-10,5,230-->
+<!--SR:!2025-11-22,12,230-->
 -
 
 

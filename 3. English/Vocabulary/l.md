@@ -45,7 +45,7 @@ lackey ![[100. media/audio/1096.mp3]] ![[100. media/audio/2901.mp3]]
 ?
 ![[100. media/image/7822.png|200]]
 ![[100. media/audio/11620.mp3]]someone who always does what a particular person tells them to do – used to show disapproval
-<!--SR:!2025-11-10,1,230-->
+<!--SR:!2025-11-11,1,210-->
 -
 
 
@@ -783,7 +783,7 @@ if a problem or difficulty ~s, it is likely to happen very soon  ![[100. media/
 
 ![[100. media/audio/4849.mp3]]~ large: to seem important, worrying, and difficult to avoid
 ![[100. media/audio/1943.mp3]]Fear of failure ~ed large in his mind.
-<!--SR:!2025-11-10,1,230-->
+<!--SR:!2025-11-12,2,230-->
 -
 
 

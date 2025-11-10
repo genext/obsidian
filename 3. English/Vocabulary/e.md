@@ -16,7 +16,7 @@ efficacy ![[100. media/audio/2gPHQ8cexL.mp3]] ![[100. media/audio/aiQpS85ME8.mp3
   The vaccine has 95% efficacy against the virus ![[100. media/audio/HOvHn9Ejee.mp3]] ![[100. media/audio/z2Ig_nZddd.mp3]]
 
   They're studying the efficacy of solar panels in cold climates ![[100. media/audio/SGtKb9v9ly.mp3]] ![[100. media/audio/lG4H1KOAfp.mp3]]
-<!--SR:!2025-11-10,17,250-->
+<!--SR:!2025-12-24,44,250-->
 -
 
 emergent ![[100. media/audio/QqVdt3nX9b.mp3]] ![[100. media/audio/uKcmUVCXnA.mp3]]
@@ -85,7 +85,7 @@ a speech or piece of writing in which you praise someone or something very much,
 
 The minister delivered a long eulogy.![[100. media/audio/5NGjF7A4.mp3]]
 Commander Lewis and the surviving crew, via long-range communication from Hermes, gave eulogies for their departed comrade from deep space.![[100. media/audio/ftHBTu76.mp3]]![[100. media/audio/RjrP0c35.mp3]]
-<!--SR:!2025-11-10,9,250-->
+<!--SR:!2025-12-02,22,250-->
 -
 enamo\[u\]red ![[100. media/audio/12612.mp3]]
 ?

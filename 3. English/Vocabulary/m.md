@@ -47,7 +47,7 @@ The word "~" is a verb that has a few related meanings, but most commonly, it is
 
 **Etymology**:
 The word "macerate" comes from the Latin "macerare," which means "to soften, soak, steep."
-<!--SR:!2025-11-10,3,250-->
+<!--SR:!2025-11-22,12,270-->
 -
 
 
