@@ -38,7 +38,7 @@ to continue doing something after stopping ****
 to continue doing something, especially work
 
 ![[100. media/audio/9335.mp3]]I suppose I could get ~ with doing my expenses while I wait for the computer system to restart.
-<!--SR:!2025-11-11,4,190-->
+<!--SR:!2025-11-18,7,190-->
 -
 
 
@@ -59,7 +59,7 @@ grimace ![[100. media/audio/2380.mp3]] ![[100. media/audio/9820.mp3]] ![[100. me
 to twist your face in an ugly way because you do not like something, because you are feeling pain, or because you are trying to be funny
 ![[100. media/audio/9412.mp3]]She ~ed at her reflection in the mirror. ![[100. media/audio/2403.mp3]]She sipped the whisky and ~ed.
 ![[100. media/audio/12363.mp3]]His face twisted in a ~ of pain. ![[100. media/audio/11967.mp3]]a ~ of disgust
-<!--SR:!2025-11-11,8,250-->
+<!--SR:!2025-12-02,21,250-->
 -
 
 
@@ -113,7 +113,7 @@ someone who is good at gymnastics and competes against other people in gymnastic
 ![[100. media/image/50.jpg|200]]
 
 gymnastics![[100. media/audio/4465.mp3]]![[100. media/audio/9350.mp3]]
-<!--SR:!2025-11-12,7,250-->
+<!--SR:!2025-12-07,25,270-->
 -
 
 
@@ -128,7 +128,7 @@ to accidentally break the surface of your skin by rubbing it against something
 to touch something lightly while passing it, sometimes damaging it  ![[100. media/audio/9541.mp3]]A bullet ~ed his arm.
 
 a wound caused by rubbing that slightly breaks the surface of your skin  ![[100. media/audio/12725.mp3]]Adam walked away from the crash with just a ~ on his left shoulder.
-<!--SR:!2025-11-12,3,250-->
+<!--SR:!2025-11-19,7,250-->
 -
 
 
@@ -145,13 +145,14 @@ friendly and preferring to be with other people SYN sociable OPP solitary
 
 glaze ![[100. media/audio/30.mp3]] ![[100. media/audio/760.mp3]] ![[100. media/audio/3897.mp3]] ![[100. media/audio/7932.mp3]]
 ?
+![[Pasted image 20251113091437.png]]
 if your eyes ~ over, they show no expression, usually because you are very bored or tired
 ![[100. media/audio/6257.mp3]]Sometimes his eyes would ~ over for a second or two.
 
 ![[100. media/image/2645.jpg|200]]
 to cover food with a liquid which gives it an attractive shiny surface
 ![[100. media/audio/1403.mp3]]~ the rolls with egg white.
-<!--SR:!2025-11-13,3,250-->
+<!--SR:!2025-11-25,12,270-->
 -
 
 
@@ -189,17 +190,18 @@ shiny and smooth
 
 something that is ~ has an attractive appearance on the surface that may hide something less pleasant
 ![[100. media/audio/2298.mp3]]a ~ election campaign
-<!--SR:!2025-11-12,1,230-->
+<!--SR:!2025-11-15,3,250-->
 -
 
 
 goldbrick ![[100. media/audio/6062.mp3]] ![[100. media/audio/8620.mp3]] ![[100. media/audio/11688.mp3]] ![[100. media/audio/5043.mp3]]
 ?
 to do no work when you are at your place of work or to stay away from your place of work when you should be there
+게으름 피우다, 가짜 금괴, 
 
 Working from home, once considered an opportunity to ~, has become the norm in many industries.
 ![[speech_20251031004434766.mp3]] ![[speech_20251031004459671.mp3]]
-<!--SR:!2025-11-12,5,230-->
+<!--SR:!2025-11-25,13,230-->
 -
 
 
@@ -256,11 +258,11 @@ dabbing his face with a corner of the ~  pillowcase he was wearing.
 
 gullible ![[100. media/audio/6970.mp3]] ![[100. media/audio/10002.mp3]] ![[100. media/audio/7744.mp3]] ![[100. media/audio/3123.mp3]]
 ?
-too ready to believe what other people tell you, so that you are easily tricked
+==too ready to believe== what other people tell you, so that you are easily tricked
 ![[100. media/image/8779.jpg|200]]
 
 ![[100. media/audio/12437.mp3]]Plastic replicas of the Greek pottery are sold to ~ tourists.
-<!--SR:!2025-11-13,3,250-->
+<!--SR:!2025-11-25,12,270-->
 -
 
 
@@ -273,7 +275,7 @@ SYN gesture, sign, signal, wave
 ![[100. media/audio/5571.mp3]]Jane ~ed wildly and shouted ‘Stop! Stop!’
 ![[100. media/audio/8680.mp3]]As he explained the directions, he ~ed towards various landmarks to help us understand the route better.
 ![[100. media/audio/10068.mp3]]The teacher often used to ~ to keep the students engaged and to make the lecture more dynamic.
-<!--SR:!2025-11-11,7,230-->
+<!--SR:!2025-11-27,16,230-->
 -
 
 
@@ -340,10 +342,11 @@ a thin line cut into a hard surface
 informal the beat of a piece of popular music
 In a more figurative sense, which is quite common today, it means to take great pleasure in something, to enjoy oneself, or to be in the zone, especially in the context of music or dance.
 ![[100. media/audio/5686.mp3]]a hypnotic dub groove
-![[100. media/audio/9019.mp3]]Once the band started playing, everyone found their ~ and the dance floor was alive with energy.
+
+Once the band started playing, everyone found their ~ and the dance floor was alive with energy. ![[speech_20251110214635893.mp3]]
 ![[100. media/audio/3093.mp3]]It took a few weeks to settle into the new job, but now I'm really in the ~ and loving the work.
 ![[100. media/audio/6686.mp3]]The team members fell into a ~ after a few practice sessions; their cooperation was seamless.
-<!--SR:!2025-11-11,8,250-->
+<!--SR:!2025-11-30,19,250-->
 -
 
 
@@ -354,7 +357,7 @@ a garbled statement or report is very unclear and confusing SYN confused
 ![[100. media/image/3096.jpg|200]]
 
 ![[100. media/audio/4314.mp3]]The papers had some ~ed version of the story.  ![[100. media/audio/2904.mp3]]a ~ed phone message
-<!--SR:!2025-11-12,7,250-->
+<!--SR:!2025-11-29,17,250-->
 -
 
 
@@ -374,14 +377,14 @@ if someone is ~, they feel unhappy and do not talk a lot SYN gloomy, morose
 
 granted ![[100. media/audio/3353.mp3]] ![[100. media/audio/8070.mp3]] ![[100. media/audio/6249.mp3]]
 ?
-conceding a point, used when you admit that something is true SYN admittedly, concededly
+==conceding== a point, used when you admit that something is true SYN admittedly, concededly
 
 ![[100. media/audio/9053.mp3]]~, the music is not perfect, but the flaws are outweighed by the sheer joy of the piece.
 
 assuming a fact for the sake of argument
 ![[100. media/audio/1858.mp3]]~ that you've won the lottery, what would you do with the money?
 ![[100. media/audio/8629.mp3]]~ that the climate is changing, what steps should we take to adapt?
-<!--SR:!2025-11-13,9,250-->
+<!--SR:!2025-12-06,23,250-->
 -
 
 
@@ -501,7 +504,7 @@ SYN core, substance, crux, kernel
 
 ![[100. media/audio/6070.mp3]]The ~ of his argument is that full employment is impossible.  ![[100. media/audio/4503.mp3]]Don’t worry about all the details as long as you get the ~ (=understand the main meaning) of it.
 ![[100. media/audio/2898.mp3]]Although the novel was complex, the ~ of its story was about the resilience of human spirit in the face of adversity.
-<!--SR:!2025-11-13,1,230-->
+<!--SR:!2025-12-16,30,250-->
 -
 
 
@@ -527,7 +530,7 @@ garden variety ![[100. media/audio/4107.mp3]] ![[100. media/audio/10572.mp3]] ![
 especially American English very ordinary and not very interesting
 
 ![[100. media/audio/12168.mp3]]This is not one of your garden-~ cases of fraud.
-<!--SR:!2025-11-11,8,250-->
+<!--SR:!2025-12-09,28,270-->
 -
 
 
@@ -564,7 +567,7 @@ to keep complaining in an unhappy way SYN moan, complain
 ![[100. media/image/8274.png|200]]
 to make a low continuous sound SYN rumble  ![[100. media/audio/8231.mp3]]Thunder grumbled overhead.
 ![[100. media/audio/9788.mp3]]the usual grumbles about pay
-<!--SR:!2025-11-11,8,250-->
+<!--SR:!2025-12-09,28,270-->
 -
 
 
@@ -578,7 +581,7 @@ refer to engaging in a close fight or struggle without weapons; wrestling. It al
 ![[100. media/audio/205.mp3]]Two men ~ed with a guard at the door.
 ![[100. media/audio/8601.mp3]]The two wrestlers ~ed with each other, each trying to gain the upper hand.
 ![[100. media/audio/5838.mp3]]In his new role, he found himself ~ing with complex problems that required innovative solutions.
-<!--SR:!2025-11-11,8,250-->
+<!--SR:!2025-12-08,27,270-->
 -
 
 
@@ -604,7 +607,7 @@ gem ![[100. media/audio/3164.mp3]] ![[100. media/audio/10666.mp3]]
 something that is very special or beautiful
 ![[100. media/audio/7135.mp3]]Ben, you’re a real ~!
 ![[100. media/audio/10086.mp3]]Every single ad in the campaign has been a ~.
-<!--SR:!2025-11-11,8,250-->
+<!--SR:!2025-12-10,29,270-->
 -
 
 
@@ -658,7 +661,7 @@ if a person or animal ~, they make short low sounds in their throat
 ![[100. media/audio/8703.mp3]]He just ~ed and carried on reading his book.
 ![[100. media/audio/11209.mp3]]~ing with effort, she lifted me up.
 ![[100. media/audio/7492.mp3]]Chris gave a ~ and went back to sleep.
-<!--SR:!2025-11-13,10,270-->
+<!--SR:!2025-12-11,28,270-->
 -
 
 
@@ -715,7 +718,7 @@ Mr. Dursley couldn't bear people who dressed in funny clothes-the ~s you saw on 
 ![[100. media/audio/7129.mp3]]The band had a psychedelic ~.
 
 ![[100. media/audio/1699.mp3]]I couldn't recognize him in that cowboy ~.
-<!--SR:!2025-11-13,10,270-->
+<!--SR:!2025-12-10,27,270-->
 -
 
 
@@ -815,7 +818,7 @@ give rise to
 formal to be the reason why something happens, especially something bad or unpleasant → provoke
 
 ![[100. media/audio/265.mp3]]His speech gave ~ to a bitter argument.  ![[100. media/audio/12586.mp3]]The president’s absence has given ~ to speculation about his health.
-<!--SR:!2025-11-11,8,250-->
+<!--SR:!2025-12-01,20,250-->
 -
 
 
@@ -825,7 +828,7 @@ a feeling of dislike for someone because you cannot forget that they harmed yo
 ![[100. media/image/9339.jpg|200]]
 ![[100. media/audio/1696.mp3]]Is there anyone who might have had a ~ against her?
 ![[100. media/audio/9910.mp3]]==Mr Gillis was not normally a man to bear ~s.==  ![[100. media/audio/6632.mp3]]I’m not harbouring some secret ~ against you.  ![[100. media/audio/8322.mp3]]It could be the work of someone with a ~ against the company.  ![[100. media/audio/2745.mp3]]You let nasty little personal ~s creep in.
-<!--SR:!2025-11-12,9,250-->
+<!--SR:!2025-12-06,24,250-->
 -
 
 
@@ -908,7 +911,7 @@ very unpleasant or shocking, and involving someone being killed or badly i
 ![[100. media/image/12095.jpg|200]]
 
 ![[100. media/audio/724.mp3]]Police described it as a particularly ~ attack. ![[100. media/audio/1410.mp3]]Spare me the ~ details.
-<!--SR:!2025-11-11,8,250-->
+<!--SR:!2025-12-02,21,250-->
 -
 
 

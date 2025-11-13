@@ -14,7 +14,7 @@ updated: 2025-10-04 13:04:24
 ## frontend css framework
 ?
 * Bootstrap, Tailwind
-<!--SR:!2025-11-11,23,250-->
+<!--SR:!2026-01-08,58,250-->
 -
 
 ## REST API Generator

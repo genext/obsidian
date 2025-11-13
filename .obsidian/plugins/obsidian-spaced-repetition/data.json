@@ -8,7 +8,8 @@
       "#java",
       "#python",
       "#phrase",
-      "#quote"
+      "#quote",
+      "#claude"
     ],
     "convertFoldersToDecks": false,
     "burySiblingCards": false,

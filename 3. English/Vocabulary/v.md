@@ -12,7 +12,7 @@ She repeated his words verbatim
 
 Can you give me the verbatim feedback from the client?
 ![[100. media/audio/nfLhKVuG.mp3]]![[100. media/audio/DcptwwVw.mp3]]
-<!--SR:!2025-11-11,10,270-->
+<!--SR:!2025-12-19,38,290-->
 -
 
 #Vocabulary

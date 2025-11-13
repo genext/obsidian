@@ -17,7 +17,7 @@ As they stood in silence, the distant knell echoed, marking the loss of a great 
 
 The new policy sounded the knell for the old way of managing the system.
 ![[100. media/audio/5gXWBlB9.mp3]]![[100. media/audio/igMqjIC0.mp3]]
-<!--SR:!2025-11-12,11,270-->
+<!--SR:!2025-12-24,42,290-->
 -
 kaleidoscope ![[100. media/audio/1655.mp3]] ![[100. media/audio/9645.mp3]] ![[100. media/audio/2748.mp3]] ![[100. media/audio/11479.mp3]]
 ?

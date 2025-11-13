@@ -6,6 +6,7 @@
       {
         "id": "8db99f8ad89ee3c0",
         "type": "tabs",
+        "dimension": 43.17697228144989,
         "children": [
           {
             "id": "71d3c3a34aef2240",
@@ -24,37 +25,60 @@
             }
           },
           {
-            "id": "c35ceb205b23ba45",
+            "id": "ae0b6a128ef02f7a",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. 일일 기록/2025-11-10.md",
+                "file": "1. 일일 기록/2025-11-13.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "2025-11-10"
+              "title": "2025-11-13"
             }
           },
           {
-            "id": "5f14c6838e5cfafd",
+            "id": "d4828864319fc370",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. English/Vocabulary/r.md",
+                "file": "3. English/Quote.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "r"
+              "title": "Quote"
             }
           }
         ],
         "currentTab": 2
+      },
+      {
+        "id": "2cd3f64e698dc965",
+        "type": "tabs",
+        "dimension": 56.82302771855011,
+        "children": [
+          {
+            "id": "a4138350d1a8e84f",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. IT/Claude code.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Claude code"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -86,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Having",
+                "query": "wild card 기반",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -229,45 +253,46 @@
       "zk-prefixer:새 고유 노트 생성": false
     }
   },
-  "active": "5f14c6838e5cfafd",
+  "active": "a4138350d1a8e84f",
   "lastOpenFiles": [
-    "3. English/Vocabulary/w.md",
-    "3. English/Vocabulary/x.md",
-    "3. English/Vocabulary/y.md",
-    "3. English/Vocabulary/z.md",
-    "3. English/Vocabulary/r.md",
-    "3. English/Vocabulary/q.md",
-    "1. 일일 기록/2025-11-10.md",
-    "3. English/Vocabulary/t.md",
-    "3. English/Vocabulary/p.md",
-    "3. English/Vocabulary/s.md",
-    "100. media/image/8998.jpeg",
-    "100. media/image/8931.jpeg",
-    "100. media/image/8295.jpeg",
-    "100. media/image/5999.jpeg",
-    "100. media/image/5931.jpeg",
-    "100. media/image/5371.jpeg",
-    "100. media/image/10739.jpeg",
-    "3. English/Vocabulary/o.md",
-    "3. English/Vocabulary/n.md",
-    "1. 일일 기록/2025-11-09.md",
-    "7. 필리핀/필리핀.md",
-    "일깨우기.md",
-    "3. English/Vocabulary/h.md",
-    "2.md",
-    "3. English/Vocabulary/l.md",
-    "4. IT/Language/java/Spring boot.md",
-    "6. 프로젝트 기록/우리은행 CBDC.md",
+    "3. English/Quote.md",
+    "3. English/Phrase-idiom.md",
+    "1. 일일 기록/2025-11-13.md",
+    "4. IT/Language/java/generic.md",
     "4. IT/Language/java/java.md",
-    "1. 일일 기록/2025-10-30.md",
-    "1. 일일 기록/September 8th, 2025.md",
-    "1. 일일 기록/September 3rd, 2024.md",
-    "4. IT/Ubuntu.md",
-    "4. IT/git/101. Introduction/Force Push Syntax.md",
+    "51. Template/일일 기록 형식.md",
+    "51. Template/일반 노트.md",
+    "51. Template/일기.md",
+    "3. English/Vocabulary/p.md",
+    "3. English/Vocabulary/i.md",
+    "3. English/Vocabulary/d.md",
+    "3. English/Vocabulary/r.md",
+    "3. English/Vocabulary/g.md",
+    "2. Not completed/flamboyant.md",
+    "100. media/Pasted image 20251113091437.png",
+    "8. 점검 목록(checklist)/점검목록(checklist).md",
+    "100. media/image/7447.jpeg",
+    "100. media/image/9841.jpeg",
+    "100. media/image/11695.jpeg",
+    "100. media/image/5454.jpeg",
+    "100. media/image/1972.jpeg",
+    "8. 점검 목록(checklist)/개발 점검 목록.md",
+    "4. IT/Claude code.md",
+    "UPS 관현이.md",
+    "8. 점검 목록(checklist)/프로젝트 수행 점검 목록.md",
+    "1. 일일 기록/2025-11-12.md",
+    "3. English/Vocabulary/o.md",
+    "9. Prompts/instruction_claude.md",
+    "뭣이 중헌디.md",
+    "1. 일일 기록/August 14th, 2025.md",
+    "1. 일일 기록/August 1st, 2024.md",
+    "1. 일일 기록/2025-11-11.md",
+    "100. media/Pasted image 20251111101157.png",
+    "100. media/Pasted image 20251111101128.png",
+    "100. media/Pasted image 20251111101059.png",
+    "100. media/Pasted image 20251111094650.png",
+    "100. media/speech_20251110214635893.mp3",
     "6. 프로젝트 기록/무제",
-    "100. media/image/1071.jpeg",
-    "100. media/Pasted image 20251105105714.png",
-    "100. media/Pasted image 20251105104845.png",
     "100. media/speech_20251103005605120.mp3",
     "100. media/speech_20251102232933009.mp3",
     "3. English/Vocabulary/k.md.backup.20251101_192536",
@@ -275,7 +300,6 @@
     "normalize_errors_20251101_191937.log",
     "3. English/Vocabulary/e.md.backup.20251031_120348",
     "3. English/Vocabulary/b.md.backup.20251031_120348",
-    "3. English/Vocabulary/f.md.backup.20251031_120348",
-    "normalize_errors_20251031_120244.log"
+    "3. English/Vocabulary/f.md.backup.20251031_120348"
   ]
 }

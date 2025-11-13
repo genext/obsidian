@@ -110,7 +110,7 @@ the desire to harm someone because you hate them
 1 the desire to harm someone because you hate them
 ![[100. media/audio/6734.mp3]]His eyes gleamed with ~.
 ![[100. media/audio/2038.mp3]]She did it out of sheer ~. ****![[100. media/audio/3741.mp3]]James bore her no ~ (=did not feel any ~ towards her).
-<!--SR:!2025-11-11,1,230-->
+<!--SR:!2025-11-14,3,250-->
 -
 
 
@@ -852,7 +852,7 @@ was staring ~ly out of a window,
 
 ![[100. media/audio/10866.mp3]]Daniel seems very ~ and gloomy.
 ![[100. media/audio/992.mp3]]He stared ~ly at the floor.
-<!--SR:!2025-11-12,3,250-->
+<!--SR:!2025-11-22,10,270-->
 -
 
 

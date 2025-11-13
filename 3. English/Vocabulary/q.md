@@ -15,7 +15,7 @@ to be afraid and show it by shaking a little bit or moving back slightly SYN�
 ![[100. media/audio/7013.mp3]]She ~ed visibly at the sight of the prison walls.
 ![[100. media/audio/10570.mp3]]The explorers did not ~ in the face of danger.
 ![[100. media/audio/7243.mp3]]She ~ed at the thought of speaking in front of such a large audience.
-<!--SR:!2025-11-11,1,230-->
+<!--SR:!2025-11-14,2,210-->
 -
 
 

@@ -5,7 +5,7 @@ that or those (used to refer to something situated at a distance)
 over there; in that direction.
 
 hither and ~(thither)
-<!--SR:!2025-11-11,1,230-->
+<!--SR:!2025-11-14,3,250-->
 -
 
 you are in luck

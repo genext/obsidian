@@ -45,7 +45,7 @@ lackey ![[100. media/audio/1096.mp3]] ![[100. media/audio/2901.mp3]]
 ?
 ![[100. media/image/7822.png|200]]
 ![[100. media/audio/11620.mp3]]someone who always does what a particular person tells them to do – used to show disapproval
-<!--SR:!2025-11-11,1,210-->
+<!--SR:!2025-11-14,3,230-->
 -
 
 
@@ -62,7 +62,7 @@ to not have something that you need, or not have enough of it  ![[100. media/aud
 
 not ~ for something
 formal to have a lot of something  ![[100. media/audio/4519.mp3]]He does not ~ for critics.
-<!--SR:!2025-11-11,1,230-->
+<!--SR:!2025-11-14,3,250-->
 -
 
 
@@ -102,7 +102,7 @@ to express annoyance or disappointment about something you think is unsatisfa
 
 ![[100. media/audio/117.mp3]]A lone piper played a ~.
 ![[100. media/audio/12328.mp3]]a ~ for the dead
-<!--SR:!2025-11-11,1,230-->
+<!--SR:!2025-11-14,3,250-->
 -
 
 
@@ -267,7 +267,7 @@ laudable ![[100. media/audio/11030.mp3]] ![[100. media/audio/4305.mp3]] ![[100. 
 ![[100. media/image/2172.jpg|200]]
 
 deserving praise, even if not completely successful SYN praiseworthy![[100. media/audio/1095.mp3]]a ~ attempt
-<!--SR:!2025-11-11,1,230-->
+<!--SR:!2025-11-14,2,210-->
 -
 
 
@@ -783,7 +783,7 @@ if a problem or difficulty ~s, it is likely to happen very soon  ![[100. media/
 
 ![[100. media/audio/4849.mp3]]~ large: to seem important, worrying, and difficult to avoid
 ![[100. media/audio/1943.mp3]]Fear of failure ~ed large in his mind.
-<!--SR:!2025-11-12,2,230-->
+<!--SR:!2025-11-17,5,230-->
 -
 
 
@@ -818,7 +818,7 @@ small, useless, or unimportant
 lovelorn ![[100. media/audio/10050.mp3]] ![[100. media/audio/1109.mp3]]
 ?
 sad because the person you love does not love you SYN lovesick
-<!--SR:!2025-11-11,1,230-->
+<!--SR:!2025-11-14,2,210-->
 -
 
 

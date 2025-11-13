@@ -3,6 +3,30 @@ title: "java"
 created: 2024-02-27 14:55:21
 updated: 2025-10-04 13:06:43
 ---
+## Beans
+### 1. JavaBeans(The Original Concept)
+JavaBeans are plain Java classes that follow specific conventions:
+
+- Have a no-argument constructor
+- Have private fields with public getter/setter methods
+- Implement Serializable (optional but common)
+![[Pasted image 20251111101059.png]]
+### 2. Spring Beans
+it's **any object managed by the Spring IoC container**.
+Spring Beans can be:
+- Services, repositories, controllers
+- Configuration objects
+- Any object you want Spring to manage
+![[Pasted image 20251111101128.png]]
+### 3. EJB
+In enterprise Java (less common now), EJBs are server-side components for building distributed, transactional applications. These are heavyweight compared to Spring Beans.
+![[Pasted image 20251111101157.png]]
+### 4. Key Difference
+
+The confusion comes because:
+- **JavaBean** = a coding convention (getters/setters pattern)
+- **Spring Bean** = any object managed by Spring container (lifecycle, dependency injection)
+- **EJB** = enterprise components with specific server requirements
 ## interview questions [source](https://www.geeksforgeeks.org/core-java-interview-questions-for-freshers/?ref=shm)
 ### 1. instance variable/[[static#1. class variable|class variable]]
 - ```java

@@ -17,15 +17,15 @@ updated: 2025-10-04 18:14:55
 
 claude code는 사용자와 LLM 사이에 있다.
 
-- LLM은 기본적으로 일을 직접 읽고 쓸 수 있는 능력이 없다. 단지 글로 된 내용을 읽고 글로 답할 뿐.
+- LLM은 기본적으로 직접 읽고 쓸 수 있는 능력이 없다. 단지 글로 된 내용을 읽고 글로 답할 뿐.
 - 에러 메시지 주면서 디버그하라는 사용자 요구를 받으면 claude code는 LLM에게 요청을 보내지만, 동시에 자신에게 있는 **도구**를 알려주면서 "어떤 일(읽기)을 하려면 이런 도구를 쓴다고 알려줌".
 - claude code와 LLM 사이 대화는 아주 정형되된 전문(system prompt + instructions + user prompt)들로 구성되었음.
-- 사용자가 요청한 일을 처리하기 위해 LLM은 무엇을 해야 할지 파악한 후, 맥락을 파악하기 위해, 소스 코드를 읽기 위해 도구 사용 요청(read a file)을 claude code에게 하면 그 때서야 claude code가 내부 도구를 써서 파일 내용을 읽어서 보내줌.
+- 사용자가 요청한 일을 처리하기 위해 LLM은 무엇을 해야 할지 파악한 후, 맥락을 파악하고 소스 코드를 읽기 위해 도구 사용 요청(read a file)을 claude code에게 하면 그제서야 claude code가 내부 도구를 써서 파일 내용을 읽어서 보내줌.
 - LLM에게 전체 코드를 보내주는 것 아님.
 
 결국 claude code는 다른 시각에서 보면 LLM 능력을 확장할 수 있는 도구 집합이고 계속 새로운 도구(MCP 등)를 추가함으로써 능력을 확장할 수 있다.
 
-### Claude code in action
+### Claude code in action - React Component Generator
 
 실제 사용사례:
 
@@ -71,8 +71,8 @@ claude code는 사용자와 LLM 사이에 있다.
 
 - 화면을 담아서 UI를 바꾸는 방법.
 - 복잡한 일을 시킬 때는,
-  - claude code가 계획을 짜서 일하도록 하고 싶을 때 ^IbXxv-pK0
-    - **"plan mode"**로 바꿔서 할 수 있다. shift+tab 두 번 누른다. --> wide understanding + 여러 단계가 있을 때 ^1Fgnjo4nj
+  - claude code가 계획을 짜서 일하도록 하고 싶을 때
+    - =="plan mode"==로 바꿔서 할 수 있다. shift+tab 두 번 누른다. --> wide understanding + 여러 단계가 있을 때
     - 또는 "/model"을 쳐서 나오는 여러 모델 중 "plan mode"가 있는 것을 선택해도 된다.
   - 또는 문장에 **"think [more, hard, a lot, longer]" 또는 "ultrahink"**를 넣으면 된다. 오른쪽으로 갈수록 더 많은 생각을 요구한다.--> 보다 어려운 로직이나 고치기 어려운 버그가 있을 때
 
@@ -97,7 +97,7 @@ claude code는 사용자와 LLM 사이에 있다.
   - write_tests.md 안에 $ARGUMENTS를 추가.
   - "/write_test use-auth.ts file in the hooks dir" 실행하면 그 파일에 대해서 테스트 실행.
 ### MCP Servers with Claude Code
-- Playwright를 설치하고 "navigate to localhost:3000" 실행하니 진짜로 알아서 브라우저 띄우네.
+- Playwright를 설치하고 "navigate to localhost:3000" 실행하니 진짜로 알아서 브라우저 띄움.
   - mcp 설치할 때 그냥 config 파일에 다음 줄을 추가하기만 해도 된다. 그런데 어떤 파일? -> .mcp.json
 ```plain
   "mcpServers": {
@@ -129,7 +129,7 @@ claude code는 사용자와 LLM 사이에 있다.
 - "claude mcp list"를 하면 설치한 mcp가 나오는데 playwright는 uigen 디렉토리에만 나타나네.
 ### Github integration
 - 슬래시 명령어 중 "/install-github-app" 실행하면 github CLI 설치하라고 나옴.
-  - 인증에서 에러가 나서 일단 gh 설치. -> 결국 gh가 설치되어야 전 과정이 제대로 된다.
+  - 인증에서 에러가 나서 일단 gh(Github CLI) 설치. -> 결국 gh가 설치되어야 전 과정이 제대로 된다.
   - github.com/apps에 여러 도구가 있고 그 중 github.com/apps/claude도 설치
   - api-key 등록: claude code workspace에서 새 API 키 생성이 되지 않지만 default에서 생성한 키로 진행함.
   - 이후 첫 github pull request가 만들어짐.
@@ -162,7 +162,7 @@ claude code는 사용자와 LLM 사이에 있다.
 ### 11:23 Claude code SDK -> 굳이 프로그래밍하면서 구현할 것이 무엇일지 잘 모르겠다.
 - Claude code를 프로그래밍할 수 있다. 
 - sdk.ts를 실행하려면 typescript comiler도. "npx ts sdk.ts" -> claude code와 LLM이 주고 받는 내용을 볼 수 있다. 
-## [Super claude](https://github.com/SuperClaude-Org/SuperClaude_Framework) 설치해서 Claude code 기능 확장 ^Thb89p-Ng
+## [Super claude](https://github.com/SuperClaude-Org/SuperClaude_Framework) 설치해서 Claude code 기능 확장
 claude code를 위한 프레임웍
 그냥 설치하려고 uv를 쓰면 에러 발생. uv는 pyproject.toml을 검색한다. 즉, 파이썬 프로젝트 환경에서만 uv가 통한다.
 ### 설치 과정

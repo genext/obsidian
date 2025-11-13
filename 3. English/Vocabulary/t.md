@@ -31,7 +31,7 @@ one of three children born at the same time to the same mother
 
 ~s: 세 쌍둥이
 세 개 한 벌
-<!--SR:!2025-11-13,12,270-->
+<!--SR:!2025-12-15,32,270-->
 -
 
 #Vocabulary

@@ -1,0 +1,1 @@
+You can experience your proprioception fail temporarily if you’ve ever attempted to walk after one of your legs has gone to sleep.

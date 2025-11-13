@@ -6,7 +6,7 @@ expressing an opinion, idea etc in a clear, strong way to show its importance
 an emphatic denial![[100. media/audio/zSEPb4Cv.mp3]]
 
 win an emphatic victory![[100. media/audio/Rgs35ZpS.mp3]]
-<!--SR:!2025-11-12,19,250-->
+<!--SR:!2025-11-22,10,230-->
 -
 
 efficacy ![[100. media/audio/2gPHQ8cexL.mp3]] ![[100. media/audio/aiQpS85ME8.mp3]]
@@ -89,23 +89,23 @@ Commander Lewis and the surviving crew, via long-range communication from Hermes
 -
 enamo\[u\]red ![[100. media/audio/12612.mp3]]
 ?
-\[not before noun\] liking something very much  
+\[not before noun\] liking something very much
 
-**Meaning**:  
+**Meaning**:
 The word "~" is a verb that means to be filled with a feeling of love or deep affection for someone or something. It implies a sense of captivation or strong attraction.
 
-SYN captivated, 
+SYN captivated,
 
-![[100. media/image/12073.png|200]]  
-![[100. media/audio/10965.mp3]]You don’t seem very ~ed with your job.  
-The new video game has enamored kids all over the world. ![[speech_20251031011743393.mp3]] 
-formal in love with someone  
+![[100. media/image/12073.png|200]]
+![[100. media/audio/10965.mp3]]You don’t seem very ~ed with your job.
+The new video game has enamored kids all over the world. ![[speech_20251031011743393.mp3]]
+formal in love with someone
 
 He was greatly ~ed of Elizabeth.  ![[speech_20251031011857129.mp3]]
-  
-**Etymology**:  
+
+**Etymology**:
 The word "~" comes from the Middle English word "enamouren," which itself is derived from the Old French "enamourer," meaning 'to fall in love.' The root words are "en-" (in) + "amour" (love).
-<!--SR:!2025-11-11,1,230-->
+<!--SR:!2025-11-20,7,250-->
 -
 earnest ![[100. media/audio/6548.mp3]] ![[100. media/audio/2555.mp3]] ![[100. media/audio/11068.mp3]] ![[100. media/audio/6902.mp3]]
 ?

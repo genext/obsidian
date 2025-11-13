@@ -25,7 +25,7 @@ sentry![[100. media/audio/IXK7vvez.mp3]]
 ![[100. media/image/1gv0Gj3s.png|200]]
 
 The palace sentry stood at attention, rifle in hand, guarding the main entrance.![[100. media/audio/gBIw2Y5p.mp3]]
-<!--SR:!2025-11-12,19,250-->
+<!--SR:!2025-11-22,10,230-->
 -
 
 systematic ![[100. media/audio/Xen2jwrJEc.mp3]] ![[100. media/audio/kQ5kA9sbjm.mp3]]

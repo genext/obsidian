@@ -82,7 +82,7 @@ The team faced the ~ David and Goliath scenario in the championship game. ![[spe
 prostate ![[4F713B87044919016F.mp3]] ![[4F71153F0269DA00BC.mp3]]
 ?
 전립선, 전립선의
-<!--SR:!2025-12-06,26,279-->
+
 
 -pageantry ![[100. media/audio/3045.mp3]] ![[100. media/audio/9942.mp3]] ![[100. media/audio/5640.mp3]] ![[100. media/audio/5818.mp3]]
 ?
@@ -92,7 +92,7 @@ impressive ceremonies or events, involving many people wearing special clothes
 ![[100. media/audio/11809.mp3]]the ~ of a military ceremony
 ![[100. media/audio/1671.mp3]]The royal wedding was full of ~, with a grand procession and lavish decorations.
 ![[100. media/audio/6009.mp3]]The annual festival in the city is a display of local ~, attracting tourists from all over the world.
-<!--SR:!2025-11-11,1,230-->
+<!--SR:!2025-12-06,26,279-->
 -
 
 
@@ -357,7 +357,7 @@ to defend yourself against someone who is attacking you by pushing their weap
 
 ![[100. media/audio/2138.mp3]]It is far easier to ~ a direct blow than to stop it forcibly.
 ![[100. media/audio/11220.mp3]]He ~ied all her questions about his work.
-<!--SR:!2025-11-12,1,230-->
+<!--SR:!2025-11-15,3,250-->
 -
 
 
@@ -487,7 +487,7 @@ a social system within a group of people or animals in which each member knows 
 ![[100. media/audio/9978.mp3]]Nobody wants to be at the bottom of the ~ order.
 ![[100. media/audio/6909.mp3]]Despite being a new member, he quickly climbed the ~ order in the organization due to his exceptional skills.
 ![[100. media/audio/3448.mp3]]The documentary illustrated the ~ order among the lion pride, showing how each member had a specific role and rank.
-<!--SR:!2025-11-12,1,230-->
+<!--SR:!2025-11-14,2,230-->
 -
 
 
@@ -671,7 +671,7 @@ formal not as important as other things or people in a particular activity, id
 
 formal in the outer area of something, or relating to this area
 ![[100. media/audio/1151.mp3]]the city’s ~ suburbs  ![[100. media/audio/10517.mp3]]the ~ nervous system
-<!--SR:!2025-11-12,1,230-->
+<!--SR:!2025-11-15,3,250-->
 -
 
 
@@ -711,7 +711,7 @@ not leaning to one side or the other but exactly vertical → vertical, horizo
 
 ![[100. media/audio/6173.mp3]]a ~ line  ![[100. media/audio/1158.mp3]]a ~ wall of rock
 ![[100. media/audio/1220.mp3]]a road ~ to the highway
-<!--SR:!2025-11-11,1,230-->
+<!--SR:!2026-06-24,225,250-->
 -
 
 
@@ -1326,7 +1326,7 @@ a high sloping surface for putting an open book or notes on while you are givi
 ![[100. media/audio/7635.mp3]]Several speakers took the podium (=spoke from it) that night.
 ![[100. media/image/7195.jpg|200]]
 to come first, second or third in a race or competition
-<!--SR:!2025-11-11,1,230-->
+<!--SR:!2025-11-14,3,250-->
 -
 
 
@@ -1636,7 +1636,7 @@ formal something that happened or existed before something else and influenc
 ![[100. media/image/4941.jpg|200]]
 
 ![[100. media/audio/966.mp3]]a ~ of modern jazz
-<!--SR:!2025-11-12,1,230-->
+<!--SR:!2025-11-15,3,250-->
 -
 
 
@@ -2168,17 +2168,20 @@ written language in its usual form, as opposed to poetry
 -
 
 
-pr**o**selytize ![[100. media/audio/5544.mp3]] ![[100. media/audio/5919.mp3]] ![[100. media/audio/12815.mp3]] ![[100. media/audio/4055.mp3]]
+proselytize ![[100. media/audio/5544.mp3]] ![[100. media/audio/5919.mp3]] ![[100. media/audio/12815.mp3]] ![[100. media/audio/4055.mp3]]
 ?
 ![[100. media/image/7929.jpg|200]]
-formal to try to persuade someone to join a religious group, political party etc – used especially when you disapprove of this
+formal to try to persuade someone to ==join a religious group, political party=## 오늘 일 중 꼭 기억할 것은?
+
+## 내가 한 일 중 중요하고도 잘 했던 일은?
+= etc – used especially when you disapprove of this
 
 SYN evangelize, propagate, convert
 
 ![[100. media/audio/735.mp3]]The activists tried to ~ students on the importance of climate change.
 ![[100. media/audio/7470.mp3]]Some religious groups are known to ~ aggressively.
 ![[100. media/audio/7938.mp3]]She took every opportunity to ~ her political views.
-<!--SR:!2025-11-13,1,230-->
+<!--SR:!2025-11-16,3,250-->
 -
 
 
@@ -2228,7 +2231,7 @@ pr**o**tege ![[100. media/audio/3946.mp3]] ![[100. media/audio/10140.mp3]] ![[10
 (female) ~e
 
 ![[100. media/audio/12063.mp3]]She attempted to encourage her young ~.
-<!--SR:!2025-11-12,1,230-->
+<!--SR:!2025-11-15,3,250-->
 -
 
 

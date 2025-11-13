@@ -60,7 +60,7 @@ save for ~
 The break room was empty save for a computer technician sipping a cup of coffee.
 ![[100. media/audio/KV1MGiXN.mp3]]
 ![[100. media/audio/1dmOb0e5.mp3]]
-<!--SR:!2025-11-12,12,230-->
+<!--SR:!2025-12-11,29,230-->
 -
 
 someone's point of view
@@ -104,7 +104,7 @@ This content is an epsilon away from watching the Bachelorette"
 ![[100. media/audio/5pyMawPv.mp3]]
 This is infinitesimally close to watching Bachelorette.
 This might as well be the Bachelorette.
-<!--SR:!2025-11-12,19,250-->
+<!--SR:!2025-12-31,49,250-->
 -
 
 Each major feature is detailed in its own dedicated section.
@@ -121,7 +121,7 @@ I'm just mindlessly scrolling ![[100. media/audio/gk56BAzYVC.mp3]]
 idling while looking at my phone ![[100. media/audio/TdAdl0REsz.mp3]]
 sit around and stare at their phone all day ![[100. media/audio/FuFtF9Fn2l.mp3]]
 coin: doom scrolling
-<!--SR:!2025-11-11,11,230-->
+<!--SR:!2025-12-06,25,230-->
 -
 
 take a bashing
@@ -129,7 +129,7 @@ take a bashing
 크게 당하다, 혹평 받다.
  The fairy tale of the quest to find our One True Love has taken a bashing of late, and not before time.
 ![[100. media/audio/HpkHZ3sVr_.mp3]] ![[100. media/audio/1tLeEJlC-Z.mp3]]
-<!--SR:!2025-11-12,3,190-->
+<!--SR:!2025-11-18,6,190-->
 -
 brush up
 ?
@@ -205,7 +205,7 @@ make an ass of oneself 어리석은 짓을 하다.
 <!--SR:!2025-11-22,17,230-->
 -
 
-not(never) so much ~ as + verb
+not(never) so much as + verb
 ?
 used to emphasize that someone did not do something, especially when this seems surprising
 ![[100. media/audio/LrPN3dnQUo.mp3]]
@@ -218,7 +218,7 @@ I waited all day for a call, but he didn't so much as send a text. ![[100. media
 She finished the entire marathon without so much as breaking a sweat. ![[100. media/audio/gtEVZDI8m2.mp3]]
 He left the meeting without so much as a goodbye, clearly upset by the decision. ![[100. media/audio/jXnNEQpM_A.mp3]]
 The student finished the test not so much as making a single error. ![[100. media/audio/bQNimL-393.mp3]]
-<!--SR:!2025-11-11,18,250-->
+<!--SR:!2025-11-19,8,230-->
 -
 not so much ~ as + adjective, noun
 ?
@@ -256,7 +256,7 @@ He typed what amounted to a suicide note.
 
 He typed what was counted as a suicide note. -> considered로 바꾸는 것이 자연스럽다.
 ![[speech_20251018230523778.mp3]]
-<!--SR:!2025-11-12,9,230-->
+<!--SR:!2025-12-03,21,230-->
 -
 
 if only

@@ -19,18 +19,7 @@ deeper, more complete, forceful than dip
   to criticize or embarrass someone
   React is a great framework, and I’m not here to dunk on it. ![[100. media/audio/s8ho-sxaTi.mp3]] ![[100. media/audio/drHs3TssQA.mp3]]
   to push someone under water for a short time as a joke **SYN** duck
-<!--SR:!2025-11-11,18,250-->
--
-
-dem**e**ter ![[100. media/audio/2389.mp3]] ![[100. media/audio/11912.mp3]]
-?
-![[100. media/image/7410.jpg|200]]
-In ancient Greek religion and mythology, _D~_ is the Olympian goddess of the harvest and agriculture, presiding over crops, grains, food, and the fertility of the earth.
-
-![[100. media/audio/1656.mp3]]In ancient Greece, D~ was revered as the goddess of the harvest.
-![[100. media/audio/4945.mp3]]Following the Law of ~ makes your code more modular and easier to understand.
-![[100. media/audio/7909.mp3]]The violation of the Law of ~ often leads to tightly coupled code.
-<!--SR:!2025-11-13,17,300-->
+<!--SR:!2025-12-25,44,250-->
 -
 
 dialectic ![[4F714BD702428E0165.mp3]] ![[4F7125870433720124.mp3]]
@@ -441,7 +430,7 @@ delve ![[100. media/audio/3724.mp3]] ![[100. media/audio/8103.mp3]] ![[100. medi
 -
 
 
-dem**e**ter ![[100. media/audio/6582.mp3]] ![[100. media/audio/7148.mp3]]
+demeter ![[100. media/audio/6582.mp3]] ![[100. media/audio/7148.mp3]]
 ?
 ![[100. media/image/10387.jpg|200]]
 In ancient Greek religion and mythology, _D~_ is the Olympian goddess of the harvest and agriculture, presiding over crops, grains, food, and the fertility of the earth.

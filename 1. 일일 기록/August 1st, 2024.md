@@ -205,15 +205,17 @@ END```
     * 모르겠다. TB_CSTMR_RCRIT에 바우처 ID를 넣자.
   * 17:23 yarn install할 때 repository 연결 에러가 나면 yarn.lock을 지워야 한다. 중요!!!!
     * 빌드도 되고 실행도 되었지만 로그인에서 에러 발생.
-      * ```plain text
-[HPM] Error occurred while proxying request localhost:3001/common/config/readConfig to http://10.200.66.28:8080/ [ETIMEDOUT] (https://nodejs.org/api/errors.html#errors_common_system_errors)```
+```plain text
+[HPM] Error occurred while proxying request localhost:3001/common/config/readConfig to http://10.200.66.28:8080/ [ETIMEDOUT] (https://nodejs.org/api/errors.html#errors_common_system_errors)
+```
       * [x] env 파일에 REACT_APP_PROXY_HOST를 우분투 서버 포트로 변경. 아래 파일 용도 파악 필요.
-        * ```plain text
+```plain text
 REACT_APP_API_URL='/'
 REACT_APP_PROXY_HOST='http://000.000.000.000:8085/'
 PUBLIC_URL='/'
 REACT_APP_DEV_TYPE='dev'
-GENERATE_SOURCEMAP=false```
+GENERATE_SOURCEMAP=false
+```
       * 이후 로그인 할 때 OPT 번호를 또 입력해야 한다.
         * Google Authenticator에 내 OPT KEY를 등록.
           * chrome 확장 프로그램 google authenticator를 브라우저에 추가

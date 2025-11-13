@@ -354,7 +354,7 @@ SYN mano a mano, face-to-face, exclusive
 ![[100. media/audio/12618.mp3]]Virtually all instruction is in small groups or ~-on-~.
 ![[100. media/audio/3169.mp3]]The tutor offers ~ sessions to help with math.
 ![[100. media/audio/9858.mp3]]Often, the employer just called in the drivers and bargained with them directly, ~-on-~.
-<!--SR:!2025-11-12,1,230-->
+<!--SR:!2025-11-15,3,250-->
 -
 
 
@@ -511,7 +511,7 @@ to decide not to be part of a group or system
 
 when a school or hospital in Britain chooses to control its own money, instead of being controlled by local government
 ![[100. media/audio/7620.mp3]]an ~-out school
-<!--SR:!2025-11-12,1,230-->
+<!--SR:!2025-11-14,2,230-->
 -
 
 

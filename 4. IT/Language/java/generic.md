@@ -85,7 +85,7 @@ class Apple implements Eatable {
 ```java
 class Box<T extends Number & Eatable> {...}
 ```
-<!--SR:!2025-11-12,2,170-->
+<!--SR:!2025-11-15,3,170-->
 -
 
 ## generic 메소드 정의
@@ -125,18 +125,18 @@ class SteelBox<T> extends Box<T> {...}
 ```
 - 생각할 것
 	- 상속 관계 덕분에 Box\<T> 타입 참조변수에  SteelBox\<T> 인스턴스 저장 가능.
-<!--SR:!2025-11-13,6,210-->
+<!--SR:!2025-11-26,13,210-->
 -
 
 ## wild card 기반 메소드 정의
 ?
 서로 동일하지만 wildcard 사용하는 것이 간결.
 ```java
-public static <T> void peekBox(<Box<T> box) {...}
+public static <T> void peekBox(Box<T> box) {...}
 
-public static void peekBox(<Box<?> box) {...}
+public static void peekBox(Box<?> box) {...}
 ```
-<!--SR:!2025-11-13,6,210-->
+<!--SR:!2025-11-26,13,210-->
 -
 
 ## 상한 제한(Upper-Bounded) wildcard
@@ -230,7 +230,7 @@ public static <T> void outBox(Box<? extends T> box) {...}
 하지만, 다음은 overloading 인정. 2번째 인자 타입 때문.
 ```java
 public static void inBox(Box<? super Toy> box, Toy n) {...}
-public static void inBox(Box<? super Robot> box, robot n) {...}
+public static void inBox(Box<? super Robot> box, Robot n) {...}
 ```
 
 inBox만 오버로딩된다고 해결되는 것이 아니기 때문에 다음과 같이 Box\<Toy> 인스턴스와 Box\<Robot> 인스턴스가 동시에 허용되는 정의를 사용.
@@ -238,7 +238,7 @@ inBox만 오버로딩된다고 해결되는 것이 아니기 때문에 다음과
 public static <T> void outBox(Box<? extends T> box) {...}
 public static <T> void inBox(Box<? super T> box, T n) {...}
 ```
-<!--SR:!2025-11-13,6,210-->
+<!--SR:!2025-11-27,14,210-->
 -
 
 ## generic 인터페이스
@@ -256,7 +256,7 @@ class Box<T> implements Getable<T> {
 	}
 }
 ```
-<!--SR:!2025-11-11,4,190-->
+<!--SR:!2025-11-18,7,190-->
 -
 
 #java

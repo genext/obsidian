@@ -40,7 +40,7 @@ Cf. clatter
 
 if your nerves ~, or if something ~s your nerves, you feel nervous or upset
 ![[100. media/audio/6928.mp3]]The harsh sound ~ed his nerves.
-<!--SR:!2025-11-12,7,250-->
+<!--SR:!2025-11-30,18,250-->
 -
 
 
@@ -67,7 +67,7 @@ plural
 ![[100. media/image/9262.jpg|200]]
 
 ![[100. media/audio/3668.mp3]]The ~s are worst in the capital, where 61% of people are fearful of a terrorist attack.
-<!--SR:!2025-11-13,8,250-->
+<!--SR:!2025-12-03,20,250-->
 -
 
 

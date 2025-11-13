@@ -1,7 +1,7 @@
 #Vocabulary
 zero in
 ?
-to direct all your attention towards a particular person or thing SYN home in on
+to ==direct all your attention towards== a particular person or thing SYN home in on
 ![[100. media/image/10348.jpg|200]]
 **Synonyms:** Focus, concentrate, aim, target, pinpoint, focus attention on.
 
@@ -9,10 +9,10 @@ Meaning: In the context of adjusting the aim of a firearm or other device, to ca
 ![[100. media/audio/7383.mp3]]Before taking the shot, the sniper ~ed in his rifle scope.
 ![[100. media/audio/2396.mp3]]The photographer ~ed in the lens to capture a clear image of the distant bird.
 
-![[100. media/audio/1061.mp3]]She immediately ~ed in ++**on**++ the weak point in his argument.
+![[100. media/audio/1061.mp3]]She immediately ==zeroed in on== the weak point in his argument.
 
 to aim a gun or other weapon towards something or someone
-<!--SR:!2025-11-11,1,230-->
+<!--SR:!2025-11-20,7,250-->
 -
 
 zest ![[100. media/audio/10410.mp3]] ![[100. media/audio/3734.mp3]]
